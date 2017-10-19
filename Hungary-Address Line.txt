@@ -1,0 +1,8432 @@
+﻿500. u. 1
+501. u. 1
+503. u. 1
+504. u. 1
+506. u. 1
+507. u. 1
+508. u. 1
+509. u. 1
+510. u. 1
+511. u. 1
+512. u. 1
+513. u. 1
+514. u. 1
+515. u. 1
+516. u. 1
+517. u. 1
+518. u. 1
+519. u. 1
+520. u. 1
+521. u. 1
+522. u. 1
+523. u. 1
+524. u. 1
+527. u. 1
+528. u. 1
+529. u. 1
+530. u. 1
+531. u. 1
+532. u. 1
+533. u. 1
+534. u. 1
+535. u. 1
+536. u. 1
+537. u. 1
+538. u. 1
+539. u. 1
+540. u. 1
+541. u. 1
+542. u. 1
+543. u. 1
+544. u. 1
+545. u. 1
+Aba u. 1
+Aba u. 1
+Aba u. 1
+Abádi u. 1
+Abaliget u. 1
+Abaújvár u. 1
+Abavár u. 1
+Ábel Jenő u. 1
+Abigél u. 1
+Abonyfalva u. 1
+Abonyi u. 1
+Abos u. 1
+Ábra u. 1
+Ábránd u. 1
+Ábrányi Emil u. 1
+Abroncs u. 1
+Abrudbánya u. 1
+Acélcső u. 1
+Acélmű u. 1
+Áchim András u. 1
+Áchim András u. 1
+Acsa u. 1
+Acsády Ignác u. 1
+Ada u. 1
+Adács u. 1
+Ádám u. 1
+Ádámföldi u. 1
+Adonis u. 1
+Adony u. 1
+Adorján u. 1
+Adria u. 1
+Ady Endre u. 1
+Ady Endre u. 1
+Ady Endre u. 1
+Ady Endre u. 1
+Ady Endre u. 1
+Áfonya u. 1
+Áfonyás u. 1
+Ág u. 1
+Aga u. 1
+Agár u. 1
+Ágas u. 1
+Aggteleki u. 1
+Ágoston u. 1
+Ágoston Péter u. 1
+Ágota u. 1
+Agyag u. 1
+Agyagfalva u. 1
+Agyagfejtő u. 1
+Agyagos u. 1
+Ágyás u. 1
+Ajak u. 1
+Ajándék u. 1
+Ajka u. 1
+Ajnácskő u. 1
+Ajtony u. 1
+Ajtósi u. 1
+Akácfa u. 1
+Akácfa u. 1
+Akácfa u. 1
+Akácfa u. 1
+Akácillat u. 1
+Akácos u. 1
+Akácvirág u. 1
+Akadály u. 1
+Akadémia u. 1
+Akna u. 1
+Aknász u. 1
+Akó u. 1
+Ákos u. 1
+Ákos mester u. 1
+Akvamarin u. 1
+Alabástrom u. 1
+Aladár u. 1
+Alag u. 1
+Alagút u. 1
+Alapkő u. 1
+Albán u. 1
+Albert u. 1
+Albert Gyula u. 1
+Albertfalva u. 1
+Album u. 1
+Aldebrő u. 1
+Áldomás u. 1
+Alföldi u. 1
+Algír u. 1
+Algyógyi u. 1
+Ali u. 1
+Alig u. 1
+Alíz u. 1
+Alkotmány u. 1
+Alkotmány u. 1
+Alkotmány u. 1
+Alkotmány u. 1
+Állás u. 1
+Állomás u. 1
+Állomás u. 1
+Állvány u. 1
+Alma u. 1
+Almádi u. 1
+Almafa u. 1
+Almafa u. 1
+Almakerék u. 1
+Almás u. 1
+Almási Balogh Loránd u. 1
+Almásháza u. 1
+Almáskert u. 1
+Almássy u. 1
+Álmos u. 1
+Álmos u. 1
+Álmos vezér u. 1
+Álom u. 1
+Alpár u. 1
+Alpár u. 1
+Alpár u. 1
+Alpár u. 1
+Alsó u. 1
+Alsóapsa u. 1
+Alsódabas u. 1
+Alsóhatár u. 1
+Alsókert u. 1
+Alsókörtvélyes u. 1
+Alsókubin u. 1
+Alsómalom u. 1
+Alsóőr u. 1
+Alsópetény u. 1
+Alsó Sas u. 1
+Alsóteleki u. 1
+Alsó Völgy u. 1
+Alvinc u. 1
+Alvó u. 1
+Ambrózia u. 1
+Ambrus u. 1
+Ambrus Zoltán u. 1
+Amfiteátrum u. 1
+Ametiszt u. 1
+Ámor u. 1
+Ananász u. 1
+Andalgó u. 1
+Andezit u. 1
+Andocs u. 1
+Andor u. 1
+András u. 1
+Andrásfa u. 1
+Andráshida u. 1
+Angolna u. 1
+Angyal u. 1
+Angyalka u. 1
+Anikó u. 1
+Anilin u. 1
+Ánizs u. 1
+Ankara u. 1
+Ankara u. 1
+Anna u. 1
+Anna u. 1
+Anna u. 1
+Anna u. 1
+Anód u. 1
+Anonymus u. 1
+Antal u. 1
+Antalfa u. 1
+Antónia u. 1
+Anyácska u. 1
+Ányos u. 1
+Apáca u. 1
+Apáczai Csere János u. 1
+Apály u. 1
+Apát u. 1
+Apáthy István u. 1
+Apátkút u. 1
+Apolló u. 1
+Apor Péter u. 1
+Aporháza u. 1
+Apponyi u. 1
+Apró u. 1
+Apród u. 1
+Ár u. 1
+Arad u. 1
+Aradi u. 1
+Aradi u. 1
+Aradi u. 1
+Aradi u. 1
+Aradi u. 1
+Aradi u. 1
+Aradi u. 1
+Áram u. 1
+Aranka u. 1
+Arany u. 1
+Arany János u. 1
+Arany János u. 1
+Arany János u. 1
+Arany János u. 1
+Arany János u. 1
+Arany János u. 1
+Arany János u. 1
+Arany János u. 1
+Arany János u. 1
+Arany János u. 1
+Aranyalma u. 1
+Aranybulla u. 1
+Aranycsillag u. 1
+Aranyeső u. 1
+Aranyfa u. 1
+Aranyfácán u. 1
+Aranyforint u. 1
+Aranyfürt u. 1
+Aranyhal u. 1
+Aranyhegy u. 1
+Aranyhegyi u. 1
+Aranykalász u. 1
+Aranykéz u. 1
+Aranykút u. 1
+Aranylúd u. 1
+Aranyos u. 1
+Aranypatak u. 1
+Aranytallér u. 1
+Aranyvessző u. 1
+Aranyvölgy u. 1
+Arasz u. 1
+Aratás u. 1
+Arató u. 1
+Arató u. 1
+Árboc u. 1
+Árkádos u. 1
+Árkász u. 1
+Árkos u. 1
+Ármány u. 1
+Árnika u. 1
+Árnyas u. 1
+Árok u. 1
+Ároktő u. 1
+Áron u. 1
+Árpa u. 1
+Árpád u. 1
+Árpád u. 1
+Árpád u. 1
+Árpád u. 1
+Árpád u. 1
+Árpád u. 1
+Árpád fejedelem u. 1
+Ártér u. 1
+Artúr u. 1
+Árva u. 1
+Árvácska u. 1
+Árvácska u. 1
+Árvai u. 1
+Árvalányhaj u. 1
+Árvíz u. 1
+Asbóth u. 1
+Ásó u. 1
+Ásólúd u. 1
+Ásvány u. 1
+Aszály u. 1
+Aszódi u. 1
+Ászok u. 1
+Ászokhordó u. 1
+Aszparágusz u. 1
+Asztag u. 1
+Asztalos u. 1
+Asztalosipar u. 1
+Asztalos Sándor u. 1
+Asztana u. 1
+Aszú u. 1
+Athéni u. 1
+Átjáró u. 1
+Atlasz u. 1
+Atléta u. 1
+Átlós u. 1
+Attila u. 1
+Attila u. 1
+Attila u. 1
+Attila u. 1
+Attila u. 1
+Attila u. 1
+Attila u. 1
+Attila u. 1
+Attila u. 1
+Aulich u. 1
+Aulich u. 1
+Aulich u. 1
+Aulich u. 1
+Aulich Lajos u. 1
+Aurél u. 1
+Auróra u. 1
+Avar u. 1
+Avar u. 1
+Avarszállás u. 1
+Avas u. 1
+Avedik u. 1
+Baba u. 1
+Babér u. 1
+Babérfűz u. 1
+Babits Mihály u. 1
+Bábos u. 1
+Bács u. 1
+Bácsalmás u. 1
+Bácska u. 1
+Bácska u. 1
+Bácskai u. 1
+Bácskai u. 1
+Bacsó Béla u. 1
+Badacsony u. 1
+Badacsony u. 1
+Badacsonyi u. 1
+Bádogos u. 1
+Bagamér u. 1
+Bagaria u. 1
+Bagoly u. 1
+Bagolyvár u. 1
+Bajáki Elemér u. 1
+Bajcs u. 1
+Bajcsy-Zsilinszky u. 1
+Bajmóci u. 1
+Bajnok u. 1
+Bajnok u. 1
+Bajor u. 1
+Bajtárs u. 1
+Bajvívó u. 1
+Bajza u. 1
+Bajza u. 1
+Bajza u. 1
+Bajza József u. 1
+Baka u. 1
+Bakancsos u. 1
+Bakator u. 1
+Bakáts u. 1
+Bakfark Bálint u. 1
+Bakfű u. 1
+Bakony u. 1
+Bakonybánk u. 1
+Baksay Sándor u. 1
+Bakter u. 1
+Balassa u. 1
+Balassa u. 1
+Balassa Bálint u. 1
+Balassagyarmat u. 1
+Balassi Bálint u. 1
+Balaton u. 1
+Balázs u. 1
+Balázs Béla u. 1
+Bali Sándor u. 1
+Balin u. 1
+Bálint György u. 1
+Balkán u. 1
+Ballada u. 1
+Ballagi Mór u. 1
+Balló Mátyás u. 1
+Balogh Tihamér u. 1
+Balogh Ádám u. 1
+Balogh Géza u. 1
+Balogvár u. 1
+Balta u. 1
+Bálvány u. 1
+Bálványos u. 1
+Balzac u. 1
+Bán u. 1
+Bánát u. 1
+Bánfa u. 1
+Bánffyhunyad u. 1
+Bánhida u. 1
+Bank u. 1
+Bánk u. 1
+Bánk bán u. 1
+Bánk bán u. 1
+Banka u. 1
+Bánki Donát u. 1
+Bankó u. 1
+Bánkút u. 1
+Bánréve u. 1
+Bánya u. 1
+Bányai Elemér u. 1
+Bányai Júlia u. 1
+Bányalég u. 1
+Bányász u. 1
+Bányász u. 1
+Bányató u. 1
+Barabás u. 1
+Barack u. 1
+Barackfa u. 1
+Barackfa u. 1
+Barackmag u. 1
+Barackvirág u. 1
+Baracska u. 1
+Baradla u. 1
+Bárány u. 1
+Baranyai u. 1
+Barát u. 1
+Barátcinege u. 1
+Barátka u. 1
+Barátpatak u. 1
+Barátság u. 1
+Barázda u. 1
+Barbara u. 1
+Bárczi Géza u. 1
+Bárczy István u. 1
+Barcsay u. 1
+Barcsay u. 1
+Bárd u. 1
+Bárdos Artúr u. 1
+Barka u. 1
+Bárka u. 1
+Barkács u. 1
+Barkó u. 1
+Barlang u. 1
+Barnabás u. 1
+Báróczy u. 1
+Baross u. 1
+Baross u. 1
+Baross u. 1
+Baross u. 1
+Baross u. 1
+Baross u. 1
+Baross Gábor u. 1
+Barsi u. 1
+Bársony István u. 1
+Bársonyka u. 1
+Bársonyos u. 1
+Bársonyvirág u. 1
+Barta Lajos u. 1
+Bártfa u. 1
+Bártfa u. 1
+Bártfa u. 1
+Bártfa u. 1
+Bártfai u. 1
+Bartha u. 1
+Bartl János u. 1
+Bartók Béla u. 1
+Bartók Béla u. 1
+Bartók Béla u. 1
+Bartók Béla u. 1
+Bartók Lajos u. 1
+Bartushegy u. 1
+Basa u. 1
+Bástya u. 1
+Batár u. 1
+Báthory u. 1
+Báthory u. 1
+Báthory u. 1
+Báthory u. 1
+Báthory u. 1
+Báthory u. 1
+Báthory u. 1
+Bátori László u. 1
+Bátony u. 1
+Bátor u. 1
+Bátorkeszi u. 1
+Batsányi u. 1
+Batthyány u. 1
+Batthyány u. 1
+Batthyány u. 1
+Batthyány u. 1
+Batthyány u. 1
+Batthyány u. 1
+Batthyány u. 1
+Batthyány u. 1
+Batthyány Ilona u. 1
+Battonya u. 1
+Batyu u. 1
+Bauer Sándor u. 1
+Bazalt u. 1
+Bazin u. 1
+Bazsalikom u. 1
+Bazsarózsa u. 1
+Beatrix u. 1
+Bebek u. 1
+Bebo Károly u. 1
+Beck Ö. Fülöp u. 1
+Beckó u. 1
+Becő u. 1
+Bécsi u. 1
+Bécsi u. 1
+Becske u. 1
+Bedő u. 1
+Beethoven u. 1
+Bég u. 1
+Béga u. 1
+Begónia u. 1
+Békahát u. 1
+Békás-szoros u. 1
+Béke u. 1
+Béke u. 1
+Bekecs u. 1
+Békéscsaba u. 1
+Békéshalom u. 1
+Békési u. 1
+Békéssy Sándor u. 1
+Bél Mátyás u. 1
+Béla u. 1
+Béla u. 1
+Béla u. 1
+Béla u. 1
+Bélavár u. 1
+Beléndek u. 1
+Belényes u. 1
+Bem u. 1
+Bem u. 1
+Bem u. 1
+Bem u. 1
+Bem u. 1
+Bem u. 1
+Bem u. 1
+Bem apó u. 1
+Bem József u. 1
+Bem József u. 1
+Bem tábornok u. 1
+Bence u. 1
+Bencés u. 1
+Benczúr u. 1
+Benczúr u. 1
+Benczúr u. 1
+Benczúr u. 1
+Bendegúz u. 1
+Benedek Elek u. 1
+Benedekfalva u. 1
+Benedikt Ottó u. 1
+Beniczky Tamás u. 1
+Benjámin u. 1
+Benkő u. 1
+Benkő István u. 1
+Benő u. 1
+Bentonit u. 1
+Bény u. 1
+Benyovszky Móric u. 1
+Beöthy u. 1
+Bérc u. 1
+Bérclejtő u. 1
+Bérctető u. 1
+Bercsényi u. 1
+Bercsényi u. 1
+Bercsényi u. 1
+Bercsényi u. 1
+Bercsényi u. 1
+Bercsényi u. 1
+Bercsényi Miklós u. 1
+Bercsényi Miklós u. 1
+Berda József u. 1
+Bereck u. 1
+Beregszász u. 1
+Beregszászi u. 1
+Berek u. 1
+Beremend u. 1
+Berend u. 1
+Berényi u. 1
+Berettyó u. 1
+Berkenye u. 1
+Bérkocsi u. 1
+Bérkocsis u. 1
+Berky Lili u. 1
+Berlini u. 1
+Bernát u. 1
+Berni u. 1
+Bertalan Lajos u. 1
+Bertóti u. 1
+Berzenczey u. 1
+Berzsenyi u. 1
+Berzsenyi u. 1
+Berzsenyi Dániel u. 1
+Berzsenyi Dániel u. 1
+Berzsenyi Dániel u. 1
+Berzsenyi Dániel u. 1
+Besence u. 1
+Besenyő Bekő u. 1
+Besenyszög u. 1
+Bessenyei u. 1
+Bessenyei u. 1
+Bessenyei György u. 1
+Beszterce u. 1
+Beszterce u. 1
+Beszterce u. 1
+Beszterce u. 1
+Besztercebánya u. 1
+Besztercebányai u. 1
+Besztercei u. 1
+Bethesda u. 1
+Bethlen u. 1
+Bethlen u. 1
+Bethlen u. 1
+Bethlen Gábor u. 1
+Bethlen Gábor u. 1
+Bethlen Gábor u. 1
+Bethlen Gábor u. 1
+Betű u. 1
+Bezdán u. 1
+Bezerédi u. 1
+Bezerédi u. 1
+Bezerédi u. 1
+Bezerédi Pál u. 1
+Bezsilla Nándor u. 1
+Bianka u. 1
+Bíbic u. 1
+Biblia u. 1
+Bíbor u. 1
+Bicskei u. 1
+Bihar u. 1
+Bihari u. 1
+Bihari János u. 1
+Bikszádi u. 1
+Billegető u. 1
+Billentyű u. 1
+Bimbó u. 1
+Bíró u. 1
+Bíró Lajos u. 1
+Bíró Mihály u. 1
+Birs u. 1
+Birsalma u. 1
+Birtok u. 1
+Bivalyos u. 1
+Blaha Lujza u. 1
+Blaha Lujza u. 1
+Bláthy Ottó u. 1
+Bóbita u. 1
+Bocskai u. 1
+Bocskai u. 1
+Bocskai u. 1
+Bocskai u. 1
+Bocskai u. 1
+Bocskai u. 1
+Bocskai u. 1
+Bocskai István u. 1
+Bocskaikert u. 1
+Bod Péter u. 1
+Bodajk u. 1
+Bodnár u. 1
+Bódog u. 1
+Bodola Lajos u. 1
+Bodony u. 1
+Bodonyi u. 1
+Bodor u. 1
+Bodorka u. 1
+Bodrog u. 1
+Bódva u. 1
+Bodza u. 1
+Bodzás u. 1
+Bogáncs u. 1
+Bogáncsvirág u. 1
+Bogár u. 1
+Bogdánfy u. 1
+Boglár u. 1
+Boglárka u. 1
+Boglya u. 1
+Bognár u. 1
+Bogrács u. 1
+Bogyó u. 1
+Bója u. 1
+Bojt u. 1
+Bojtár u. 1
+Bojtocska u. 1
+Bojtorján u. 1
+Bojtos u. 1
+Bókay János u. 1
+Bokor u. 1
+Bokréta u. 1
+Bokros u. 1
+Boldizsár u. 1
+Boldog XI. Ince pápa u. 1
+Bolgár u. 1
+Bolgárkerék u. 1
+Bolgárkertész u. 1
+Bolyai u. 1
+Bolyai Farkas u. 1
+Bolyai János u. 1
+Bolyai János u. 1
+Bolygó u. 1
+Bonc u. 1
+Bóné András u. 1
+Bor u. 1
+Borbély u. 1
+Borbolya u. 1
+Borda u. 1
+Bordézsma u. 1
+Borics Pál u. 1
+Boris u. 1
+Borkő u. 1
+Bornemissza u. 1
+Boróka u. 1
+Borókás u. 1
+Borona u. 1
+Boronás u. 1
+Boros Mátyás u. 1
+Borostyán u. 1
+Boroszlán u. 1
+Borotvás u. 1
+Bors u. 1
+Borsa u. 1
+Borsfa u. 1
+Borsika u. 1
+Borsmenta u. 1
+Borsó u. 1
+Borsikafű u. 1
+Borszéki u. 1
+Borszőlő u. 1
+Borvíz u. 1
+Borz u. 1
+Borzavár u. 1
+Botfalu u. 1
+Botond u. 1
+Botond u. 1
+Botond u. 1
+Botond u. 1
+Botond u. 1
+Botond vezér u. 1
+Bottyán u. 1
+Bozókvár u. 1
+Bozót u. 1
+Bögöte u. 1
+Bögre u. 1
+Bököny u. 1
+Bölcske u. 1
+Bölcső u. 1
+Bölcsőde u. 1
+Bölény u. 1
+Bölöni György u. 1
+Bördöce u. 1
+Bőrfestő u. 1
+Bőröndös u. 1
+Börzönce u. 1
+Börzsöny u. 1
+Börzsönyi u. 1
+Bőség u. 1
+Brassai Sámuel u. 1
+Brassó u. 1
+Brassó u. 1
+Brassó u. 1
+Brassó u. 1
+Brassó u. 1
+Brassói u. 1
+Brassói u. 1
+Brassói u. 1
+Breznó u. 1
+Brigád u. 1
+Bródy Imre u. 1
+Bródy Sándor u. 1
+Bronz u. 1
+Brüll Alfréd u. 1
+Brüsszeli u. 1
+Búbosbanka u. 1
+Bucka u. 1
+Bucó u. 1
+Bud János u. 1
+Buday László u. 1
+Budai Nagy Antal u. 1
+Budai Nagy Antal u. 1
+Budajenő u. 1
+Budakalász u. 1
+Budatétényi u. 1
+Buda vezér u. 1
+Bugát u. 1
+Buják u. 1
+Bujákhida u. 1
+Bukarest u. 1
+Bulcsú u. 1
+Bulcsú u. 1
+Bulcsú u. 1
+Bulcsú vezér u. 1
+Bulyovszky u. 1
+Burgundi u. 1
+Busa u. 1
+Búvár u. 1
+Búza u. 1
+Búzakalász u. 1
+Búzakéve u. 1
+Búzavirág u. 1
+Buziási u. 1
+Buzogány u. 1
+Bükk u. 1
+Bükkfa u. 1
+Bükköny u. 1
+Bürök u. 1
+Campona u. 1
+Camus u. 1
+Caprera u. 1
+Cecília u. 1
+Cédrus u. 1
+Cékla u. 1
+Célgép u. 1
+Céltábla u. 1
+Cement u. 1
+Cenk u. 1
+Cenkhegy u. 1
+Cházár András u. 1
+Chinoin u. 1
+Cibakháza u. 1
+Cica u. 1
+Cickafark u. 1
+Cifra u. 1
+Ciklámen u. 1
+Cikória u. 1
+Cimbalom u. 1
+Cimbora u. 1
+Címer u. 1
+Cincér u. 1
+Cinege u. 1
+Cinka Panna u. 1
+Cinke u. 1
+Cinkotakert u. 1
+Ciprus u. 1
+Cirbolya u. 1
+Cirmos u. 1
+Cirok u. 1
+Citera u. 1
+Citrom u. 1
+Citroën u. 1
+Citromfű u. 1
+Citronella u. 1
+Columbus u. 1
+Compó u. 1
+Corvin u. 1
+Corvin u. 1
+Cövek u. 1
+Csaba u. 1
+Csaba u. 1
+Csaba u. 1
+Csabagyöngye u. 1
+Csabamező u. 1
+Csajág u. 1
+Csákány u. 1
+Csákberény u. 1
+Csáklya u. 1
+Csákó u. 1
+Csáktornya u. 1
+Csákvár u. 1
+Család u. 1
+Csalit u. 1
+Csallóköz u. 1
+Csallóköz u. 1
+Csallóközi u. 1
+Csalma u. 1
+Csalogány u. 1
+Csanády u. 1
+Csángó u. 1
+Csantavér u. 1
+Csányi u. 1
+Csányi u. 1
+Csányi u. 1
+Csányi László u. 1
+Csap u. 1
+Csap u. 1
+Csap u. 1
+Csapágy u. 1
+Csapláros u. 1
+Csapó u. 1
+Csárda u. 1
+Csarnóta u. 1
+Császárfa u. 1
+Csata u. 1
+Csatár u. 1
+Csáth Géza u. 1
+Csató u. 1
+Csavargyár u. 1
+Cseh Mihály u. 1
+Csejtei u. 1
+Csékút u. 1
+Csele u. 1
+Csemegi u. 1
+Csemete u. 1
+Csemetekert u. 1
+Csend u. 1
+Csendes u. 1
+Csendítő u. 1
+Csenge u. 1
+Csenger u. 1
+Csengery u. 1
+Csengery u. 1
+Csengés u. 1
+Csengettyű u. 1
+Csengő u. 1
+Csengőbojt u. 1
+Csengőd u. 1
+Csenkesz u. 1
+Csépa u. 1
+Csepeli Mátyás u. 1
+Cséplőkert u. 1
+Csepp u. 1
+Cseppkő u. 1
+Csepreghy u. 1
+Cser u. 1
+Csér u. 1
+Cserebogár u. 1
+Cserei u. 1
+Cserép u. 1
+Cserepes u. 1
+Cseresznye u. 1
+Cseresznyefa u. 1
+Cserfa u. 1
+Cserge u. 1
+Cserhalom u. 1
+Cserhát u. 1
+Cserháti u. 1
+Cserhida u. 1
+Cserje u. 1
+Cserjés u. 1
+Cserkút u. 1
+Csermák Antal u. 1
+Csermely Károly u. 1
+Cserszömörce u. 1
+Csertő u. 1
+Cséry Lajos u. 1
+Cserző u. 1
+Csésze u. 1
+Csete Balázs u. 1
+Csetneki u. 1
+Csévéző u. 1
+Csévi u. 1
+Csibor u. 1
+Csibuk u. 1
+Csicsörke u. 1
+Csík u. 1
+Csík István u. 1
+Csikihegyek u. 1
+Csikós u. 1
+Csikóvár u. 1
+Csíksomlyó u. 1
+Csíksomlyó u. 1
+Csíksomlyó u. 1
+Csíkszentiván u. 1
+Csíkszereda u. 1
+Csíky u. 1
+Csíky u. 1
+Csilla u. 1
+Csillag u. 1
+Csillag u. 1
+Csillag u. 1
+Csillag u. 1
+Csillag u. 1
+Csillagánizs u. 1
+Csillagfürt u. 1
+Csillagőszirózsa u. 1
+Csillagösvény u. 1
+Csillagszem u. 1
+Csillagvirág u. 1
+Csillám u. 1
+Csille u. 1
+Csinszka u. 1
+Csiperke u. 1
+Csipkebogyó u. 1
+Csipkerózsa u. 1
+Csitári u. 1
+Csíz u. 1
+Csizma u. 1
+Csizmadia u. 1
+Csobaj u. 1
+Csobánc u. 1
+Csobánc u. 1
+Csobogós u. 1
+Csodaszarvas u. 1
+Csóka u. 1
+Csókakő u. 1
+Csókás u. 1
+Csokonai u. 1
+Csokonai u. 1
+Csokonai u. 1
+Csokonai u. 1
+Csokonai u. 1
+Csokonai u. 1
+Csokonai u. 1
+Csokonai u. 1
+Csokonai u. 1
+Csokor u. 1
+Csolt u. 1
+Csoma u. 1
+Csomád u. 1
+Csomafalva u. 1
+Csomakőrös u. 1
+Csombárd u. 1
+Csombor u. 1
+Csónak u. 1
+Csónak u. 1
+Csónakház u. 1
+Csongor u. 1
+Csongor u. 1
+Csongor u. 1
+Csongrád u. 1
+Csonka u. 1
+Csont u. 1
+Csonttollú u. 1
+Csontváry Kosztka Tivadar u. 1
+Csopaki u. 1
+Csoport u. 1
+Csorba u. 1
+Csorbai u. 1
+Csorbatói u. 1
+Csordás u. 1
+Csorna u. 1
+Csorvás u. 1
+Csóványos u. 1
+Csöbör u. 1
+Csőgyár u. 1
+Csőhegesztő u. 1
+Csömödér u. 1
+Csöngő u. 1
+Csöpp u. 1
+Csörgőfa u. 1
+Csörlő u. 1
+Csörötnek u. 1
+Csörszárok u. 1
+Csőszkunyhó u. 1
+Csősztorony u. 1
+Csővár u. 1
+Csöves u. 1
+Csővonó u. 1
+Csúcs u. 1
+Csucsor u. 1
+Csuka u. 1
+Csukló u. 1
+Csupor u. 1
+Csurgó u. 1
+Csuszka u. 1
+Csút u. 1
+Csutora u. 1
+Csücsök u. 1
+Csűr u. 1
+Cukor u. 1
+Cukornád u. 1
+Cukrász u. 1
+Curia u. 1
+Czakó u. 1
+Czeglédi Mihály u. 1
+Czetz János u. 1
+Czimra Gyula u. 1
+Cziráki u. 1
+Czobor u. 1
+Czuczor u. 1
+Czuczor u. 1
+Czuczor u. 1
+Czuczor u. 1
+Czuczor Gergely u. 1
+Dabas u. 1
+Dagály u. 1
+Dagálysétány u. 1
+Dal u. 1
+Dalárda u. 1
+Dália u. 1
+Dalkör u. 1
+Dallam u. 1
+Dallamos u. 1
+Dalmady Győző u. 1
+Dalnok u. 1
+Dalnoki Jenő u. 1
+Dalos u. 1
+Dalszínház u. 1
+Damjanich u. 1
+Damjanich u. 1
+Damjanich u. 1
+Damjanich u. 1
+Damjanich u. 1
+Damjanich János u. 1
+Damjanich János u. 1
+Dámvad u. 1
+Dandár u. 1
+Dankasirály u. 1
+Dankó u. 1
+Dankó Pista u. 1
+Danubius u. 1
+Dara u. 1
+Dara u. 1
+Darányi Ignác u. 1
+Darázs u. 1
+Darázs u. 1
+Dárda u. 1
+Darnó u. 1
+Daru u. 1
+Darus u. 1
+Datolya u. 1
+Dávid Ferenc u. 1
+Dávid Ferenc u. 1
+Deák u. 1
+Deák u. 1
+Deák Ferenc u. 1
+Deák Ferenc u. 1
+Deák Ferenc u. 1
+Deák Ferenc u. 1
+Deák Ferenc u. 1
+Deák Ferenc u. 1
+Deáki u. 1
+Debercsény u. 1
+Debrecen u. 1
+Debrő u. 1
+Décsi József u. 1
+Dedics Ferenc u. 1
+Deés u. 1
+Dékán u. 1
+Dél u. 1
+Délceg u. 1
+Delej u. 1
+Delelő u. 1
+Delfin u. 1
+Déli u. 1
+Délibáb u. 1
+Délitemető u. 1
+Delta u. 1
+Dembinszky u. 1
+Dembinszky u. 1
+Demeter u. 1
+Demjén u. 1
+Dénár u. 1
+Dénes u. 1
+Denevér u. 1
+Dér u. 1
+Dér u. 1
+Derecskei u. 1
+Dereglye u. 1
+Derék u. 1
+Derengő u. 1
+Deres u. 1
+Déri Miksa u. 1
+Derkovits u. 1
+Derkovits Gyula u. 1
+Derkovits Gyula u. 1
+Derű u. 1
+Derült u. 1
+Derzsi u. 1
+Dés u. 1
+Dés u. 1
+Désháza u. 1
+Dési Huber u. 1
+Dessewffy u. 1
+Dessewffy u. 1
+Dessewffy Arisztid u. 1
+Detrekő u. 1
+Dettai u. 1
+Déva u. 1
+Déva u. 1
+Dévai u. 1
+Dévaványa u. 1
+Devecseri u. 1
+Dévény u. 1
+Dézsa u. 1
+Dézsma u. 1
+Dézsmaház u. 1
+Dezső u. 1
+Dezsőfia u. 1
+Diadal u. 1
+Diák u. 1
+Diana u. 1
+Dinamó u. 1
+Dinnye u. 1
+Dinnyés u. 1
+Dió u. 1
+Diófa u. 1
+Diófa u. 1
+Diófa u. 1
+Diós u. 1
+Diósdi u. 1
+Diósgyőri u. 1
+Dióskál u. 1
+Diósy Lajos u. 1
+Diószegi Sámuel u. 1
+Díszfű u. 1
+Ditró u. 1
+Ditrói Mór u. 1
+Doba u. 1
+Dobó u. 1
+Dobó u. 1
+Dobó u. 1
+Dobó u. 1
+Dobogókő u. 1
+Dobos István u. 1
+Doboz u. 1
+Dobozi u. 1
+Dobsina u. 1
+Dobsinai u. 1
+Dóczy József u. 1
+Dohány u. 1
+Dohnányi Ernő u. 1
+Dolgos u. 1
+Dolmány u. 1
+Dologház u. 1
+Dolomit u. 1
+Domaháza u. 1
+Domaszék u. 1
+Domb u. 1
+Dombhát u. 1
+Domboldal u. 1
+Domború u. 1
+Dombóvári u. 1
+Dombtető u. 1
+Domján Edit u. 1
+Domonkos u. 1
+Donát u. 1
+Donáti u. 1
+Donga u. 1
+Dongó u. 1
+Donszky Árpád u. 1
+Dormánd u. 1
+Dorogi u. 1
+Doromb u. 1
+Dorottya u. 1
+Dorozsmai u. 1
+Dósa u. 1
+Dózsa György u. 1
+Dózsa György u. 1
+Dózsa György u. 1
+Dózsa György u. 1
+Döbröce u. 1
+Döbrentei u. 1
+Dömsödi u. 1
+Döntő u. 1
+dr. Papp Elemér u. 1
+Dráva u. 1
+Dráva u. 1
+Dráva u. 1
+Dráva u. 1
+Drávacsehi u. 1
+Drávafok u. 1
+Drégely u. 1
+Drégelypalánk u. 1
+Drégelyvár u. 1
+Drótos u. 1
+Dugonics u. 1
+Dugonics u. 1
+Dugonics u. 1
+Dukát u. 1
+Duna u. 1
+Duna u. 1
+Duna u. 1
+Duna u. 1
+Duna u. 1
+Duna u. 1
+Dunafürdő u. 1
+Dunakeszi u. 1
+Dunapart u. 1
+Dunapataj u. 1
+Dunaszeg u. 1
+Dunavirág u. 1
+Dunyov István u. 1
+Duránci u. 1
+Dutka Ákos u. 1
+Dűlő u. 1
+Dűne u. 1
+Ebergény u. 1
+Ecetfa u. 1
+Ecsed u. 1
+Ecsedháza u. 1
+Ede u. 1
+Éden u. 1
+Édes u. 1
+Édesvíz u. 1
+Edison u. 1
+Edit u. 1
+Edömér u. 1
+Edző u. 1
+Éger u. 1
+Egerág u. 1
+Egerbocs u. 1
+Égerfa u. 1
+Égerfás u. 1
+Egerszalók u. 1
+Egerszeg u. 1
+Egervár u. 1
+Egészségház u. 1
+Égető u. 1
+Egres u. 1
+Egressy Gábor u. 1
+Egri u. 1
+Egry József u. 1
+Egyenes u. 1
+Egyenes u. 1
+Egyetértés u. 1
+Eke u. 1
+Ékes u. 1
+Ékszer u. 1
+Elek u. 1
+Elem u. 1
+Elemi u. 1
+Eleonóra u. 1
+Ellák u. 1
+Elnök u. 1
+Előd u. 1
+Előd u. 1
+Előd u. 1
+Előd u. 1
+Előd vezér u. 1
+Előpatak u. 1
+Elvira u. 1
+Elza u. 1
+Emelkedő u. 1
+Emese u. 1
+Emília u. 1
+Emília u. 1
+Emlék u. 1
+Emlékkő u. 1
+Emma u. 1
+Emma u. 1
+Emőd u. 1
+Emőke u. 1
+Endre u. 1
+Endrődi u. 1
+Énekes u. 1
+Enikő u. 1
+Enzsöl Ellák u. 1
+Enyedi u. 1
+Enying u. 1
+Eötvös u. 1
+Eötvös u. 1
+Eötvös u. 1
+Eötvös u. 1
+Eötvös u. 1
+Eötvös u. 1
+Eötvös u. 1
+Eötvös József u. 1
+Eper u. 1
+Eperfa u. 1
+Eperföld u. 1
+Eperjes u. 1
+Eperjesi u. 1
+Eperjesi u. 1
+Eperlevél u. 1
+Eperszem u. 1
+Építő u. 1
+Építőüzem u. 1
+Epres u. 1
+Epreserdő u. 1
+Ér u. 1
+Érc u. 1
+Erdélyi u. 1
+Erdélyi u. 1
+Erdélyi u. 1
+Érdem u. 1
+Erdész u. 1
+Erdész József u. 1
+Érdi u. 1
+Érmindszent u. 1
+Erdő u. 1
+Erdő u. 1
+Erdőd u. 1
+Erdőhegy u. 1
+Erdőhegy u. 1
+Erdőkerülő u. 1
+Erdőkövesd u. 1
+Erdőkürt u. 1
+Erdős u. 1
+Erdősáv u. 1
+Erdősi u. 1
+Erdőszél u. 1
+Erdőtelek u. 1
+Érem u. 1
+Eresz u. 1
+Erik u. 1
+Erkel u. 1
+Erkel u. 1
+Erkel Ferenc u. 1
+Erkel Ferenc u. 1
+Erkel Gyula u. 1
+Erkély u. 1
+Érmelléki u. 1
+Érmihályfalva u. 1
+Ernő u. 1
+Erőd u. 1
+Erőkar u. 1
+Erőmű u. 1
+Erőmű u. 1
+Erős u. 1
+Érpatak u. 1
+Érsekújvár u. 1
+Érsekújvár u. 1
+Érsekújvári u. 1
+Érsemlyéni u. 1
+Ervin u. 1
+Erzsébet u. 1
+Eskü u. 1
+Eső u. 1
+Est u. 1
+Esthajnal u. 1
+Esti Kornél u. 1
+Estike u. 1
+Észak u. 1
+Esze Tamás u. 1
+Esze Tamás u. 1
+Eszék u. 1
+Eszperantó u. 1
+Esztena u. 1
+Eszter u. 1
+Esztergályos u. 1
+Eszterlánc u. 1
+Etele u. 1
+Etelka u. 1
+Etelköz u. 1
+Európa u. 1
+Éva u. 1
+Evező u. 1
+Evezős u. 1
+Ezerjó u. 1
+Ezred u. 1
+Ezredes u. 1
+Ezüst u. 1
+Ezüstfa u. 1
+Ezüstgaras u. 1
+Ezüsthegy u. 1
+Ezüstkő u. 1
+Fábián u. 1
+Fácán u. 1
+Fácánhegyi u. 1
+Fácánkert u. 1
+Fácános u. 1
+Facsemete u. 1
+Fácska u. 1
+Fadrusz u. 1
+Fadrusz u. 1
+Fadrusz János u. 1
+Fagyal u. 1
+Fagyalkás u. 1
+Fagyöngy u. 1
+Fahéj u. 1
+Faiskola u. 1
+Fajansz u. 1
+Fajd u. 1
+Fáklya u. 1
+Fáklyaliliom u. 1
+Fakopács u. 1
+Falemez u. 1
+Falk Miksa u. 1
+Falka u. 1
+Faludi u. 1
+Fanyarka u. 1
+Faragó u. 1
+Farkas László u. 1
+Farkasalma u. 1
+Farkasbab u. 1
+Farkas-erdő u. 1
+Farkasfa u. 1
+Farkasfog u. 1
+Farkashalom u. 1
+Farkashida u. 1
+Farkaslaka u. 1
+Farkasszőlő u. 1
+Farönk u. 1
+Fás u. 1
+Fatimai u. 1
+Fatörzs u. 1
+Fátra u. 1
+Fátra u. 1
+Fátyol u. 1
+Fátyolka u. 1
+Fátyolvirág u. 1
+Fáy u. 1
+Fáy Ferenc u. 1
+Fázis u. 1
+Fecske u. 1
+Fecske u. 1
+Fecske u. 1
+Fedák Sári u. 1
+Fedezék u. 1
+Fegyvergyár u. 1
+Fegyvernek u. 1
+Fehérakác u. 1
+Fehér Hajó u. 1
+Fehérhegy u. 1
+Fehér Holló u. 1
+Fehérítő u. 1
+Fehérítőgyár u. 1
+Fehérló u. 1
+Fehérsas u. 1
+Fehértemplom u. 1
+Fejedelem u. 1
+Fejér György u. 1
+Fejsze u. 1
+Fék u. 1
+Fekete István u. 1
+Feketefej u. 1
+Feketefenyő u. 1
+Feketerigó u. 1
+Fekete salak u. 1
+Fekete Sas u. 1
+Fékező u. 1
+Felcsúti u. 1
+Feldebrő u. 1
+Félhold u. 1
+Felhő u. 1
+Felka u. 1
+Felleg u. 1
+Felső u. 1
+Felső Sas u. 1
+Felső Újlak u. 1
+Felsőbabád u. 1
+Felsőbánya u. 1
+Felsőbüki Nagy Pál u. 1
+Felsőbüki Nagy Pál u. 1
+Felsőgalla u. 1
+Felsőkert u. 1
+Felsőmalom u. 1
+Felsőőr u. 1
+Felsőörsöd u. 1
+Felvidék u. 1
+Fém u. 1
+Fémforma-öntő u. 1
+Fémmű u. 1
+Fennsík u. 1
+Fenőkő u. 1
+Fény u. 1
+Fénycső u. 1
+Fényes Adolf u. 1
+Fényes Elek u. 1
+Fenyő u. 1
+Fenyőerdő u. 1
+Fenyőfa u. 1
+Fenyőmadár u. 1
+Fenyőpinty u. 1
+Fenyőrigó u. 1
+Fenyőtoboz u. 1
+Fenyves u. 1
+Ferde u. 1
+Ferenc u. 1
+Ferenc u. 1
+Ferenc u. 1
+Ferenc u. 1
+Ferenczy István u. 1
+Ferenczi Sándor u. 1
+Fergeteg u. 1
+Fertály u. 1
+Fertő u. 1
+Festetics György u. 1
+Fésűs u. 1
+Fészek u. 1
+Fészekrakó u. 1
+Feszty Árpád u. 1
+Feszty Árpád u. 1
+Feszty Árpád u. 1
+Fiastyúk u. 1
+Fiatal u. 1
+Fiatalság u. 1
+Fiáth János u. 1
+Fibula u. 1
+Fischer István u. 1
+Fiume u. 1
+Fiume u. 1
+Fivér u. 1
+Fizika u. 1
+Flamingó u. 1
+Flór Ferenc u. 1
+Flóra u. 1
+Flottilla u. 1
+Fodormenta u. 1
+Fodrász u. 1
+Fodros u. 1
+Fogadó u. 1
+Fogaras u. 1
+Fogaras u. 1
+Fogarasi u. 1
+Fogas u. 1
+Fogaskerék u. 1
+Fogaskerekű u. 1
+Fogócska u. 1
+Fogoly u. 1
+Fokos u. 1
+Folyamőr u. 1
+Folyóka u. 1
+Folyondár u. 1
+Fonal u. 1
+Fonó u. 1
+Fonyód u. 1
+Forduló u. 1
+Forgách u. 1
+Forgalmas u. 1
+Forgalmi u. 1
+Forgó u. 1
+Forint u. 1
+Forinyák Géza u. 1
+Formás u. 1
+Forrás u. 1
+Forrás u. 1
+Forrásföldi u. 1
+Forrásliget u. 1
+Forrásmajori u. 1
+Fortuna u. 1
+Foszlány u. 1
+Főhadnagy u. 1
+Föld u. 1
+Föld u. 1
+Földeák u. 1
+Földműves u. 1
+Földváry u. 1
+Földváry u. 1
+Földváry u. 1
+Föveny u. 1
+Fradi u. 1
+Franciska u. 1
+Frangepán u. 1
+Frangepán u. 1
+Frangepán u. 1
+Frangepán u. 1
+Frankhegy u. 1
+Franklin u. 1
+Fráter György u. 1
+Fráter Lóránt u. 1
+Frézia u. 1
+Fricsay u. 1
+Frigyes u. 1
+Friss u. 1
+Fuchs-szőlő u. 1
+Fullánk u. 1
+Furmint u. 1
+Furulya u. 1
+Futár u. 1
+Futó u. 1
+Futó u. 1
+Futó u. 1
+Futórózsa u. 1
+Futrinka u. 1
+Fuvallat u. 1
+Fuvaros u. 1
+Fuvola u. 1
+Fű u. 1
+Füge u. 1
+Fügefa u. 1
+Függőcinege u. 1
+Fülek u. 1
+Fülek u. 1
+Füleki u. 1
+Fülemile u. 1
+Fülesbagoly u. 1
+Fülőke u. 1
+Fülöpháza u. 1
+Fülöpszállás u. 1
+Fürdő u. 1
+Fürdő u. 1
+Fürdőhely u. 1
+Füredi u. 1
+Fűrész u. 1
+Fürge u. 1
+Fürj u. 1
+Fürjes u. 1
+Fürt u. 1
+Fürtös u. 1
+Füst Milán u. 1
+Füstifecske u. 1
+Füstike u. 1
+Fűszer u. 1
+Fűtő u. 1
+Füttyös u. 1
+Füves u. 1
+Füvészkert u. 1
+Fűz u. 1
+Fűz u. 1
+Füzér u. 1
+Füzesabony u. 1
+Fűzfa u. 1
+Fűzfás u. 1
+Fűzfő u. 1
+Füzike u. 1
+Fűzkút u. 1
+Gaál Mózes u. 1
+Gabona u. 1
+Gabonaszem u. 1
+Gábor u. 1
+Gábor Áron u. 1
+Gábor Áron u. 1
+Gábor Áron u. 1
+Gábor Áron u. 1
+Gábor Dénes u. 1
+Gábor László u. 1
+Gács u. 1
+Gádor u. 1
+Gádoros u. 1
+Gál ispán u. 1
+Galagonya u. 1
+Galamb u. 1
+Galamb u. 1
+Galamb u. 1
+Galambóc u. 1
+Galántai u. 1
+Galeotti u. 1
+Galga u. 1
+Galgahévíz u. 1
+Galgó u. 1
+Galgóczy u. 1
+Gálic u. 1
+Galóca u. 1
+Galopp u. 1
+Galvani u. 1
+Gálya u. 1
+Ganz u. 1
+Ganz Ábrahám u. 1
+Garam u. 1
+Garam u. 1
+Garam u. 1
+Garam u. 1
+Garamvölgyi u. 1
+Garas u. 1
+Garat u. 1
+Garay u. 1
+Garay u. 1
+Garay u. 1
+Garay u. 1
+Garay László u. 1
+Garázs u. 1
+Gárda u. 1
+Gárdi Jenő u. 1
+Gárdonyi u. 1
+Gárdonyi Géza u. 1
+Gárdonyi Géza u. 1
+Gárdonyi Géza u. 1
+Garibaldi u. 1
+Garmada u. 1
+Gát u. 1
+Gátfutó u. 1
+Gazda u. 1
+Gazella u. 1
+Gáz u. 1
+Gázgyár u. 1
+Gázláng u. 1
+Gázló u. 1
+Gébics u. 1
+Géczi József u. 1
+Geduly u. 1
+Gelléri Andor Endre u. 1
+Gellért u. 1
+Gellérthegy u. 1
+Gém u. 1
+Gemenc u. 1
+Gémes u. 1
+Gémes József u. 1
+Gémeskút u. 1
+Georgina u. 1
+Gép u. 1
+Gépész u. 1
+Gépgyár u. 1
+Gépmadár u. 1
+Gerbera u. 1
+Gereben u. 1
+Gereblye u. 1
+Gercse u. 1
+Gerecsehida u. 1
+Gerely u. 1
+Gerencsér u. 1
+Gerenda u. 1
+Gerenda u. 1
+Gerezd u. 1
+Gergely Győző u. 1
+Gergő u. 1
+Gerinc u. 1
+Gerle u. 1
+Gerlice u. 1
+Gerlóczy u. 1
+Gervay u. 1
+Gesztenye u. 1
+Gesztenyefa u. 1
+Gesztenye u. 1
+Gesztenyés u. 1
+Géza u. 1
+Géza u. 1
+Géza u. 1
+Géza u. 1
+Géza u. 1
+Gézavár u. 1
+Gida u. 1
+Gidófalvy Lajos u. 1
+Gilvánfa u. 1
+Gím u. 1
+Gimnázium u. 1
+Gladiátor u. 1
+Glatz Oszkár u. 1
+Góbé u. 1
+Gogol u. 1
+Goldberger Leó u. 1
+Goldmark Károly u. 1
+Golfütő u. 1
+Gólya u. 1
+Gólyahír u. 1
+Golyófogó u. 1
+Gomb u. 1
+Gomba u. 1
+Gombás u. 1
+Gombkötő u. 1
+Gombócz Zoltán u. 1
+Gombosi u. 1
+Gombosszeg u. 1
+Gond u. 1
+Gondnok u. 1
+Gondolás u. 1
+Gordonka u. 1
+Gorkij u. 1
+Goroszló u. 1
+Gosztonyi Lajos u. 1
+Gózon Gyula u. 1
+Göcsej u. 1
+Gödöllői u. 1
+Gödölye u. 1
+Gölle u. 1
+Gölöncsér u. 1
+Gömb u. 1
+Gömbakác u. 1
+Gömböc u. 1
+Gömbvirág u. 1
+Gömör u. 1
+Göncöl u. 1
+Gönczy Pál u. 1
+Göndör u. 1
+Görbe u. 1
+Görgény u. 1
+Görgey u. 1
+Görög u. 1
+Görögszállás u. 1
+Görömböly u. 1
+Göröngyös u. 1
+Gőzmalom u. 1
+Gőzmozdony u. 1
+Gőzös u. 1
+Grafit u. 1
+Gránátos u. 1
+Greguss u. 1
+Grúz u. 1
+Gubó u. 1
+Gúla u. 1
+Gulácsy Lajos u. 1
+Gulipán u. 1
+Gulner Gyula u. 1
+Gulyás u. 1
+Gumigyár u. 1
+Gumó u. 1
+Gurgolya u. 1
+Gutenberg u. 1
+Gutor u. 1
+Guyon Richárd u. 1
+Guzsaly u. 1
+Gül Baba u. 1
+Gvadányi u. 1
+Gyakorló u. 1
+Gyalog u. 1
+Gyám u. 1
+Gyanafalva u. 1
+Gyanta u. 1
+Gyapot u. 1
+Gyár u. 1
+Gyárfás Jenő u. 1
+Gyékény u. 1
+Gyékényes u. 1
+Gyémánt u. 1
+Gyenes u. 1
+Gyepes u. 1
+Gyeplő u. 1
+Gyeplős u. 1
+Gyepsor u. 1
+Gyepű u. 1
+Gyergyó u. 1
+Gyergyó u. 1
+Gyergyóalfalu u. 1
+Gyergyóditró u. 1
+Gyergyói u. 1
+Gyergyóremete u. 1
+Gyergyószentmiklós u. 1
+Gyergyótölgyes u. 1
+Gyergyóújfalu u. 1
+Gyertyaláng u. 1
+Gyertyán u. 1
+Gyetva u. 1
+Gyík u. 1
+Gyíkfű u. 1
+Gyimes u. 1
+Gyimesbükk u. 1
+Gyógyfű u. 1
+Gyógyszergyár u. 1
+Gyógyszergyári u. 1
+Gyógyvíz u. 1
+Gyolcsrét u. 1
+Gyoma u. 1
+Gyopár u. 1
+Gyopáros u. 1
+Gyökér u. 1
+Gyömbér u. 1
+Gyöngyfa u. 1
+Gyöngyfüzér u. 1
+Gyöngyhalász u. 1
+Gyöngyház u. 1
+Gyöngyike u. 1
+Gyöngyperje u. 1
+Gyöngysor u. 1
+Gyöngyszem u. 1
+Gyöngytyúk u. 1
+Gyöngyvér u. 1
+Gyöngyvirág u. 1
+Gyöngyvirág u. 1
+Gyöngyvirágos u. 1
+György u. 1
+György Aladár u. 1
+Györök u. 1
+Györffy István u. 1
+Győzelem u. 1
+Győző u. 1
+Győztes u. 1
+Gyufa u. 1
+Gyula u. 1
+Gyula u. 1
+Gyula u. 1
+Gyulafehérvár u. 1
+Gyulafehérvári u. 1
+Gyulai Pál u. 1
+Gyulai Pál u. 1
+Gyurgyalag u. 1
+Gyutacs u. 1
+Gyümölcs u. 1
+Gyűrű u. 1
+Gyűszű u. 1
+Gyűszűvirág u. 1
+Hableány u. 1
+Hadik András u. 1
+Hadnagy u. 1
+Hadrianus u. 1
+Hagyma u. 1
+Hajadon u. 1
+Hajdú u. 1
+Hajdúcsárda u. 1
+Hajlat u. 1
+Hajlék u. 1
+Hajlékos u. 1
+Hajló u. 1
+Hajnal u. 1
+Hajnalcsillag u. 1
+Hajnalka u. 1
+Hajnóczy József u. 1
+Hajó u. 1
+Hajóállomás u. 1
+Hajógyár u. 1
+Hajókovács u. 1
+Hajómalom u. 1
+Hajómalom u. 1
+Hajós u. 1
+Hajós u. 1
+Hajtás u. 1
+Haladás u. 1
+Halas u. 1
+Halastó u. 1
+Halász u. 1
+Halász Gábor u. 1
+Halászsas u. 1
+Halásztelek u. 1
+Halk u. 1
+Háló u. 1
+Halom u. 1
+Halomegyházi u. 1
+Halpénz u. 1
+Hámfa u. 1
+Hamu u. 1
+Hamvas u. 1
+Háncs u. 1
+Handzsár u. 1
+Hang u. 1
+Hanga u. 1
+Hanga u. 1
+Hangos u. 1
+Hangulat u. 1
+Hangya u. 1
+Hankóczy Jenő u. 1
+Hanna u. 1
+Hant u. 1
+Hantmadár u. 1
+Harang u. 1
+Harangjáték u. 1
+Harangláb u. 1
+Harangozó u. 1
+Harangvirág u. 1
+Haránt u. 1
+Haraszt u. 1
+Harcos u. 1
+Harcsa u. 1
+Hardi Miklós u. 1
+Hárfa u. 1
+Hargita u. 1
+Hargita u. 1
+Hargita u. 1
+Harkály u. 1
+Harmatcsepp u. 1
+Harmatos u. 1
+Harmincad u. 1
+Harmónia u. 1
+Háromdobos u. 1
+Háromház u. 1
+Háromszék u. 1
+Háromszék u. 1
+Háromszék u. 1
+Háromszéki u. 1
+Háromszéki u. 1
+Háros u. 1
+Harrer Pál u. 1
+Hárs u. 1
+Hársalja u. 1
+Harsányi Kálmán u. 1
+Hársas u. 1
+Hársfa u. 1
+Hársfa u. 1
+Hársfa u. 1
+Hársfa u. 1
+Hársfavirág u. 1
+Hársfavirág u. 1
+Hárskút u. 1
+Hárslevelű u. 1
+Hársmajor u. 1
+Harsona u. 1
+Harta u. 1
+Hártya u. 1
+Hasadék u. 1
+Határ u. 1
+Határ u. 1
+Határmalom u. 1
+Hatház u. 1
+Hátszeg u. 1
+Hattyú u. 1
+Hatvani u. 1
+Hatvany Lajos u. 1
+Hauszmann Alajos u. 1
+Havanna u. 1
+Havas u. 1
+Havas Ignác u. 1
+Havashalom u. 1
+Házhajó u. 1
+Házikert u. 1
+Házmán u. 1
+Hedvig u. 1
+Hegedű u. 1
+Hegesztő u. 1
+Hegy u. 1
+Hegyalatti u. 1
+Hegyalja u. 1
+Hegybíró u. 1
+Hegycsúcs u. 1
+Hegyes u. 1
+Hegyeshalom u. 1
+Hegyfok u. 1
+Hegyi u. 1
+Hegyikristály u. 1
+Hegyláb u. 1
+Hegymászó u. 1
+Hegyoldal u. 1
+Hegytető u. 1
+Heinrich István u. 1
+Héja u. 1
+Hejő u. 1
+Hektár u. 1
+Helka u. 1
+Heltai Ferenc u. 1
+Heltai Gáspár u. 1
+Hencida u. 1
+Henger u. 1
+Hengerész u. 1
+Hengermű u. 1
+Hengersor u. 1
+Henszlmann Imre u. 1
+Hentes u. 1
+Hercegprímás u. 1
+Herend u. 1
+Herhoff György u. 1
+Hérics u. 1
+Herkules u. 1
+Hermánd u. 1
+Hernád u. 1
+Hertelendy u. 1
+Herzen u. 1
+Hetény u. 1
+Héthalom u. 1
+Hétvezér u. 1
+Heveder u. 1
+Heves u. 1
+Híd u. 1
+Hidasnémeti u. 1
+Hidász u. 1
+Hideg u. 1
+Hidegkuti Nándor u. 1
+Hídépítő u. 1
+Hídfő u. 1
+Hídláb u. 1
+Hídvég u. 1
+Higany u. 1
+Hilda u. 1
+Hímes u. 1
+Hímesháza u. 1
+Hímző u. 1
+Hínár u. 1
+Hintó u. 1
+Hír u. 1
+Híradó u. 1
+Hírnök u. 1
+Hitel Márton u. 1
+Hó u. 1
+Hóbagoly u. 1
+Hock János u. 1
+Hód u. 1
+Hófehérke u. 1
+Hold u. 1
+Hold u. 1
+Hold u. 1
+Holdfény u. 1
+Holdsugár u. 1
+Holdvilág u. 1
+Holics u. 1
+Hollán Ernő u. 1
+Hollandi u. 1
+Holló u. 1
+Holló Lajos u. 1
+Hollóháza u. 1
+Hollókő u. 1
+Hollós u. 1
+Hollós Korvin Lajos u. 1
+Hollósy Simon u. 1
+Hómező u. 1
+Homok u. 1
+Homokdomb u. 1
+Homokkúp u. 1
+Homokliliom u. 1
+Homokóra u. 1
+Homokszem u. 1
+Homoktövis u. 1
+Homonna u. 1
+Homoród u. 1
+Honfoglalás u. 1
+Honvéd u. 1
+Honvéd u. 1
+Honvéd u. 1
+Honvéd u. 1
+Honvédmenház u. 1
+Hópehely u. 1
+Horánszky u. 1
+Hordós u. 1
+Horgász u. 1
+Horgony u. 1
+Horog u. 1
+Hortenzia u. 1
+Hortobágyi u. 1
+Hortobágyi u. 1
+Horvát u. 1
+Horvát Boldizsár u. 1
+Horváth Ernő u. 1
+Horváth Mihály u. 1
+Horzsakő u. 1
+Hószirom u. 1
+Hosszúház u. 1
+Hosszúhegy u. 1
+Hosszúréti u. 1
+Hóvirág u. 1
+Hőerőmű u. 1
+Hőgyes Endre u. 1
+Hölgy u. 1
+Hörcsög u. 1
+Hős u. 1
+Hrivnák Pál u. 1
+Huba u. 1
+Huba u. 1
+Huba u. 1
+Huba u. 1
+Huba u. 1
+Huba u. 1
+Huba vezér u. 1
+Hubay Jenő u. 1
+Hugonnay Vilma u. 1
+Hullám u. 1
+Hunfalvy u. 1
+Hunor u. 1
+Hunyadi u. 1
+Hunyadi u. 1
+Hunyadi u. 1
+Hunyadi u. 1
+Hunyadi u. 1
+Hunyadi u. 1
+Hunyadi János u. 1
+Hunyadi János u. 1
+Hunyadi László u. 1
+Hunyadi László u. 1
+Hunyadvár u. 1
+Hunyor u. 1
+Húr u. 1
+Hurok u. 1
+Husáng u. 1
+Huszár u. 1
+Huszár u. 1
+Huszár u. 1
+Huszár u. 1
+Huszt u. 1
+Hutyra Ferenc u. 1
+Huzal u. 1
+Hűség u. 1
+Hűtő u. 1
+Hűvös u. 1
+Hűvöskert u. 1
+I. u. 1
+I. u. 1
+Ibolya u. 1
+Ibolya u. 1
+Ibolya u. 1
+Ibolyás u. 1
+Ibrahim u. 1
+Ibrány u. 1
+Ibrik u. 1
+Ida u. 1
+Ifjúmunkás u. 1
+Igaz u. 1
+Igazság u. 1
+Iglice u. 1
+Iglice u. 1
+Igló u. 1
+Igló u. 1
+Igló u. 1
+Igló u. 1
+Iglói u. 1
+Iglói u. 1
+Iglói u. 1
+Igmándi u. 1
+Ignác u. 1
+Ignotus u. 1
+Igric u. 1
+Iharfa u. 1
+Iharos u. 1
+Iharos Sándor u. 1
+II. u. 1
+II. u. 1
+III. u. 1
+III. u. 1
+Íjász u. 1
+Iker u. 1
+Ildikó u. 1
+Ilka u. 1
+Illek Vince u. 1
+Illés u. 1
+Illocska u. 1
+Ilma u. 1
+Ilona u. 1
+Ilona u. 1
+Ilonka u. 1
+Ilosvai Selymes u. 1
+Iluska u. 1
+Imola u. 1
+Imre u. 1
+Imre u. 1
+Inda u. 1
+Inga u. 1
+Indóház u. 1
+Induló u. 1
+Ingovány u. 1
+Inotai u. 1
+Intarzia u. 1
+Ipacsfa u. 1
+Ipar u. 1
+Ipari park u. 1
+Iparos u. 1
+Ipartelep u. 1
+Ipartelep u. 1
+Ipartelepi u. 1
+Iparvágány u. 1
+Iparvasút u. 1
+Ipoly u. 1
+Ipolyság u. 1
+Ipolyság u. 1
+Ipolyság u. 1
+Ipolyság u. 1
+Iram u. 1
+Irány u. 1
+Irányi u. 1
+Irányi u. 1
+Irányi Dániel u. 1
+Irányi Dániel u. 1
+Irányi u. 1
+Irányi Dániel u. 1
+Írás u. 1
+Irén u. 1
+Irha u. 1
+Iringó u. 1
+Irinyi János u. 1
+Írisz u. 1
+Irisz u. 1
+Irma u. 1
+Írottkő u. 1
+Irsa u. 1
+Irsai Olivér u. 1
+Irtás u. 1
+Iskola u. 1
+Iskola u. 1
+Iskola u. 1
+Iskola u. 1
+Ispiláng u. 1
+Istráng u. 1
+István u. 1
+István u. 1
+István u. 1
+István király u. 1
+Istvánffy u. 1
+Iszalag u. 1
+Iszap u. 1
+Ív u. 1
+IV. u. 1
+IV. u. 1
+Ivánka Pál u. 1
+IX. u. 1
+IX. u. 1
+Izbég u. 1
+Izsó u. 1
+Izzó u. 1
+Jáde u. 1
+Ják u. 1
+Jakab Apostol u. 1
+Jakab József u. 1
+Jakabháza u. 1
+Janda Vilmos u. 1
+Janicsár u. 1
+János u. 1
+János apostol u. 1
+János Zsigmond u. 1
+Jánosbogár u. 1
+Jánoshida u. 1
+Járműtelep u. 1
+Járóka u. 1
+Járőr u. 1
+Jáspis u. 1
+Jászágó u. 1
+Jászapáti u. 1
+Jászdózsa u. 1
+Jászhalom u. 1
+Jászivány u. 1
+Jászkisér u. 1
+Jászladány u. 1
+Jászóvár u. 1
+Jásztelek u. 1
+Játék u. 1
+Jávor u. 1
+Jávorfa u. 1
+Jávorka Ádám u. 1
+Jázmin u. 1
+Jázmin u. 1
+Jázminos u. 1
+Jedlik Ányos u. 1
+Jég u. 1
+Jégcsap u. 1
+Jegenye u. 1
+Jegenye u. 1
+Jegenye u. 1
+Jegenyefa u. 1
+Jeges u. 1
+Jegesmedve u. 1
+Jégmadár u. 1
+Jégverem u. 1
+Jégvirág u. 1
+Jéggyár u. 1
+Jeles u. 1
+Jelző u. 1
+Jendrassik György u. 1
+Jenőhalom u. 1
+Jérce u. 1
+Jeszenák János u. 1
+Jó u. 1
+Jobbágy u. 1
+Jogar u. 1
+Jókai u. 1
+Jókai u. 1
+Jókai u. 1
+Jókai u. 1
+Jókai u. 1
+Jókai u. 1
+Jókai u. 1
+Jókai Mór u. 1
+Jókai Mór u. 1
+Jolán u. 1
+Jolsva u. 1
+Jós u. 1
+Jósika u. 1
+Jósika u. 1
+Jósika u. 1
+Jósika Miklós u. 1
+Jósika u. 1
+Jósika u. 1
+József u. 1
+József u. 1
+József u. 1
+József u. 1
+József u. 1
+József Attila u. 1
+József Attila u. 1
+József Attila u. 1
+József Attila u. 1
+József Attila u. 1
+József Attila u. 1
+József Attila u. 1
+Józsefhegyi u. 1
+Jövendő u. 1
+Judit u. 1
+Juhar u. 1
+Juharos u. 1
+Juhász u. 1
+Juhász Gyula u. 1
+Juhász József u. 1
+Juhos u. 1
+Júlia u. 1
+Julianus barát u. 1
+Julika u. 1
+Jungfer Gyula u. 1
+Június u. 1
+Jupiter u. 1
+Juranics u. 1
+Jurányi u. 1
+Jurisich Miklós u. 1
+Jutas u. 1
+Kabai u. 1
+Kabar u. 1
+Kábel u. 1
+Kacagány u. 1
+Kacor u. 1
+Kacsa u. 1
+Kádár u. 1
+Kadarka u. 1
+Kadosa u. 1
+Kaffka Margit u. 1
+Kagyló u. 1
+Kajár u. 1
+Kajszi u. 1
+Káka u. 1
+Kakukkfű u. 1
+Kála u. 1
+Kalács u. 1
+Kaláka u. 1
+Kalap u. 1
+Kalapács u. 1
+Kaláris u. 1
+Kalász u. 1
+Kalauz u. 1
+Káldor Adolf u. 1
+Káldy Gyula u. 1
+Kalitka u. 1
+Kálló esperes u. 1
+Kálmán u. 1
+Kálmán u. 1
+Kálmán Imre u. 1
+Kalmár u. 1
+Kalmárvölgy u. 1
+Kálmos u. 1
+Kálnok u. 1
+Kalocsai u. 1
+Kalotaszeg u. 1
+Kálti Márk u. 1
+Kálvária u. 1
+Kálváriahegy u. 1
+Kálvin János u. 1
+Kámfor u. 1
+Kamilla u. 1
+Kamion u. 1
+Kamra u. 1
+Kanalasgém u. 1
+Kanász u. 1
+Kancsó u. 1
+Kandó Kálmán u. 1
+Kanizsai u. 1
+Kanizsai Dorottya u. 1
+Kankalin u. 1
+Kanóc u. 1
+Kantár u. 1
+Kántor u. 1
+Kánya u. 1
+Kányakapu u. 1
+Kanyargó u. 1
+Kányavár u. 1
+Kápa u. 1
+Kapaszkodó u. 1
+Kapisztrán u. 1
+Kapisztrán u. 1
+Kapisztrán János u. 1
+Kapitány u. 1
+Káplár u. 1
+Kapocs u. 1
+Kapolcs u. 1
+Kápolna u. 1
+Kapor u. 1
+Kapos u. 1
+Kaposvár u. 1
+Káposztás u. 1
+Káposztásföld u. 1
+Kappel Emília u. 1
+Kaptár u. 1
+Kaptárkő u. 1
+Kaptató u. 1
+Kapu u. 1
+Kapucinus u. 1
+Kapuvár u. 1
+Kapy u. 1
+Kara u. 1
+Karabély u. 1
+Karácsony u. 1
+Karácsony Sándor u. 1
+Karácsony Sándor u. 1
+Karácsony Sándor u. 1
+Karancs u. 1
+Karánsebes u. 1
+Karap u. 1
+Kárász u. 1
+Karát u. 1
+Karatna u. 1
+Karcag u. 1
+Kard u. 1
+Kardhegy u. 1
+Kardos u. 1
+Kardvirág u. 1
+Karéj u. 1
+Karéjos u. 1
+Karikás Frigyes u. 1
+Karinthy Frigyes u. 1
+Karinthy Frigyes u. 1
+Kármán u. 1
+Kármán Tódor u. 1
+Karmazsin u. 1
+Karó u. 1
+Károly u. 1
+Károlyi u. 1
+Kárpát u. 1
+Kárpát u. 1
+Kárpát u. 1
+Kárpáti u. 1
+Kárpitos u. 1
+Karszt u. 1
+Kartács u. 1
+Kartal u. 1
+Karthauzi u. 1
+Kártoló u. 1
+Karton u. 1
+Kártya u. 1
+Karvaly u. 1
+Kas u. 1
+Kása u. 1
+Kassa u. 1
+Kassa u. 1
+Kassai u. 1
+Kassai u. 1
+Kassai u. 1
+Kassai u. 1
+Kassák Lajos u. 1
+Kastélymúzeum u. 1
+Kastélypark u. 1
+Kasza u. 1
+Kasza János u. 1
+Kaszakő u. 1
+Kaszáló u. 1
+Kaszás u. 1
+Kaszásdűlő u. 1
+Kászon u. 1
+Kászony u. 1
+Katafa u. 1
+Katakomba u. 1
+Katalin u. 1
+Katáng u. 1
+Katica u. 1
+Katinka u. 1
+Katlan u. 1
+Katód u. 1
+Katóka u. 1
+Katona u. 1
+Katona József u. 1
+Katona József u. 1
+Katona József u. 1
+Katona József u. 1
+Katona József u. 1
+Katona József u. 1
+Katona József u. 1
+Katymár u. 1
+Kavics u. 1
+Kazal u. 1
+Kazán u. 1
+Kazánház u. 1
+Kazánkovács u. 1
+Kazinczy u. 1
+Kazinczy u. 1
+Kazinczy u. 1
+Kazinczy u. 1
+Kazinczy u. 1
+Kazinczy u. 1
+Kázmér u. 1
+Kecel u. 1
+Kecsege u. 1
+Kecses u. 1
+Kecske u. 1
+Kecskefűz u. 1
+Kecskeméti u. 1
+Kecskeméti József u. 1
+Kecskerágó u. 1
+Kedves u. 1
+Kehely u. 1
+Kékbegy u. 1
+Kékcinke u. 1
+Kékes u. 1
+Kékfestő u. 1
+Kékliliom u. 1
+Kéknyelű u. 1
+Kékperje u. 1
+Kékszilva u. 1
+Kékvirág u. 1
+Kele u. 1
+Kelemen László u. 1
+Kelén u. 1
+Kelenvölgyi u. 1
+Kelep u. 1
+Kelet u. 1
+Keleti Károly u. 1
+Kelevéz u. 1
+Kelme u. 1
+Kelta u. 1
+Kemence u. 1
+Kemenes u. 1
+Kémény u. 1
+Kemény Gusztáv u. 1
+Kemény István u. 1
+Kemény Zsigmond u. 1
+Kemény Zsigmond u. 1
+Kéményseprő u. 1
+Kempelen Farkas u. 1
+Kén u. 1
+Kende u. 1
+Kender u. 1
+Kender u. 1
+Kenderes u. 1
+Kenderike u. 1
+Kenderkóc u. 1
+Kendermag u. 1
+Kendő u. 1
+Kenese u. 1
+Kenéz u. 1
+Kengyel u. 1
+Kenyérmező u. 1
+Kenyérmező u. 1
+Kenyérmező u. 1
+Kép u. 1
+Képíró u. 1
+Kér u. 1
+Kerámia u. 1
+Kerecsen u. 1
+Kerecseny u. 1
+Kéreg u. 1
+Kerék u. 1
+Kerekes u. 1
+Kerekeskút u. 1
+Kerékgyártó u. 1
+Kerekhegyi u. 1
+Kerektói u. 1
+Kerényi Frigyes u. 1
+Kérész u. 1
+Kereszt u. 1
+Kereszt u. 1
+Kereszt u. 1
+Kereszthegy u. 1
+Keringő u. 1
+Kérő u. 1
+Kert u. 1
+Kertalja u. 1
+Kertes u. 1
+Kertész u. 1
+Kertész u. 1
+Kertészföld u. 1
+Kertművelő u. 1
+Kertváros u. 1
+Kerülő u. 1
+Keselyű u. 1
+Keserűfű u. 1
+Keserűvíz u. 1
+Keskeny u. 1
+Késmárk u. 1
+Késmárk u. 1
+Késmárk u. 1
+Késmárki u. 1
+Késmárki u. 1
+Késmárki u. 1
+Késmárki u. 1
+Keszeg u. 1
+Keszi u. 1
+Keszkenő u. 1
+Kétlovas u. 1
+Kettős-Körös u. 1
+Kétújfalu u. 1
+Kétvölgy u. 1
+Keve u. 1
+Keve u. 1
+Kéve u. 1
+Keveháza u. 1
+Kévekötő u. 1
+Kevély u. 1
+Kevélyhegyi u. 1
+Kevermes u. 1
+Kévevágó u. 1
+Kevevári u. 1
+Kézai Simon u. 1
+Kézbesítő u. 1
+Kézdiszentlélek u. 1
+Kézdivásárhely u. 1
+Kézműves u. 1
+Kicsi u. 1
+Kies u. 1
+Kígyó u. 1
+Kikelet u. 1
+Kikerics u. 1
+Kikötő u. 1
+Kikötő u. 1
+Kilátás u. 1
+Kilátó u. 1
+Kilincs u. 1
+Kincs u. 1
+Kincses u. 1
+Kinizsi u. 1
+Kinizsi u. 1
+Kinizsi u. 1
+Kinizsi u. 1
+Kinizsi u. 1
+Kinizsi u. 1
+Kinizsi u. 1
+Kinizsi Pál u. 1
+Kinizsi Pál u. 1
+Kinizsi Pál u. 1
+Király u. 1
+Királyfürdő u. 1
+Királyhágó u. 1
+Királyhelmec u. 1
+Királyhida u. 1
+Királyi Pál u. 1
+Királyka u. 1
+Királyleányka u. 1
+Királyliliom u. 1
+Kiránduló u. 1
+Kirgiz u. 1
+Kis u. 1
+Kis u. 1
+Kis Diófa u. 1
+Kis nyírfa u. 1
+Kisasszony u. 1
+Kisasszonyfa u. 1
+Kisbacon u. 1
+Kisbér u. 1
+Kisbojtár u. 1
+Kiscsillag u. 1
+Kisdomb u. 1
+Kis-Duna u. 1
+Kiserdő u. 1
+Kisérő u. 1
+Kisfaludy u. 1
+Kisfaludy u. 1
+Kisfaludy u. 1
+Kisfaludy u. 1
+Kisfaludy u. 1
+Kisfaludy u. 1
+Kis Fuvaros u. 1
+Kisgazda u. 1
+Kisgergely u. 1
+Kisgömb u. 1
+Kishalom u. 1
+Kisharang u. 1
+Kiskalmár u. 1
+Kis Károshíd u. 1
+Kiskert u. 1
+Kiskert u. 1
+Kiskevély u. 1
+Kiskócsag u. 1
+Kiskorona u. 1
+Kisködmön u. 1
+Kis Kőbánya u. 1
+Kisköre u. 1
+Kiskőrös u. 1
+Kiskőszeg u. 1
+Kiskút u. 1
+Kislilik u. 1
+Kislippó u. 1
+Kismákfa u. 1
+Kismező u. 1
+Kispajtás u. 1
+Kispesti u. 1
+Kis Rákos u. 1
+Kis Rókus u. 1
+Kiss Áron u. 1
+Kiss Ernő u. 1
+Kiss Ernő u. 1
+Kiss Ernő u. 1
+Kiss Ernő u. 1
+Kiss Ernő u. 1
+Kiss István u. 1
+Kiss János u. 1
+Kiss János u. 1
+Kiss János u. 1
+Kiss János u. 1
+Kiss János u. 1
+Kiss János altábornagy u. 1
+Kiss János altábornagy u. 1
+Kiss József u. 1
+Kis Salétrom u. 1
+Kis Sörgyár u. 1
+Kis Stáció u. 1
+Kistanya u. 1
+Kistelek u. 1
+Kisterenye u. 1
+Kistétény u. 1
+Kisújszállás u. 1
+Kisüsti u. 1
+Kisvárda u. 1
+Kisvölgy u. 1
+Klapka u. 1
+Klapka u. 1
+Klapka u. 1
+Klapka u. 1
+Klapka György u. 1
+Klapka György u. 1
+Klapka György u. 1
+Klára u. 1
+Klauzál u. 1
+Klauzál u. 1
+Klauzál u. 1
+Klauzál Gábor u. 1
+Klebelsberg Kunó u. 1
+Klébl Márton u. 1
+Kléh István u. 1
+Kmety György u. 1
+Kmety u. 1
+Knézits u. 1
+Knézits u. 1
+Knézits u. 1
+Knézits Károly u. 1
+Knoll József u. 1
+Koboz u. 1
+Koch Aladár u. 1
+Kocka u. 1
+Kocs u. 1
+Kocsmáros u. 1
+Kócsag u. 1
+Kócsag u. 1
+Kocsány u. 1
+Kocsis u. 1
+Kocsola u. 1
+Kohász u. 1
+Kohó u. 1
+Kokárda u. 1
+Kolbányi Géza u. 1
+Kolibri u. 1
+Kolozs u. 1
+Kolozsvár u. 1
+Kolozsvár u. 1
+Kolozsvár u. 1
+Kolozsvár u. 1
+Kolozsvár u. 1
+Kolozsvári u. 1
+Kolozsvári u. 1
+Kolozsvári u. 1
+Kolozsvári Tamás u. 1
+Kolta u. 1
+Koma u. 1
+Komárom u. 1
+Komárom u. 1
+Komáromi u. 1
+Komjádi Béla u. 1
+Komjáti Gyula u. 1
+Komló u. 1
+Komócsy u. 1
+Komondor u. 1
+Komor Marcell u. 1
+Komp u. 1
+Kond u. 1
+Kond vezér u. 1
+Kondor u. 1
+Kondorfa u. 1
+Kondorkert u. 1
+Kont vezér u. 1
+Kontyfa u. 1
+Konzervgyár u. 1
+Kopácsi Sándor u. 1
+Kopáncs u. 1
+Kopár u. 1
+Kópé u. 1
+Kópházi u. 1
+Kopja u. 1
+Kopolya u. 1
+Koppány u. 1
+Koppány u. 1
+Koppány u. 1
+Koppány vezér u. 1
+Korall u. 1
+Korányi Frigyes u. 1
+Korlát u. 1
+Kormányos u. 1
+Kormorán u. 1
+Kornél u. 1
+Kóró u. 1
+Korom u. 1
+Koronafürt u. 1
+Korond u. 1
+Korong u. 1
+Korongozó u. 1
+Korpona u. 1
+Korponai u. 1
+Korsó u. 1
+Korsó u. 1
+Kórus u. 1
+Kosár u. 1
+Kosár u. 1
+Kosárfonó u. 1
+Kosbor u. 1
+Kosciuszkó Tádé u. 1
+Kossuth u. 1
+Kossuth u. 1
+Kossuth u. 1
+Kossuth Lajos u. 1
+Kossuth Lajos u. 1
+Kossuth Lajos u. 1
+Kossuth Lajos u. 1
+Kossuth Lajos u. 1
+Kossuthfalva u. 1
+Koszorú u. 1
+Koszta József u. 1
+Koszterna Gyula u. 1
+Kosztolányi Dezső u. 1
+Kotász Károly u. 1
+Kova u. 1
+Kovács u. 1
+Kovácsi u. 1
+Kovakő u. 1
+Kovász u. 1
+Kovászna u. 1
+Kozma u. 1
+Kozma Ferenc u. 1
+Kosd u. 1
+Kő u. 1
+Kő u. 1
+Kő u. 1
+Kőbánya u. 1
+Kőbányai u. 1
+Köbölkút u. 1
+Köd u. 1
+Ködmön u. 1
+Ködös u. 1
+Kőér u. 1
+Kőfal u. 1
+Kőfaragó u. 1
+Kőfejtő u. 1
+Kőhalom u. 1
+Kőhárs u. 1
+Kőhíd u. 1
+Kőhúr u. 1
+Kökény u. 1
+Kökényes u. 1
+Kőkert u. 1
+Kökörcsin u. 1
+Kökörcsin u. 1
+Kölcsey u. 1
+Kölcsey u. 1
+Kölcsey u. 1
+Kölcsey u. 1
+Kölcsey u. 1
+Kölcsey u. 1
+Kölcsey u. 1
+Kölcsey u. 1
+Kölcsey u. 1
+Köles u. 1
+Kölönte u. 1
+Költő u. 1
+Kőmáli u. 1
+Kömény u. 1
+Kőműves u. 1
+Könyök u. 1
+Könyves u. 1
+Könyves György u. 1
+Könyvkötő u. 1
+Könyvtár u. 1
+Kőoltár u. 1
+Kőpor u. 1
+Kör u. 1
+Kőris u. 1
+Kőris u. 1
+Kőrisfa u. 1
+Körmend u. 1
+Körmöcbánya u. 1
+Körmöci u. 1
+Körmöci u. 1
+Körmöci u. 1
+Kőrózsa u. 1
+Körömvirág u. 1
+Körös u. 1
+Körös u. 1
+Körös u. 1
+Kőrösbánya u. 1
+Kőrösy József u. 1
+Kőrösi Sándor u. 1
+Köröstói u. 1
+Körösszeg u. 1
+Körte u. 1
+Körte u. 1
+Körtefa u. 1
+Körtés u. 1
+Körtvélyes u. 1
+Körző u. 1
+Kösöntyű u. 1
+Kőszál u. 1
+Kőszeg u. 1
+Köszegi u. 1
+Kőszirt u. 1
+Köszméte u. 1
+Köszörűs u. 1
+Kötél u. 1
+Kőtelek u. 1
+Köteles u. 1
+Kötélgyártó u. 1
+Kötélverő u. 1
+Kötő u. 1
+Kötő u. 1
+Kötőfék u. 1
+Kőtörő u. 1
+Kővágó u. 1
+Kövecses u. 1
+Kövér Lajos u. 1
+Kövesföld u. 1
+Kövező u. 1
+Kövidinka u. 1
+Kövirigó u. 1
+Kövirózsa u. 1
+Középkert u. 1
+Középtemető u. 1
+Kőzet u. 1
+Közgazdász u. 1
+Közműhelytelep u. 1
+Közraktár u. 1
+Köztársaság u. 1
+Köztelek u. 1
+Köztemető u. 1
+Közvágóhíd u. 1
+Községház u. 1
+Krajcár u. 1
+Krasznahorka u. 1
+Krecsányi u. 1
+Krenedits Sándor u. 1
+Kresz Géza u. 1
+Kréta u. 1
+Kristály u. 1
+Kriván u. 1
+Kriván u. 1
+Kriza János u. 1
+Krizantém u. 1
+Krúdy u. 1
+Krúdy Gyula u. 1
+Kruspér u. 1
+Kubik u. 1
+Kubikos u. 1
+Kubinyi Imre u. 1
+Kucorgó u. 1
+Kucsma u. 1
+Kukorica u. 1
+Kukoricás u. 1
+Kulacs u. 1
+Kulcs u. 1
+Kulcsár u. 1
+Kulpa u. 1
+Kun u. 1
+Kun u. 1
+Kund u. 1
+Kunhalom u. 1
+Kunhegyes u. 1
+Kuny Domokos u. 1
+Kunyhó u. 1
+Kupa u. 1
+Kupeczky u. 1
+Kupeczky János u. 1
+Kuróczy Pál u. 1
+Kurszán u. 1
+Kurta u. 1
+Kuruc u. 1
+Kuruc u. 1
+Kút u. 1
+Kutassy Ágoston u. 1
+Kútföldi u. 1
+Kuvik u. 1
+Kuzsinszky u. 1
+Küküllő u. 1
+Küküllő u. 1
+Külső Mester u. 1
+Külső Vörösmarty u. 1
+Kürt u. 1
+Kürtös u. 1
+Kvasz András u. 1
+Labdarózsa u. 1
+Labdarúgó u. 1
+Labdaverő u. 1
+Laborc u. 1
+Laborfalvi Róza u. 1
+Laczkovich u. 1
+Ladányi u. 1
+Ládháza u. 1
+Ladik u. 1
+Ladik u. 1
+Laffert u. 1
+Lágymányosi u. 1
+Lahner György u. 1
+Lajos u. 1
+Lajos u. 1
+Lajos u. 1
+Lajos u. 1
+Lajosház u. 1
+Lajta u. 1
+Lajtha László u. 1
+Lajtorja u. 1
+Lakat u. 1
+Lakatos u. 1
+Lakitelek u. 1
+Lakkozó u. 1
+Lakó u. 1
+Laktanya u. 1
+Lámpa u. 1
+Lámpagyár u. 1
+Lámpás u. 1
+Lánc u. 1
+Láncfű u. 1
+Lánchíd u. 1
+Láncszem u. 1
+Landler u. 1
+Lándzsa u. 1
+Láng Endre u. 1
+Langlet Waldemár u. 1
+Lángliliom u. 1
+Lángvirág u. 1
+Lanka u. 1
+Lankás u. 1
+Lant u. 1
+Lant u. 1
+Lantos u. 1
+Lányi Antal u. 1
+Lapály u. 1
+Lapát u. 1
+Lapátos u. 1
+Lápos u. 1
+Lapos u. 1
+Lappantyú u. 1
+Lapu u. 1
+Laska u. 1
+Laskó u. 1
+Lassú u. 1
+László u. 1
+Lászlófalva u. 1
+Latabár Kálmán u. 1
+Látóhegy u. 1
+Latorca u. 1
+Latorca u. 1
+Latorca u. 1
+Laufenauer u. 1
+Láva u. 1
+Lavotta u. 1
+Lázár u. 1
+Lázár deák u. 1
+Lázár Vilmos u. 1
+Lázár Vilmos u. 1
+Lea u. 1
+Leányfalu u. 1
+Leányka u. 1
+Léc u. 1
+Lecke u. 1
+Légcsavar u. 1
+Legelő u. 1
+Legenda u. 1
+Legény u. 1
+Legénybíró u. 1
+Legényes u. 1
+Legényrózsa u. 1
+Légió u. 1
+Légszesz u. 1
+Legyező u. 1
+Legyezőfű u. 1
+Lehel u. 1
+Lehel u. 1
+Lehel u. 1
+Lehel u. 1
+Lehel u. 1
+Lehel u. 1
+Lehel u. 1
+Leiningen u. 1
+Leiningen u. 1
+Leiningen Károly u. 1
+Leiningen Károly u. 1
+Léka u. 1
+Lelesz u. 1
+Lemberg u. 1
+Len u. 1
+Lencse u. 1
+Lendvay u. 1
+Lenfonó u. 1
+Lengő u. 1
+Lengyel u. 1
+Lenhossék u. 1
+Lenke u. 1
+Lenke u. 1
+Lenke u. 1
+Lenkeház u. 1
+Lenkei u. 1
+Lenkei János u. 1
+Lenvászon u. 1
+Lenvirág u. 1
+Leonardo da Vinci u. 1
+Lépcsős u. 1
+Lepence u. 1
+Lépés u. 1
+Lepke u. 1
+Lepke u. 1
+Lepkeszeg u. 1
+Lepkevirág u. 1
+Leshegy u. 1
+Lestyán u. 1
+Létai András u. 1
+Létra u. 1
+Léva u. 1
+Léva u. 1
+Léva u. 1
+Léva u. 1
+Lévay u. 1
+Lévay u. 1
+Levél u. 1
+Leveles u. 1
+Levendula u. 1
+Levente u. 1
+Libertás u. 1
+Lidérc u. 1
+Lídia u. 1
+Liget u. 1
+Liget u. 1
+Liget u. 1
+Liget u. 1
+Liget u. 1
+Likőr u. 1
+Lila u. 1
+Lilaakác u. 1
+Lilaorgona u. 1
+Lilik u. 1
+Liliom u. 1
+Liliom u. 1
+Liliom u. 1
+Liliom u. 1
+Liliom u. 1
+Liliomfa u. 1
+Lilla u. 1
+Lillafüred u. 1
+Limanova u. 1
+Lipcse u. 1
+Lipót u. 1
+Lipótvár u. 1
+Lippa u. 1
+Lipthay u. 1
+Liptó u. 1
+Liptói u. 1
+Líra u. 1
+Lisznyai u. 1
+Liszt u. 1
+Liszt Ferenc u. 1
+Liszt Ferenc u. 1
+Litva u. 1
+Lívia u. 1
+Lóállás u. 1
+Lobbanó u. 1
+Lobó u. 1
+Lobogó u. 1
+Lóca u. 1
+Lóczy Lajos u. 1
+Locsoló u. 1
+Logodi u. 1
+Lokátor u. 1
+Lokomotív u. 1
+Lókos u. 1
+Lósy Imre u. 1
+Lomb u. 1
+Lombos u. 1
+Lomnic u. 1
+Lomnici u. 1
+Lomnici u. 1
+Lonka u. 1
+Lónyay u. 1
+Lorántffy Zsuzsanna u. 1
+Lórév u. 1
+Losonc u. 1
+Losonc u. 1
+Losonc u. 1
+Losonci u. 1
+Losonci u. 1
+Lotz Károly u. 1
+Lotz Károly u. 1
+Lovag u. 1
+Lovarda u. 1
+Lovas u. 1
+Lóvásár u. 1
+Lovassy László u. 1
+Lovász u. 1
+Lovasvölgyi u. 1
+Lőtér u. 1
+Lőcs u. 1
+Lőcse u. 1
+Lőcse u. 1
+Lőcsei u. 1
+Lőcsei u. 1
+Lőcsei u. 1
+Lőcsevár u. 1
+Lőpor u. 1
+Lőpormalom u. 1
+Lőportár u. 1
+Lőportorony u. 1
+Lőrinc u. 1
+Löveg u. 1
+Lövész u. 1
+Lövőház u. 1
+Lőwy Izsák u. 1
+Lublói u. 1
+Lucernás u. 1
+Lucfenyő u. 1
+Lúd u. 1
+Ludány u. 1
+Ludas u. 1
+Lugas u. 1
+Lugos u. 1
+Lugosi u. 1
+Lujza u. 1
+Lujza u. 1
+Lukács u. 1
+Lukács György u. 1
+Lukácsi Sándor u. 1
+Lupény u. 1
+Luther u. 1
+Luther Márton u. 1
+Lyka Károly u. 1
+Mackó u. 1
+Mácsonya u. 1
+Madách u. 1
+Madách u. 1
+Madách u. 1
+Madách u. 1
+Madách u. 1
+Madách u. 1
+Madách Imre u. 1
+Madár u. 1
+Madaras u. 1
+Madarassy László u. 1
+Madarász u. 1
+Madárhegy u. 1
+Madéfalva u. 1
+Maderspach Károlyné u. 1
+Mády Lajos u. 1
+Madzsar József u. 1
+Mag u. 1
+Magas u. 1
+Magasház u. 1
+Magasházy u. 1
+Magaslati u. 1
+Magasles u. 1
+Magdolna u. 1
+Magdolna u. 1
+Magdolna u. 1
+Mágnes u. 1
+Magnólia u. 1
+Magtár u. 1
+Magvető u. 1
+Magyar u. 1
+Magyar u. 1
+Magyar u. 1
+Magyar u. 1
+Magyar László u. 1
+Magyarádi u. 1
+Magyarfalu u. 1
+Magyarhida u. 1
+Magyari István u. 1
+Magyarvár u. 1
+Majális u. 1
+Majolika u. 1
+Major u. 1
+Majoranna u. 1
+Majosháza u. 1
+Május u. 1
+Május 1. u. 1
+Májusfa u. 1
+Mák u. 1
+Makád u. 1
+Makk u. 1
+Makkos u. 1
+Makó Pál u. 1
+Makói u. 1
+Maláta u. 1
+Maléter Pál u. 1
+Málna u. 1
+Malomárok u. 1
+Malom csárda u. 1
+Malomház u. 1
+Malomkerék u. 1
+Malomkő u. 1
+Malomkő u. 1
+Malomvíz u. 1
+Mályinka u. 1
+Mályva u. 1
+Mályva u. 1
+Mályvarózsa u. 1
+Mandula u. 1
+Mandula u. 1
+Mandulafa u. 1
+Mandulavirág u. 1
+Mansfeld Péter u. 1
+Mansfeld Péter u. 1
+Mányoki u. 1
+Mányoki Ádám u. 1
+Marabu u. 1
+Máramarosi u. 1
+Máramarosi u. 1
+Máramarossziget u. 1
+Marcell u. 1
+Március u. 1
+Március 15. u. 1
+Marek József u. 1
+Márfa u. 1
+Márffy u. 1
+Márga u. 1
+Margaréta u. 1
+Margit u. 1
+Margit u. 1
+Margit u. 1
+Margitháza u. 1
+Margitliget u. 1
+Margó u. 1
+Mária u. 1
+Mária u. 1
+Mária u. 1
+Mária u. 1
+Mária u. 1
+Mária u. 1
+Máriahegy u. 1
+Mária Terézia u. 1
+Máriás u. 1
+Máriássy u. 1
+Markó u. 1
+Markovits Iván u. 1
+Márkus Emília u. 1
+Márna u. 1
+Marógép u. 1
+Marokszedő u. 1
+Maros u. 1
+Maros u. 1
+Maros u. 1
+Maros u. 1
+Maros u. 1
+Maros u. 1
+Maros u. 1
+Marosfő u. 1
+Maroshévíz u. 1
+Marosújvár u. 1
+Marosvásárhely u. 1
+Marót u. 1
+Mars u. 1
+Márta u. 1
+Martin u. 1
+Martinász u. 1
+Martinovics u. 1
+Martinovics u. 1
+Martinovics u. 1
+Martinovics u. 1
+Martinovics Ignác u. 1
+Márton u. 1
+Mártonfa u. 1
+Mártonffy u. 1
+Mártonlak u. 1
+Márvány u. 1
+Máté u. 1
+Máté apostol u. 1
+Mátéháza u. 1
+Mátészalka u. 1
+Matild u. 1
+Mátka u. 1
+Mátra u. 1
+Mátra u. 1
+Mátra u. 1
+Mátra u. 1
+Mátrafüred u. 1
+Mátray u. 1
+Matróz u. 1
+Matróz u. 1
+Mátyás u. 1
+Mátyás u. 1
+Mátyás u. 1
+Mátyás u. 1
+Mátyás király u. 1
+Mátyás király u. 1
+Mátyás király u. 1
+Mátyás király u. 1
+Matyó u. 1
+Mayerffy Ferenc u. 1
+Mázoló u. 1
+Mázsa u. 1
+Mazsola u. 1
+Mecenzéf u. 1
+Mecseki u. 1
+Mécses u. 1
+Mecset u. 1
+Mécsvirág u. 1
+Meddőhányó u. 1
+Medence u. 1
+Meder u. 1
+Meder u. 1
+Medgyessy Ferenc u. 1
+Mednyánszky u. 1
+Medve u. 1
+Medve u. 1
+Medvehagyma u. 1
+Medveszőlő u. 1
+Medvetalp u. 1
+Meggy u. 1
+Meggyes u. 1
+Meggyfa u. 1
+Meggyvágó u. 1
+Megyer u. 1
+Méh u. 1
+Méhecske u. 1
+Méhes u. 1
+Méhes u. 1
+Melczer u. 1
+Mély u. 1
+Mélyfúró u. 1
+Mélykút u. 1
+Mélytó u. 1
+Mendei u. 1
+Menedékház u. 1
+Menedékes u. 1
+Ménes u. 1
+Menyasszony u. 1
+Menta u. 1
+Mentő u. 1
+Menyecske u. 1
+Menyhért u. 1
+Méra u. 1
+Merész u. 1
+Merkur u. 1
+Mérleg u. 1
+Mérleg u. 1
+Mérnök u. 1
+Mérő u. 1
+Merzse u. 1
+Mese u. 1
+Mesgye u. 1
+Mester u. 1
+Mesterházy u. 1
+Mész u. 1
+Mészáros u. 1
+Mészáros József u. 1
+Mészégető u. 1
+Meszes u. 1
+Mészkő u. 1
+Mészöly u. 1
+Méta u. 1
+Meténg u. 1
+Méter u. 1
+Metró u. 1
+Méz u. 1
+Mézes u. 1
+Mézesfehér u. 1
+Mező u. 1
+Mező u. 1
+Mezőcsát u. 1
+Mezőhegyes u. 1
+Mezőlak u. 1
+Mezőőr u. 1
+Mezősas u. 1
+Mezőtárkány u. 1
+Mezőtúr u. 1
+Mezővár u. 1
+Miatyánk u. 1
+Miatyánk u. 1
+Micimackó u. 1
+Mihalik Sándor u. 1
+Mihálkovics u. 1
+Mihály u. 1
+Mikes u. 1
+Mikes u. 1
+Mikes Kelemen u. 1
+Mikes Kelemen u. 1
+Mikes Kelemen u. 1
+Mikes Kelemen u. 1
+Mikes Kelemen u. 1
+Mikes Kelemen u. 1
+Miklós u. 1
+Miklós u. 1
+Miklósvár u. 1
+Mikó u. 1
+Mikó Sándor u. 1
+Mikoviny u. 1
+Mikszáth u. 1
+Mikszáth Kálmán u. 1
+Mikszáth Kálmán u. 1
+Mikszáth Kálmán u. 1
+Mikszáth Kálmán u. 1
+Milán u. 1
+Mildenberger u. 1
+Millennium u. 1
+Mimóza u. 1
+Minár Gyula u. 1
+Minerva u. 1
+Minta u. 1
+Mintakert u. 1
+Mirtusz u. 1
+Mocsaras u. 1
+Modori u. 1
+Mogyoró u. 1
+Mogyorós u. 1
+Moha u. 1
+Mohács u. 1
+Mokány u. 1
+Mókus u. 1
+Mókus u. 1
+Molnár u. 1
+Molnár u. 1
+Molnár József u. 1
+Molnár Viktor u. 1
+Monda u. 1
+Mongol u. 1
+Monoki u. 1
+Monori u. 1
+Montevideo u. 1
+Mór u. 1
+Móra Ferenc u. 1
+Móra Ferenc u. 1
+Móri u. 1
+Móricz Zsigmond u. 1
+Móricz Zsigmond u. 1
+Morzsa u. 1
+Mosoly u. 1
+Mosonyi u. 1
+Mosztár u. 1
+Motor u. 1
+Motorkerékpár u. 1
+Mozaik u. 1
+Mozdonyfűtő u. 1
+Mozdonyvezető u. 1
+Mozsár u. 1
+Muflon u. 1
+Muhar u. 1
+Muhi u. 1
+Munkács u. 1
+Munkácsy u. 1
+Munkácsy u. 1
+Munkácsy Mihály u. 1
+Munkácsy Mihály u. 1
+Munkácsy Mihály u. 1
+Munkás u. 1
+Munkásház u. 1
+Mura u. 1
+Muraköz u. 1
+Muraközi u. 1
+Murányi u. 1
+Murányi u. 1
+Murányi u. 1
+Murányi u. 1
+Muránykő u. 1
+Muskátli u. 1
+Muskátli u. 1
+Muskátli u. 1
+Muskétás u. 1
+Muskotály u. 1
+Muskotályos u. 1
+Must u. 1
+Mustár u. 1
+Múzeum u. 1
+Muzsika u. 1
+Muzsla u. 1
+Műkő u. 1
+Műszerész u. 1
+Művelődés u. 1
+Művezető u. 1
+Nád u. 1
+Nadály u. 1
+Nádas u. 1
+Nádasdy u. 1
+Nádasdy u. 1
+Nádasdy Ferenc u. 1
+Nádasdy Kálmán u. 1
+Nádastó u. 1
+Náday Ferenc u. 1
+Nádirigó u. 1
+Nádor u. 1
+Nádor u. 1
+Nádor u. 1
+Nádor u. 1
+Nádor u. 1
+Nádor Ödön u. 1
+Nádorliget u. 1
+Nádszál u. 1
+Nádudvar u. 1
+Nádvágó u. 1
+Nágocs u. 1
+Nagy Balogh János u. 1
+Nagy Diófa u. 1
+Nagy Győri István u. 1
+Nagy Ignác u. 1
+Nagy Jenő u. 1
+Nagy Jenő u. 1
+Nagykároly u. 1
+Nagysándor József u. 1
+Nagyajtai u. 1
+Nagybánya u. 1
+Nagybecskerek u. 1
+Nagybecskerek u. 1
+Nagyboldogasszony u. 1
+Nagydobos u. 1
+Nagyenyed u. 1
+Nagyenyed u. 1
+Nagyenyed u. 1
+Nagy Fuvaros u. 1
+Nagy-Hangács u. 1
+Nagyicce u. 1
+Nagyida u. 1
+Nagykalapács u. 1
+Nagykanizsa u. 1
+Nagykapos u. 1
+Nagy Károshíd u. 1
+Nagykevély u. 1
+Nagykikinda u. 1
+Nagy Kőbánya u. 1
+Nagylegelői u. 1
+Nagymákfa u. 1
+Nagymező u. 1
+Nagymihály u. 1
+Nagyréde u. 1
+Nagyrét u. 1
+Nagysalló u. 1
+Nagysándor József u. 1
+Nagysándor József u. 1
+Nagysurány u. 1
+Nagyszalonta u. 1
+Nagyszalonta u. 1
+Nagyszeben u. 1
+Nagyszeben u. 1
+Nagyszeben u. 1
+Nagyszékes u. 1
+Nagyszénás u. 1
+Nagyszombat u. 1
+Nagyszombati u. 1
+Nagyszőlős u. 1
+Nagyszőlős u. 1
+Nagyszőlős u. 1
+Nagy Templom u. 1
+Nagyvárad u. 1
+Nagyvárad u. 1
+Nagyvárad u. 1
+Nagyváradi u. 1
+Nagyvázsony u. 1
+Nándor u. 1
+Nap u. 1
+Nap u. 1
+Nap u. 1
+Nap u. 1
+Nap u. 1
+Nap u. 1
+Nap u. 1
+Nap u. 1
+Napfény u. 1
+Napfény u. 1
+Napfürdő u. 1
+Naphegy u. 1
+Napkelet u. 1
+Napközi u. 1
+Naplemente u. 1
+Napló u. 1
+Napmátka u. 1
+Nápoly u. 1
+Napóra u. 1
+Napraforgó u. 1
+Naprét u. 1
+Naprózsa u. 1
+Napsugár u. 1
+Napvirág u. 1
+Narancs u. 1
+Narancsvirág u. 1
+Násfa u. 1
+Naspolya u. 1
+Naszád u. 1
+Násznagy u. 1
+Naszód u. 1
+Natasa u. 1
+Nebántsvirág u. 1
+Nebuló u. 1
+Nedecvár u. 1
+Nedű u. 1
+Nefelejcs u. 1
+Nefelejcs u. 1
+Nefelejcs u. 1
+Nefelejcs u. 1
+Nefelejcs u. 1
+Nefelejcs u. 1
+Negyed u. 1
+Négylovas u. 1
+Nektár u. 1
+Nemes u. 1
+Nemes u. 1
+Nemesbük u. 1
+Nemeske u. 1
+Német u. 1
+Németh József u. 1
+Németh László u. 1
+Németi Ernő u. 1
+Németpróna u. 1
+Nemez u. 1
+Népes u. 1
+Népfelkelő u. 1
+Népfürdő u. 1
+Népszínház u. 1
+Neptun u. 1
+Neumann János u. 1
+Nevegy u. 1
+Nevelő u. 1
+Névtelen u. 1
+Nezsider u. 1
+Nimród u. 1
+Nimród u. 1
+Noémi u. 1
+Nógrádi u. 1
+Nógrádkövesd u. 1
+Nonn János u. 1
+Nonn János u. 1
+Nóra u. 1
+Noszlopy u. 1
+Nótafa u. 1
+Nótárius u. 1
+Nőegylet u. 1
+Nőszirom u. 1
+Növény u. 1
+Nővér u. 1
+Nyár u. 1
+Nyár u. 1
+Nyár u. 1
+Nyár u. 1
+Nyár u. 1
+Nyárád u. 1
+Nyaraló u. 1
+Nyárfa u. 1
+Nyárfás u. 1
+Nyárs u. 1
+Nyáry Pál u. 1
+Nyáry Pál u. 1
+Nyáry Pál u. 1
+Nyáry Pál u. 1
+Nyáry Pál u. 1
+Nyél u. 1
+Nyereg u. 1
+Nyeremény u. 1
+Nyerges u. 1
+Nyerő u. 1
+Nyest u. 1
+Nyíl u. 1
+Nyílhegy u. 1
+Nyílpuska u. 1
+Nyílvessző u. 1
+Nyír u. 1
+Nyírbátor u. 1
+Nyíregyháza u. 1
+Nyírfa u. 1
+Nyírfajd u. 1
+Nyírség u. 1
+Nyitány u. 1
+Nyitra u. 1
+Nyitra u. 1
+Nyitra u. 1
+Nyitra u. 1
+Nyitra u. 1
+Nyitrai u. 1
+Nyomda u. 1
+Nyomdász u. 1
+Nyomdok u. 1
+Nyugalom u. 1
+Nyúl u. 1
+Nyúl u. 1
+Nyuszt u. 1
+Ó u. 1
+Óarany u. 1
+Óbarack u. 1
+Óbester u. 1
+Óbor u. 1
+Obsitos u. 1
+Óbudai u. 1
+Obulus u. 1
+Óceán-árok u. 1
+Óda u. 1
+Ódry u. 1
+Ófalu u. 1
+Ógyalla u. 1
+Óhegy u. 1
+Óhuta u. 1
+Október 6. u. 1
+Október huszonharmadika u. 1
+Olaj u. 1
+Olajbogyó u. 1
+Olajfa u. 1
+Olajhegy u. 1
+Olajkikötő u. 1
+Olajliget u. 1
+Olaszfa u. 1
+Olaszliszka u. 1
+Olasztelek u. 1
+Olcsva u. 1
+Olga u. 1
+Olló u. 1
+Ólom u. 1
+Olt u. 1
+Olt u. 1
+Olt u. 1
+Olt u. 1
+Oltárkő u. 1
+Olthíd u. 1
+Oltó u. 1
+Oltvány u. 1
+Ond u. 1
+Ond u. 1
+Ónodi u. 1
+Opál u. 1
+Oportó u. 1
+Óradna u. 1
+Orbán u. 1
+Orbán Balázs u. 1
+Orbó u. 1
+Orchidea u. 1
+Ordas u. 1
+Orgona u. 1
+Orgonafüzér u. 1
+Orgonás u. 1
+Orgoványi u. 1
+Orion u. 1
+Orkán u. 1
+Orlay u. 1
+Orló u. 1
+Ormánság u. 1
+Ormay Norbert u. 1
+Ormódi u. 1
+Ormos u. 1
+Orom u. 1
+Orom u. 1
+Orosháza u. 1
+Oroszlán u. 1
+Oroszvár u. 1
+Oroszvég u. 1
+Orsó u. 1
+Orsolya u. 1
+Orsova u. 1
+Orsova u. 1
+Orsovahida u. 1
+Orsovai u. 1
+Országalma u. 1
+Országház u. 1
+Országh Tivadar u. 1
+Ortaháza u. 1
+Orvos u. 1
+Ostor u. 1
+Ostorhegy u. 1
+Ostrom u. 1
+Osvát u. 1
+Oszkár u. 1
+Oszkó u. 1
+Oszlány u. 1
+Oszlop u. 1
+Osztag u. 1
+Osztály u. 1
+Otthon u. 1
+Ottó u. 1
+Óvár u. 1
+Óvoda u. 1
+Óvónő u. 1
+Ózdi u. 1
+Ozmán u. 1
+Ózon u. 1
+Ozorai u. 1
+Ököl u. 1
+Ökörszem u. 1
+Ökrös u. 1
+Ölyv u. 1
+Önkéntes u. 1
+Öntő u. 1
+Öntöde u. 1
+Öntőház u. 1
+Öntöző u. 1
+Őr u. 1
+Ördögárok u. 1
+Ördögmalom u. 1
+Ördögszekér u. 1
+Öregbükk u. 1
+Öregfalusi u. 1
+Őrgébics u. 1
+Őrhalom u. 1
+Őrhely u. 1
+Örkény István u. 1
+Őrlő u. 1
+Örmény u. 1
+Őrmester u. 1
+Őrnagy u. 1
+Őrnagy u. 1
+Örökzöld u. 1
+Öröm u. 1
+Örömvölgy u. 1
+Örs u. 1
+Őrszem u. 1
+Őrtorony u. 1
+Őrtűz u. 1
+Örvény u. 1
+Őrvezető u. 1
+Örvös u. 1
+Ősagárd u. 1
+Ősrepülő u. 1
+Ösvény u. 1
+Ősz u. 1
+Ősz u. 1
+Őszapó u. 1
+Őszibarack u. 1
+Őszike u. 1
+Őszirózsa u. 1
+Őszirózsa u. 1
+Összefogás u. 1
+Összekötő u. 1
+Ötpacsirta u. 1
+Ötvenes u. 1
+Ötvös János u. 1
+Övezet u. 1
+Őz u. 1
+Őzgida u. 1
+Őzláb u. 1
+Őzsuta u. 1
+Pablo Neruda u. 1
+Pácoló u. 1
+Pacsirta u. 1
+Pacsirta u. 1
+Pacsirtafű u. 1
+Padka u. 1
+Padlizsán u. 1
+Paduc u. 1
+Páfránykert u. 1
+Páfrányliget u. 1
+Pagony u. 1
+Pagus u. 1
+Pais Dezső u. 1
+Pajkos u. 1
+Pajor u. 1
+Pajta u. 1
+Pajtás u. 1
+Pajtás u. 1
+Pákász u. 1
+Pakos Imre u. 1
+Pákozd u. 1
+Pál u. 1
+Pál apostol u. 1
+Pala u. 1
+Pala u. 1
+Palánk u. 1
+Palánta u. 1
+Palást u. 1
+Palatinus u. 1
+Palicsi u. 1
+Pálinkás Antal u. 1
+Pallér u. 1
+Pallós u. 1
+Pálma u. 1
+Pálma u. 1
+Pálma u. 1
+Palóc u. 1
+Pálos u. 1
+Palotás u. 1
+Pálya u. 1
+Pálya u. 1
+Pálya u. 1
+Pállya Celesztin u. 1
+Pamut u. 1
+Páncél u. 1
+Pancsova u. 1
+Pancsova u. 1
+Pándorfalu u. 1
+Panel u. 1
+Pannónia u. 1
+Pannónia u. 1
+Panoráma u. 1
+Pántlika u. 1
+Pányva u. 1
+Pap Károly u. 1
+Pápay István u. 1
+Papír u. 1
+Papírgyár u. 1
+Papnövelde u. 1
+Paprika u. 1
+Papucsvirág u. 1
+Pára u. 1
+Paradicsom u. 1
+Parány u. 1
+Párás u. 1
+Parázs u. 1
+Párduc u. 1
+Paripa u. 1
+Parittya u. 1
+Párizsi u. 1
+Párizsi u. 1
+Park u. 1
+Párkány u. 1
+Párkány u. 1
+Parlagfű u. 1
+Párnás u. 1
+Párta u. 1
+Partfutó u. 1
+Paskál u. 1
+Paskál-malom u. 1
+Páskom u. 1
+Páskomliget u. 1
+Passuth László u. 1
+Paszomány u. 1
+Paszternák u. 1
+Pásztó u. 1
+Pásztorének u. 1
+Pásztorfalva u. 1
+Pásztorlány u. 1
+Pásztortáska u. 1
+Pásztortűz u. 1
+Patak u. 1
+Patakhegyi u. 1
+Pataksor u. 1
+Patkó u. 1
+Patkószeg u. 1
+Patróna u. 1
+Pattantyús u. 1
+Pattantyús u. 1
+Pattogós u. 1
+Patvar u. 1
+Páty u. 1
+Pátyod u. 1
+Paula u. 1
+Paulay Ede u. 1
+Pauler u. 1
+Páva u. 1
+Páva u. 1
+Pazeller Jakab u. 1
+Pázmánd u. 1
+Pázmány Péter u. 1
+Pázsit u. 1
+Pázsit u. 1
+Pázsitfű u. 1
+Péceli u. 1
+Péch Antal u. 1
+Pécsi u. 1
+Pedellus u. 1
+Pehely u. 1
+Pejkó u. 1
+Pék u. 1
+Pékerdő u. 1
+Pelikán u. 1
+Pelsőc u. 1
+Pemetefű u. 1
+Pengő u. 1
+Pentele u. 1
+Pentelei Molnár u. 1
+Pentelényi János u. 1
+Perbete u. 1
+Perc u. 1
+Perczel Mór u. 1
+Perczel Mór u. 1
+Perczel Mór u. 1
+Perec u. 1
+Pered u. 1
+Perem u. 1
+Perényi Zsigmond u. 1
+Peres u. 1
+Pereszke u. 1
+Perje u. 1
+Perjés u. 1
+Permet u. 1
+Pesti Barnabás u. 1
+Pestvidék u. 1
+Peták u. 1
+Péter u. 1
+Péter apostol u. 1
+Péter-Pál u. 1
+Peterdy u. 1
+Peterdy u. 1
+Péterfy Sándor u. 1
+Péterke u. 1
+Pétervárad u. 1
+Pethő Sándor u. 1
+Petőfi u. 1
+Petőfi u. 1
+Petőfi u. 1
+Petőfi u. 1
+Petőfi u. 1
+Petőfi u. 1
+Petőfi u. 1
+Petőfi u. 1
+Petőfi Sándor u. 1
+Petőfi Sándor u. 1
+Petra u. 1
+Petrence u. 1
+Petrezselyem u. 1
+Petri u. 1
+Petróleum u. 1
+Petrőczy u. 1
+Petúnia u. 1
+Petur u. 1
+Petur u. 1
+Petz Ferenc u. 1
+Pecz Samu u. 1
+Petzvál József u. 1
+Pezsgő u. 1
+Pézsma u. 1
+Piac u. 1
+Piarista u. 1
+Pici u. 1
+Pikkely u. 1
+Pikó u. 1
+Pilisi u. 1
+Pillangó u. 1
+Pille u. 1
+Pilóta u. 1
+Pimpó u. 1
+Pincemester u. 1
+Pincér u. 1
+Pinceszer u. 1
+Pint u. 1
+Pintér u. 1
+Pintér József u. 1
+Pinty u. 1
+Pinty u. 1
+Pintyőke u. 1
+Pipa u. 1
+Pipacs u. 1
+Pipacs u. 1
+Pipishegy u. 1
+Pipiske u. 1
+Pipitér u. 1
+Pirkadat u. 1
+Pirók Gyula u. 1
+Piroska u. 1
+Piroska u. 1
+Pirosrózsa u. 1
+Piski u. 1
+Piski u. 1
+Piszke u. 1
+Pisztráng u. 1
+Pitvar u. 1
+Pitypang u. 1
+Platán u. 1
+Platánliget u. 1
+Platina u. 1
+Plébánia u. 1
+Plútó u. 1
+Podhorszky u. 1
+Podmaniczky Zsuzsanna u. 1
+Podolin u. 1
+Pogány u. 1
+Pogány u. 1
+Pogánytorony u. 1
+Pógyor István u. 1
+Pohár u. 1
+Pók u. 1
+Polgár u. 1
+Pontos u. 1
+Ponty u. 1
+Ponty u. 1
+Popieluszko u. 1
+Poprád u. 1
+Poprád u. 1
+Poprádi u. 1
+Porcelán u. 1
+Porzó u. 1
+Pósa Lajos u. 1
+Pósa Lajos u. 1
+Pósa Lajos u. 1
+Postakocsi u. 1
+Postakürt u. 1
+Postamester u. 1
+Postás u. 1
+Poszáta u. 1
+Posztó u. 1
+Posztógyár u. 1
+Póth Irén u. 1
+Povl Bang-Jensen u. 1
+Pozsony u. 1
+Pozsony u. 1
+Pozsony u. 1
+Pozsonyi u. 1
+Pozsonyi u. 1
+Pozsonyi u. 1
+Pozsonyi u. 1
+Pöfeteg u. 1
+Pöltenberg u. 1
+Pöltenberg Ernő u. 1
+Pöltenberg Ernő u. 1
+Pörge u. 1
+Pöröly u. 1
+Pöstyén u. 1
+Pöstyén u. 1
+Pöszméte u. 1
+Pöttyös u. 1
+Práter u. 1
+Prém u. 1
+Prés u. 1
+Présház u. 1
+Prielle Kornélia u. 1
+Prímás u. 1
+Privigye u. 1
+Prodám u. 1
+Prohászka Ottokár u. 1
+Prokopp Sándor u. 1
+Promontor u. 1
+Pulszky u. 1
+Puskapor u. 1
+Puskás Ferenc u. 1
+Puskás Tivadar u. 1
+Puskin u. 1
+Puszta u. 1
+Pusztadombi u. 1
+Pusztakamarás u. 1
+Putnok u. 1
+Puttonyos u. 1
+Pünkösdfürdő u. 1
+Püspök u. 1
+Rába u. 1
+Ráby Mátyás u. 1
+Ráckeve u. 1
+Rácsos u. 1
+Ráday u. 1
+Ráday Gedeon u. 1
+Radics Béla u. 1
+Rádió u. 1
+Radna u. 1
+Radnó u. 1
+Radnóti Miklós u. 1
+Radóc u. 1
+Radvány u. 1
+Radvány u. 1
+Rahó u. 1
+Rajka u. 1
+Rák u. 1
+Rákász u. 1
+Rakéta u. 1
+Rákó u. 1
+Rákóczi u. 1
+Rákóczi u. 1
+Rákóczi u. 1
+Rákóczi u. 1
+Rákóczi Ferenc u. 1
+Rákóczikert u. 1
+Rakodó u. 1
+Rákos u. 1
+Rákos u. 1
+Rákos u. 1
+Rákoscsaba u. 1
+Rákoskerti u. 1
+Rákosmező u. 1
+Rákospatak u. 1
+Rákosvölgyi u. 1
+Rákosszeg u. 1
+Raktár u. 1
+Raktárház u. 1
+Raktártorony u. 1
+Rámás u. 1
+Rámhegy u. 1
+Ramocsa u. 1
+Ránki u. 1
+Raoul Wallenberg u. 1
+Ráskay Lea u. 1
+Ráspoly u. 1
+Ratkóc u. 1
+Rátót u. 1
+Reáltanoda u. 1
+Réce u. 1
+Recés u. 1
+Regélő u. 1
+Regényes u. 1
+Régész u. 1
+Reggel u. 1
+Régi posta u. 1
+Régivám u. 1
+Regele János u. 1
+Regőcze u. 1
+Regöly u. 1
+Regős u. 1
+Reguly Antal u. 1
+Reichl Kálmán u. 1
+Réka u. 1
+Rekettye u. 1
+Reményi Ede u. 1
+Reményik Sándor u. 1
+Reménység u. 1
+Remete u. 1
+Remetevölgy u. 1
+Remíz u. 1
+Rend u. 1
+Rendelő u. 1
+Rendőr u. 1
+Répa u. 1
+Répásy Mihály u. 1
+Repce u. 1
+Repcsény u. 1
+Repkény u. 1
+Repülő u. 1
+Rés u. 1
+Reszelő u. 1
+Részes u. 1
+Rét u. 1
+Retek u. 1
+Réti csík u. 1
+Rétifarkas u. 1
+Rétifű u. 1
+Rétihéja u. 1
+Rétsár u. 1
+Rétvége u. 1
+Rév u. 1
+Rév u. 1
+Révay u. 1
+Révay u. 1
+Révész u. 1
+Reviczky u. 1
+Reviczky ezredes u. 1
+Rezeda u. 1
+Rezeda u. 1
+Rezeda u. 1
+Rezeda u. 1
+Rezeda u. 1
+Rezgő u. 1
+Rezgőfű u. 1
+Reznek u. 1
+Rézöntő u. 1
+Rézvirág u. 1
+Rézsű u. 1
+Rézüst u. 1
+Rhédey u. 1
+Riadó u. 1
+Rianás u. 1
+Ribáry u. 1
+Riedl Frigyes u. 1
+Riesz Frigyes u. 1
+Rigmus u. 1
+Rigó u. 1
+Rigó u. 1
+Rigó u. 1
+Rigó u. 1
+Rím u. 1
+Rimaszombat u. 1
+Rimaszombat u. 1
+Rimaszombat u. 1
+Ringató u. 1
+Ripka Ferenc u. 1
+Rippl Rónai u. 1
+Risztics János u. 1
+Ritka u. 1
+Rizling u. 1
+Rizskalász u. 1
+Róbert u. 1
+Robert Bosch u. 1
+Robogó u. 1
+Rodostó u. 1
+Rodostó u. 1
+Roham u. 1
+Rohonc u. 1
+Róka u. 1
+Róka u. 1
+Rókaláb u. 1
+Rókales u. 1
+Rókavár u. 1
+Rokolya u. 1
+Rokon u. 1
+Római u. 1
+Román u. 1
+Romhány u. 1
+Romhányi József u. 1
+Ronyva u. 1
+Roskovics u. 1
+Rosta u. 1
+Róth Miksa u. 1
+Rovás u. 1
+Rovátka u. 1
+Rozália u. 1
+Rozgonyi u. 1
+Rozgonyi Piroska u. 1
+Rozmaring u. 1
+Rozmaring u. 1
+Rozs u. 1
+Rózsa u. 1
+Rózsa u. 1
+Rózsa u. 1
+Rózsa u. 1
+Rózsa u. 1
+Rózsabarack u. 1
+Rózsabarack u. 1
+Rózsabimbó u. 1
+Rózsabokor u. 1
+Rózsadomb u. 1
+Rózsafa u. 1
+Rózsahegy u. 1
+Rózsahegy u. 1
+Rózsakert u. 1
+Rózsakvarc u. 1
+Rózsalevél u. 1
+Rózsaszál u. 1
+Rózsaszirom u. 1
+Rózsaszőlő u. 1
+Rózsatő u. 1
+Rózsavölgyi u. 1
+Rozsda u. 1
+Rozsnyay u. 1
+Rozsnyó u. 1
+Rozsnyó u. 1
+Rozsos u. 1
+Rőf u. 1
+Rögös u. 1
+Rökk Szilárd u. 1
+Röntgen u. 1
+Röppentyű u. 1
+Rövid u. 1
+Rőzse u. 1
+Rubin u. 1
+Ruca u. 1
+Rudawszky u. 1
+Rudnyánszky u. 1
+Rugó u. 1
+Rumbach Sebestyén u. 1
+Rutafa u. 1
+Ruttka u. 1
+Rügy u. 1
+Sabrák u. 1
+Sáfár Péter u. 1
+Sáfrány u. 1
+Sági u. 1
+Sajka u. 1
+Sajó u. 1
+Sajó u. 1
+Sajó u. 1
+Sajó u. 1
+Sajtó u. 1
+Sajtoló u. 1
+Salamon u. 1
+Saláta u. 1
+Salétrom u. 1
+Sámfa u. 1
+Sánc u. 1
+Sándor u. 1
+Sándor u. 1
+Sándor István u. 1
+Sáránd u. 1
+Sárfű u. 1
+Sárgabarack u. 1
+Sárgarigó u. 1
+Sárgarózsa u. 1
+Sárgarózsa u. 1
+Sarkad u. 1
+Sarkadi Imre u. 1
+Sarkantyú u. 1
+Sárkány u. 1
+Sárkány u. 1
+Sárköz u. 1
+Sarló u. 1
+Sarló u. 1
+Sarlósfecske u. 1
+Sármány u. 1
+Saroglya u. 1
+Sarolta u. 1
+Sárosi u. 1
+Sárpatak u. 1
+Sárrét u. 1
+Saru u. 1
+Sás u. 1
+Sas u. 1
+Sas u. 1
+Sas u. 1
+Sas u. 1
+Sas u. 1
+Sás u. 1
+Sasbérc u. 1
+Sasfészek u. 1
+Sasfiók u. 1
+Sashalom u. 1
+Sáska u. 1
+Sasszem u. 1
+Sátor u. 1
+Sáv u. 1
+Savanyúkút u. 1
+Scheiber Sándor u. 1
+Schön Győző u. 1
+Schwartzer Ferenc u. 1
+Schweidel József u. 1
+Schweidel u. 1
+Sebestyén u. 1
+Sebész u. 1
+Segesvár u. 1
+Segesvár u. 1
+Segner János u. 1
+Sellő u. 1
+Selmec u. 1
+Selmeci u. 1
+Selmeci u. 1
+Selyem u. 1
+Selyemakác u. 1
+Selyemfonó u. 1
+Semmelweis u. 1
+Semmelweis u. 1
+Semmelweis u. 1
+Semsey Andor u. 1
+Sepsiszentgyörgy u. 1
+Sereg u. 1
+Seregély u. 1
+Seregélyes u. 1
+Serény u. 1
+Serfőző u. 1
+Serleg u. 1
+Serpenyő u. 1
+Sík u. 1
+Sikló u. 1
+Sima u. 1
+Simándi u. 1
+Simándy József u. 1
+Simon u. 1
+Simongát u. 1
+Simonyi Géza u. 1
+Simonyi Zsigmond u. 1
+Sín u. 1
+Sinkovits Imre u. 1
+Sínpár u. 1
+Sió u. 1
+Síp u. 1
+Síp u. 1
+Síp u. 1
+Sipka u. 1
+Sipos Pál u. 1
+Sirály u. 1
+Siroki u. 1
+Sisak u. 1
+Sisakos sáska u. 1
+Sisakvirág u. 1
+Smaragd u. 1
+Só u. 1
+Só u. 1
+Sobieski János u. 1
+Sóderos u. 1
+Sodrás u. 1
+Sodronyos u. 1
+Sógor u. 1
+Sóhaj u. 1
+Sóház u. 1
+Sólyatér u. 1
+Solymár u. 1
+Solymász u. 1
+Sólyom u. 1
+Sólyom u. 1
+Sólyomvölgy u. 1
+Som u. 1
+Somfa u. 1
+Somkút u. 1
+Somlókert u. 1
+Somlyó Zoltán u. 1
+Somlyói u. 1
+Somlyói Nagy Sándor u. 1
+Sommás u. 1
+Somogyi Béla u. 1
+Somorjai u. 1
+Somos u. 1
+Somoskő u. 1
+Sorház u. 1
+Sorompó u. 1
+Sós u. 1
+Sósfürdő u. 1
+Sóska u. 1
+Sóvári u. 1
+Sóvirág u. 1
+Söjtör u. 1
+Sörétgyár u. 1
+Sörház u. 1
+Sörház u. 1
+Sörös u. 1
+Sörraktár u. 1
+Sötétvágás u. 1
+Sövény u. 1
+Sport u. 1
+Sport u. 1
+Sport u. 1
+Sportcsarnok u. 1
+Sportpálya u. 1
+Sporttelep u. 1
+Sramli u. 1
+Stáció u. 1
+Stáhly u. 1
+Stefánia u. 1
+Stefánia u. 1
+Steindl Imre u. 1
+Stoczek u. 1
+Stollár Béla u. 1
+Strázsa u. 1
+Strázsahegy u. 1
+Stróbl Alajos u. 1
+Stubnyai u. 1
+Suba u. 1
+Sudár u. 1
+Suháng u. 1
+Sujtás u. 1
+Sulyok u. 1
+Sulyom u. 1
+Surányi Ferenc u. 1
+Susogó u. 1
+Susulyka u. 1
+Sügér u. 1
+Sükösd u. 1
+Süllő u. 1
+Sülysápi u. 1
+Sümegvár u. 1
+Sün u. 1
+Sürgöny u. 1
+Sütő u. 1
+Sütöde u. 1
+Süveg u. 1
+Süvöltő u. 1
+Svachulay Sándor u. 1
+Szabács u. 1
+Szabad határ u. 1
+Szabadka u. 1
+Szabadka u. 1
+Szabadka u. 1
+Szabadkai u. 1
+Szabadkai u. 1
+Szabadkai u. 1
+Szabadkai u. 1
+Szabad rét u. 1
+Szabadság u. 1
+Szabadság u. 1
+Szabadság u. 1
+Szabadság u. 1
+Szabadság u. 1
+Szabadság u. 1
+Szabadság u. 1
+Szabadszó u. 1
+Szablya u. 1
+Szabó u. 1
+Szabó Ervin u. 1
+Szabó Ilonka u. 1
+Szabó József u. 1
+Szabó Lőrinc u. 1
+Szabóky Rezső u. 1
+Szabolcska Mihály u. 1
+Szabolcska Mihály u. 1
+Szacsvay u. 1
+Szádelő u. 1
+Szajkó u. 1
+Szajkó u. 1
+Szajol u. 1
+Szakács u. 1
+Szakály u. 1
+Szakiskola u. 1
+Szakolca u. 1
+Szakolcai u. 1
+Szakoly u. 1
+Szakóca u. 1
+Szalafő u. 1
+Szalag u. 1
+Szalánci u. 1
+Szalárdi Mór u. 1
+Szalay u. 1
+Szalay u. 1
+Szálfa u. 1
+Szállás u. 1
+Szállító u. 1
+Szalma u. 1
+Szalmarózsa u. 1
+Szalóki u. 1
+Szalonka u. 1
+Szalonkales u. 1
+Szalontai u. 1
+Szamóca u. 1
+Szamorodni u. 1
+Szamos u. 1
+Szamos u. 1
+Szamos u. 1
+Szamos u. 1
+Szamos u. 1
+Szamovár u. 1
+Szanatórium u. 1
+Szánkó u. 1
+Szántás u. 1
+Szánthó Géza u. 1
+Szántó u. 1
+Szántóföld u. 1
+Szapáry u. 1
+Száraz u. 1
+Száraznád u. 1
+Szárcsa u. 1
+Szárhegy u. 1
+Szarka u. 1
+Szarka u. 1
+Szarkaláb u. 1
+Szárny u. 1
+Szárnyas u. 1
+Szarvas u. 1
+Szarvashegy u. 1
+Szász Károly u. 1
+Szászváros u. 1
+Szatmár u. 1
+Szatmár u. 1
+Szatmár u. 1
+Szatmárhegy u. 1
+Szatmári u. 1
+Szatmári u. 1
+Szatmárnémeti u. 1
+Száva u. 1
+Száva u. 1
+Százház u. 1
+Százszorszép u. 1
+Szebeni u. 1
+Szebeni u. 1
+Széchenyi u. 1
+Széchenyi u. 1
+Széchenyi u. 1
+Széchenyi u. 1
+Széchenyi u. 1
+Széchenyi u. 1
+Széchenyi u. 1
+Széchenyi u. 1
+Széchenyi István u. 1
+Széchenyi Ödön u. 1
+Szederfa u. 1
+Szederkény u. 1
+Szedres u. 1
+Szeg u. 1
+Szegedi Róza u. 1
+Szegély u. 1
+Szegfű u. 1
+Szegfű u. 1
+Szegfű u. 1
+Szegfű u. 1
+Szegfű u. 1
+Szegfű u. 1
+Szegfű u. 1
+Szeghalom u. 1
+Szegvári u. 1
+Székács u. 1
+Székely u. 1
+Székely Bertalan u. 1
+Székely György u. 1
+Székely Mihály u. 1
+Székelykapu u. 1
+Székelyszenttamás u. 1
+Székelyudvarhely u. 1
+Szekér u. 1
+Szekerce u. 1
+Szekeres u. 1
+Székes u. 1
+Székesdűlő u. 1
+Széky Endre u. 1
+Szekfű Gyula u. 1
+Székfűvirág u. 1
+Székicsér u. 1
+Székpatak u. 1
+Szekszárdi u. 1
+Szél u. 1
+Szél u. 1
+Szelence u. 1
+Szélfű u. 1
+Szellő u. 1
+Szellőrózsa u. 1
+Szélső u. 1
+Szélvész u. 1
+Szemafor u. 1
+Szemere u. 1
+Szemere u. 1
+Szemere Miklós u. 1
+Szén u. 1
+Szénás u. 1
+Széncinke u. 1
+Szenczi Molnár Albert u. 1
+Szendi u. 1
+Szendrő u. 1
+Szenice u. 1
+Szent Benedek u. 1
+Szent Gellért u. 1
+Szent Gellért u. 1
+Szent György u. 1
+Szent Imre u. 1
+Szent Imre u. 1
+Szent István u. 1
+Szent István u. 1
+Szent István u. 1
+Szent István u. 1
+Szent István u. 1
+Szent János u. 1
+Szent József u. 1
+Szent Kristóf u. 1
+Szent László u. 1
+Szent László u. 1
+Szent László u. 1
+Szent Mihály u. 1
+Szentgyörgyi Dezső u. 1
+Szenttamás u. 1
+Szentendrei u. 1
+Szentgotthárd u. 1
+Szentháromság u. 1
+Szentháromság u. 1
+Szentháromság u. 1
+Szentimrey u. 1
+Szentkirályi u. 1
+Szent korona u. 1
+Szentpétery u. 1
+Szép u. 1
+Szepes u. 1
+Szepesi u. 1
+Szepesi u. 1
+Szepesi u. 1
+Szepesi u. 1
+Szepesség u. 1
+Széphalom u. 1
+Széphegy u. 1
+Szépilona u. 1
+Szép Kilátó u. 1
+Széplak u. 1
+Szerb u. 1
+Szerb Antal u. 1
+Szerdahely u. 1
+Szerdahelyi u. 1
+Szerecsendió u. 1
+Szered u. 1
+Szerelmey Miklós u. 1
+Szerencse u. 1
+Szerkocsi u. 1
+Szertár u. 1
+Szérű u. 1
+Szérűraktár u. 1
+Szérűskert u. 1
+Szérűskert u. 1
+Szérűskert u. 1
+Szervián u. 1
+Szeszgyár u. 1
+Szigetbecse u. 1
+Szigetcsárda u. 1
+Szigetcsép u. 1
+Szigethalom u. 1
+Szigeti József u. 1
+Szigeti Kálmán u. 1
+Szigetújfalu u. 1
+Szigetvár u. 1
+Szigetvári u. 1
+Szigetvári u. 1
+Szigetvári u. 1
+Szigligeti u. 1
+Szigligeti u. 1
+Szigligeti u. 1
+Szigony u. 1
+Szigony u. 1
+Szihalom u. 1
+Szíjgyártó u. 1
+Szikes u. 1
+Szikla u. 1
+Szikla u. 1
+Szikra u. 1
+Szikratávíró u. 1
+Szikszó u. 1
+Szil u. 1
+Szilágyi u. 1
+Szilágyi u. 1
+Szilágyi Dezső u. 1
+Szilágyi Dezső u. 1
+Szilágyi Dezső u. 1
+Szilágyi Erzsébet u. 1
+Szilágyi Mihály u. 1
+Szilágyság u. 1
+Szilágysomlyó u. 1
+Szilágysomlyó u. 1
+Szilaj u. 1
+Szilánk u. 1
+Szilárd u. 1
+Szilasliget u. 1
+Szilaspatak u. 1
+Szilfa u. 1
+Szilfás u. 1
+Szilke u. 1
+Szilva u. 1
+Szilvafa u. 1
+Szilvafa u. 1
+Szilváni u. 1
+Szindbád u. 1
+Színes u. 1
+Színesfém u. 1
+Színház u. 1
+Színjátszó u. 1
+Szinva u. 1
+Szinyei Merse u. 1
+Szinyei Merse u. 1
+Szipka u. 1
+Szirmos u. 1
+Szirom u. 1
+Szirom u. 1
+Szirt u. 1
+Szitakötő u. 1
+Szittya u. 1
+Szív u. 1
+Szivacs u. 1
+Szivarfa u. 1
+Szivattyú u. 1
+Szívvirág u. 1
+Szlacsányi Ferenc u. 1
+Szlanka u. 1
+Szlatina u. 1
+Szlatina u. 1
+Szobi u. 1
+Szobor u. 1
+Szoboszlai u. 1
+Szobránc u. 1
+Szófia u. 1
+Szófia u. 1
+Szolyva u. 1
+Szolyva u. 1
+Szomolány u. 1
+Szomolnok u. 1
+Szomorúfűz u. 1
+Szomszéd u. 1
+Szondi u. 1
+Szondi u. 1
+Szondi u. 1
+Szováta u. 1
+Szőcs Bertalan u. 1
+Szöcske u. 1
+Sződemeter u. 1
+Sződliget u. 1
+Szög u. 1
+Szökőár u. 1
+Szőlő u. 1
+Szőlődomb u. 1
+Szőlőfürt u. 1
+Szőlőhegy u. 1
+Szőlőkert u. 1
+Szőlőlugas u. 1
+Szőlőműves u. 1
+Szőlős u. 1
+Szőlősor u. 1
+Szőlőtelep u. 1
+Szőlőtőke u. 1
+Szőlővész u. 1
+Szőlővessző u. 1
+Szőlővirág u. 1
+Szőnyeg u. 1
+Szőnyi István u. 1
+Szörény u. 1
+Szövet u. 1
+Szövetség u. 1
+Szövetség u. 1
+Szövő u. 1
+Szövőgyár u. 1
+Szövőszék u. 1
+Szpáhi u. 1
+Sztehlo Gábor u. 1
+Sztregova u. 1
+Szúnyog u. 1
+Szurdok u. 1
+Szűcs u. 1
+Szűcs István u. 1
+Szűr u. 1
+Szüret u. 1
+Szürkebarát u. 1
+Szürkebegy u. 1
+Szűz u. 1
+Tabán u. 1
+Tábla u. 1
+Táblás u. 1
+Tábor u. 1
+Tábor u. 1
+Tábor u. 1
+Táborhely u. 1
+Tábornok u. 1
+Tagló u. 1
+Tájék u. 1
+Takács u. 1
+Tájkép u. 1
+Takács Menyhért u. 1
+Takács Sándor u. 1
+Takarék u. 1
+Takaros u. 1
+Taksony u. 1
+Taksony u. 1
+Talaj u. 1
+Taliga u. 1
+Taling u. 1
+Tallér u. 1
+Talpas u. 1
+Tálpatak u. 1
+Talpfa u. 1
+Táltos u. 1
+Táltos u. 1
+Tállya u. 1
+Tamara u. 1
+Tamás u. 1
+Tamási Áron u. 1
+Tambura u. 1
+Támfal u. 1
+Tanár u. 1
+Táncos u. 1
+Táncsics u. 1
+Táncsics u. 1
+Táncsics Mihály u. 1
+Táncsics Mihály u. 1
+Táncsics Mihály u. 1
+Táncsics Mihály u. 1
+Táncsics Mihály u. 1
+Tanító u. 1
+Tanuló u. 1
+Tanya u. 1
+Tápió u. 1
+Tápiógyörgye u. 1
+Tápiósüly u. 1
+Tápiószecső u. 1
+Tápiószele u. 1
+Tapló u. 1
+Tapolca u. 1
+Tapolcsányi u. 1
+Tapolcsányi u. 1
+Tar u. 1
+Tarack u. 1
+Tarcali u. 1
+Tárcsás u. 1
+Tardoskedd u. 1
+Tarhos u. 1
+Tarján u. 1
+Tarkagéb u. 1
+Tarkarét u. 1
+Tárkony u. 1
+Tarkő u. 1
+Tarló u. 1
+Tárna u. 1
+Tárnok u. 1
+Tárnok u. 1
+Táró u. 1
+Tarpai u. 1
+Tarpatak u. 1
+Tarpataki u. 1
+Társ u. 1
+Társasház u. 1
+Tarsoly u. 1
+Tarsolylemez u. 1
+Tartsay u. 1
+Tartsay Vilmos u. 1
+Tartsay Vilmos u. 1
+Tartsay Vilmos u. 1
+Táska u. 1
+Tas u. 1
+Tas u. 1
+Tas u. 1
+Tas vezér u. 1
+Tatárka u. 1
+Tatárvirág u. 1
+Tátika u. 1
+Tatjána u. 1
+Tátra u. 1
+Tátra u. 1
+Tátra u. 1
+Tátra u. 1
+Tátra u. 1
+Tátra u. 1
+Tátra u. 1
+Tavas u. 1
+Tavasz u. 1
+Tavaszmező u. 1
+Távcső u. 1
+Távíró u. 1
+Tavirózsa u. 1
+Tearózsa u. 1
+Technikus u. 1
+Tegez u. 1
+Téglaégető u. 1
+Téglagyár u. 1
+Tegzes u. 1
+Teherkocsi u. 1
+Tejút u. 1
+Tekercselő u. 1
+Tekerőpatak u. 1
+Tekla u. 1
+Teknő u. 1
+Tél u. 1
+Tél u. 1
+Telek u. 1
+Telekes u. 1
+Teleki u. 1
+Teleki Blanka u. 1
+Telep u. 1
+Telepes u. 1
+Telepy u. 1
+Teleszkóp u. 1
+Telkes u. 1
+Temes u. 1
+Temes u. 1
+Temesvár u. 1
+Temesvár u. 1
+Temesvár u. 1
+Temesvári u. 1
+Temesvári u. 1
+Temesvári u. 1
+Temető u. 1
+Temető u. 1
+Temető u. 1
+Temető u. 1
+Temetőkert u. 1
+Templom u. 1
+Templom u. 1
+Templom u. 1
+Templom u. 1
+Templom u. 1
+Templom u. 1
+Templom u. 1
+Tengelice u. 1
+Tengeri u. 1
+Tengerszem u. 1
+Tenkefürdő u. 1
+Tenkes u. 1
+Terebesi u. 1
+Terelő u. 1
+Teremszeg u. 1
+Terény u. 1
+Teréz u. 1
+Tergenye u. 1
+Termál u. 1
+Termény u. 1
+Termő u. 1
+Terv u. 1
+Tervező u. 1
+Testvériség u. 1
+Teszársz Károly u. 1
+Tétényliget u. 1
+Teve u. 1
+Textilgyár u. 1
+Thallóczy Lajos u. 1
+Thaly Kálmán u. 1
+Thaly Kálmán u. 1
+Thaly Kálmán u. 1
+Than Károly u. 1
+Thék Endre u. 1
+Thomán István u. 1
+Thorma János u. 1
+Thorotzkay Péter u. 1
+Thököly u. 1
+Thököly u. 1
+Thököly u. 1
+Thököly u. 1
+Thurzó u. 1
+Tibavár u. 1
+Tibor u. 1
+Tiborc u. 1
+Tiborc u. 1
+Tigris u. 1
+Tigris u. 1
+Tigriskő u. 1
+Tihamér u. 1
+Tihany u. 1
+Tihanyi u. 1
+Tímár u. 1
+Timföld u. 1
+Timót u. 1
+Timur u. 1
+Tinódi u. 1
+Tinódi u. 1
+Tinódi u. 1
+Tinódi u. 1
+Tinódi u. 1
+Tinóru u. 1
+Tipegő u. 1
+Tippan u. 1
+Tisza u. 1
+Tisza u. 1
+Tisza u. 1
+Tisza u. 1
+Tisza István u. 1
+Tiszafa u. 1
+Tiszafüred u. 1
+Tiszakömlő u. 1
+Tiszanána u. 1
+Tiszaörs u. 1
+Tiszavirág u. 1
+Tisztes u. 1
+Titán u. 1
+Titel u. 1
+Tivadar u. 1
+Tizedes u. 1
+Tó u. 1
+Tó u. 1
+Tóalmás u. 1
+Tóberek u. 1
+Toborzó u. 1
+Toboz u. 1
+Toboz u. 1
+Tófalva u. 1
+Tóga u. 1
+Tokaji u. 1
+Tóköz u. 1
+Tolcsvai u. 1
+Toldalagi Pál u. 1
+Toldi u. 1
+Toldi Miklós u. 1
+Toldi Miklós u. 1
+Toldi Miklós u. 1
+Toldi Miklós u. 1
+Toldy u. 1
+Toldy Ferenc u. 1
+Toldy Ferenc u. 1
+Toldy Ferenc u. 1
+Tolnai Lajos u. 1
+Tolnay Károly u. 1
+Tomaj u. 1
+Tóimalom u. 1
+Tomori u. 1
+Tomori Pál u. 1
+Tompa u. 1
+Tompa u. 1
+Tompa u. 1
+Tompa u. 1
+Tompa u. 1
+Tompa u. 1
+Tompa Mihály u. 1
+Tompa Mihály u. 1
+Tompa Mihály u. 1
+Tompa Mihály u. 1
+Tompaház u. 1
+Topánka u. 1
+Tópart u. 1
+Tópart u. 1
+Topáz u. 1
+Topolya u. 1
+Toportyán u. 1
+Torbágy u. 1
+Torda u. 1
+Torda u. 1
+Torda u. 1
+Tordai u. 1
+Tordai u. 1
+Torma u. 1
+Torma Károly u. 1
+Tornalja u. 1
+Tornagörgő u. 1
+Tornavár u. 1
+Tornóc u. 1
+Torockó u. 1
+Torockó u. 1
+Torockó u. 1
+Torontál u. 1
+Torontál u. 1
+Toronya u. 1
+Toronyház u. 1
+Torzsa u. 1
+Tószeg u. 1
+Tóth Ágoston u. 1
+Tóth Aladár u. 1
+Tóth Árpád u. 1
+Tóth Árpád u. 1
+Tóth István u. 1
+Tóth József u. 1
+Tóth Kálmán u. 1
+Tóvirág u. 1
+Tő u. 1
+Töhötöm u. 1
+Töhötöm u. 1
+Töhötöm vezér u. 1
+Tőke u. 1
+Tölcsér u. 1
+Tölgy u. 1
+Tölgyesi u. 1
+Tölgyfa u. 1
+Tölgyfa u. 1
+Töltény u. 1
+Töltés u. 1
+Tömb u. 1
+Tömlős u. 1
+Tömő u. 1
+Tömörkény u. 1
+Tömös u. 1
+Tőr u. 1
+Törcsvár u. 1
+Töretlen u. 1
+Törköly u. 1
+Törő u. 1
+Török u. 1
+Török u. 1
+Török u. 1
+Török u. 1
+Török Bálint u. 1
+Török Bálint u. 1
+Török Ignác u. 1
+Török Pál u. 1
+Törökbecse u. 1
+Törökkő u. 1
+Törökőr u. 1
+Törökugrató u. 1
+Törpe u. 1
+Törpegém u. 1
+Törpeharcsa u. 1
+Törvény u. 1
+Törzs u. 1
+Tövis u. 1
+Tövis u. 1
+Tövishát u. 1
+Tőzeg u. 1
+Transzformátorgyár u. 1
+Trefort u. 1
+Trencsén u. 1
+Trencsén u. 1
+Trencséni u. 1
+Trencséni u. 1
+Trófea u. 1
+Tuba u. 1
+Tubarózsa u. 1
+Tujafa u. 1
+Tulipán u. 1
+Tulipán u. 1
+Tulipán u. 1
+Tulipán u. 1
+Tulipánfa u. 1
+Tungsram u. 1
+Tura u. 1
+Turán u. 1
+Turbán u. 1
+Turbina u. 1
+Túri István u. 1
+Túrkeve u. 1
+Turóc u. 1
+Turóci u. 1
+Turóci Balázs u. 1
+Turul u. 1
+Tusa u. 1
+Tusnád u. 1
+Tusnád u. 1
+Tusnádi u. 1
+Tutaj u. 1
+Tutajos u. 1
+Túzok u. 1
+Tű u. 1
+Tücsök u. 1
+Tüköry u. 1
+Tűlevél u. 1
+Tülök u. 1
+Tünde u. 1
+Tündér u. 1
+Tündérfürt u. 1
+Tündérkert u. 1
+Tündérliget u. 1
+Tündérrózsa u. 1
+Tündérvár u. 1
+Tündérvirág u. 1
+Türkiz u. 1
+Türr István u. 1
+Türr István u. 1
+Tüske u. 1
+Tüskés u. 1
+Tüzér u. 1
+Tüzér u. 1
+Tüzér u. 1
+Tüzér u. 1
+Tűzföld u. 1
+Tűzkő u. 1
+Tűzliliom u. 1
+Tűzmester u. 1
+Tűzoltó u. 1
+Tűztövis u. 1
+Tűzvirág u. 1
+Udvard u. 1
+Udvarhely u. 1
+Udvarhely u. 1
+Udvarhelyi u. 1
+Ugocsa u. 1
+Ugocsa u. 1
+Ugor u. 1
+Ugron Gábor u. 1
+Új u. 1
+Új élet u. 1
+Újarad u. 1
+Új barázda u. 1
+Újház u. 1
+Újházy u. 1
+Újkisház u. 1
+Új Kőbánya u. 1
+Újlak u. 1
+Újlaki u. 1
+Újmajor u. 1
+Újmajori u. 1
+Újsor u. 1
+Újszilvás u. 1
+Újvár u. 1
+Újvidék u. 1
+Újvidék u. 1
+Újvidék u. 1
+Újvilág u. 1
+Ungvár u. 1
+Ungvár u. 1
+Ungvár u. 1
+Ungvári u. 1
+Ungvári u. 1
+Ungvári u. 1
+Ungvári u. 1
+Unoka u. 1
+Úrbéres u. 1
+Úri u. 1
+Uszály u. 1
+Uszoda u. 1
+Úszódaru u. 1
+Utas u. 1
+Utász u. 1
+Útilapu u. 1
+Utód u. 1
+Úttörő u. 1
+Úz u. 1
+Uzsok u. 1
+Uzsoki u. 1
+Uzsoki u. 1
+Üde u. 1
+Ügető u. 1
+Ügyész u. 1
+Ültetvény u. 1
+Űrhajós u. 1
+Ürmény u. 1
+Üröm u. 1
+Ürömi u. 1
+Üst u. 1
+Üteg u. 1
+Üveges u. 1
+Üvegház u. 1
+Üzbég u. 1
+V. u. 1
+Vácbottyán u. 1
+Vácduka u. 1
+Vácegres u. 1
+Váchartyán u. 1
+Vackor u. 1
+Vadalma u. 1
+Vadaskerti u. 1
+Vadász u. 1
+Vadászhegyi u. 1
+Vadászkürt u. 1
+Vadászles u. 1
+Vadetető u. 1
+Vadevezős u. 1
+Vadgalamb u. 1
+Vadkacsa u. 1
+Vadkert u. 1
+Vadkörte u. 1
+Vadlúd u. 1
+Vadóc u. 1
+Vadon u. 1
+Vadorzó u. 1
+Vadőr u. 1
+Vadréce u. 1
+Vadrózsa u. 1
+Vadruca u. 1
+Vadszőlő u. 1
+Vadvirág u. 1
+Vadvíz u. 1
+Vág u. 1
+Vág u. 1
+Vág u. 1
+Vág u. 1
+Vág u. 1
+Vágás u. 1
+Vágfarkasd u. 1
+Vághó Ferenc u. 1
+Vági u. 1
+Vágó u. 1
+Vágóhíd u. 1
+Vágóhíd u. 1
+Vágóhíd u. 1
+Vágóhíd u. 1
+Vágsellye u. 1
+Vágújhely u. 1
+Vahot u. 1
+Vajda u. 1
+Vajda János u. 1
+Vajda János u. 1
+Vajda Péter u. 1
+Vajda Péter u. 1
+Vajdahunyad u. 1
+Vajdahunyad u. 1
+Vajk u. 1
+Vajk u. 1
+Vajk fejedelem u. 1
+Vajkay u. 1
+Vak Bottyán u. 1
+Vak Bottyán u. 1
+Vak Bottyán u. 1
+Vakond u. 1
+Valéria u. 1
+Valéria u. 1
+Váli u. 1
+Valkói u. 1
+Váltó u. 1
+Váltóőr u. 1
+Vályog u. 1
+Vám u. 1
+Vámosgyörk u. 1
+Vándor u. 1
+Vándor Sándor u. 1
+Vanilia u. 1
+Vannay József u. 1
+Ványoló u. 1
+Vár u. 1
+Váralja u. 1
+Varannó u. 1
+Varázs u. 1
+Vargha Gyula u. 1
+Varga Katalin u. 1
+Vargánya u. 1
+Várgede u. 1
+Vargyas u. 1
+Várhegy u. 1
+Variházy Oszkár u. 1
+Varjú u. 1
+Varjú Kálmán u. 1
+Varjúháj u. 1
+Várkapitány u. 1
+Vármegye u. 1
+Várna u. 1
+Városfal u. 1
+Városhatár u. 1
+Városház u. 1
+Városház u. 1
+Városkapu u. 1
+Városmajor u. 1
+Varró u. 1
+Varrógép u. 1
+Varrógépgyár u. 1
+Varsa u. 1
+Varsányi Irén u. 1
+Varsó u. 1
+Várvíz u. 1
+Vas u. 1
+Vas u. 1
+Vas u. 1
+Vas Gereben u. 1
+Vas Gereben u. 1
+Vas Gereben u. 1
+Vas Gereben u. 1
+Vasad u. 1
+Vásár u. 1
+Vásárhelyi Pál u. 1
+Vásárló u. 1
+Vasas u. 1
+Vasfű u. 1
+Vasgolyó u. 1
+Vasgyár u. 1
+Vaskapu u. 1
+Vaskapu u. 1
+Vaskő u. 1
+Vasláb u. 1
+Vaslemez u. 1
+Vasöntő u. 1
+Vasrózsa u. 1
+Vasút u. 1
+Vasút u. 1
+Vasút u. 1
+Vasút u. 1
+Vasút u. 1
+Vasutasház u. 1
+Vasutaskert u. 1
+Vasutastelep u. 1
+Vasútőr u. 1
+Vasvári Pál u. 1
+Vasvári Pál u. 1
+Vasvári Pál u. 1
+Vasvári Pál u. 1
+Vattagyár u. 1
+Vay Ádám u. 1
+Váza u. 1
+Vazul u. 1
+Vecseház u. 1
+Vecsési u. 1
+Vécsey u. 1
+Vécsey u. 1
+Vecsey Ferenc u. 1
+Vécsey Károly u. 1
+Veder u. 1
+Védgát u. 1
+Védő u. 1
+Vedres Márk u. 1
+Vég u. 1
+Végvár u. 1
+Vegyszer u. 1
+Véka u. 1
+Velence u. 1
+Véménd u. 1
+Vencel u. 1
+Vend u. 1
+Vendég u. 1
+Vendel u. 1
+Vendel u. 1
+Vénusz u. 1
+Venyige u. 1
+Vép u. 1
+Vera u. 1
+Verbéna u. 1
+Verbó u. 1
+Vércse u. 1
+Vércse u. 1
+Vércse u. 1
+Veréb u. 1
+Veréb u. 1
+Veréb u. 1
+Verebély u. 1
+Verebély u. 1
+Vereckei u. 1
+Vereckei u. 1
+Verejték u. 1
+Verem u. 1
+Vereskő u. 1
+Veres Pálné u. 1
+Veresegyházi u. 1
+Verespatak u. 1
+Verhovina u. 1
+Vermes Miklós u. 1
+Veronika u. 1
+Verőce u. 1
+Verőfény u. 1
+Vers u. 1
+Versec u. 1
+Versec u. 1
+Verseci u. 1
+Verseghy Ferenc u. 1
+Vérszerződés u. 1
+Vértanú u. 1
+Vértes Marcell u. 1
+Vértesi u. 1
+Vésnök u. 1
+Véső u. 1
+Vessző u. 1
+Vesszősfia János u. 1
+Veszprémi u. 1
+Vetés u. 1
+Vetés u. 1
+Vető u. 1
+Vezekény u. 1
+Vezér u. 1
+Vezér u. 1
+Vezér u. 1
+Vezeték u. 1
+Vezseny u. 1
+VI. u. 1
+VI. u. 1
+Victor Hugo u. 1
+Vidám u. 1
+Vidámvásár u. 1
+Vidámverseny u. 1
+Vidor u. 1
+Vidra u. 1
+Víg u. 1
+Víg u. 1
+Vigadó u. 1
+Vígszínház u. 1
+Vigyázó Ferenc u. 1
+Vihar u. 1
+Vihar u. 1
+Viharvédő u. 1
+Vihorlát u. 1
+VII. u. 1
+VII. u. 1
+VIII. u. 1
+VIII. u. 1
+Vikár Béla u. 1
+Villa u. 1
+Villám u. 1
+Villám u. 1
+Villany u. 1
+Villanytelep u. 1
+Villő u. 1
+Vilmos u. 1
+Vince u. 1
+Vincellér u. 1
+Viola u. 1
+Viola u. 1
+Viola u. 1
+Viola u. 1
+Viola u. 1
+Viola u. 1
+Virág u. 1
+Virág u. 1
+Virág u. 1
+Virág u. 1
+Virág Benedek u. 1
+Virágkertész u. 1
+Virágos u. 1
+Virágoskert u. 1
+Virágvölgy u. 1
+Virradat u. 1
+Visi Imre u. 1
+Visnyovszky Lajos u. 1
+Visonta u. 1
+Visszatérő u. 1
+Visszhang u. 1
+Vitéz u. 1
+Vitéz u. 1
+Vitéz u. 1
+Vitkovics Mihály u. 1
+Vitorla u. 1
+Vitorlás u. 1
+Vívó u. 1
+Viza u. 1
+Vizafogó u. 1
+Vízakna u. 1
+Vízakna u. 1
+Vízér u. 1
+Vizes u. 1
+Vízesés u. 1
+Vízesés u. 1
+Vízforrás u. 1
+Vízgát u. 1
+Vízhordó u. 1
+Vízi u. 1
+Víziboglárka u. 1
+Vízimalom u. 1
+Vízimolnár u. 1
+Víziorgona u. 1
+Vízisport u. 1
+Vízisport u. 1
+Vízkerék u. 1
+Vízmosás u. 1
+Vízmosás u. 1
+Vízmű u. 1
+Víznyelő u. 1
+Vízöntő u. 1
+Vízpart u. 1
+Víztorony u. 1
+Vizsla u. 1
+Volán u. 1
+Volkmann u. 1
+Vonal u. 1
+Vonás u. 1
+Vonat u. 1
+Vöcsök u. 1
+Vöcsök u. 1
+Vőfély u. 1
+Vőlegény u. 1
+Völgy u. 1
+Völgy u. 1
+Völgy u. 1
+Völgyhajó u. 1
+Vörösdinka u. 1
+Vörösbegy u. 1
+Vörösberkenye u. 1
+Vörösfenyő u. 1
+Vöröskereszt u. 1
+Vöröskereszt u. 1
+Vöröskő u. 1
+Vörösmajor u. 1
+Vörösmarty u. 1
+Vörösmarty u. 1
+Vörösmarty u. 1
+Vörösmarty u. 1
+Vörösmarty u. 1
+Vörösmarty u. 1
+Vörösmarty u. 1
+Vörösmarty u. 1
+Vörösmarty u. 1
+Vörösmarty Mihály u. 1
+Vöröstorony u. 1
+Vulkán u. 1
+Wagner u. 1
+Wartha Vince u. 1
+Wéber Károly u. 1
+Wekerle Sándor u. 1
+Wekerle Sándor u. 1
+Wesselényi u. 1
+Wesselényi u. 1
+Wesselényi u. 1
+Wesselényi u. 1
+Wesselényi u. 1
+Wesselényi u. 1
+Wesselényi u. 1
+Wittmann Viktor u. 1
+Wysocki u. 1
+X. u. 1
+Xantus u. 1
+XI. u. 1
+XI. u. 1
+XII. u. 1
+XII. u. 1
+XIII. u. 1
+XIII. u. 1
+XIV. u. 1
+XIV. u. 1
+XIX. u. 1
+XV. u. 1
+XV. u. 1
+XVI. u. 1
+XVI. u. 1
+XVII. u. 1
+XVII. u. 1
+XVIII. u. 1
+XX. u. 1
+XXI. u. 1
+XXII. u. 1
+XXIII. u. 1
+XXIV. u. 1
+XXIX. u. 1
+XXV. u. 1
+XXVI. u. 1
+XXVII. u. 1
+XXVIII. u. 1
+Zab u. 1
+Zabfű u. 1
+Zabla u. 1
+Zabola u. 1
+Zách u. 1
+Zádor u. 1
+Zafír u. 1
+Zágon u. 1
+Zágrábi u. 1
+Zagyva u. 1
+Záhony u. 1
+Zajzon u. 1
+Zakariás József u. 1
+Zala u. 1
+Zala György u. 1
+Zalán u. 1
+Zalán u. 1
+Zaláta u. 1
+Zalatna u. 1
+Zalatnai u. 1
+Zalavár u. 1
+Zamárdi u. 1
+Zambelli Lajos u. 1
+Zamenhof u. 1
+Zámori u. 1
+Zaránd u. 1
+Zárda u. 1
+Zászlós u. 1
+Zászlóvivő u. 1
+Závodszky Zoltán u. 1
+Zebegény u. 1
+Zeke u. 1
+Zeller u. 1
+Zemplén u. 1
+Zemplén Győző u. 1
+Zengő u. 1
+Zenta u. 1
+Zenta u. 1
+Zenta u. 1
+Zerge u. 1
+Zerind vezér u. 1
+Zeyk Domokos u. 1
+Zichy Géza u. 1
+Zichy Jenő u. 1
+Zilah u. 1
+Zilah u. 1
+Zilah u. 1
+Zilahi u. 1
+Zimony u. 1
+Zimonyi u. 1
+Zipernovszky Károly u. 1
+Zirzen Janka u. 1
+Zivatar u. 1
+Zobor u. 1
+Zoborhegy u. 1
+Zodony u. 1
+Zoltán u. 1
+Zoltán u. 1
+Zoltán u. 1
+Zólyom u. 1
+Zólyom u. 1
+Zólyom u. 1
+Zománc u. 1
+Zombor u. 1
+Zombor u. 1
+Zombori u. 1
+Zombori u. 1
+Zombori u. 1
+Zombori u. 1
+Zöld u. 1
+Zöldfa u. 1
+Zöldfa u. 1
+Zöldike u. 1
+Zöldkő u. 1
+Zöldlomb u. 1
+Zöld mező u. 1
+Zöld pálya u. 1
+Zöldséges u. 1
+Zrínyi u. 1
+Zrínyi u. 1
+Zrínyi u. 1
+Zrínyi u. 1
+Zrínyi u. 1
+Zrínyi u. 1
+Zrínyi u. 1
+Zrínyi u. 1
+Zrínyi u. 1
+Zrínyi u. 1
+Zrínyi u. 1
+Zrínyi Ilona u. 1
+Zrínyiász u. 1
+Zsadány u. 1
+Zsák u. 1
+Zsák u. 1
+Zsák Hugó u. 1
+Zsalu u. 1
+Zsámbéki u. 1
+Zsámoly u. 1
+Zsarátnok u. 1
+Zsarnó u. 1
+Zsázsa u. 1
+Zseb u. 1
+Zselic u. 1
+Zsellér u. 1
+Zsélyi Aladár u. 1
+Zsemlye u. 1
+Zsemlye Elemér u. 1
+Zsenge u. 1
+Zsibói u. 1
+Zsigárd u. 1
+Zsigmond u. 1
+Zsigmondy Vilmos u. 1
+Zsil u. 1
+Zsilip u. 1
+Zsilip u. 1
+Zsilvölgy u. 1
+Zsindely u. 1
+Zsineg u. 1
+Zsinór u. 1
+Zsira u. 1
+Zsirai Miklós u. 1
+Zsitva u. 1
+Zsitva u. 1
+Zsivaj u. 1
+Zsófia u. 1
+Zsókavár u. 1
+Zsolna u. 1
+Zsolnai u. 1
+Zsolnay Vilmos u. 1
+Zsolt u. 1
+Zsolt u. 1
+Zsolt fejedelem u. 1
+Zsombék u. 1
+Zsombékos u. 1
+Zsombolyai u. 1
+Zsombor u. 1
+Zsukó u. 1
+Zsurló u. 1
+Zsuzsanna u. 1
+Zuhany u. 1
+Zuhatag u. 1
+Zulejka u. 1
+Zúzmara u. 1
+Zuzmó u. 1
+Zuzmó u. 1
+Aba u. 1
+Abaúji u. 1
+Acél u. 1
+Áchim András u. 1
+Ács u. 1
+Adler Károly u. 1
+Adriányi János u. 1
+Ady Endre u. 1
+Áfonyás u. 1
+Ág u. 1
+Aggteleki u. 1
+Ághegy u. 1
+Akácos u. 1
+Akna u. 1
+Aknász u. 1
+Akó u. 1
+Ákos u. 1
+Alföldi u. 1
+Alkotás u. 1
+Alkotmány u. 1
+Állomás u. 1
+Alma u. 1
+Almás u. 1
+Almáskert u. 1
+Álmos u. 1
+Alsószinva u. 1
+Anna u. 1
+Apáczai Csere János u. 1
+Apát u. 1
+Aradi u. 1
+Arany János u. 1
+Aranyeső u. 1
+Árnyas u. 1
+Árok u. 1
+Árvácska u. 1
+Árvíz u. 1
+Asztalos u. 1
+Attila u. 1
+Augusztus 20. u. 1
+Aulich Lajos u. 1
+Avar u. 1
+Babér u. 1
+Babits Mihály u. 1
+Bacsinszky András u. 1
+Bádogos u. 1
+Baghy Gyula u. 1
+Bagoly u. 1
+Bajza József u. 1
+Bakonyi u. 1
+Balassa u. 1
+Balassi Bálint u. 1
+Balaton u. 1
+Balázsdiák u. 1
+Bálint u. 1
+Ballagi Károly u. 1
+Ballassi Bálint u. 1
+Balogh Ádám u. 1
+Bánát u. 1
+Bandzsalgó u. 1
+Bánfolyás u. 1
+Bánki Donát u. 1
+Bánya u. 1
+Bányamécs u. 1
+Barát u. 1
+Baráthegyalja u. 1
+Bárczay u. 1
+Barcsay Ábrahám u. 1
+Barkóczy Ferenc u. 1
+Barlang u. 1
+Bársony János u. 1
+Bártfai u. 1
+Bartók Béla u. 1
+Báthori István u. 1
+Batsányi János u. 1
+Batthyány Lajos u. 1
+Bedeghvölgy u. 1
+Béke u. 1
+Békés u. 1
+Békesség u. 1
+Béla u. 1
+Bem József u. 1
+Bencés u. 1
+Benczúr Gyula u. 1
+Benedek Elek u. 1
+Benedekalja u. 1
+Beniczky Lajos u. 1
+Benke József u. 1
+Benkő Sámuel u. 1
+Bércalja u. 1
+Bercsényi Miklós u. 1
+Beregi u. 1
+Berekalja u. 1
+Berekkert u. 1
+Berettyó u. 1
+Berkenye u. 1
+Bertalan u. 1
+Berzsenyi Dániel u. 1
+Besenyői u. 1
+Bethlen Gábor u. 1
+Bezerédi István u. 1
+Bihari János u. 1
+Bimbó u. 1
+Bíró u. 1
+Bizony Ákos u. 1
+Blaha Lujza u. 1
+Blaskovics László u. 1
+Bocskai István u. 1
+Bodrog u. 1
+Bodrogi Zsigmond u. 1
+Bodza u. 1
+Boglárka u. 1
+Bognár u. 1
+Bokréta u. 1
+Bokros u. 1
+Boldog u. 1
+Boldva u. 1
+Bollóalja u. 1
+Bolyai Farkas u. 1
+Bolyai János u. 1
+Borbély u. 1
+Bornemissza Gergely u. 1
+Boróka u. 1
+Borostyán u. 1
+Bors vezér u. 1
+Botond u. 1
+Bottyán János u. 1
+Bölcs u. 1
+Böngér u. 1
+Börzsöny u. 1
+Branyiszkó u. 1
+Brassói u. 1
+Brigád u. 1
+Bródy Sándor u. 1
+Bruckner Győző u. 1
+Budai József u. 1
+Budai Nagy Antal u. 1
+Bulcsu u. 1
+Búzavirág u. 1
+Buzogány u. 1
+Bükk u. 1
+Cement u. 1
+Cementgyári u. 1
+Cinka Panna u. 1
+Corvin u. 1
+Csabai u. 1
+Csáby Lajos u. 1
+Csajkovszkij u. 1
+Csákány u. 1
+Csalogány u. 1
+Csanyik u. 1
+Csavar u. 1
+Csehov u. 1
+Csele u. 1
+Csemete u. 1
+Csemetekert u. 1
+Csendes u. 1
+Csengey Gusztáv u. 1
+Cserép u. 1
+Cseresznyés u. 1
+Cserfa u. 1
+Cserhát u. 1
+Cserje u. 1
+Csermák Antal u. 1
+Csermely u. 1
+Cséti Ottó u. 1
+Csillag u. 1
+Csille u. 1
+Csipkés u. 1
+Csipke virág u. 1
+Csizmadia u. 1
+Csóka u. 1
+Csokonai Vitéz Mihály u. 1
+Csonka János u. 1
+Csortos Gyula u. 1
+Cukrász u. 1
+Dalárda u. 1
+Dália u. 1
+Damjanich János u. 1
+Dankó Pista u. 1
+Dapsy László u. 1
+Daru u. 1
+Dayka Gábor u. 1
+Deák Ferenc u. 1
+Déli u. 1
+Denevér u. 1
+Derkovits Gyula u. 1
+Déryné u. 1
+Dési Huber István u. 1
+Dessewffy Arisztid u. 1
+Diófa u. 1
+Dobó István u. 1
+Dobozy Mihály u. 1
+Dóczy József u. 1
+Dohány u. 1
+Domb u. 1
+Dombalja u. 1
+Dorottya u. 1
+Dr. Kalocsay Kálmán u. 1
+Dráva u. 1
+Dugonics András u. 1
+Duna u. 1
+Éder György u. 1
+Éger u. 1
+Egres u. 1
+Egressy Béni u. 1
+Egressy Gábor u. 1
+Egri u. 1
+Egyetértés u. 1
+Előd u. 1
+Első u. 1
+Endresz György u. 1
+Endrődi Sándor u. 1
+Enyedi György u. 1
+Eötvös Lóránd u. 1
+Eper u. 1
+Eperjesi u. 1
+Epres u. 1
+Erdélyi u. 1
+Erdész u. 1
+Erdő u. 1
+Erenyő u. 1
+Erkel Ferenc u. 1
+Ernye Bán u. 1
+Estike u. 1
+Esze Tamás u. 1
+Eszperantó u. 1
+Eszter u. 1
+Esztergályos u. 1
+Eszterházy Antal u. 1
+Fábián u. 1
+Fadrusz János u. 1
+Fagyöngy u. 1
+Fajdos u. 1
+Faller Jenő u. 1
+Farbaky István u. 1
+Farkas Antal u. 1
+Farkas Jenő u. 1
+Fáskert u. 1
+Fasor u. 1
+Fátyolka u. 1
+Fazekas u. 1
+Fazola Henrik u. 1
+Fecske u. 1
+Felhő u. 1
+Felmező u. 1
+Felsőszinva u. 1
+Fém u. 1
+Fényesvölgyi u. 1
+Fenyő u. 1
+Fenyves u. 1
+Ferenc u. 1
+Ferenczi Sándor u. 1
+Feszty Árpád u. 1
+Finkey József u. 1
+Fogarasi u. 1
+Fonoda u. 1
+Forgács Antal u. 1
+Forrásvölgy u. 1
+Fő u. 1
+Földes Ferenc u. 1
+Fövényszer u. 1
+Franklin Benjámin u. 1
+Futó u. 1
+Fuvola u. 1
+Fülemile u. 1
+Fülep József u. 1
+Fürdő u. 1
+Fürj u. 1
+Füzes u. 1
+Gábor Áron u. 1
+Gagarin u. 1
+Gálffy Ignác u. 1
+Ganz Ábrahám u. 1
+Garam u. 1
+Garas Sámuel u. 1
+Garbai Sándor u. 1
+Gárdonyi Géza u. 1
+Gátőr u. 1
+Gémeskert u. 1
+Gépész u. 1
+Gerle u. 1
+Geró János u. 1
+Gesztenyés u. 1
+Géza u. 1
+Ginzery Sándor u. 1
+Gitár u. 1
+Gizella u. 1
+Glanzer Miksa u. 1
+Gombos Pál u. 1
+Gózon Lajos u. 1
+Görgős u. 1
+Görögszőlő u. 1
+Gőz u. 1
+Gránátalma u. 1
+Gubás u. 1
+Gutenberg u. 1
+Gvadányi József u. 1
+Gyár u. 1
+Gyertyán u. 1
+Gyimesi u. 1
+Gyóni Géza u. 1
+Gyöngyösi István u. 1
+Gyöngyvirág u. 1
+Győri u. 1
+Gyula u. 1
+Hajdú u. 1
+Hajnal u. 1
+Hajnóczy József u. 1
+Hajós Alfréd u. 1
+Haladás u. 1
+Halász u. 1
+Haller György u. 1
+Halom u. 1
+Hamerák Mihály u. 1
+Harang u. 1
+Harkály u. 1
+Harmadik u. 1
+Harmat u. 1
+Harsányi u. 1
+Hársfa u. 1
+Hatodik u. 1
+Hattyú u. 1
+Havas u. 1
+Havasszépe u. 1
+Hegedű u. 1
+Hegyes u. 1
+Hejő u. 1
+Hengerész u. 1
+Hérics u. 1
+Herman Ottó u. 1
+Hernád u. 1
+Hetedik u. 1
+Híd u. 1
+Hock János u. 1
+Hold u. 1
+Hollán Ernő u. 1
+Holló u. 1
+Homok u. 1
+Homonnai u. 1
+Honszerző u. 1
+Honvéd u. 1
+Hordó u. 1
+Horváth Lajos u. 1
+Hóvirág u. 1
+Huba u. 1
+Hunfalvy Pál u. 1
+Hunyadi János u. 1
+Huszár u. 1
+Hutás u. 1
+Ibolya u. 1
+id. Rubik Ernő u. 1
+Igazság u. 1
+Iglói u. 1
+Ilona u. 1
+Illyés Gyula u. 1
+Imreh Zsigmond u. 1
+Ipoly u. 1
+Irányi Dániel u. 1
+Irinyi János u. 1
+Írisz u. 1
+Irma u. 1
+Isaszeg u. 1
+Istvánffy Gyula u. 1
+Iván u. 1
+Izsó Miklós u. 1
+János u. 1
+Jánosi Ferenc u. 1
+Jászai Mari u. 1
+Jászi Oszkár u. 1
+Jázmin u. 1
+Jedlik Ányos u. 1
+Jegenyés u. 1
+Jégvirág u. 1
+Jendrassik György u. 1
+Jenkei u. 1
+Jogász u. 1
+Jókai Mór u. 1
+Jósika Miklós u. 1
+Jósva u. 1
+Jószerencse u. 1
+József u. 1
+József Attila u. 1
+Juhar u. 1
+Juhász Gyula u. 1
+Kabar u. 1
+Kabók Lajos u. 1
+Kacsóh Pongrác u. 1
+Kaffka Margit u. 1
+Kalapács u. 1
+Kalló u. 1
+Kálvin János u. 1
+Kandia u. 1
+Kandó Kálmán u. 1
+Kankalin u. 1
+Kapitány u. 1
+Káplár u. 1
+Kapos u. 1
+Kaptár u. 1
+Karabély u. 1
+Karacs Teréz u. 1
+Karinthy Frigyes u. 1
+Károly u. 1
+Károlyi Mihály u. 1
+Kárpáti u. 1
+Kárpitos u. 1
+Kartács u. 1
+Kassai u. 1
+Kassák Lajos u. 1
+Katona József u. 1
+Katowice u. 1
+Kavics u. 1
+Kazinczy Ferenc u. 1
+Kázmér u. 1
+Kelemen Didák u. 1
+Kelet u. 1
+Kemény u. 1
+Kempelen Farkas u. 1
+Kerpely Antal u. 1
+Kertész u. 1
+Késmárki u. 1
+Kikerics u. 1
+Kilencedik u. 1
+Király u. 1
+Kisbenedek u. 1
+Kisfaludy Károly u. 1
+Kishonti u. 1
+Kis-Hunyad u. 1
+Kis Kőkötő u. 1
+Kiss Ernő u. 1
+Kiss József u. 1
+Klapka György u. 1
+Kmetty János u. 1
+Knézich Károly u. 1
+Koboz u. 1
+Kócsag u. 1
+Kodály Zoltán u. 1
+Kohász u. 1
+Kohó u. 1
+Kokilla u. 1
+Kolozsvári u. 1
+Kondor Béla u. 1
+Koppány u. 1
+Korach Mór u. 1
+Kórház u. 1
+Kóris Kálmán u. 1
+Koromházi u. 1
+Kós Károly u. 1
+Kossuth Lajos u. 1
+Kovács u. 1
+Kozma Andor u. 1
+Kő u. 1
+Kökény u. 1
+Kölcsey Ferenc u. 1
+Köln u. 1
+Költő u. 1
+Kőműves u. 1
+Kőpad u. 1
+Kőporos u. 1
+Kőris u. 1
+Körmöci u. 1
+Kőrös u. 1
+Kőrösi Csoma Sándor u. 1
+Közdomb u. 1
+Középruzsin u. 1
+Középszer u. 1
+Köztársaság u. 1
+Kristály u. 1
+Krókusz u. 1
+Kruspér István u. 1
+Kuruc u. 1
+Kutyorvölgy u. 1
+Külső csabai u. 1
+Kürt u. 1
+Laborc u. 1
+Laborfalvi Róza u. 1
+Lahner György u. 1
+Lajos Árpád u. 1
+Lajta u. 1
+Lakatos u. 1
+Lankás u. 1
+Lant u. 1
+Lányi Ernő u. 1
+Latabár Endre u. 1
+Latkóczi Lajos u. 1
+Latorca u. 1
+Lauday János u. 1
+Lavotta u. 1
+Lázár Vilmos u. 1
+Lehár Ferenc u. 1
+Lehel u. 1
+Leiningen Károly u. 1
+Lejtő u. 1
+Lengyászó u. 1
+Lenke u. 1
+Lenkey Zoltán u. 1
+Leszih Andor u. 1
+Léva u. 1
+Lévay József u. 1
+Levél u. 1
+Leventevezér u. 1
+Lilaakác u. 1
+Liliom u. 1
+Lilla u. 1
+Liszkay Gusztáv u. 1
+Liszt Ferenc u. 1
+Lokomotív u. 1
+Lomb u. 1
+Lonovics József u. 1
+Lónyay Menyhért u. 1
+Lórántffy Zsuzsanna u. 1
+Losonczy István u. 1
+Lovarda u. 1
+Lőcsei u. 1
+Lugas u. 1
+Madách Imre u. 1
+Mádai Lajos u. 1
+Madár u. 1
+Madarász Viktor u. 1
+Magashegy u. 1
+Magyar u. 1
+Magyar László u. 1
+Majláth István u. 1
+Major u. 1
+Majorság u. 1
+Málnás u. 1
+Malom u. 1
+Malomszög u. 1
+Mályva u. 1
+Mányoki Ádám u. 1
+Marek József u. 1
+Margaréta u. 1
+Margittai u. 1
+Mária u. 1
+Máriássy Sándor u. 1
+Marjalaki Kiss Lajos u. 1
+Maros u. 1
+Martin Károly u. 1
+Martinász u. 1
+Márton bíró u. 1
+Második u. 1
+Mátra u. 1
+Mátyás király u. 1
+Mécs László u. 1
+Mecsek u. 1
+Mécses u. 1
+Medgyessy Ferenc u. 1
+Mednyánszky László u. 1
+Meggyes u. 1
+Meggyesalja u. 1
+Méhész u. 1
+Melinda u. 1
+Mélyvölgy u. 1
+Mérnök u. 1
+Mester u. 1
+Mész u. 1
+Mészáros u. 1
+Mésztelep u. 1
+Méz u. 1
+Mező u. 1
+Mikes Kelemen u. 1
+Miklós u. 1
+Mikszáth Kálmán u. 1
+Móga János u. 1
+Mogyoró u. 1
+Moha u. 1
+Mohás u. 1
+Mohostó u. 1
+Mokri-Mészáros u. 1
+Mongol u. 1
+Monostor u. 1
+Mónus Illés u. 1
+Móra Ferenc u. 1
+Móricz Zsigmond u. 1
+Muhi u. 1
+Munkácsy Mihály u. 1
+Munkás u. 1
+Mura u. 1
+Muskátli u. 1
+Műhely u. 1
+Nádas u. 1
+Nagy Ferenc u. 1
+Nagy László u. 1
+Nagy Sándor u. 1
+Nagyszalonta u. 1
+Nagyszebeni u. 1
+Nagyváradi u. 1
+Nándorfehérvári u. 1
+Nap u. 1
+Napfény u. 1
+Napfürdő u. 1
+Naposdomb u. 1
+Napraforgó u. 1
+Napsugár u. 1
+Nárcisz u. 1
+Nefelejcs u. 1
+Negyedik u. 1
+Negyvennyolcas u. 1
+Nemzetőr u. 1
+Nimród u. 1
+Nyár u. 1
+Nyárfa u. 1
+Nyírfa u. 1
+Nyíri Dániel u. 1
+Nyírjes u. 1
+Nyitrai u. 1
+Nyolcadik u. 1
+Ó u. 1
+Olvasztár u. 1
+Ómassa u. 1
+Orgona u. 1
+Orsó u. 1
+Ottlik Géza u. 1
+Óvoda u. 1
+Örömhegy u. 1
+Örös u. 1
+Örs u. 1
+Ötödik u. 1
+Őz u. 1
+Őzugró u. 1
+Pacsirta u. 1
+Páfrány u. 1
+Pajtás u. 1
+Pákozd u. 1
+Pál u. 1
+Pallós u. 1
+Pálma u. 1
+Palóczy László u. 1
+Palota u. 1
+Páncél u. 1
+Panoráma u. 1
+Papír u. 1
+Papszer u. 1
+Park u. 1
+Partos u. 1
+Patak u. 1
+Pattantyús Ábrahám Géza u. 1
+Páva u. 1
+Pázsit u. 1
+Péch Antal u. 1
+Perczel Mór u. 1
+Petneházy Dávid u. 1
+Petőfi Sándor u. 1
+Pfaff Ferenc u. 1
+Pilinszky u. 1
+Pilis u. 1
+Pillangó u. 1
+Pintes u. 1
+Pipacs u. 1
+Platán u. 1
+Pléh Sándor u. 1
+Pólya Jenő u. 1
+Poprád u. 1
+Pósa Lajos u. 1
+Posta u. 1
+Pozsonyi u. 1
+Pöltenberg Ernő u. 1
+Prizma u. 1
+Próbatétel u. 1
+Puskás Tivadar u. 1
+Puskin u. 1
+Pusztaszeri u. 1
+Püspöklak u. 1
+Rába u. 1
+Rácz Ádám u. 1
+Rácz György u. 1
+Radnóti Miklós u. 1
+Rák u. 1
+Rákóczi Ferenc u. 1
+Régész u. 1
+Régiposta u. 1
+Reisinger Ferenc u. 1
+Reményi Ede u. 1
+Rét u. 1
+Retek u. 1
+Réz u. 1
+Rezeda u. 1
+Rézműves u. 1
+Rigó u. 1
+Rigófütty u. 1
+Rimaszombati u. 1
+Rodostó u. 1
+Róna u. 1
+Rozgonyi Piroska u. 1
+Rozmaring u. 1
+Rózsa u. 1
+Rózsavölgyi u. 1
+Rozsnyói u. 1
+Ruttkay György u. 1
+Ruzsini u. 1
+Ruzsinszőlő u. 1
+Sajó u. 1
+Sajószigeti u. 1
+Salétrom u. 1
+Sályi István u. 1
+Sándor u. 1
+Sarolta u. 1
+Sárosi Gyula u. 1
+Sas u. 1
+Sás u. 1
+Sátor u. 1
+Schweidel József u. 1
+Segesvári u. 1
+Sellő u. 1
+Selmeci u. 1
+Selyemrét u. 1
+Semmelweis Ignác u. 1
+Serház u. 1
+Sétány u. 1
+Sibrik Miklós u. 1
+Sik u. 1
+Simándy Pál u. 1
+Sió u. 1
+Síp u. 1
+Sirály u. 1
+Sólyom u. 1
+Som u. 1
+Somlay Artur u. 1
+Somlyó Zoltán u. 1
+Sorompó u. 1
+Sportliget u. 1
+Stadion u. 1
+Stromfeld Aurél u. 1
+Sugár u. 1
+Sütő János u. 1
+Szabadság u. 1
+Szabadságharc u. 1
+Szabó Ervin u. 1
+Szabó Károly u. 1
+Szabó Zoltán u. 1
+Szacsvay Imre u. 1
+Szalag u. 1
+Szalay András u. 1
+Szalay Lajos u. 1
+Szamos u. 1
+Szántó Kovács János u. 1
+Szarkahegy u. 1
+Szathmáry Király Pál u. 1
+Százszorszép u. 1
+Szebeni u. 1
+Szeder u. 1
+Szegedi u. 1
+Szegfű u. 1
+Székely u. 1
+Szekerész u. 1
+Szeles u. 1
+Szeleta u. 1
+Szemere Bertalan u. 1
+Szén u. 1
+Széna u. 1
+Szendrei János u. 1
+Szénfy Gusztáv u. 1
+Szent Anna u. 1
+Szent István u. 1
+Szent László u. 1
+Szentbenedek Hegyi u. 1
+Szentistványi u. 1
+Szentpáli u. 1
+Szép u. 1
+Szepessy Pál u. 1
+Szépvölgy u. 1
+Szerb Antal u. 1
+Szerdahelyi Kálmán u. 1
+Szeretet u. 1
+Szervezet u. 1
+Szigethy Mihály u. 1
+Szikla u. 1
+Szilágyi Dezső u. 1
+Szilvás u. 1
+Szinva u. 1
+Szinyei Merse Pál u. 1
+Szirmai u. 1
+Szirmay Antal u. 1
+Szirom u. 1
+Szitakötő u. 1
+Szivárvány u. 1
+Szondy György u. 1
+Szózat u. 1
+Szőlő u. 1
+Szövő u. 1
+Szrog Sámuel u. 1
+Szűcs Sámuel u. 1
+Szűcs Sándor u. 1
+Szűrcsapó u. 1
+Tábortűz u. 1
+Tag u. 1
+Taksony u. 1
+Takta u. 1
+Tallér u. 1
+Tamási Áron u. 1
+Tanító u. 1
+Tapolcai u. 1
+Tapoly u. 1
+Tarcsay Vilmos u. 1
+Tárkányi Béla u. 1
+Tarló u. 1
+Tarna u. 1
+Tárogató u. 1
+Tartsay Vilmos u. 1
+Tass u. 1
+Tatár u. 1
+Tatárárok u. 1
+Tátra u. 1
+Tavasz u. 1
+Técsey Ferenc u. 1
+Tégla u. 1
+Téglagyári u. 1
+Teleki Blanka u. 1
+Telepy György u. 1
+Temes u. 1
+Temesvári u. 1
+Temető u. 1
+Temetőalja u. 1
+Templom u. 1
+Templomhegyi u. 1
+Testvériség u. 1
+Thaly Kálmán u. 1
+Thököly Imre u. 1
+Tímár u. 1
+Tímár malom u. 1
+Tinódi u. 1
+Tisza u. 1
+Tizedik u. 1
+Tizenegyedik u. 1
+Tizeshonvéd u. 1
+Tokaji Ferenc u. 1
+Toldi Miklós u. 1
+Tompa Mihály u. 1
+Tópart u. 1
+Topiczer János u. 1
+Tornai u. 1
+Torontáli u. 1
+Toronyalja u. 1
+Tóth Árpád u. 1
+Tóth Pál u. 1
+Töbrös u. 1
+Tölgy u. 1
+Tölgyesi u. 1
+Töltés u. 1
+Tömörkény István u. 1
+Tömösi u. 1
+Török Ignác u. 1
+Törökverő u. 1
+Trencséni u. 1
+Tulipán u. 1
+Tücsök u. 1
+Tüzér u. 1
+Uitz Béla u. 1
+Új Élet u. 1
+Újakna u. 1
+Újítók u. 1
+Újjáépítés u. 1
+Újkert u. 1
+Ungvári u. 1
+Üllő u. 1
+Üteg u. 1
+Váci Mihály u. 1
+Vadas Jenő u. 1
+Vadász u. 1
+Vadgalamb u. 1
+Vadrózsa u. 1
+Vadvirág u. 1
+Vágóhíd u. 1
+Vájár u. 1
+Vajda János u. 1
+Váltó u. 1
+Váncza Mihály u. 1
+Vár u. 1
+Váradi u. 1
+Várhegy u. 1
+Várközi Lajos u. 1
+Vas u. 1
+Vas Gereben u. 1
+Vásárhelyi István u. 1
+Vásárhelyi Pál u. 1
+Vásártéri u. 1
+Vasöntő u. 1
+Vasút u. 1
+Vasvári Pál u. 1
+Vasverő u. 1
+Vászonfehérítő u. 1
+Vécsey Károly u. 1
+Velence u. 1
+Venyige u. 1
+Veréb u. 1
+Vereckei u. 1
+Verne Gyula u. 1
+Verseny u. 1
+Vezér u. 1
+Világ u. 1
+Vince u. 1
+Viola u. 1
+Virág u. 1
+Visó u. 1
+Vitéz u. 1
+Vizirózsa u. 1
+Vologda u. 1
+Völgy u. 1
+Vörös u. 1
+Vörös Bérc u. 1
+Vörösmarty Mihály u. 1
+Wass Albert u. 1
+Wesselényi Miklós u. 1
+Zagyva u. 1
+Zala u. 1
+Zamenhof u. 1
+Zárda u. 1
+Zászló u. 1
+Zempléni u. 1
+Zenta u. 1
+Zielinsky Szilárd u. 1
+Zilahi u. 1
+Zoltán u. 1
+Zólyomi u. 1
+Zombori u. 1
+Zrínyi Ilona u. 1
+Zsák u. 1
+Zsedényi Béla u. 1
+Zsigmondy Vilmos u. 1
+Zsórioldal u. 1
+Ábel u. 1
+Abigél u. 1
+Abonyi u. 1
+Áchim András u. 1
+Aczél Géza u. 1
+Ács u. 1
+Ádám u. 1
+Áfonya u. 1
+Ág u. 1
+Agancs u. 1
+Agárdi u. 1
+Ajtó u. 1
+Akácfa u. 1
+Akácméz u. 1
+Akácvirág u. 1
+Akadémia u. 1
+Alig u. 1
+Alkonyat u. 1
+Alkotás u. 1
+Alkotmány u. 1
+Állomás u. 1
+Alma u. 1
+Almáskert u. 1
+Álmos u. 1
+Alsójózsai u. 1
+Alvinczi u. 1
+Andaházi u. 1
+Ánizs u. 1
+Antall József u. 1
+Apafája u. 1
+Apafi u. 1
+Apáterdő u. 1
+Arad u. 1
+Arany János u. 1
+Arany Sándor u. 1
+Aranyalma u. 1
+Aranyeső u. 1
+Aranyfácán u. 1
+Aranykapu u. 1
+Aranylile u. 1
+Arasz u. 1
+Arató u. 1
+Árnika u. 1
+Árnyas u. 1
+Árok u. 1
+Árpa u. 1
+Árva u. 1
+Árvalányhaj u. 1
+Asztalos u. 1
+Aulich u. 1
+Babarózsa u. 1
+Babér u. 1
+Babits Mihály u. 1
+Bádogos u. 1
+Bagoly u. 1
+Bajcsy-Zsilinszky u. 1
+Bajnok u. 1
+Bajonett u. 1
+Bajza József u. 1
+Bakator u. 1
+Baksay Sándor u. 1
+Balásházy János u. 1
+Balassi Bálint u. 1
+Balaton u. 1
+Bálint pap u. 1
+Bálint Zoltán u. 1
+Balogh Mihály u. 1
+Balogh Tamás u. 1
+Balzsamfű u. 1
+Bán u. 1
+Bán Imre u. 1
+Bánat u. 1
+Bányai Júlia u. 1
+Barackos u. 1
+Barakonyi u. 1
+Bárány u. 1
+Bárányfelhő u. 1
+Barátság u. 1
+Barázda u. 1
+Barcaság u. 1
+Bárczi Géza u. 1
+Barna u. 1
+Baross Gábor u. 1
+Bársony u. 1
+Bársonyvirág u. 1
+Barta János u. 1
+Bartha Boldizsár u. 1
+Basahalom u. 1
+Baskír u. 1
+Báthori u. 1
+Batthyány u. 1
+Bay Zoltán u. 1
+Bayk András u. 1
+Bazsalikom u. 1
+Bazsarózsa u. 1
+Becsky u. 1
+Bégány u. 1
+Begónia u. 1
+Bekecs u. 1
+Békés u. 1
+Békéscsaba u. 1
+Békéssy Béla u. 1
+Béla u. 1
+Bem József u. 1
+Bencsik István u. 1
+Bencsik Sándor u. 1
+Benedek Mihály u. 1
+Bercsényi u. 1
+Bereczki Ferenc u. 1
+Beregszászi Pál u. 1
+Berek u. 1
+Berettyó u. 1
+Béri Balogh u. 1
+Berkenye u. 1
+Berta u. 1
+Besenyő u. 1
+Bessenyei u. 1
+Besze János u. 1
+Besztercei u. 1
+Bethlen u. 1
+Bezerédj Imre u. 1
+Bibe u. 1
+Bíbic u. 1
+Bíbor u. 1
+Biczókert u. 1
+Bihari u. 1
+Bimbó u. 1
+Bíró u. 1
+Blaháné u. 1
+Bocz Ernő u. 1
+Bodai u. 1
+Bodrog u. 1
+Bodza u. 1
+Bogáncs u. 1
+Boglárka u. 1
+Bognár Rezső u. 1
+Bojta u. 1
+Bojtár u. 1
+Bojtorján u. 1
+Boka Károly u. 1
+Bokor u. 1
+Bokréta u. 1
+Bokros u. 1
+Boldogfalva u. 1
+Boldogkert u. 1
+Bólyai u. 1
+Boncz László u. 1
+Bondorhát u. 1
+Borágó u. 1
+Borbolya u. 1
+Borház u. 1
+Bornemissza u. 1
+Boróka u. 1
+Borona u. 1
+Boros u. 1
+Borostyán u. 1
+Boroszlán u. 1
+Bors u. 1
+Borsika u. 1
+Borsmenta u. 1
+Borsovai u. 1
+Borszőlő u. 1
+Borz u. 1
+Borzán Gáspár u. 1
+Botond u. 1
+Bölcs u. 1
+Böllér u. 1
+Bőralma u. 1
+Branyiszkó u. 1
+Bujdosó u. 1
+Bulgár u. 1
+Burgundia u. 1
+Busi u. 1
+Búza u. 1
+Búzavirág u. 1
+Buzogány u. 1
+Bükk u. 1
+Bükkmogyoró u. 1
+Bürök u. 1
+Cecília u. 1
+Cegléd u. 1
+Cickafark u. 1
+Ciklámen u. 1
+Cikória u. 1
+Cimbalom u. 1
+Cinege u. 1
+Citera u. 1
+Citromfű u. 1
+Civis u. 1
+Csabagyöngye u. 1
+Csaba vezér u. 1
+Csákány u. 1
+Csáky Imre u. 1
+Csalán u. 1
+Csalitos u. 1
+Csalogány u. 1
+Csanak u. 1
+Csángó u. 1
+Csányi Dániel u. 1
+Csap u. 1
+Csapókert u. 1
+Csapszék u. 1
+Csárdás u. 1
+Császár Péter u. 1
+Csata u. 1
+Csatár u. 1
+Csemete u. 1
+Csendes u. 1
+Csenger u. 1
+Csengő u. 1
+Cséplő u. 1
+Cser u. 1
+Csereág u. 1
+Cserebogár u. 1
+Csereerdő u. 1
+Cserei u. 1
+Cserepes u. 1
+Cseresznye u. 1
+Cserfa u. 1
+Cserlevél u. 1
+Csermely u. 1
+Cserszömörce u. 1
+Csigekert u. 1
+Csíkhal u. 1
+Csikós u. 1
+Csillag u. 1
+Csillagfürt u. 1
+Csillagvirág u. 1
+Csipkebokor u. 1
+Csipkerózsa u. 1
+Csipkés u. 1
+Csíz u. 1
+Csizmadia u. 1
+Csobolyó u. 1
+Csók u. 1
+Csóka u. 1
+Csokonai u. 1
+Csombor u. 1
+Csónak u. 1
+Csongor u. 1
+Csongrád u. 1
+Csonka u. 1
+Csonkatorony u. 1
+Csordás Ferenc u. 1
+Csoroszlya u. 1
+Csörgőalma u. 1
+Csörsz u. 1
+Csúcs u. 1
+Csucsor u. 1
+Csuka u. 1
+Csutorás u. 1
+Csuvas u. 1
+Csűry Bálint u. 1
+Damjanich u. 1
+Dámvad u. 1
+Darabos u. 1
+Dárda u. 1
+Daróczi Vilmos u. 1
+Daru u. 1
+Deák Ferenc u. 1
+Délibáb u. 1
+Dembinszky u. 1
+Dér u. 1
+Derék u. 1
+Derekassy István u. 1
+Deres u. 1
+Dessewffy u. 1
+Dévai u. 1
+Dévény u. 1
+Dézsa u. 1
+Dézsi András u. 1
+Diadal u. 1
+Dicsőfi u. 1
+Dienes János u. 1
+Dió u. 1
+Diófa u. 1
+Dob u. 1
+Doberdó u. 1
+Dobó u. 1
+Doboka u. 1
+Doboz u. 1
+Dobozi u. 1
+Dobsina u. 1
+Dobverő u. 1
+Dóczy József u. 1
+Dohánykert u. 1
+Dohányos u. 1
+Dolmány u. 1
+Domb u. 1
+Dombhajlat u. 1
+Dombhát u. 1
+Domokos Lajos u. 1
+Domokoskert u. 1
+Dongó u. 1
+Dorogi u. 1
+Dorottya u. 1
+Dorozsma u. 1
+Dózsa György u. 1
+Dugovics Titusz u. 1
+Duskás Ferenc u. 1
+Ecetfa u. 1
+Ecsedi István u. 1
+Éden u. 1
+Édenkert u. 1
+Éger u. 1
+Egyletkert u. 1
+Egymalom u. 1
+Elek u. 1
+Előd u. 1
+Előkert u. 1
+Ember Pál u. 1
+Endre u. 1
+Eötvös u. 1
+Eper u. 1
+Eperfa u. 1
+Eperjes u. 1
+Építész u. 1
+Építők u. 1
+Epreskert u. 1
+Erdély u. 1
+Erdész u. 1
+Erdőalja u. 1
+Erdőhát u. 1
+Erdőmellék u. 1
+Erdőmester u. 1
+Erdősor u. 1
+Erdőspuszta u. 1
+Erdőszél u. 1
+Erkel Ferenc u. 1
+Érmellék u. 1
+Erőss Lajos u. 1
+Érpart u. 1
+Érsek u. 1
+Erzsébet u. 1
+Estike u. 1
+Esze Tamás u. 1
+Éva u. 1
+Ezerjófű u. 1
+Ezüstfenyő u. 1
+Ezüstmoha u. 1
+Ezüstnyár u. 1
+Ezüstsirály u. 1
+Fácán u. 1
+Fagyal u. 1
+Fagyöngy u. 1
+Fahéj u. 1
+Fakopáncs u. 1
+Fanyűvő u. 1
+Faragó u. 1
+Farkas u. 1
+Farkasalma u. 1
+Favágó u. 1
+Fátyolfelhő u. 1
+Fátyolka u. 1
+Fátyolvirág u. 1
+Fáy András u. 1
+Fazekas Mihály u. 1
+Fecske u. 1
+Fehérgyarmat u. 1
+Fehérszilva u. 1
+Fejedelem u. 1
+Fekete István u. 1
+Feketerét u. 1
+Félegyházi Tamás u. 1
+Felleg u. 1
+Felsőjózsai u. 1
+Felsőpércsi u. 1
+Fény u. 1
+Fenyő u. 1
+Fenyőmag u. 1
+Fenyves u. 1
+Fészek u. 1
+Fiákeres u. 1
+Fillér u. 1
+Fodormenta u. 1
+Fogoly u. 1
+Fokos u. 1
+Fóliás u. 1
+Fonatos u. 1
+Forgách u. 1
+Földi János u. 1
+Földibodza u. 1
+Főző u. 1
+Furmint u. 1
+Furulya u. 1
+Futó u. 1
+Futrinka u. 1
+Fuvallat u. 1
+Fuvaros u. 1
+Fuvola u. 1
+Függetlenség u. 1
+Fülemüle u. 1
+Fülöp u. 1
+Fűrész u. 1
+Fürj u. 1
+Füvészkert u. 1
+Fűzfa u. 1
+Füzike u. 1
+Gábor Áron u. 1
+Gáborjáni Szabó Kálmán u. 1
+Galagonya u. 1
+Galamb u. 1
+Garai u. 1
+Gárdonyi Géza u. 1
+Gáspár Endre u. 1
+Gát u. 1
+Gázgyár u. 1
+Gázvezeték u. 1
+Gébics u. 1
+Gépész u. 1
+Gerbera u. 1
+Géresi u. 1
+Gergely u. 1
+Gerle u. 1
+Gesztelyi-Nagy László u. 1
+Gesztenye u. 1
+Géza u. 1
+Ghilányi u. 1
+Gizella u. 1
+Gogol u. 1
+Gohér u. 1
+Gólya u. 1
+Gólyahír u. 1
+Golyó u. 1
+Gomba u. 1
+Gombvirág u. 1
+Gorkij u. 1
+Göncölszekér u. 1
+Gönczy Pál u. 1
+Görbe u. 1
+Görgény u. 1
+Görgey u. 1
+Görög u. 1
+Gránát u. 1
+Gubacs u. 1
+Gulyakút u. 1
+Gulyás Pál u. 1
+Guti u. 1
+Gvadányi u. 1
+Gyalog u. 1
+Gyár u. 1
+Gyékény u. 1
+Gyémánt u. 1
+Gyepűsor u. 1
+Gyergyó u. 1
+Gyertyán u. 1
+Gyimes u. 1
+Gyires Béla u. 1
+Gyolcsos u. 1
+Gyoma u. 1
+Gyopár u. 1
+Gyömbér u. 1
+Gyöngy u. 1
+Gyöngyike u. 1
+Gyöngyösi u. 1
+Gyöngyszem u. 1
+Gyöngyvessző u. 1
+Gyöngyvirág u. 1
+Győrffy István u. 1
+György u. 1
+Gyulai u. 1
+Gyurgyalag u. 1
+Gyümölcs u. 1
+Gyűrű u. 1
+Gyűszűvirág u. 1
+Hadvezér u. 1
+Hajdú u. 1
+Hajnal u. 1
+Hajnalcsillag u. 1
+Hajó u. 1
+Hajós Alfréd u. 1
+Haladás u. 1
+Haláp u. 1
+Halasi u. 1
+Halastó u. 1
+Halász u. 1
+Halász István u. 1
+Hámfa u. 1
+Hanga u. 1
+Hangyás u. 1
+Harangos u. 1
+Harangvirág u. 1
+Hargita u. 1
+Harkály u. 1
+Hármashegy u. 1
+Harmat u. 1
+Harmatfű u. 1
+Hárs u. 1
+Hársfavirág u. 1
+Harsona u. 1
+Hatház u. 1
+Hátszeg u. 1
+Hatvan u. 1
+Hatvani István u. 1
+Hattyú u. 1
+Havas u. 1
+Házgyár u. 1
+Hegy u. 1
+Hegyi Mihályné u. 1
+Hegyköz u. 1
+Heltai Jenő u. 1
+Herczeg u. 1
+Herold István u. 1
+Herpay Gábor u. 1
+Hetényi János u. 1
+Hétvezér u. 1
+Hevesi u. 1
+Híd u. 1
+Hínár u. 1
+Hintós u. 1
+Hód u. 1
+Hodászi Lukács u. 1
+Hódos Imre u. 1
+Hoffman u. 1
+Hold u. 1
+Holdsugár u. 1
+Holdvilág u. 1
+Holló János u. 1
+Holló László u. 1
+Hollós u. 1
+Homok u. 1
+Homokhát u. 1
+Homokkert u. 1
+Honti u. 1
+Honvéd u. 1
+Honvédtemető u. 1
+Hópihe u. 1
+Hordó u. 1
+Horgász u. 1
+Hortobágy u. 1
+Horváth Árpád u. 1
+Hóvirág u. 1
+Hőforrás u. 1
+Hullám u. 1
+Hun u. 1
+Hungária u. 1
+Hunyadi János u. 1
+Hunyor u. 1
+Hüvelyes u. 1
+Ibolya u. 1
+Ifjúság u. 1
+Iglice u. 1
+Igló u. 1
+Igric u. 1
+Ildikó u. 1
+Ilona u. 1
+Illyés Gyula u. 1
+Inda u. 1
+Iparkamara u. 1
+Ipoly u. 1
+Irányi Dániel u. 1
+Irén u. 1
+Iringó u. 1
+Irinyi u. 1
+Iskola u. 1
+Ispán u. 1
+Ispotály u. 1
+Iván mester u. 1
+Izabella u. 1
+Izsó u. 1
+Jácint u. 1
+Jáger u. 1
+János Vitéz u. 1
+Jász u. 1
+Jászai Mari u. 1
+Jázmin u. 1
+Jegenye u. 1
+Jégcsap u. 1
+Jégmadár u. 1
+Jégvirág u. 1
+Jenő u. 1
+Jerikó u. 1
+Jókai u. 1
+Jonatán u. 1
+Jósa Miklós u. 1
+Jósika u. 1
+Josta u. 1
+Józsa István u. 1
+Józsai u. 1
+Józsakert u. 1
+József u. 1
+József Attila u. 1
+Juharfa u. 1
+Juhász Géza u. 1
+Juhász Gyula u. 1
+Juhfark u. 1
+Jurisich u. 1
+Kabar u. 1
+Kacagány u. 1
+Kádár u. 1
+Kadarcs u. 1
+Kadarka u. 1
+Kádas u. 1
+Kadosa u. 1
+Kaffka Margit u. 1
+Káka u. 1
+Kakas u. 1
+Kakaslábfű u. 1
+Kaktusz u. 1
+Kakukk u. 1
+Kalász u. 1
+Káliz u. 1
+Kálmán u. 1
+Kálmán Béla u. 1
+Kálmáncsehi u. 1
+Kálmos u. 1
+Kalocsa u. 1
+Kamarás u. 1
+Kamilla u. 1
+Kanális u. 1
+Kandia u. 1
+Kandó Kálmán u. 1
+Kankalin u. 1
+Kantár u. 1
+Kántor u. 1
+Kánya u. 1
+Kapás u. 1
+Kapitány u. 1
+Kápolnási u. 1
+Kapor u. 1
+Kaptár u. 1
+Kar u. 1
+Karabély u. 1
+Karacs Ferenc u. 1
+Karácsony György u. 1
+Kárász u. 1
+Kard u. 1
+Kardos Albert u. 1
+Kardvirág u. 1
+Karinthy Frigyes u. 1
+Kárókatona u. 1
+Károli Gáspár u. 1
+Károlyi Mihály u. 1
+Kárpáti Károly u. 1
+Kartács u. 1
+Kaskötő u. 1
+Kastély u. 1
+Kastélykert u. 1
+Kaszás u. 1
+Kászon u. 1
+Katalin u. 1
+Katáng u. 1
+Katona József u. 1
+Kavics u. 1
+Kazár u. 1
+Kazinczy u. 1
+Kecsege u. 1
+Kecskerágó u. 1
+Kékcsillag u. 1
+Kéknyelű u. 1
+Kékperje u. 1
+Kékszilva u. 1
+Kékszőlő u. 1
+Kéky Lajos u. 1
+Kelence u. 1
+Kellerman Márton u. 1
+Kemény Zsigmond u. 1
+Kender u. 1
+Kenézy Gyula u. 1
+Kenyér u. 1
+Kér u. 1
+Kerecsen u. 1
+Kerekerdő u. 1
+Kerekes Ferenc u. 1
+Kerékgyártó u. 1
+Kérész u. 1
+Keresztesi u. 1
+Kerezsi Endre u. 1
+Kertbarát u. 1
+Kertekalja u. 1
+Kertész u. 1
+Kerti u. 1
+Kertváros u. 1
+Késmárk u. 1
+Keszeg u. 1
+Keszi u. 1
+Kétmalom u. 1
+Keve u. 1
+Kígyó u. 1
+Kígyóhagyma u. 1
+Kikelet u. 1
+Kikerics u. 1
+Kincseshegy u. 1
+Király u. 1
+Királyfű u. 1
+Kirgiz u. 1
+Kisállomás u. 1
+Kisbánya u. 1
+Kisbotos u. 1
+Kisdobos u. 1
+Kiserdő u. 1
+Kisfaludy u. 1
+Kishatár u. 1
+Kiskert u. 1
+Kiskút u. 1
+Kismarja u. 1
+Kismeszesi u. 1
+Kiss Áron u. 1
+Kiss Ernő u. 1
+Kiss József u. 1
+Kiss Sámuel u. 1
+Kistegez u. 1
+Kistelek u. 1
+Klaipeda u. 1
+Klapka u. 1
+Klauzál Gábor u. 1
+Knézich Károly u. 1
+Kócsag u. 1
+Kocsis u. 1
+Kocsord u. 1
+Kodály Zoltán u. 1
+Kolónia u. 1
+Kolozsvári u. 1
+Komáromi u. 1
+Komló u. 1
+Kondoros u. 1
+Kondoroskert u. 1
+Konkoly u. 1
+Kontyvirág u. 1
+Kopáncs u. 1
+Kopja u. 1
+Koppány u. 1
+Korcsolyás u. 1
+Kórház u. 1
+Koriander u. 1
+Kormorán u. 1
+Kormosalma u. 1
+Kóró u. 1
+Korponai u. 1
+Korsó u. 1
+Kós Károly u. 1
+Kosárfonó u. 1
+Kosbor u. 1
+Kossuth u. 1
+Koszorú u. 1
+Kosztolányi Dezső u. 1
+Kovács Pál u. 1
+Kőfaragó u. 1
+Kökény u. 1
+Kökörcsin u. 1
+Kölcsey u. 1
+Köles u. 1
+Köleséri Sámuel u. 1
+Kömény u. 1
+Kőműves u. 1
+Könd u. 1
+Köntöskert u. 1
+Könyök u. 1
+Könyves Tóth Kálmán u. 1
+Könyvkötő u. 1
+Kör u. 1
+Kőrisfa u. 1
+Körömvirág u. 1
+Körös u. 1
+Kőrösi Csoma Sándor u. 1
+Körtefa u. 1
+Kőszeg u. 1
+Köszméte u. 1
+Köszörűs u. 1
+Köteles u. 1
+Kövirózsa u. 1
+Közép u. 1
+Kristály u. 1
+Krónikás u. 1
+Krúdy Gyula u. 1
+Kulacs u. 1
+Kun u. 1
+Kunhalom u. 1
+Kurta u. 1
+Kút u. 1
+Kútfő u. 1
+Kútvölgyi u. 1
+Kuvik u. 1
+Küküllő u. 1
+Külcsere u. 1
+Kürtgyarmat u. 1
+Kürtös u. 1
+Labdarózsa u. 1
+Laboda u. 1
+Ladik u. 1
+Lakatos u. 1
+Laktanya u. 1
+Lámpás u. 1
+Lándzsa u. 1
+Lant u. 1
+Lapály u. 1
+Lappantyú u. 1
+Látókép u. 1
+Laura u. 1
+Leánder u. 1
+Leány u. 1
+Legányi u. 1
+Legátus u. 1
+Legényrózsa u. 1
+Légykapó u. 1
+Lehel u. 1
+Leiningen u. 1
+Lejtős u. 1
+Lenc u. 1
+Lenkey János u. 1
+Lépesméz u. 1
+Lepkeszeg u. 1
+Levendula u. 1
+Libakert u. 1
+Libatop u. 1
+Ligetszépe u. 1
+Lilaakác u. 1
+Liliom u. 1
+Lipták András u. 1
+Lisznyai u. 1
+Liszt Ferenc u. 1
+Lóding u. 1
+Lomb u. 1
+Lomnic u. 1
+Lónyai u. 1
+Lórántffy u. 1
+Lovas u. 1
+Lovász u. 1
+Lóverseny u. 1
+Lőporos u. 1
+Lőrinc pap u. 1
+Lőtér u. 1
+Lucfenyő u. 1
+Lugas u. 1
+Lugossy u. 1
+Mácsai Sándor u. 1
+Macsi u. 1
+Madarász u. 1
+Madárberkenye u. 1
+Madárbirs u. 1
+Magház u. 1
+Magtár u. 1
+Magtárház u. 1
+Magvető u. 1
+Magyar u. 1
+Magyari u. 1
+Majoránna u. 1
+Mák u. 1
+Makkai Sándor u. 1
+Makkos u. 1
+Makó u. 1
+Makszin Mihály u. 1
+Málna u. 1
+Malom u. 1
+Mályva u. 1
+Mandula u. 1
+Manninger Gusztáv u. 1
+Március 15. u. 1
+Margaréta u. 1
+Markotányos u. 1
+Marokszedő u. 1
+Maros u. 1
+Maróthy György u. 1
+Martinovics u. 1
+Martonfalvi u. 1
+Máta u. 1
+Mata János u. 1
+Mátai u. 1
+Mathiász János u. 1
+Mátyás király u. 1
+Matyó u. 1
+Mécsvirág u. 1
+Medok u. 1
+Meggyfás u. 1
+Méheskert u. 1
+Méhkas u. 1
+Melinda u. 1
+Melith u. 1
+Melotai Nyilas u. 1
+Ménrót u. 1
+Mester u. 1
+Mészáros u. 1
+Mészáros Gergely u. 1
+Meszena u. 1
+Meszesi u. 1
+Mészöly Géza u. 1
+Mézesbáb u. 1
+Mézescsók u. 1
+Mézeshegy u. 1
+Mézeshuszár u. 1
+Mézeskalácsos u. 1
+Mézeskard u. 1
+Mézharmat u. 1
+Mező u. 1
+Mezőgazdász u. 1
+Mihály u. 1
+Mihálylaki u. 1
+Mikes Kelemen u. 1
+Miklós u. 1
+Mikszáth Kálmán u. 1
+Mirkó Lajos u. 1
+Mogyoró u. 1
+Moha u. 1
+Mohács u. 1
+Mókus u. 1
+Molnár u. 1
+Monostor u. 1
+Monostorerdő u. 1
+Monti ezredes u. 1
+Móra Ferenc u. 1
+Mórabóra u. 1
+Morvay Zoltán u. 1
+Mozdony u. 1
+Munkácsy Mihály u. 1
+Muskátli u. 1
+Muskotály u. 1
+Múzeum u. 1
+Nádas u. 1
+Nádirigó u. 1
+Nádor u. 1
+Nádsíp u. 1
+Nagy Jenő u. 1
+Nagy Lajos u. 1
+Nagy Mihály u. 1
+Nagy Pál u. 1
+Nagy Sándor József u. 1
+Nagybánya u. 1
+Nagybotos u. 1
+Nagydobos u. 1
+Nagyecsed u. 1
+Nagy-Gál István u. 1
+Nagyhát u. 1
+Nagykároly u. 1
+Nagyszalonta u. 1
+Nagyszentgyörgy u. 1
+Nap u. 1
+Naphal u. 1
+Napkelte u. 1
+Napnyugta u. 1
+Napraforgó u. 1
+Naprózsa u. 1
+Napsugár u. 1
+Nárcisz u. 1
+Naspolya u. 1
+Nefelejcs u. 1
+Nektár u. 1
+Németh László u. 1
+Nemzetőr u. 1
+Nógrádi Mátyás u. 1
+Nőszirom u. 1
+Nyár u. 1
+Nyárád u. 1
+Nyárfás u. 1
+Nyáry Pál u. 1
+Nyék u. 1
+Nyereg u. 1
+Nyíl u. 1
+Nyíregyházi u. 1
+Nyírfa u. 1
+Nyitnikék u. 1
+Nyitra u. 1
+Nyomdász u. 1
+Nyugati u. 1
+Nyulas u. 1
+Odú u. 1
+Ohat u. 1
+Óiskola u. 1
+Ókastély u. 1
+Október 6. u. 1
+Ókút u. 1
+Oláh Gábor u. 1
+Oláh Károly u. 1
+Olajfa u. 1
+Olajütő u. 1
+Ond u. 1
+Ondódi u. 1
+Oportó u. 1
+Orgona u. 1
+Ormai Norbert u. 1
+Ormós Lajos u. 1
+Orosháza u. 1
+Ostoros u. 1
+Otelló u. 1
+Ótemető u. 1
+Óvoda u. 1
+Ozmán u. 1
+Ödön u. 1
+Ököritó u. 1
+Ökörszem u. 1
+Ölyves u. 1
+Ördögkert u. 1
+Öreg János u. 1
+Őrhegy u. 1
+Őrmester u. 1
+Ösvény u. 1
+Ősz u. 1
+Őszapó u. 1
+Ötmalom u. 1
+Őz u. 1
+Őzbak u. 1
+Őzgida u. 1
+Őzláb u. 1
+Pacikert u. 1
+Pacsirta u. 1
+Páfrány u. 1
+Pagony u. 1
+Pajtás u. 1
+Pajzs u. 1
+Pajzsika u. 1
+Pákász u. 1
+Pál u. 1
+Palóc u. 1
+Pandúr u. 1
+Pápai József u. 1
+Paprika u. 1
+Paptava u. 1
+Park u. 1
+Pásti u. 1
+Pásztor u. 1
+Patai István u. 1
+Patak u. 1
+Pattantyús u. 1
+Páva u. 1
+Pázsit u. 1
+Péchy u. 1
+Péczely u. 1
+Pék u. 1
+Pelikán u. 1
+Pelyva u. 1
+Pemetefű u. 1
+Pempő u. 1
+Pércsikert u. 1
+Pereces u. 1
+Perem u. 1
+Perényi u. 1
+Perzse u. 1
+Pesti u. 1
+Péterfia u. 1
+Petneházy u. 1
+Petrezselyem u. 1
+Petúnia u. 1
+Petúr u. 1
+Pilinszky János u. 1
+Pillangó u. 1
+Pincés u. 1
+Pipacs u. 1
+Pipitér u. 1
+Pipóhegy u. 1
+Pirkadat u. 1
+Piroska u. 1
+Pitypang u. 1
+Platán u. 1
+Pogány u. 1
+Pohárnok u. 1
+Pohl Ferenc u. 1
+Polgár u. 1
+Poprád u. 1
+Porcsin u. 1
+Poroshát u. 1
+Portörő u. 1
+Portulácska u. 1
+Porzó u. 1
+Pósa u. 1
+Pósalaki u. 1
+Poszáta u. 1
+Povolny Ferenc u. 1
+Pöltenberg u. 1
+Présház u. 1
+Puska u. 1
+Puszedli u. 1
+Puttony u. 1
+Puzdra u. 1
+Rába u. 1
+Radán Balázs u. 1
+Radnóti Miklós u. 1
+Rákóczi u. 1
+Rakovszky Dániel u. 1
+Raktár u. 1
+Rekettye u. 1
+Remény u. 1
+Repce u. 1
+Retek u. 1
+Rétikanyar u. 1
+Rétisas u. 1
+Rezeda u. 1
+Rézmetsző u. 1
+Rézvirág u. 1
+Ribizli u. 1
+Richter Gedeon u. 1
+Rigó u. 1
+Ringló u. 1
+Rippl-Rónai József u. 1
+Rizling u. 1
+Róka u. 1
+Róna u. 1
+Rozmaring u. 1
+Rózsa u. 1
+Rózsahegy u. 1
+Rózsástelep u. 1
+Rózsavölgy u. 1
+Rönk u. 1
+Rövid u. 1
+Rőzse u. 1
+Rutafű u. 1
+Ruyter u. 1
+Ruzsányi László u. 1
+Sáfrány u. 1
+Sajó u. 1
+Sajtár u. 1
+Sajtoló u. 1
+Salakos u. 1
+Saláta u. 1
+Salétrom u. 1
+Sámsonkerti u. 1
+Sándor u. 1
+Sántha Kálmán u. 1
+Sárgarigó u. 1
+Sarkad u. 1
+Sarkadi Imre u. 1
+Sarkantyú u. 1
+Sárkány u. 1
+Sarló u. 1
+Sármány u. 1
+Sármás u. 1
+Sarok u. 1
+Sárosi u. 1
+Sárvári Pál u. 1
+Sás u. 1
+Sas u. 1
+Saszla u. 1
+Schwidel József u. 1
+Sebes u. 1
+Selyem u. 1
+Selyemfű u. 1
+Senyei-Oláh István u. 1
+Sereg u. 1
+Seregély u. 1
+Serház u. 1
+Sestakert u. 1
+Sesztina u. 1
+Sétakert u. 1
+Sikló u. 1
+Sillye Gábor u. 1
+Simon István u. 1
+Simon László u. 1
+Simon mester u. 1
+Simonffy u. 1
+Sinai Miklós u. 1
+Síntelep u. 1
+Síp u. 1
+Sípos u. 1
+Sirály u. 1
+Siroki Zoltán u. 1
+Skalnitzky Antal u. 1
+Solymár u. 1
+Som u. 1
+Somkóró u. 1
+Somlyai u. 1
+Somogyi Pál u. 1
+Sonkoly u. 1
+Soó Rezső u. 1
+Sóska u. 1
+Sőregi János u. 1
+Sőrés u. 1
+Stromfeld Aurél u. 1
+Sumen u. 1
+Summás u. 1
+Sütő u. 1
+Sütő András u. 1
+Süveg u. 1
+Szablya u. 1
+Szabó Kálmán u. 1
+Szabó Lőrinc u. 1
+Szabó Pál u. 1
+Szabolcs u. 1
+Szabolcska Mihály u. 1
+Szacsvay Imre u. 1
+Szajkó u. 1
+Szalay Sándor u. 1
+Szálerdő u. 1
+Szalkay u. 1
+Szalma u. 1
+Szalók u. 1
+Szalóksámson u. 1
+Számadó u. 1
+Szamóca u. 1
+Szamos u. 1
+Szánkó u. 1
+Szappanfű u. 1
+Szappanos u. 1
+Szárazmalom u. 1
+Szárcsa u. 1
+Szarka János u. 1
+Szarkaláb u. 1
+Szarvas u. 1
+Szatke Ferenc u. 1
+Szatmár u. 1
+Szávay Gyula u. 1
+Százados u. 1
+Százszorszép u. 1
+Szeder u. 1
+Szeged u. 1
+Szegedi Gergely u. 1
+Szeges u. 1
+Szegfű u. 1
+Szegfűszeg u. 1
+Székely u. 1
+Szekeres u. 1
+Szeklice u. 1
+Szél u. 1
+Szelényi Ferenc u. 1
+Szelídgesztenye u. 1
+Szellőrózsa u. 1
+Szélső u. 1
+Szenczi Molnár Albert u. 1
+Szent Anna u. 1
+Szent Mihály u. 1
+Szentes u. 1
+Szentgyörgyi u. 1
+Szép u. 1
+Szepesi u. 1
+Szepességi u. 1
+Szeremlei u. 1
+Szérű u. 1
+Szigligeti u. 1
+Szikes u. 1
+Szikra u. 1
+Szikszai u. 1
+Szilágyi Erzsébet u. 1
+Szilágyi János u. 1
+Szilágyság u. 1
+Szilegyházi u. 1
+Szilva u. 1
+Szilváni u. 1
+Szilvásújfalvi u. 1
+Szirom u. 1
+Szitás u. 1
+Szív u. 1
+Szivárvány u. 1
+Szólátmonostori u. 1
+Szombathi István u. 1
+Szondi u. 1
+Szotyori u. 1
+Szőlő u. 1
+Szőlőhegy u. 1
+Szőlőprés u. 1
+Szőlőskert u. 1
+Szömörce u. 1
+Szőreg u. 1
+Szurony u. 1
+Szűcs István u. 1
+Szűr u. 1
+Szüret u. 1
+Takács István u. 1
+Táltos u. 1
+Tamási Áron u. 1
+Táncsics Mihály u. 1
+Tanító u. 1
+Tank u. 1
+Tankó Béla u. 1
+Tarányi József u. 1
+Tarján u. 1
+Tarló u. 1
+Tárnics u. 1
+Tárogató u. 1
+Tarr u. 1
+Tas u. 1
+Tatár u. 1
+Tátika u. 1
+Tátra u. 1
+Tavasz u. 1
+Tegez u. 1
+Téglás u. 1
+Tégláskert u. 1
+Téglavető u. 1
+Tél u. 1
+Telek u. 1
+Teleki u. 1
+Templom u. 1
+Tengerész u. 1
+Termő u. 1
+Tessedik Sámuel u. 1
+Thaly Kálmán u. 1
+Thököly u. 1
+Thuróczi Gyula u. 1
+Thury András u. 1
+Tibet u. 1
+Tiborc u. 1
+Tímár u. 1
+Tinódi u. 1
+Tisza u. 1
+Tisza István u. 1
+Tiszafa u. 1
+Tisztás u. 1
+Tizedes u. 1
+Toboz u. 1
+Tócópart u. 1
+Tócós u. 1
+Tokaji u. 1
+Toldi u. 1
+Tomori Pál u. 1
+Tompa Mihály u. 1
+Tordai Gábor u. 1
+Torma u. 1
+Tormai István u. 1
+Tormay Béla u. 1
+Torockó u. 1
+Torzsás u. 1
+Tóth Árpád u. 1
+Töhötöm u. 1
+Tőke u. 1
+Tölcsérvirág u. 1
+Tölgyfa u. 1
+Töltény u. 1
+Tömös u. 1
+Tőr u. 1
+Törköly u. 1
+Török u. 1
+Török Bálint u. 1
+Török Ignác u. 1
+Tövis u. 1
+Tőzegáfonya u. 1
+Tőzike u. 1
+Tőzsér u. 1
+Traktoros u. 1
+Tramini u. 1
+Trombitás u. 1
+Tubarózsa u. 1
+Tulipán u. 1
+Turán u. 1
+Tusnád u. 1
+Tutaj u. 1
+Túzok u. 1
+Tücsök u. 1
+Tüdőklinika u. 1
+Tükrösszív u. 1
+Tünde u. 1
+Tündér u. 1
+Tündérhegy u. 1
+Tündérkert u. 1
+Tündérmező u. 1
+Tündérrózsa u. 1
+Türr István u. 1
+Tüzér u. 1
+Tűztövis u. 1
+Tyukod u. 1
+Ugocsa u. 1
+Új u. 1
+Újgát u. 1
+Újházi Ede u. 1
+Újkert u. 1
+Ungvár u. 1
+Ungvárikert u. 1
+Unokakert u. 1
+Uray u. 1
+Úrrétje u. 1
+Úszó u. 1
+Utifű u. 1
+Útőrház u. 1
+Üdekert u. 1
+Ürmös u. 1
+Vadalma u. 1
+Vadaskert u. 1
+Vadász u. 1
+Vadgalamb u. 1
+Vadkacsa u. 1
+Vadkörte u. 1
+Vadliba u. 1
+Vadmeggyes u. 1
+Vadregényes u. 1
+Vadrózsa u. 1
+Vadszőlő u. 1
+Vadvirág u. 1
+Vág u. 1
+Vajdahunyad u. 1
+Vak Bottyán u. 1
+Vákáncsos u. 1
+Vakond u. 1
+Vályi Nagy Tibor u. 1
+Vámraktár u. 1
+Vár u. 1
+Várad u. 1
+Várdai Miklós u. 1
+Varga u. 1
+Vargakert u. 1
+Vargánya u. 1
+Varjútövis u. 1
+Várkapitány u. 1
+Vármegyeháza u. 1
+Várnagy u. 1
+Városház u. 1
+Varsa u. 1
+Varsány u. 1
+Vas Gereben u. 1
+Vásárhelyi Pál u. 1
+Vasáros u. 1
+Vásáry István u. 1
+Vasfű u. 1
+Vashámor u. 1
+Vaskapu u. 1
+Vasöntő u. 1
+Vaspálya u. 1
+Vastorony u. 1
+Vasutas u. 1
+Vasútoldal u. 1
+Vasútszél u. 1
+Vasvári Pál u. 1
+Vay Ádám u. 1
+Vécsey u. 1
+Vecsey Tibor u. 1
+Végső u. 1
+Veker u. 1
+Vendég u. 1
+Vénkert u. 1
+Venyige u. 1
+Vércse u. 1
+Verecke u. 1
+Veres u. 1
+Veres Péter u. 1
+Veresegyházi Tamás u. 1
+Veresgyűrű u. 1
+Verseny u. 1
+Vértanú u. 1
+Vessző u. 1
+Vezér u. 1
+Viasz u. 1
+Vidra u. 1
+Vígkedvű Mihály u. 1
+Vihar u. 1
+Vikár Béla u. 1
+Világos u. 1
+Villám u. 1
+Vincellér u. 1
+Viola u. 1
+Virág u. 1
+Virágméz u. 1
+Virágos u. 1
+Virágpor u. 1
+Vízhordó u. 1
+Vőfély u. 1
+Völgy u. 1
+Völgyalja u. 1
+Vörösmarty Mihály u. 1
+Vukovics Sebő u. 1
+Vulkán u. 1
+Wekerle u. 1
+Wesselényi u. 1
+Weszprémi u. 1
+Woloffka u. 1
+Zákány u. 1
+Zamenhof u. 1
+Zápor u. 1
+Zászlós u. 1
+Zelemér u. 1
+Zelizy Dániel u. 1
+Zeller u. 1
+Zengő u. 1
+Zerge u. 1
+Zoltai Lajos u. 1
+Zólyom u. 1
+Zoványi Jenő u. 1
+Zöld u. 1
+Zöldfa u. 1
+Zöldmező u. 1
+Zörgőfű u. 1
+Zúgó u. 1
+Zúzmara u. 1
+Zuzmó u. 1
+Zwingli u. 1
+Zsák u. 1
+Zsigmond Ferenc u. 1
+Zsindely u. 1
+Zsombék u. 1
+Zsurló u. 1

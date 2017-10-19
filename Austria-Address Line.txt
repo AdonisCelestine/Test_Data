@@ -1,0 +1,10658 @@
+﻿Am Hafen 1
+Am Hafen 2
+Am Hafen 3
+Am Hafen 4
+Am Hafen 5
+Am Hafen 6
+Am Hafen 7a
+Am Hafen 7
+Am Hafen 8
+Am Hafen 9
+Am Hafen 10
+Am Hafen 11
+Am Hafen 12
+Am Hafen 13
+Am Hafen 14
+Am Hafen 15
+Am Hafen 16
+Am Hafen 18
+Am Hafen 19
+Am Hafen 21
+Am Hafen 23
+Am Hafen 25
+Kulmbachstraße 1
+Kulmbachstraße 2
+Kulmbachstraße 4
+Kulmbachstraße 5
+Kulmbachstraße 6
+Kulmbachstraße 7
+Kulmbachstraße 8
+Kulmbachstraße 9
+Kulmbachstraße 10
+Kulmbachstraße 11
+Kulmbachstraße 12
+Kulmbachstraße 13
+Kulmbachstraße 14
+Kulmbachstraße 15
+Kulmbachstraße 16
+Kulmbachstraße 17
+Kulmbachstraße 18
+Kulmbachstraße 19
+Kulmbachstraße 20
+Kulmbachstraße 21
+Am Seekanal 1
+Am Seekanal 2
+Am Seekanal 3
+Am Seekanal 6
+Am Seekanal 7
+Am Seekanal 8
+Am Seekanal 9
+Am Seekanal 10
+Am Seekanal 11
+Am Seekanal 12
+Am Seekanal 13
+Am Seekanal 14
+Am Seekanal 15
+Am Seekanal 16
+Am Seekanal 17
+Am Seekanal 18
+Am Seekanal 19
+Am Seekanal 20
+Am Seekanal 21
+Am Seekanal 22
+Am Seekanal 23
+Am Seekanal 24
+Am Seekanal 25
+Am Seekanal 26
+Am Seekanal 27
+Am Seekanal 28
+Am Seekanal 30
+Am Sportplatz 1
+Am Sportplatz 2
+Am Sportplatz 3
+Am Sportplatz 4
+Am Sportplatz 5a
+Am Sportplatz 5
+Am Sportplatz 6
+Am Sportplatz 7
+Am Sportplatz 9
+Am Sportplatz 11
+Am Sportplatz 13
+Am Sportplatz 15
+Am Sportplatz 17
+Am Sportplatz 19
+Arbeitergasse 1
+Arbeitergasse 2
+Arbeitergasse 3
+Arbeitergasse 4
+Arbeitergasse 5
+Arbeitergasse 6
+Arbeitergasse 7
+Arbeitergasse 8
+Arbeitergasse 9
+Arbeitergasse 10
+Arbeitergasse 11
+Arbeitergasse 12
+Arbeitergasse 13
+Arbeitergasse 14
+Arbeitergasse 16
+Arbeitergasse 18
+Baumgartengasse 1
+Baumgartengasse 2
+Baumgartengasse 4
+Baumgartengasse 6
+Baumgartengasse 8
+Baumgartengasse 10
+Baumgartengasse 11
+Baumgartengasse 12
+Baumgartengasse 13
+Baumgartengasse 15a
+Baumgartengasse 15
+Baumgartengasse 18
+Baumgartengasse 21
+Baumgartengasse 22
+Baumgartengasse 26
+Baumgartengasse 30
+Baumgartengasse 32
+Baumgartengasse 34
+Baumgartengasse 36
+Baumgartengasse 38
+Baumgartengasse 40
+Ruster Bucht 1
+Ruster Bucht 2
+Ruster Bucht 3
+Ruster Bucht 4
+Ruster Bucht 5
+Conradplatz 1
+Conradplatz 2
+Conradplatz 3
+Conradplatz 4
+Conradplatz 5a
+Conradplatz 5b
+Conradplatz 6
+Conradplatz 7
+Conradplatz 8
+Conradplatz 9
+Conradplatz 10
+Conradplatz 11a
+Conradplatz 11b
+Conradplatz 11
+Conradplatz 12
+Conradplatz 13
+Conradplatz 14a
+Conradplatz 14b
+Conradplatz 15
+Dorfmeistergasse 1
+Dorfmeistergasse 2
+Dorfmeistergasse 3
+Dorfmeistergasse 4
+Dorfmeistergasse 5
+Dorfmeistergasse 6
+Dorfmeistergasse 7
+Dorfmeistergasse 8
+Dorfmeistergasse 9
+Dorfmeistergasse 10
+Dorfmeistergasse 11a
+Dorfmeistergasse 11b
+Dorfmeistergasse 11c
+Dorfmeistergasse 12
+Dorfmeistergasse 13
+Dorfmeistergasse 14
+Dorfmeistergasse 15
+Dorfmeistergasse 16
+Dorfmeistergasse 17
+Dorfmeistergasse 18
+Dorfmeistergasse 19
+Dorfmeistergasse 21
+Dorfmeistergasse 22
+Dorfmeistergasse 24
+Dorfmeistergasse 26
+Dorfmeistergasse 28
+Dorfmeistergasse 30
+Dorfmeistergasse 32
+Feldgasse 1
+Feldgasse 2a
+Feldgasse 2
+Feldgasse 3
+Feldgasse 4a
+Feldgasse 4b
+Feldgasse 4c
+Feldgasse 5
+Feldgasse 6
+Feldgasse 7
+Feldgasse 8
+Feldgasse 9
+Feldgasse 10
+Feldgasse 11
+Feldgasse 12
+Feldgasse 13
+Feldgasse 14
+Feldgasse 16
+Feldgasse 17a
+Feldgasse 17
+Feldgasse 18
+Feldgasse 19
+Feldgasse 20
+Feldgasse 21
+Feldgasse 22
+Feldgasse 23
+Feldgasse 24
+Feldgasse 25
+Feldgasse 26
+Feldgasse 27
+Feldgasse 28
+Feldgasse 29
+Feldgasse 30
+Feldgasse 31
+Feldgasse 32
+Feldgasse 39
+Feldgasse 40
+Feldgasse 42
+Feldgasse 43
+Feldgasse 44
+Feldgasse 51
+Fischergasse 2
+Fischergasse 3
+Fischergasse 4
+Fischergasse 5
+Fischergasse 6
+Fischergasse 7
+Fischergasse 8
+Franz Josefs-Platz 1
+Franz Josefs-Platz 2
+Franz Josefs-Platz 3
+Franz Josefs-Platz 4
+Franz Josefs-Platz 5
+Franz Josefs-Platz 6
+Franz Josefs-Platz 7a
+Franz Josefs-Platz 7b
+Franz Josefs-Platz 8a
+Franz Josefs-Platz 8b
+Franz Josefs-Platz 8c
+Franz Josefs-Platz 9
+Franz Josefs-Platz 10
+Franz Josefs-Platz 11
+Franz Josefs-Platz 13
+Franz Josefs-Platz 14
+Franz Josefs-Platz 15
+Franz Josefs-Platz 16
+Johann von Gabrielgasse 1
+Johann von Gabrielgasse 2
+Johann von Gabrielgasse 3
+Johann von Gabrielgasse 5
+Johann von Gabrielgasse 6
+Johann von Gabrielgasse 8
+Johann von Gabrielgasse 9
+Johann von Gabrielgasse 10
+Johann von Gabrielgasse 11
+Johann von Gabrielgasse 12
+Johann von Gabrielgasse 13
+Johann von Gabrielgasse 14
+Johann von Gabrielgasse 15
+Johann von Gabrielgasse 16
+Johann von Gabrielgasse 17
+Johann von Gabrielgasse 19
+Johann von Gabrielgasse 24
+Gartengasse 1
+Gartengasse 2
+Gartengasse 3
+Gartengasse 4
+Gartengasse 5
+Gartengasse 6
+Gartengasse 7
+Gartengasse 8
+Gartengasse 9a
+Gartengasse 9
+Gartengasse 10
+Gartengasse 11
+Gartengasse 12
+Gartengasse 14
+Gartengasse 16
+Greinergasse 1
+Greinergasse 2
+Greinergasse 4
+Greinergasse 6
+Greinergasse 7
+Greinergasse 8
+Greinergasse 9
+Greinergasse 11
+Greinergasse 13
+Greinergasse 14
+Greinergasse 15
+Greinergasse 16
+Greinergasse 17
+Greinergasse 18
+Greinergasse 19
+Greinergasse 21
+Greinergasse 25
+Greinergasse 27
+Joseph Haydngasse 1
+Joseph Haydngasse 2
+Joseph Haydngasse 3
+Joseph Haydngasse 4
+Joseph Haydngasse 5
+Joseph Haydngasse 6
+Joseph Haydngasse 7
+Joseph Haydngasse 8
+Joseph Haydngasse 9
+Joseph Haydngasse 11
+Joseph Haydngasse 13b
+Joseph Haydngasse 13
+Heidegasse 1
+Heidegasse 2
+Heidegasse 3
+Heidegasse 5
+Heidegasse 6
+Heidegasse 7
+Heidegasse 11
+Kirchengasse 1
+Kirchengasse 3
+Kirchengasse 4
+Kirchengasse 5
+Kirchengasse 6
+Kirchengasse 7
+Kirchengasse 8
+Kirchengasse 9
+Kirchengasse 10
+Kirchengasse 11
+Kirchengasse 12
+Kirchengasse 13
+Kirchengasse 14
+Kirchengasse 15
+Kirchengasse 16
+Kurzegasse 1
+Kurzegasse 2
+Kurzegasse 3
+Kurzegasse 4
+Kurzegasse 5
+Kurzegasse 6
+Lenaugasse 1
+Lenaugasse 2
+Lenaugasse 3
+Lenaugasse 4
+Lenaugasse 6a
+Lenaugasse 6
+Lenaugasse 7
+Lenaugasse 8
+Lenaugasse 9
+Lenaugasse 10
+Lenaugasse 11
+Lenaugasse 12
+Lenaugasse 13
+Lenaugasse 14
+Lenaugasse 15
+Lenaugasse 16
+Lenaugasse 17
+Lenaugasse 18
+Lenaugasse 19
+Lenaugasse 20
+Lenaugasse 21
+Lenaugasse 22
+Lenaugasse 24
+Lenaugasse 26
+Lenaugasse 28
+Lenaugasse 30
+Lenaugasse 32
+Lenaugasse 34
+Lenaugasse 36
+Lenaugasse 38
+Lenaugasse 40
+Lenaugasse 42
+Lindengasse 1
+Lindengasse 2
+Lindengasse 3
+Lindengasse 4
+Lindengasse 5
+Lindengasse 6
+Lindengasse 7
+Lindengasse 8
+Lindengasse 9
+Lindengasse 10
+Lindengasse 11
+Lindengasse 12
+Lindengasse 13
+Lindengasse 14
+Lindengasse 16
+Lindengasse 18
+Lindengasse 22
+Lisztgasse 1
+Lisztgasse 2
+Lisztgasse 3
+Lisztgasse 4
+Lisztgasse 5
+Lisztgasse 6
+Lisztgasse 7
+Lisztgasse 8
+Lisztgasse 9
+Lisztgasse 11
+Lisztgasse 12
+Lisztgasse 14
+Lisztgasse 16
+Martingasse 1
+Martingasse 2
+Martingasse 3
+Martingasse 4
+Martingasse 5
+Martingasse 6
+Martingasse 7
+Martingasse 8
+Martingasse 9
+Maulbeerwiese 1
+Maulbeerwiese 2
+Maulbeerwiese 3
+Maulbeerwiese 4
+Maulbeerwiese 5
+Maulbeerwiese 6
+Maulbeerwiese 7
+Maulbeerwiese 8
+Maulbeerwiese 9
+Maulbeerwiese 10
+Mittergasse 1
+Mittergasse 2
+Mittergasse 3
+Mittergasse 4
+Mittergasse 5
+Mittergasse 6
+Mittergasse 7
+Mittergasse 8
+Mittergasse 9
+Mittergasse 10
+Mittergasse 11
+Mittergasse 12
+Mittergasse 13
+Mittergasse 14
+Mittergasse 16
+Leopold Nattlgasse 1
+Leopold Nattlgasse 2
+Leopold Nattlgasse 3
+Leopold Nattlgasse 5
+Leopold Nattlgasse 6
+Leopold Nattlgasse 7
+Leopold Nattlgasse 8
+Leopold Nattlgasse 9
+Leopold Nattlgasse 11
+Leopold Nattlgasse 13
+Neuegasse 1
+Neuegasse 2
+Neuegasse 3
+Neuegasse 4
+Neuegasse 5
+Neuegasse 7
+Neuegasse 9
+Neuegasse 11
+Neuegasse 13
+Neuegasse 14
+Neuegasse 15
+Neuegasse 16
+Neuegasse 18
+Neuegasse 20
+Neuegasse 22
+Neuegasse 24
+Pappelallee 1
+Pappelallee 3a
+Pappelallee 3
+Pappelallee 4
+Pappelallee 5
+Pappelallee 6
+Pappelallee 7
+Pappelallee 8
+Pappelallee 9
+Pappelallee 10
+Pappelallee 12
+Pappelallee 14
+Pappelallee 16a
+Pappelallee 16
+Pappelallee 18
+Rathausplatz 1
+Rathausplatz 2
+Rathausplatz 3
+Rathausplatz 4
+Rathausplatz 5
+Rathausplatz 6
+Rathausplatz 7
+Rathausplatz 8
+Rathausplatz 9
+Rathausplatz 10a
+Rathausplatz 10b
+Rathausplatz 11
+Rathausplatz 12
+Rathausplatz 13
+Rathausplatz 14
+Rathausplatz 15
+Rathausplatz 16
+Rathausplatz 17
+Rathausplatz 18
+Rathausplatz 19
+Dr. Alfred Ratzgasse 1
+Dr. Alfred Ratzgasse 2
+Dr. Alfred Ratzgasse 3
+Dr. Alfred Ratzgasse 4
+Dr. Alfred Ratzgasse 5
+Dr. Alfred Ratzgasse 6
+Dr. Alfred Ratzgasse 7
+Dr. Alfred Ratzgasse 8
+Dr. Alfred Ratzgasse 9
+Dr. Alfred Ratzgasse 10
+Dr. Alfred Ratzgasse 11
+Dr. Alfred Ratzgasse 12
+Dr. Alfred Ratzgasse 13
+Dr. Alfred Ratzgasse 14
+Dr. Alfred Ratzgasse 15
+Dr. Alfred Ratzgasse 16
+Dr. Alfred Ratzgasse 17
+Dr. Alfred Ratzgasse 18
+Dr. Alfred Ratzgasse 19
+Dr. Alfred Ratzgasse 20
+Dr. Alfred Ratzgasse 21
+Dr. Alfred Ratzgasse 22
+Dr. Alfred Ratzgasse 23
+Dr. Alfred Ratzgasse 25
+Dr. Alfred Ratzgasse 27
+Reiherweg 1a
+Reiherweg 1
+Reiherweg 2
+Reiherweg 3
+Reiherweg 4
+Reiherweg 5
+Reiherweg 6
+Reiherweg 7
+Reiherweg 8
+Reiherweg 9
+Reiherweg 10
+Reiherweg 12
+Reiherweg 13
+Reiherweg 16
+Reiherweg 17
+Reiherweg 18
+Reiherweg 19
+Reiherweg 21
+Reiherweg 23
+Reiherweg 25
+Reiherweg 27
+Reiherweg 29
+Reiherweg 31
+Reiherweg 35
+Reiherweg 37
+Reiherweg 39
+Reiherweg 41
+Reiherweg 43a
+Reiherweg 43
+Reiherweg 45
+Reiherweg 47
+Schilfgasse 1
+Schilfgasse 2
+Schilfgasse 3
+Schilfgasse 5
+Schilfgasse 7
+Schubertgasse 1a
+Schubertgasse 1
+Schubertgasse 2
+Schubertgasse 4
+Schubertgasse 5
+Schubertgasse 6
+Schubertgasse 7
+Schubertgasse 9
+Schubertgasse 11
+Schubertgasse 13
+Schubertgasse 15
+Schubertgasse 17
+Ruster Bucht Campingplatz 1a
+Ruster Bucht Campingplatz 2
+Ruster Bucht Campingplatz 3a
+Ruster Bucht Campingplatz 4a
+Ruster Bucht Campingplatz 4
+Ruster Bucht Campingplatz 5a
+Ruster Bucht Campingplatz 6a
+Ruster Bucht Campingplatz 7a
+Ruster Bucht Campingplatz 8a
+Ruster Bucht Campingplatz 9a
+Ruster Bucht Campingplatz 10
+Ruster Bucht Campingplatz 11
+Ruster Bucht Campingplatz 12
+Ruster Bucht Campingplatz 13
+Ruster Bucht Campingplatz 14
+Ruster Bucht Campingplatz 15
+Ruster Bucht Campingplatz 16
+Ruster Bucht Campingplatz 17
+Ruster Bucht Campingplatz 18
+Ruster Bucht Campingplatz 19
+Ruster Bucht Campingplatz 20
+Ruster Bucht Campingplatz 21
+Ruster Bucht Campingplatz 22
+Ruster Bucht Campingplatz 23
+Ruster Bucht Campingplatz 24
+Ruster Bucht Campingplatz 25
+Ruster Bucht Campingplatz 26
+Ruster Bucht Campingplatz 27
+Ruster Bucht Campingplatz 28
+Ruster Bucht Campingplatz 30
+Ruster Bucht Campingplatz 31
+Ruster Bucht Campingplatz 32
+Ruster Bucht Campingplatz 33
+Ruster Bucht Campingplatz 34
+Ruster Bucht Campingplatz 35
+Ruster Bucht Campingplatz 36
+Ruster Bucht Campingplatz 37
+Ruster Bucht Campingplatz 38
+Ruster Bucht Campingplatz 39
+Ruster Bucht Campingplatz 41
+Ruster Bucht Campingplatz 42
+Ruster Bucht Campingplatz 43
+Ruster Bucht Campingplatz 44
+Ruster Bucht Campingplatz 45
+Ruster Bucht Campingplatz 46
+Ruster Bucht Campingplatz 52
+Ruster Bucht Campingplatz 53
+Ruster Bucht Campingplatz 54
+Ruster Bucht Campingplatz 56
+Ruster Bucht Campingplatz 57
+Ruster Bucht Campingplatz 59
+Ruster Bucht Campingplatz 60
+Ruster Bucht Campingplatz 61
+Ruster Bucht Campingplatz 62
+Ruster Bucht Campingplatz 63
+Ruster Bucht Campingplatz 64
+Ruster Bucht Campingplatz 65
+Ruster Bucht Campingplatz 66
+Ruster Bucht Campingplatz 67
+Ruster Bucht Campingplatz 68
+Ruster Bucht Campingplatz 69
+Ruster Bucht Campingplatz 70
+Ruster Bucht Campingplatz 71
+Ruster Bucht Campingplatz 72
+Ruster Bucht Campingplatz 73
+Ruster Bucht Campingplatz 74
+Ruster Bucht Campingplatz 75
+Ruster Bucht Campingplatz 76
+Ruster Bucht Campingplatz 77
+Ruster Bucht Campingplatz 78
+Ruster Bucht Campingplatz 79
+Ruster Bucht Campingplatz 88
+Ruster Bucht Campingplatz 89
+Ruster Bucht Campingplatz 90
+Ruster Bucht Campingplatz 92
+Ruster Bucht Campingplatz 93
+Ruster Bucht Campingplatz 94
+Ruster Bucht Campingplatz 95
+Ruster Bucht Campingplatz 96
+Ruster Bucht Campingplatz 97
+Ruster Bucht Campingplatz 109
+Ruster Bucht Campingplatz 110
+Ruster Bucht Campingplatz 111
+Ruster Bucht Campingplatz 112
+Ruster Bucht Campingplatz 113
+Ruster Bucht Campingplatz 114
+Ruster Bucht Campingplatz 115
+Ruster Bucht Campingplatz 116
+Ruster Bucht Campingplatz 117
+Ruster Bucht Campingplatz 118
+Ruster Bucht Campingplatz 121
+Ruster Bucht Campingplatz 123
+Ruster Bucht Campingplatz 124
+Ruster Bucht Campingplatz 126
+Ruster Bucht Campingplatz 127
+Ruster Bucht Campingplatz 128
+Ruster Bucht Campingplatz 129
+Ruster Bucht Campingplatz 130
+Ruster Bucht Campingplatz 131
+Ruster Bucht Campingplatz 132
+Ruster Bucht Campingplatz 133
+Ruster Bucht Campingplatz 134
+Ruster Bucht Campingplatz 135
+Ruster Bucht Campingplatz 136
+Ruster Bucht Campingplatz 137
+Ruster Bucht Campingplatz 138
+Ruster Bucht Campingplatz 139
+Ruster Bucht Campingplatz 140
+Ruster Bucht Campingplatz 141
+Ruster Bucht Campingplatz 142
+Ruster Bucht Campingplatz 143
+Ruster Bucht Campingplatz 146
+Ruster Bucht Campingplatz 148
+Ruster Bucht Campingplatz 149
+Ruster Bucht Campingplatz 150
+Ruster Bucht Campingplatz 152
+Ruster Bucht Campingplatz 153
+Ruster Bucht Campingplatz 154
+Ruster Bucht Campingplatz 155
+Ruster Bucht Campingplatz 156
+Ruster Bucht Campingplatz 157
+Ruster Bucht Campingplatz 159
+Ruster Bucht Campingplatz 160
+Ruster Bucht Campingplatz 161
+Ruster Bucht Campingplatz 162
+Ruster Bucht Campingplatz 163
+Ruster Bucht Campingplatz 164
+Ruster Bucht Campingplatz 165
+Ruster Bucht Campingplatz 166
+Ruster Bucht Campingplatz 176
+Ruster Bucht Campingplatz 177
+Ruster Bucht Campingplatz 178
+Ruster Bucht Campingplatz 179
+Ruster Bucht Campingplatz 180
+Ruster Bucht Campingplatz 181
+Ruster Bucht Campingplatz 182
+Ruster Bucht Campingplatz 184
+Ruster Bucht Campingplatz 185
+Ruster Bucht Campingplatz 204
+Ruster Bucht Campingplatz 205
+Ruster Bucht Campingplatz 206
+Ruster Bucht Campingplatz 207
+Ruster Bucht Campingplatz 208
+Ruster Bucht Campingplatz 209
+Ruster Bucht Campingplatz 210
+Ruster Bucht Campingplatz 211
+Ruster Bucht Campingplatz 212
+Ruster Bucht Campingplatz 213
+Ruster Bucht Campingplatz 232
+Ruster Bucht Campingplatz 233
+Ruster Bucht Campingplatz 236
+Ruster Bucht Campingplatz 237
+Ruster Bucht Campingplatz 238
+Ruster Bucht Campingplatz 240
+Ruster Bucht Campingplatz 241
+Ruster Bucht Campingplatz 251
+Ruster Bucht Campingplatz 252
+Ruster Bucht Campingplatz 253
+Ruster Bucht Campingplatz 254
+Ruster Bucht Campingplatz 256
+Ruster Bucht Campingplatz 257
+Ruster Bucht Campingplatz 258
+Ruster Bucht Campingplatz 259
+Ruster Bucht Campingplatz 261
+Ruster Bucht Campingplatz 262
+Ruster Bucht Campingplatz 264
+Ruster Bucht Campingplatz 265
+Ruster Bucht Campingplatz 266
+Ruster Bucht Campingplatz 267
+Ruster Bucht Campingplatz 269
+Ruster Bucht Campingplatz 270
+Ruster Bucht Campingplatz 271
+Ruster Bucht Campingplatz 272
+Ruster Bucht Campingplatz 273
+Ruster Bucht Campingplatz 274
+Ruster Bucht Campingplatz 275
+Ruster Bucht Campingplatz 276
+Ruster Bucht Campingplatz 277
+Ruster Bucht Campingplatz 278
+Ruster Bucht Campingplatz 279
+Ruster Bucht Campingplatz 280
+Ruster Bucht Campingplatz 281
+Ruster Bucht Campingplatz 282
+Ruster Bucht Campingplatz 283
+Ruster Bucht Campingplatz 284
+Ruster Bucht Campingplatz 285
+Ruster Bucht Campingplatz 286
+Ruster Bucht Campingplatz 287
+Ruster Bucht Campingplatz 288
+Ruster Bucht Campingplatz 289
+Ruster Bucht Campingplatz 290
+Ruster Bucht Campingplatz 292
+Ruster Bucht Campingplatz 293
+Ruster Bucht Campingplatz 294
+Ruster Bucht Campingplatz 295
+Ruster Bucht Campingplatz 296
+Ruster Bucht Campingplatz 297
+Ruster Bucht Campingplatz 298
+Ruster Bucht Campingplatz 299
+Ruster Bucht Campingplatz 300
+Ruster Bucht Campingplatz 301
+Ruster Bucht Campingplatz 302
+Ruster Bucht Campingplatz 303
+Ruster Bucht Campingplatz 304
+Ruster Bucht Campingplatz 305
+Ruster Bucht Campingplatz 306
+Ruster Bucht Campingplatz 316
+Ruster Bucht Campingplatz 317
+Ruster Bucht Campingplatz 318
+Ruster Bucht Campingplatz 320
+Ruster Bucht Campingplatz 321
+Ruster Bucht Campingplatz 322
+Ruster Bucht Campingplatz 323
+Ruster Bucht Campingplatz 324
+Ruster Bucht Campingplatz 325
+Ruster Bucht Campingplatz 326
+Ruster Bucht Campingplatz 327
+Ruster Bucht Campingplatz 328
+Ruster Bucht Campingplatz 329
+Ruster Bucht Campingplatz 330
+Ruster Bucht Campingplatz 331
+Ruster Bucht Campingplatz 332
+Ruster Bucht Campingplatz 333
+Ruster Bucht Campingplatz 334
+Ruster Bucht Campingplatz 335
+Ruster Bucht Campingplatz 336
+Ruster Bucht Campingplatz 337
+Ruster Bucht Campingplatz 338
+Ruster Bucht Campingplatz 339
+Ruster Bucht Campingplatz 340
+Ruster Bucht Campingplatz 341
+Ruster Bucht Campingplatz 342
+Ruster Bucht Campingplatz 343
+Ruster Bucht Campingplatz 344
+Ruster Bucht Campingplatz 345
+Ruster Bucht Campingplatz 346
+Ruster Bucht Campingplatz 347
+Ruster Bucht Campingplatz 348
+Ruster Bucht Campingplatz 349
+Ruster Bucht Campingplatz 350
+Ruster Bucht Campingplatz 351
+Ruster Bucht Campingplatz 352
+Ruster Bucht Campingplatz 353
+Ruster Bucht Campingplatz 354
+Ruster Bucht Campingplatz 355
+Ruster Bucht Campingplatz 356
+Ruster Bucht Campingplatz 357
+Ruster Bucht Campingplatz 358
+Ruster Bucht Campingplatz 359
+Ruster Bucht Campingplatz 360
+Ruster Bucht Campingplatz 361
+Ruster Bucht Campingplatz 363
+Ruster Bucht Romantika I 1
+Ruster Bucht Romantika I 2
+Ruster Bucht Romantika I 3
+Ruster Bucht Romantika I 4
+Ruster Bucht Romantika I 5
+Ruster Bucht Romantika I 6
+Ruster Bucht Romantika I 7
+Ruster Bucht Romantika I 8
+Ruster Bucht Romantika I 9
+Ruster Bucht Romantika I 10
+Ruster Bucht Romantika I 11
+Ruster Bucht Romantika I 12
+Ruster Bucht Romantika I 13
+Ruster Bucht Romantika I 14
+Ruster Bucht Romantika I 15
+Ruster Bucht Romantika I 16
+Ruster Bucht Romantika I 17
+Ruster Bucht Romantika I 18
+Ruster Bucht Romantika I 19
+Ruster Bucht Romantika I 20
+Ruster Bucht Romantika I 21
+Ruster Bucht Romantika I 22
+Ruster Bucht Romantika I 23
+Ruster Bucht Romantika I 24
+Ruster Bucht Romantika I 25
+Ruster Bucht Romantika I 26
+Ruster Bucht Romantika I 27
+Ruster Bucht Romantika I 28
+Ruster Bucht Romantika I 29
+Ruster Bucht Romantika I 30
+Ruster Bucht Romantika I 31
+Ruster Bucht Romantika I 32
+Ruster Bucht Romantika I 33
+Ruster Bucht Romantika II 1
+Ruster Bucht Romantika II 2
+Ruster Bucht Romantika II 3
+Ruster Bucht Romantika II 4
+Ruster Bucht Romantika II 5
+Ruster Bucht Romantika II 6
+Ruster Bucht Romantika II 7
+Ruster Bucht Romantika II 8
+Ruster Bucht Romantika II 9
+Ruster Bucht Romantika II 10
+Ruster Bucht Romantika II 11
+Ruster Bucht Romantika II 12
+Ruster Bucht Romantika II 13
+Ruster Bucht Romantika II 14
+Ruster Bucht Romantika II 15
+Ruster Bucht Romantika II 16
+Ruster Bucht Romantika II 17
+Ruster Bucht Romantika II 18
+Ruster Bucht Romantika II 19
+Ruster Bucht Romantika II 20
+Ruster Bucht Romantika II 21
+Ruster Bucht Romantika II 22
+Ruster Bucht Romantika II 23
+Ruster Bucht Romantika II 24
+Ruster Bucht Romantika II 25
+Ruster Bucht Romantika II 26
+Ruster Bucht Romantika II 27
+Ruster Bucht Romantika II 28
+Ruster Bucht Romantika II 29
+Ruster Bucht Romantika II 30
+Ruster Bucht Romantika II 31
+Ruster Bucht Romantika II 32
+Ruster Bucht Romantika II 33
+Ruster Bucht Romantika II 34
+Ruster Bucht Romantika II 35
+Ruster Bucht Romantika II 36
+Ruster Bucht Romantika II 37
+Ruster Bucht Romantika II 38
+Ruster Bucht Romantika II 39
+Ruster Bucht Romantika II 40
+Ruster Bucht Romantika II 41
+Ruster Bucht Romantika II 42
+Ruster Bucht Romantika II 43
+Ruster Bucht Romantika II 44
+Ruster Bucht Romantika II 45
+Ruster Bucht Romantika II 46
+Ruster Bucht Romantika II 47
+Ruster Bucht Romantika II 48
+Ruster Bucht Romantika II 49
+Ruster Bucht Romantika II 50
+Ruster Bucht Romantika II 51
+Ruster Bucht Romantika II 52
+Ruster Bucht Romantika II 53
+Ruster Bucht Romantika II 54
+Ruster Bucht Romantika II 55
+Ruster Bucht Romantika II 56
+Ruster Bucht Romantika II 57
+Ruster Bucht Romantika II 58
+Ruster Bucht Romantika II 59
+Ruster Bucht Romantika II 60
+Ruster Bucht Romantika II 61
+Ruster Bucht Romantika II 62
+Ruster Bucht Romantika II 63
+Ruster Bucht Romantika II 64
+Ruster Bucht Romantika II 65
+Ruster Bucht Romantika II 66
+Ruster Bucht Romantika II 67
+Ruster Bucht Romantika II 68
+Seezeile 2
+Seezeile 4
+Seezeile 6
+Seezeile 8
+Seezeile 12
+Seezeile 14
+Seezeile 16
+Seezeile 18
+Seezeile 20
+Seezeile 22
+Seezeile 24
+Seezeile 26
+Seezeile 28
+Setzgasse 1
+Setzgasse 2a
+Setzgasse 2b
+Setzgasse 2
+Setzgasse 3
+Setzgasse 4
+Setzgasse 5
+Setzgasse 6
+Setzgasse 7
+Setzgasse 8
+Setzgasse 9
+Setzgasse 10
+Setzgasse 11
+Setzgasse 12
+Setzgasse 13
+Setzgasse 15
+Setzgasse 16
+Setzgasse 17
+Setzgasse 19
+Setzgasse 21
+Setzgasse 22
+Setzgasse 23
+Setzgasse 25
+Setzgasse 27
+Setzgasse 28
+Setzgasse 29
+Setzgasse 31
+Setzgasse 33
+Setzgasse 35
+Setzgasse 37
+Siedlungsgasse 1
+Siedlungsgasse 2a
+Siedlungsgasse 2
+Siedlungsgasse 3
+Siedlungsgasse 4
+Siedlungsgasse 5
+Siedlungsgasse 6
+Siedlungsgasse 7
+Siedlungsgasse 8
+Siedlungsgasse 9
+Siedlungsgasse 10
+Siedlungsgasse 11
+Siedlungsgasse 12
+Siedlungsgasse 13
+Siedlungsgasse 14
+Siedlungsgasse 15
+Siedlungsgasse 16
+Siedlungsgasse 17
+Siedlungsgasse 18
+Siedlungsgasse 19
+Siedlungsgasse 20
+Siedlungsgasse 21
+Siedlungsgasse 22
+Siedlungsgasse 23
+Siedlungsgasse 24
+Siedlungsgasse 25
+Siedlungsgasse 26
+Siedlungsgasse 27
+Siedlungsgasse 28
+Siedlungsgasse 29
+Siedlungsgasse 30
+Siedlungsgasse 31
+Siedlungsgasse 32
+Siedlungsgasse 33
+Siedlungsgasse 34a
+Siedlungsgasse 34
+Siedlungsgasse 35
+Siedlungsgasse 36
+Siedlungsgasse 37
+Siedlungsgasse 38
+Siedlungsgasse 39
+Siedlungsgasse 41
+Siedlungsgasse 43
+Siedlungsgasse 45
+Siedlungsgasse 47
+Siedlungsgasse 49
+Siedlungsgasse 51
+Siedlungsgasse 53
+Siedlungsgasse 55
+Siedlungsgasse 57
+Siedlungsgasse 59
+Stadtwassergasse 1a
+Stadtwassergasse 1
+Stadtwassergasse 2
+Stadtwassergasse 3a
+Stadtwassergasse 3
+Stadtwassergasse 4
+Stadtwassergasse 5a
+Stadtwassergasse 5
+Stadtwassergasse 6
+Stadtwassergasse 7
+Stadtwassergasse 8a
+Stadtwassergasse 8
+Stadtwassergasse 9
+Stadtwassergasse 10
+Stadtwassergasse 11a
+Stadtwassergasse 11
+Stadtwassergasse 12
+Stadtwassergasse 13
+Stadtwassergasse 14
+Stadtwassergasse 15
+Stadtwassergasse 16
+Stadtwassergasse 17
+Stadtwassergasse 18
+Stadtwassergasse 19
+Stadtwassergasse 21
+Franz Storno Gasse 1
+Franz Storno Gasse 2
+Franz Storno Gasse 3
+Franz Storno Gasse 6
+Franz Storno Gasse 7
+Franz Storno Gasse 8
+Franz Storno Gasse 9
+Franz Storno Gasse 10
+Franz Storno Gasse 11
+Teichweg 1
+Teichweg 2
+Teichweg 3a
+Teichweg 3
+Teichweg 4
+Teichweg 5
+Teichweg 6
+Teichweg 7
+Teichweg 8
+Teichweg 9
+Teichweg 10
+Teichweg 11
+Teichweg 12
+Teichweg 13
+Teichweg 14
+Teichweg 15
+Teichweg 16
+Teichweg 17
+Teichweg 19
+Teichweg 21
+Turnerweg 1
+Turnerweg 3
+Turnerweg 6
+Turnerweg 8
+Weidegasse 1
+Weidegasse 2
+Weidegasse 3
+Weidegasse 4
+Weidegasse 5
+Weidegasse 6
+Weidegasse 7
+Weidegasse 8
+Weidegasse 9
+Weidegasse 10
+Weidegasse 11
+Weinberggasse 1
+Weinberggasse 2
+Weinberggasse 3
+Weinberggasse 4
+Weinberggasse 5
+Weinberggasse 6
+Weinberggasse 7
+Weinberggasse 8
+Weinberggasse 9
+Weinberggasse 10
+Weinberggasse 11
+Weinberggasse 12
+Weinberggasse 13
+Weinberggasse 14
+Weinberggasse 15
+Weinberggasse 16
+Weinberggasse 17
+Weinberggasse 19
+Weinberggasse 21
+Zum Alten Stadttor 1a
+Zum Alten Stadttor 1
+Zum Alten Stadttor 2
+Zum Alten Stadttor 3
+Zum Alten Stadttor 4
+Zum Alten Stadttor 5
+Zum Alten Stadttor 6
+Zum Alten Stadttor 7
+Friedhofpark 1
+Friedhofpark 2
+Friedhofpark 3
+Friedhofpark 4
+Friedhofpark 5
+Friedhofpark 6
+Friedhofpark 7
+Friedhofpark 9
+Friedhofpark 11
+Rebengasse 1a
+Rebengasse 1
+Rebengasse 2
+Rebengasse 3
+Rebengasse 4
+Rebengasse 5
+Rebengasse 6
+Rebengasse 7
+Rebengasse 8
+Rebengasse 9
+Rebengasse 10
+Mandelbaumweg 3
+Mandelbaumweg 5
+Mandelbaumweg 6
+Mandelbaumweg 7
+Mandelbaumweg 8
+Mandelbaumweg 9
+Mandelbaumweg 10
+Mandelbaumweg 12
+Mandelbaumweg 13
+Mandelbaumweg 14
+Mandelbaumweg 15
+Mandelbaumweg 16
+Zimmererweg 1
+Zimmererweg 2
+Zimmererweg 3
+Zimmererweg 4
+Zimmererweg 5
+Zimmererweg 6
+Zimmererweg 7
+Zimmererweg 8
+Zimmererweg 9
+Zimmererweg 10
+Zimmererweg 11
+Zimmererweg 12
+Zimmererweg 13
+Zimmererweg 14
+Zimmererweg 15
+Zimmererweg 16
+Vogelsangweg 1
+Vogelsangweg 3
+Vogelsangweg 5
+Vogelsangweg 7
+Vogelsangweg 9
+Vogelsangweg 13
+Vogelsangweg 15
+Vogelsangweg 17
+Vogelsangweg 19
+Vogelsangweg 21
+Vogelsangweg 23
+Vogelsangweg 25
+Vogelsangweg 27
+Vogelsangweg 29
+Vogelsangweg 31
+Am Storchengrund 3
+Am Sonnenpark 1
+Am Sonnenpark 2
+Am Sonnenpark 3
+Am Sonnenpark 4
+Am Sonnenpark 5
+Am Sonnenpark 6
+Am Sonnenpark 7
+Am Sonnenpark 8
+Am Sonnenpark 9
+Am Sonnenpark 10
+Am Sonnenpark 11
+Am Sonnenpark 12
+Am Sonnenpark 13
+Am Anger 1a
+Am Anger 1
+Am Anger 2a
+Am Anger 2
+Am Anger 3
+Am Anger 4
+Am Anger 5
+Am Anger 6a
+Am Anger 6
+Am Anger 7
+Am Anger 8
+Am Anger 9
+Am Anger 10a
+Am Anger 10
+Am Anger 11a
+Am Anger 11
+Am Anger 12a
+Am Anger 12b
+Am Anger 12
+Am Anger 13
+Am Anger 14
+Am Anger 15
+Am Anger 16
+Am Anger 18
+Am Anger 20
+Am Anger 22
+Am Anger 24
+Am Anger 26
+Am Anger 28
+Am Anger 30
+Antonigasse 1
+Antonigasse 2
+Antonigasse 3a
+Antonigasse 3b
+Antonigasse 3c
+Antonigasse 3d
+Antonigasse 3e
+Antonigasse 3
+Antonigasse 5
+Antonigasse 7
+Antonigasse 9
+Antonigasse 11
+Antonigasse 13
+Antonigasse 15
+Antonigasse 17
+Antonigasse 19
+Antonigasse 21
+Antonigasse 23
+Antonigasse 25
+Bruckergasse 1a
+Bruckergasse 2
+Bruckergasse 3
+Bruckergasse 4
+Bruckergasse 5
+Bruckergasse 6
+Bruckergasse 7
+Bruckergasse 8
+Bruckergasse 9
+Bruckergasse 10a
+Bruckergasse 10b
+Bruckergasse 10c
+Bruckergasse 11a
+Bruckergasse 11b
+Bruckergasse 11c
+Bruckergasse 11
+Bruckergasse 12a
+Bruckergasse 12b
+Bruckergasse 13a
+Bruckergasse 13b
+Bruckergasse 13
+Bruckergasse 15
+Bruckergasse 16
+Bruckergasse 17
+Bruckergasse 18
+Bruckergasse 19
+Bruckergasse 20
+Bruckergasse 21
+Bruckergasse 22
+Bruckergasse 23
+Bruckergasse 24
+Bruckergasse 25
+Bruckergasse 26
+Bruckergasse 27
+Bruckergasse 28
+Bruckergasse 29
+Bruckergasse 30
+Bruckergasse 31
+Bruckergasse 32
+Bruckergasse 33
+Bruckergasse 34
+Bruckergasse 35
+Bruckergasse 36
+Bruckergasse 37
+Bruckergasse 38
+Bruckergasse 39
+Bruckergasse 40
+Bruckergasse 41
+Bruckergasse 42
+Bruckergasse 43
+Bruckergasse 44
+Bruckergasse 45
+Bruckergasse 46
+Bruckergasse 47
+Bruckergasse 48
+Bruckergasse 49
+Bruckergasse 50
+Florianisiedlung 1
+Florianisiedlung 2
+Florianisiedlung 3
+Florianisiedlung 4
+Florianisiedlung 5
+Florianisiedlung 6
+Florianisiedlung 7
+Florianisiedlung 8
+Florianisiedlung 9
+Florianisiedlung 10
+Florianisiedlung 11
+Florianisiedlung 12
+Florianisiedlung 13
+Florianisiedlung 14a
+Florianisiedlung 14
+Florianisiedlung 15
+Florianisiedlung 16a
+Florianisiedlung 16
+Florianisiedlung 17
+Florianisiedlung 18
+Florianisiedlung 21
+Florianisiedlung 22
+Florianisiedlung 23
+Florianisiedlung 24
+Gartengasse 1
+Gartengasse 2
+Gartengasse 3
+Gartengasse 4a
+Gartengasse 4
+Gartengasse 5
+Gartengasse 6
+Gartengasse 8
+Gartengasse 10
+Gartengasse 11
+Gartengasse 12
+Gartengasse 14
+Hauptplatz 1
+Hauptplatz 3
+Hauptplatz 5
+Hauptplatz 7
+Hauptplatz 9
+Hauptplatz 13
+Hauptplatz 14
+Josef Haydngasse 1
+Josef Haydngasse 2
+Josef Haydngasse 3
+Josef Haydngasse 4
+Josef Haydngasse 5
+Josef Haydngasse 6a
+Josef Haydngasse 6b
+Josef Haydngasse 6c
+Josef Haydngasse 7
+Josef Haydngasse 8
+Josef Haydngasse 9
+Josef Haydngasse 10
+Josef Haydngasse 11
+Josef Haydngasse 12
+Josef Haydngasse 13
+Josef Haydngasse 14
+Josef Haydngasse 15
+Josef Haydngasse 16
+Josef Haydngasse 17
+Josef Haydngasse 18
+Josef Haydngasse 19
+Josef Haydngasse 21a
+Josef Haydngasse 21
+Josef Haydngasse 23
+Josef Haydngasse 25a
+Josef Haydngasse 25
+Josef Haydngasse 27a
+Josef Haydngasse 27b
+Josef Haydngasse 27c
+Josef Haydngasse 27
+Josef Haydngasse 29
+Josef Haydngasse 31
+Josef Haydngasse 33
+Josef Haydngasse 37
+Heideweg 1
+Heideweg 3
+Heideweg 4
+Heideweg 5
+Heideweg 6
+Heideweg 9
+Heideweg 10
+Heideweg 11
+Heideweg 13
+Heideweg 15a
+Heideweg 15b
+Heideweg 15c
+Heideweg 15d
+Heideweg 15e
+Heideweg 16
+Heideweg 17
+Heideweg 18
+Heideweg 21
+Heideweg 22
+Heideweg 26
+Heideweg 27
+Josef Hyrtlgasse 1
+Josef Hyrtlgasse 2
+Josef Hyrtlgasse 3
+Josef Hyrtlgasse 4
+Josef Hyrtlgasse 5a
+Josef Hyrtlgasse 5
+Josef Hyrtlgasse 6
+Josef Hyrtlgasse 7
+Josef Hyrtlgasse 8
+Josef Hyrtlgasse 9
+Josef Hyrtlgasse 10
+Josef Hyrtlgasse 11
+Josef Hyrtlgasse 12
+Kellerring 1
+Kellerring 2
+Kellerring 3
+Kellerring 4
+Kellerring 5a
+Kellerring 5b
+Kellerring 5c
+Kellerring 5d
+Kellerring 5e
+Kellerring 5f
+Kellerring 5
+Kellerring 6a
+Kellerring 6b
+Kellerring 6c
+Kellerring 6e
+Kellerring 6f
+Kellerring 6
+Kellerring 7a
+Kellerring 7
+Kellerring 8a
+Kellerring 8
+Kellerring 9b
+Kellerring 9
+Kellerring 10
+Kellerring 11
+Kellerring 12a
+Kellerring 12
+Kellerring 13a
+Kellerring 13
+Kellerring 14
+Kellerring 15
+Kellerring 16
+Kellerring 17
+Kellerring 18
+Kellerring 19
+Kirchengasse 1
+Kirchengasse 2
+Kirchengasse 3
+Kirchengasse 4
+Kirchengasse 5
+Kirchengasse 6
+Kirchengasse 8
+Kirchengasse 9
+Kirchengasse 10
+Kirchengasse 11
+Kirchengasse 12a
+Kirchengasse 12b
+Kirchengasse 12
+Kirchengasse 13
+Kirchengasse 14
+Kirchengasse 15
+Kirchengasse 16
+Kirchengasse 17
+Kirchengasse 18
+Kirchengasse 20
+Kirchengasse 22a
+Kirchengasse 22
+Kirchengasse 23
+Kirchengasse 24
+Kirchengasse 25a
+Kirchengasse 25
+Kirchengasse 26
+Kirchengasse 27
+Kirchengasse 28
+Kirchengasse 29
+Kirchengasse 30
+Kirchengasse 31
+Kirchengasse 32
+Kirchengasse 33
+Kirchengasse 34a
+Kirchengasse 34
+Kirchengasse 35
+Kirchengasse 36
+Kirchengasse 37
+Kirchengasse 38
+Kirchengasse 39
+Kirchengasse 40a
+Kirchengasse 40
+Kirchengasse 41
+Kirchengasse 42
+Kirchengasse 44
+Kirchengasse 46
+Krautgartenweg 1
+Krautgartenweg 3a
+Krautgartenweg 3
+Krautgartenweg 5a
+Krautgartenweg 5
+Krautgartenweg 7
+Krautgartenweg 9
+Krautgartenweg 10
+Krautgartenweg 11
+Kreinerweg 1
+Kreinerweg 2
+Kreinerweg 3
+Kreinerweg 4
+Kreinerweg 5
+Kreinerweg 6
+Kreinerweg 7
+Kreinerweg 8a
+Kreinerweg 8
+Kreinerweg 9a
+Kreinerweg 9b
+Kreinerweg 9c
+Kreinerweg 9d
+Kreinerweg 9
+Kreinerweg 10a
+Kreinerweg 10b
+Kreinerweg 10
+Kreinerweg 11
+Kreinerweg 12a
+Kreinerweg 12
+Kreinerweg 13
+Kreinerweg 15
+Kreinerweg 17
+Kreinerweg 19
+Kreinerweg 21
+Kreinerweg 25
+Neubaugasse 1
+Neubaugasse 2a
+Neubaugasse 2
+Neubaugasse 3
+Neubaugasse 4a
+Neubaugasse 4b
+Neubaugasse 4
+Neubaugasse 5
+Neubaugasse 6
+Neubaugasse 7
+Neubaugasse 8
+Neubaugasse 9
+Neubaugasse 10
+Neubaugasse 11
+Neubaugasse 12
+Neubaugasse 13
+Neubaugasse 14
+Neubaugasse 15
+Neubaugasse 17
+Neubaugasse 19
+Pusztawohnpark 1
+Pusztawohnpark 2
+Pusztawohnpark 3
+Pusztawohnpark 4
+Pusztawohnpark 5
+Pusztawohnpark 6
+Pusztawohnpark 7
+Pusztawohnpark 8
+Pusztawohnpark 9
+Pusztawohnpark 10
+Pusztawohnpark 11
+Pusztawohnpark 12
+Pusztawohnpark 13
+Pusztawohnpark 14
+Pusztawohnpark 15
+Pusztawohnpark 16
+Pusztawohnpark 17
+Pusztawohnpark 18
+Pusztawohnpark 19
+Pusztawohnpark 20
+Pusztawohnpark 21
+Pusztawohnpark 22
+Pusztawohnpark 23
+Pusztawohnpark 24
+Pusztawohnpark 25
+Pusztawohnpark 26
+Pusztawohnpark 27
+Pusztawohnpark 28
+Pusztawohnpark 29
+Pusztawohnpark 30
+Pusztawohnpark 31
+Pusztawohnpark 32
+Pusztawohnpark 33
+Pusztawohnpark 34
+Pusztawohnpark 35
+Pusztawohnpark 36
+Pusztawohnpark 37
+Pusztawohnpark 38
+Pusztawohnpark 39
+Pusztawohnpark 40
+Pusztawohnpark 41
+Pusztawohnpark 42
+Pusztawohnpark 43
+Pusztawohnpark 44
+Pusztawohnpark 45
+Pusztawohnpark 46
+Pusztawohnpark 47
+Pusztawohnpark 48
+Pusztawohnpark 49
+Pusztawohnpark 50
+Pusztawohnpark 51
+Pusztawohnpark 52
+Pusztawohnpark 53
+Pusztawohnpark 54
+Pusztawohnpark 55
+Pusztawohnpark 56
+Pusztawohnpark 57
+Pusztawohnpark 58
+Pusztawohnpark 59
+Pusztawohnpark 60
+Pusztawohnpark 61
+Pusztawohnpark 62
+Pusztawohnpark 63
+Pusztawohnpark 64
+Pusztawohnpark 65
+Pusztawohnpark 66
+Pusztawohnpark 67
+Pusztawohnpark 68
+Pusztawohnpark 69
+Pusztawohnpark 70
+Pusztawohnpark 72
+Pusztawohnpark 73
+Pusztawohnpark 74
+Pusztawohnpark 75
+Pusztawohnpark 76
+Pusztawohnpark 77
+Pusztawohnpark 78
+Pusztawohnpark 79
+Pusztawohnpark 80
+Pusztawohnpark 81
+Pusztawohnpark 82
+Pusztawohnpark 83
+Pusztawohnpark 84
+Pusztawohnpark 85
+Pusztawohnpark 86
+Pusztawohnpark 87
+Pusztawohnpark 88
+Pusztawohnpark 89
+Pusztawohnpark 90
+Pusztawohnpark 91
+Pusztawohnpark 92
+Pusztawohnpark 93
+Pusztawohnpark 94
+Pusztawohnpark 95
+Pusztawohnpark 96
+Pusztawohnpark 97
+Pusztawohnpark 98
+Pusztawohnpark 99
+Pusztawohnpark 100
+Pusztawohnpark 101
+Pusztawohnpark 102
+Pusztawohnpark 103
+Pusztawohnpark 104
+Pusztawohnpark 105
+Pusztawohnpark 106
+Pusztawohnpark 107
+Pusztawohnpark 108
+Pusztawohnpark 109
+Pusztawohnpark 110
+Pusztawohnpark 111
+Pusztawohnpark 112
+Pusztawohnpark 113
+Pusztawohnpark 114
+Pusztawohnpark 115
+Pusztawohnpark 116
+Pusztawohnpark 117
+Pusztawohnpark 118
+Pusztawohnpark 119
+Pusztawohnpark 120
+Pusztawohnpark 121
+Pusztawohnpark 122
+Pusztawohnpark 123
+Pusztawohnpark 124
+Pusztawohnpark 125
+Pusztawohnpark 126
+Pusztawohnpark 127
+Pusztawohnpark 128
+Pusztawohnpark 129
+Pusztawohnpark 130
+Pusztawohnpark 131
+Pusztawohnpark 132
+Pusztawohnpark 133
+Pusztawohnpark 134
+Pusztawohnpark 135
+Pusztawohnpark 136
+Pusztawohnpark 137
+Pusztawohnpark 138
+Pusztawohnpark 139
+Pusztawohnpark 140
+Pusztawohnpark 141
+Pusztawohnpark 142
+Pusztawohnpark 143
+Pusztawohnpark 144
+Pusztawohnpark 145
+Pusztawohnpark 146
+Pusztawohnpark 147
+Pusztawohnpark 148
+Pusztawohnpark 149
+Pusztawohnpark 150
+Pusztawohnpark 151
+Pusztawohnpark 152
+Pusztawohnpark 153
+Pusztawohnpark 154
+Pusztawohnpark 155
+Pusztawohnpark 156
+Pusztawohnpark 157
+Pusztawohnpark 158
+Pusztawohnpark 159
+Pusztawohnpark 160
+Pusztawohnpark 161
+Pusztawohnpark 162
+Pusztawohnpark 163
+Pusztawohnpark 164
+Pusztawohnpark 165
+Pusztawohnpark 166
+Pusztawohnpark 167
+Pusztawohnpark 168
+Pusztawohnpark 169
+Pusztawohnpark 170
+Pusztawohnpark 171
+Pusztawohnpark 172
+Pusztawohnpark 173
+Pusztawohnpark 174
+Pusztawohnpark 175
+Pusztawohnpark 176
+Pusztawohnpark 177
+Pusztawohnpark 178
+Pusztawohnpark 179
+Pusztawohnpark 180
+Pusztawohnpark 181
+Pusztawohnpark 182
+Pusztawohnpark 183
+Pusztawohnpark 184
+Pusztawohnpark 185
+Pusztawohnpark 186
+Pusztawohnpark 187
+Pusztawohnpark 188
+Pusztawohnpark 189
+Pusztawohnpark 190
+Pusztawohnpark 191
+Pusztawohnpark 192
+Pusztawohnpark 193
+Pusztawohnpark 194
+Pusztawohnpark 195
+Pusztawohnpark 196
+Pusztawohnpark 197
+Spitalanger 1
+Spitalanger 2
+Spitalanger 3
+Spitalanger 4
+Spitalanger 5
+Spitalanger 6
+Spitalanger 7
+Spitalanger 8
+Spitalanger 9
+Spitalanger 10
+Spitalanger 11
+Spitalanger 12
+Spitalanger 13
+Spitalanger 14
+Spitalanger 15
+Spitalanger 16
+Spitalanger 17
+Spitalanger 18
+Spitalanger 19
+Spitalanger 20
+Spitalanger 21
+Spitalanger 22
+Spitalanger 23
+Spitalanger 24
+Spitalanger 25
+Spitalanger 26
+Spitalanger 27
+Spitalanger 28
+Spitalanger 29
+Spitalanger 30
+Spitalanger 31
+Spitalanger 32
+Spitalanger 33
+Spitalanger 34
+Spitalanger 35
+Spitalanger 36
+Spitalanger 37
+Spitalanger 38
+Spitalanger 39a
+Spitalanger 39b
+Spitalanger 39
+Spitalanger 40
+Spitalanger 41
+Spitalanger 42
+Spitalanger 43
+Spitalanger 44
+Spitalanger 45
+Spitalanger 47
+Spitalanger 48
+Spitalanger 49
+Spitalgasse 1a
+Spitalgasse 1
+Spitalgasse 2
+Spitalgasse 3a
+Spitalgasse 3
+Spitalgasse 4
+Spitalgasse 5
+Spitalgasse 7
+Spitalgasse 8
+Spitalgasse 9
+Spitalgasse 10
+Spitalgasse 12
+Spitalgasse 14
+Spitalgasse 16
+Spitalgasse 18
+Spitalgasse 20
+Spitalgasse 22
+Spitalgasse 24
+Spitalgasse 26
+Spitalgasse 28
+Spitalgasse 30
+Spitalgasse 32
+Spitalgasse 34
+Spitalgasse 36
+Spitalgasse 38
+Spitalgasse 40
+Spitalgasse 42
+Spitalgasse 44
+Villasteig 2
+Villasteig 3
+Villasteig 5
+Villasteig 6
+Villasteig 7
+Villasteig 8
+Villasteig 9
+Villasteig 10
+Villasteig 12
+Villasteig 13
+Villasteig 14
+Villasteig 15
+Villasteig 16
+Villasteig 17
+Villasteig 18
+Villasteig 19
+Villasteig 20
+Villasteig 21
+Villasteig 22
+Villasteig 23
+Villasteig 24
+Villasteig 25
+Villasteig 26
+Villasteig 27
+Villasteig 28
+Villasteig 29
+Villasteig 30
+Weinberggasse 1
+Weinberggasse 3
+Weinberggasse 5
+Weinberggasse 7
+Weinberggasse 9
+Weinberggasse 11
+Weinberggasse 13
+Weinberggasse 15
+Zum Seeblick 1
+Zum Seeblick 3
+Zum Seeblick 4
+Zum Seeblick 5
+Zum Seeblick 6
+Zum Seeblick 7
+Zum Seeblick 8
+Zum Seeblick 9
+Zum Seeblick 10
+Zum Seeblick 11
+Zum Seeblick 12
+Zum Seeblick 13
+Zum Seeblick 14
+Zum Seeblick 15
+Zum Seeblick 16
+Zum Seeblick 17
+Zum Seeblick 18
+Zum Seeblick 19
+Zum Seeblick 21
+Zum Seeblick 23
+Zum Seeblick 25
+Gottfried Kumpfgasse 1
+Gottfried Kumpfgasse 2
+Gottfried Kumpfgasse 3
+Gottfried Kumpfgasse 4
+Gottfried Kumpfgasse 5
+Gottfried Kumpfgasse 6
+Gottfried Kumpfgasse 7
+Gottfried Kumpfgasse 8
+Gottfried Kumpfgasse 9
+Gottfried Kumpfgasse 10
+Gottfried Kumpfgasse 11
+Gottfried Kumpfgasse 12
+Gottfried Kumpfgasse 13
+Gottfried Kumpfgasse 14
+Gottfried Kumpfgasse 15
+Gottfried Kumpfgasse 16
+Gottfried Kumpfgasse 17
+Gottfried Kumpfgasse 18
+Gottfried Kumpfgasse 19
+Gottfried Kumpfgasse 20
+Gottfried Kumpfgasse 21
+Gottfried Kumpfgasse 22
+Gottfried Kumpfgasse 23
+Gottfried Kumpfgasse 24
+Gottfried Kumpfgasse 25
+Gottfried Kumpfgasse 26
+Gottfried Kumpfgasse 27
+Gottfried Kumpfgasse 28
+Gottfried Kumpfgasse 29
+Gottfried Kumpfgasse 30
+Gottfried Kumpfgasse 31
+Gottfried Kumpfgasse 32
+Gottfried Kumpfgasse 33
+Gottfried Kumpfgasse 36
+Gottfried Kumpfgasse 38
+Gottfried Kumpfgasse 40
+Gottfried Kumpfgasse 42
+Gottfried Kumpfgasse 44
+Gottfried Kumpfgasse 46
+Gottfried Kumpfgasse 48
+Gottfried Kumpfgasse 50
+Gottfried Kumpfgasse 52
+Am Haidenberg 1
+Am Haidenberg 2
+Am Haidenberg 3
+Am Haidenberg 5
+Am Haidenberg 6
+Am Haidenberg 8
+Am Haidenberg 9
+Am Haidenberg 10
+Am Haidenberg 11
+Am Haidenberg 12
+Am Haidenberg 13
+Am Haidenberg 14
+Am Haidenberg 15
+Am Haidenberg 16
+Am Haidenberg 17
+Am Haidenberg 18
+Am Haidenberg 19
+Am Haidenberg 20
+Am Haidenberg 22
+Am Haidenberg 23
+Am Haidenberg 24
+Am Haidenberg 26
+Am Haidenberg 27
+Am Haidenberg 28
+Am Haidenberg 30
+Am Haidenberg 33
+Am Haidenberg 34
+Am Haidenberg 35
+Am Haidenberg 36
+Am Haidenberg 37
+Am Haidenberg 38
+Am Haidenberg 40
+Am Haidenberg 41
+Am Haidenberg 43
+Am Haidenberg 45
+Scheibenackerweg 1
+Scheibenackerweg 2
+Kirchberg 1
+Kirchberg 4
+Kirchberg 5
+Kirchberg 6
+Kirchberg 7
+Kirchberg 8
+Kirchberg 9
+Kirchberg 10
+Kirchberg 11
+Kirchberg 12
+Kirchberg 14
+Kirchberg 15
+Kirchberg 16
+Kirchberg 17
+Kirchberg 18
+Kirchberg 19
+Kirchberg 20
+Kirchberg 21
+Kirchberg 22
+Kirchberg 24
+Kirchberg 25
+Kirchberg 27
+Kirchberg 29
+Martingasse 1
+Martingasse 3
+Martingasse 5
+Martingasse 7
+Martingasse 13
+Kirchenried 4
+Kirchenried 8
+Kirchenried 9a
+Kirchenried 9
+Kirchenried 10
+Kirchenried 13
+Kirchenried 15
+Lisztgasse 1
+Lisztgasse 2
+Lisztgasse 3
+Lisztgasse 4
+Lisztgasse 5
+Lisztgasse 6
+Lisztgasse 7
+Lisztgasse 8
+Lisztgasse 9
+Lisztgasse 10
+Lisztgasse 11
+Lisztgasse 12a
+Lisztgasse 12b
+Lisztgasse 12c
+Lisztgasse 13
+Lisztgasse 14
+Lisztgasse 15
+Lisztgasse 16
+Lisztgasse 18
+Lisztgasse 20
+Lisztgasse 22
+Lisztgasse 24
+Lisztgasse 26
+Lisztgasse 32
+Urbaniweg 2
+Urbaniweg 4
+Urbaniweg 6
+Urbaniweg 8
+Urbaniweg 10
+Urbaniweg 12
+Am Sportplatz 2
+Mobilheimplatz 13
+Mobilheimplatz 34
+Mobilheimplatz 50
+Mobilheimplatz 54
+Mobilheimplatz 116
+Mobilheimplatz 117
+Mobilheimplatz 126
+Mobilheimplatz 129
+Mobilheimplatz 158
+Mobilheimplatz 167
+Mobilheimplatz 176
+Mobilheimplatz 179
+Mobilheimplatz 185
+Mobilheimplatz 209
+Mobilheimplatz 234
+Mobilheimplatz 239
+Mobilheimplatz 310
+Mobilheimplatz 332
+Mobilheimplatz 366
+Oberer Kreutberg 4
+Oberer Kreutberg 5
+Oberer Kreutberg 6
+Oberer Kreutberg 7
+Oberer Kreutberg 8
+Oberer Kreutberg 9
+Oberer Kreutberg 10
+Oberer Kreutberg 11
+Oberer Kreutberg 12
+Oberer Kreutberg 13
+Oberer Kreutberg 14
+Oberer Kreutberg 15
+Oberer Kreutberg 16
+Oberer Kreutberg 17
+Oberer Kreutberg 18
+Oberer Kreutberg 19
+Oberer Kreutberg 20
+Oberer Kreutberg 21
+Oberer Kreutberg 22
+Oberer Kreutberg 23
+Oberer Kreutberg 24
+Oberer Kreutberg 25
+Oberer Kreutberg 26
+Oberer Kreutberg 27
+Oberer Kreutberg 28
+Oberer Kreutberg 29
+Oberer Kreutberg 30
+Oberer Kreutberg 31
+Oberer Kreutberg 32
+Oberer Kreutberg 33
+Oberer Kreutberg 34
+Am Madberg 1
+Am Madberg 2
+Am Madberg 3a
+Am Madberg 3
+Am Madberg 4
+Am Madberg 6
+Am Madberg 7
+Am Madberg 8
+Angergasse 1
+Angergasse 2
+Angergasse 3
+Angergasse 4
+Angergasse 5
+Angergasse 6
+Angergasse 7
+Angergasse 8
+Angergasse 9
+Angergasse 10
+Angergasse 11
+Hofsatz 1
+Hofsatz 2
+Hofsatz 5
+Hofsatz 7
+Hofsatz 9
+Hofsatz 14
+Hofsatz 15
+Hofsatz 17
+Hofsatz 19
+Hofsatz 20a
+Hofsatz 20
+Hofsatz 22a
+Hofsatz 26a
+Hofsatz 26
+Hofsatz 33
+Hofsatz 38
+Hofsatz 44
+Hofsatz 46
+Florianigasse 1
+Florianigasse 2
+Florianigasse 3
+Florianigasse 4
+Dr. Hubergasse 1
+Dr. Hubergasse 2
+Dr. Hubergasse 3
+Dr. Hubergasse 4
+Dr. Hubergasse 5
+Dr. Hubergasse 6
+Dr. Hubergasse 7
+Dr. Hubergasse 10
+Dr. Hubergasse 12
+Kirchengasse 1
+Kirchengasse 2
+Kirchengasse 5
+Kirchberg 1
+Kirchberg 2
+Quergasse 1
+Quergasse 2
+Quergasse 3
+Quergasse 4
+Satzgasse 2
+Satzgasse 3
+Satzgasse 5
+Satzgasse 6
+Satzgasse 7
+Satzgasse 8
+Satzgasse 10
+Satzgasse 11
+Satzgasse 12
+Satzgasse 17
+Satzgasse 18
+Satzgasse 19
+Schulgasse 1
+Schulgasse 2
+Schulgasse 3
+Schulgasse 4
+Schulgasse 5
+Schulgasse 6
+Schulgasse 7
+Schulgasse 8a
+Schulgasse 8
+Schulgasse 9a
+Schulgasse 9
+Schulgasse 10
+Schulgasse 11
+Schulgasse 12
+Seehof 1
+Seehof 7
+Waldgasse 1
+Waldgasse 2
+Waldgasse 3
+Waldgasse 4
+Waldgasse 5
+Waldgasse 6
+Waldgasse 7
+Waldgasse 8
+Waldgasse 9
+Waldgasse 10
+Waldgasse 11
+Waldgasse 12
+Waldgasse 13
+Waldgasse 14
+Waldgasse 15
+Weingartenweg 1
+Weingartenweg 2
+Weingartenweg 3
+Weingartenweg 5
+Weingartenweg 6
+Unterer Kreutberg 1
+Unterer Kreutberg 2
+Unterer Kreutberg 3
+Unterer Kreutberg 6
+Unterer Kreutberg 8
+Unterer Kreutberg 9
+Unterer Kreutberg 10
+Unterer Kreutberg 11
+Unterer Kreutberg 12
+Unterer Kreutberg 14
+Unterer Kreutberg 15
+Unterer Kreutberg 16
+Unterer Kreutberg 18
+Unterer Kreutberg 19
+Unterer Kreutberg 20
+Unterer Kreutberg 21
+Unterer Kreutberg 22
+Unterer Kreutberg 23
+Unterer Kreutberg 24
+Unterer Kreutberg 25
+Unterer Kreutberg 27
+Unterer Kreutberg 28
+Unterer Kreutberg 29
+Unterer Kreutberg 30
+Wolfsbachweg 1
+Wolfsbachweg 2a
+Wolfsbachweg 2
+Wolfsbachweg 4a
+Wolfsbachweg 4
+Wolfsbachweg 5
+Martinsgasse 3
+Martinsgasse 5
+Martinsgasse 6
+Martinsgasse 7
+Martinsgasse 8
+Martinsgasse 11
+Martinsgasse 14
+Martinsgasse 18
+Martinsgasse 24
+Martinsgasse 25
+Martinsgasse 31
+Martinsgasse 35
+Martinsgasse 40
+Am Weinberg 1
+Terrassenwohnpark 1
+Terrassenwohnpark 3
+Terrassenwohnpark 4
+Terrassenwohnpark 6
+Terrassenwohnpark 7
+Terrassenwohnpark 8
+Terrassenwohnpark 9
+Terrassenwohnpark 10
+Terrassenwohnpark 11
+Terrassenwohnpark 12
+Terrassenwohnpark 13
+Terrassenwohnpark 14
+Terrassenwohnpark 15
+Terrassenwohnpark 16
+Terrassenwohnpark 17
+Terrassenwohnpark 18
+Terrassenwohnpark 19
+Terrassenwohnpark 20
+Terrassenwohnpark 21
+Terrassenwohnpark 22
+Terrassenwohnpark 23
+Terrassenwohnpark 24
+Terrassenwohnpark 25
+Terrassenwohnpark 26
+Terrassenwohnpark 27
+Terrassenwohnpark 28
+Terrassenwohnpark 29
+Terrassenwohnpark 30
+Terrassenwohnpark 31
+Terrassenwohnpark 32
+Terrassenwohnpark 33
+Terrassenwohnpark 34
+Terrassenwohnpark 35
+Terrassenwohnpark 36
+Terrassenwohnpark 37
+Terrassenwohnpark 38
+Terrassenwohnpark 39
+Terrassenwohnpark 40
+Terrassenwohnpark 41
+Terrassenwohnpark 42
+Terrassenwohnpark 43
+Terrassenwohnpark 44
+Terrassenwohnpark 45
+Terrassenwohnpark 46
+Terrassenwohnpark 47
+Terrassenwohnpark 48
+Terrassenwohnpark 49
+Terrassenwohnpark 50
+Terrassenwohnpark 51
+Terrassenwohnpark 52
+Terrassenwohnpark 53
+Terrassenwohnpark 54
+Terrassenwohnpark 55
+Terrassenwohnpark 56
+Terrassenwohnpark 57
+Terrassenwohnpark 58
+Terrassenwohnpark 59
+Terrassenwohnpark 60
+Terrassenwohnpark 61
+Terrassenwohnpark 62
+Terrassenwohnpark 64
+Terrassenwohnpark 65
+Terrassenwohnpark 66
+Terrassenwohnpark 67
+Terrassenwohnpark 69
+Terrassenwohnpark 70
+Terrassenwohnpark 72
+Terrassenwohnpark 76
+Terrassenwohnpark 77
+Terrassenwohnpark 79
+Terrassenwohnpark 81
+Terrassenwohnpark 82
+Terrassenwohnpark 84
+Terrassenwohnpark 85
+Terrassenwohnpark 86
+Terrassenwohnpark 88
+Terrassenwohnpark 89
+Terrassenwohnpark 90
+Terrassenwohnpark 92
+Terrassenwohnpark 93
+Terrassenwohnpark 94
+Terrassenwohnpark 95
+Terrassenwohnpark 98
+Terrassenwohnpark 99
+Terrassenwohnpark 100
+Terrassenwohnpark 101
+Terrassenwohnpark 102
+Am Golfplatz 1
+Keltenweg 1
+Keltenweg 2a
+Keltenweg 2
+Keltenweg 3a
+Keltenweg 3
+Keltenweg 4a
+Keltenweg 4
+Keltenweg 8
+Keltenweg 10
+Keltenweg 14
+Keltenweg 20
+Keltenweg 22
+Keltenweg 24
+Keltenweg 26
+Keltenweg 32
+Keltenweg 36
+Mobilheimplatz 1
+Mobilheimplatz 2
+Mobilheimplatz 3
+Mobilheimplatz 4
+Mobilheimplatz 5
+Mobilheimplatz 6
+Mobilheimplatz 7
+Mobilheimplatz 9
+Mobilheimplatz 10
+Mobilheimplatz 11
+Mobilheimplatz 12
+Mobilheimplatz 13
+Mobilheimplatz 14
+Mobilheimplatz 15
+Mobilheimplatz 16
+Mobilheimplatz 18a
+Mobilheimplatz 18
+Mobilheimplatz 19
+Mobilheimplatz 20
+Mobilheimplatz 21
+Mobilheimplatz 22
+Mobilheimplatz 23
+Mobilheimplatz 24a
+Mobilheimplatz 24b
+Mobilheimplatz 24
+Mobilheimplatz 25a
+Mobilheimplatz 25b
+Mobilheimplatz 25
+Mobilheimplatz 26a
+Mobilheimplatz 26
+Mobilheimplatz 27
+Mobilheimplatz 28
+Mobilheimplatz 29
+Mobilheimplatz 30
+Mobilheimplatz 31
+Mobilheimplatz 32
+Mobilheimplatz 33
+Mobilheimplatz 34
+Mobilheimplatz 35
+Mobilheimplatz 36
+Mobilheimplatz 37
+Mobilheimplatz 41
+Mobilheimplatz 42
+Mobilheimplatz 43
+Mobilheimplatz 44a
+Mobilheimplatz 44
+Mobilheimplatz 45a
+Mobilheimplatz 45
+Mobilheimplatz 46a
+Mobilheimplatz 46b
+Mobilheimplatz 46c
+Mobilheimplatz 46
+Mobilheimplatz 48
+Mobilheimplatz 49
+Mobilheimplatz 50
+Mobilheimplatz 51
+Mobilheimplatz 53
+Mobilheimplatz 54
+Mobilheimplatz 55
+Mobilheimplatz 56
+Mobilheimplatz 57
+Mobilheimplatz 59
+Mobilheimplatz 61
+Mobilheimplatz 62
+Mobilheimplatz 63
+Mobilheimplatz 64
+Mobilheimplatz 65
+Mobilheimplatz 66
+Mobilheimplatz 67
+Mobilheimplatz 68
+Mobilheimplatz 69
+Mobilheimplatz 70
+Mobilheimplatz 71
+Mobilheimplatz 72
+Mobilheimplatz 73
+Mobilheimplatz 74
+Mobilheimplatz 75
+Mobilheimplatz 77
+Mobilheimplatz 78
+Mobilheimplatz 79
+Mobilheimplatz 80
+Mobilheimplatz 81
+Mobilheimplatz 82
+Mobilheimplatz 83
+Mobilheimplatz 84
+Mobilheimplatz 92
+Mobilheimplatz 93
+Mobilheimplatz 94
+Mobilheimplatz 95
+Mobilheimplatz 96
+Mobilheimplatz 97
+Mobilheimplatz 98
+Mobilheimplatz 99
+Mobilheimplatz 100
+Mobilheimplatz 101
+Blumengasse 6a
+Blumengasse 6
+Blumengasse 10
+Blumengasse 20
+Blumengasse 21
+Blumengasse 26
+Am Bahnhof 1
+Bachzeile 1
+Bachzeile 2
+Bachzeile 3
+Bachzeile 7
+Bachzeile 9
+Seeblick 1
+Seeblick 5
+Seeblick 8
+Seeblick 10
+Seeblick 11
+Seeblick 14
+Seeblick 22
+Triftgasse 6
+Campingplatz 1
+Campingplatz 2
+Campingplatz 3
+Campingplatz 4
+Campingplatz 5
+Campingplatz 6
+Campingplatz 7
+Campingplatz 8
+Campingplatz 9
+Campingplatz 10
+Campingplatz 11
+Campingplatz 12
+Campingplatz 13
+Campingplatz 14
+Campingplatz 16
+Campingplatz 17
+Campingplatz 18
+Campingplatz 19
+Campingplatz 20
+Campingplatz 21
+Campingplatz 22
+Campingplatz 23
+Campingplatz 24
+Campingplatz 25
+Campingplatz 26
+Campingplatz 27
+Campingplatz 28
+Campingplatz 29
+Campingplatz 30
+Campingplatz 31
+Campingplatz 32
+Campingplatz 33
+Campingplatz 34
+Campingplatz 35
+Campingplatz 36
+Campingplatz 37
+Campingplatz 38
+Campingplatz 39
+Campingplatz 40
+Campingplatz 41
+Campingplatz 46c
+Am Seeblick 1
+Am Seeblick 2
+Am Seeblick 6
+Stadlgasse 1
+St. Antonigasse 1
+St. Antonigasse 3
+St. Antonigasse 4
+St. Antonigasse 5
+St. Antonigasse 6
+St. Antonigasse 7
+St. Antonigasse 8
+St. Antonigasse 9
+St. Antonigasse 10
+St. Antonigasse 11
+St. Antonigasse 12
+St. Antonigasse 13
+St. Antonigasse 14
+St. Antonigasse 15
+St. Antonigasse 16
+St. Antonigasse 17
+St. Antonigasse 18
+St. Antonigasse 19
+Arbeitergasse 1
+Arbeitergasse 2
+Arbeitergasse 3
+Arbeitergasse 5
+Arbeitergasse 6
+Arbeitergasse 7
+Arbeitergasse 8
+Arbeitergasse 9
+Arbeitergasse 10
+Arbeitergasse 11
+Arbeitergasse 12
+Arbeitergasse 13
+Arbeitergasse 15
+Arbeitergasse 16
+Arbeitergasse 17
+Arbeitergasse 18
+Arbeitergasse 19
+Arbeitergasse 20
+Arbeitergasse 21
+Arbeitergasse 22
+Arbeitergasse 24
+Arbeitergasse 25
+Arbeitergasse 26
+Arbeitergasse 27
+Arbeitergasse 28
+Arbeitergasse 29
+Arbeitergasse 30
+Arbeitergasse 32
+Arbeitergasse 34
+Arbeitergasse 36
+Arbeitergasse 38
+Arbeitergasse 40
+Arbeitergasse 42
+Berggasse 1
+Berggasse 3
+Berggasse 4
+Berggasse 5
+Berggasse 6
+Berggasse 7
+Berggasse 8
+Berggasse 9
+Berggasse 10
+Berggasse 11
+Berggasse 12
+Berggasse 13
+Berggasse 14
+Berggasse 15
+Berggasse 16
+Berggasse 17
+Berggasse 18
+Berggasse 19
+Berggasse 20
+Berggasse 21
+Berggasse 22
+Berggasse 23
+Berggasse 24
+Berggasse 25
+Berggasse 27
+Berggasse 29a
+Berggasse 29
+Blumengasse 1
+Blumengasse 3
+Blumengasse 4
+Blumengasse 5
+Blumengasse 6
+Blumengasse 7
+Blumengasse 8
+Blumengasse 9a
+Blumengasse 9
+Blumengasse 10
+Blumengasse 11
+Blumengasse 12
+Blumengasse 13
+Blumengasse 14
+Blumengasse 15
+Blumengasse 17
+Blumengasse 18
+Blumengasse 20
+Brunnenplatz 1
+Brunnenplatz 2
+Brunnenplatz 3
+Brunnenplatz 4
+Brunnenplatz 5
+Brunnenplatz 6
+Feldgasse 1
+Feldgasse 2
+Feldgasse 3
+Feldgasse 6
+Feldgasse 8
+Feldgasse 9
+Feldgasse 10
+Feldgasse 11
+Feldgasse 15
+Feldgasse 16
+Feldgasse 17
+Feldgasse 18
+Feldgasse 19
+Feldgasse 20
+Feldgasse 21
+Feldgasse 22
+Feldgasse 24
+Feldgasse 27
+Feldgasse 34
+Friedhofgasse 1
+Friedhofgasse 4
+Friedhofgasse 6
+Gartengasse 1a
+Gartengasse 1
+Gartengasse 2
+Gartengasse 3
+Gartengasse 4
+Gartengasse 5
+Gartengasse 6
+Gartengasse 8
+Gartengasse 10
+Gartengasse 14
+Gartengasse 16
+Grenzgasse 1
+Grenzgasse 2
+Grenzgasse 3
+Grenzgasse 4
+Grenzgasse 5
+Grenzgasse 6
+Grenzgasse 7
+Grenzgasse 8
+Grenzgasse 9
+Grenzgasse 10
+Grenzgasse 11
+Grenzgasse 12
+Grenzgasse 13
+Grenzgasse 14
+Grenzgasse 15
+Grenzgasse 16
+Grenzgasse 17
+Grenzgasse 18
+Grenzgasse 19
+Grenzgasse 20
+Grenzgasse 21
+Grenzgasse 22
+Grenzgasse 23
+Grenzgasse 24
+Josef Haydn Gasse 1
+Josef Haydn Gasse 2
+Josef Haydn Gasse 3
+Josef Haydn Gasse 4a
+Josef Haydn Gasse 4
+Josef Haydn Gasse 5
+Josef Haydn Gasse 6
+Josef Haydn Gasse 7
+Josef Haydn Gasse 8
+Josef Haydn Gasse 9
+Josef Haydn Gasse 10
+Josef Haydn Gasse 11
+Josef Haydn Gasse 12
+Josef Haydn Gasse 13
+Josef Haydn Gasse 14
+Josef Haydn Gasse 15
+Josef Haydn Gasse 16
+Josef Haydn Gasse 18
+Kirchenplatz 1
+Kirchenplatz 3
+Kirchenplatz 4
+Kirchenplatz 5
+Kirchenplatz 6
+Kirchenplatz 7
+Kirchenplatz 9
+Kirchenplatz 10
+Kirchenplatz 13
+Kirchenplatz 14
+Kirchenplatz 15
+Kirchenplatz 16
+Kirchenplatz 17
+Kirchenplatz 18
+Kirchenweg 2
+Kirchenweg 4
+Kirchenweg 6
+Lange Gasse 1a
+Lange Gasse 1
+Lange Gasse 2
+Lange Gasse 3
+Lange Gasse 6
+Lange Gasse 7
+Lange Gasse 8
+Lange Gasse 9
+Lange Gasse 10
+Lange Gasse 11
+Lange Gasse 12
+Lange Gasse 13
+Lange Gasse 14
+Lange Gasse 15
+Lange Gasse 16
+Lange Gasse 17
+Lange Gasse 20
+Lange Gasse 21
+Lange Gasse 23
+Lange Gasse 24
+Lange Gasse 25
+Lange Gasse 26
+Lange Gasse 27
+Lange Gasse 28
+Lange Gasse 31
+Lange Gasse 32
+Lange Gasse 33
+Lange Gasse 36
+Lange Gasse 37
+Lange Gasse 38
+Lange Gasse 39
+Lange Gasse 43
+Lange Gasse 53
+Lange Gasse 55
+Lange Gasse 57
+Lange Gasse 59
+Lange Gasse 61
+Lange Gasse 63a
+Lange Gasse 63
+Lange Gasse 65
+Lange Gasse 67
+Lange Gasse 69
+Lange Gasse 71
+Lange Gasse 73
+Lange Gasse 75
+Franz Liszt Gasse 2
+Franz Liszt Gasse 4
+Franz Liszt Gasse 6
+Franz Liszt Gasse 7
+Franz Liszt Gasse 8
+Franz Liszt Gasse 10
+Franz Liszt Gasse 12
+Franz Liszt Gasse 14
+Neugasse 1
+Neugasse 2
+Neugasse 3
+Neugasse 4
+Neugasse 5
+Neugasse 6
+Neugasse 7
+Neugasse 8
+Neugasse 9
+Neugasse 10
+Neugasse 11
+Neugasse 13
+Neugasse 14
+Neugasse 15
+Neugasse 16
+Neugasse 17
+Neugasse 18
+Neugasse 19
+Neugasse 20
+Neugasse 21
+Neugasse 22
+Neugasse 23
+Neugasse 24
+Neugasse 25
+Neugasse 26
+Neugasse 27
+Neugasse 28
+Neugasse 30
+Neugasse 32
+Neugasse 33
+Neugasse 34
+Neugasse 35
+Neugasse 36
+Neugasse 37
+Neugasse 38
+Neugasse 39
+Neugasse 40
+Neugasse 41
+Neugasse 42
+Neugasse 44
+Neugasse 46
+Neugasse 48
+Neugasse 50
+Neugasse 52
+Neugasse 54
+Pusztaweg 8
+Pusztaweg 14
+Pusztaweg 15
+Pusztaweg 16
+Pusztaweg 18
+Pusztaweg 20
+Pusztaweg 22
+Pusztaweg 24
+Pusztaweg 26
+Quergasse 4
+Quergasse 5
+Quergasse 6
+Quergasse 8
+Dr. Karl Renner Platz 1
+Dr. Karl Renner Platz 2
+Dr. Karl Renner Platz 4
+Dr. Karl Renner Platz 5
+Dr. Karl Renner Platz 7
+Dr. Karl Renner Platz 9
+Dr. Karl Renner Platz 10
+Dr. Karl Renner Platz 11
+Dr. Karl Renner Platz 12
+Dr. Karl Renner Platz 13
+Dr. Karl Renner Platz 16
+Dr. Karl Renner Platz 17
+Dr. Karl Renner Platz 18
+Dr. Karl Renner Platz 19
+Dr. Karl Renner Platz 20
+Sackgasse 2
+Sackgasse 4
+Sackgasse 6
+Schmalzeile 3
+Schmalzeile 5
+Schmalzeile 9
+Schulgasse 2
+Schulgasse 4
+Schulgasse 5
+Schulgasse 6
+Schulgasse 7
+Schulgasse 8
+Schulgasse 10
+Schulgasse 11
+Schulgasse 12
+Schulgasse 13
+Schulgasse 15
+Schulgasse 16
+Schulgasse 17
+Schulgasse 18
+Schulgasse 19
+Schulgasse 20
+Schulgasse 22
+Schulgasse 23
+Schulgasse 24a
+Schulgasse 24
+Schulgasse 25
+Schulgasse 26
+Schulgasse 27
+Schulgasse 30
+Eichengasse 1
+Eichengasse 2
+Eichengasse 3
+Eichengasse 4
+Eichengasse 5
+Eichengasse 6
+Eichengasse 7
+Eichengasse 8
+Eichengasse 9
+Eichengasse 10
+Eichengasse 11
+Eichengasse 12
+Eichengasse 13
+Eichengasse 14
+Eichengasse 15
+Eichengasse 16
+Eichengasse 17
+Eichengasse 18
+Eichengasse 20
+Sportplatzgasse 2
+Sportplatzgasse 6
+Sportplatzgasse 18
+Sportplatzgasse 20
+Sportplatzgasse 21
+Sportplatzgasse 28
+Teichgasse 1
+Teichgasse 3
+Teichgasse 5
+Teichgasse 7
+Teichgasse 9
+Teichgasse 16
+Waldweg 9
+Waldweg 11
+Waldweg 13
+Waldweg 15
+Waldweg 17
+Waldweg 21
+Waldweg 23
+Waldweg 27
+Waldweg 29
+Waldweg 55
+Waldweg 73
+Waldweg 99
+Wiesengasse 1
+Wiesengasse 2
+Wiesengasse 3
+Wiesengasse 5a
+Wiesengasse 5
+Wiesengasse 6
+Wiesengasse 7
+Wiesengasse 11
+Wiesengasse 13a
+Wiesengasse 13
+Wiesengasse 14
+Wiesengasse 15
+Wiesengasse 16
+Wiesengasse 17
+Wiesengasse 18
+Wiesengasse 19
+Wiesengasse 20
+Wiesengasse 21
+Wiesengasse 23
+Wiesengasse 25
+Zollamtsgasse 1a
+Zollamtsgasse 1
+Zollamtsgasse 2
+Zollamtsgasse 3a
+Zollamtsgasse 3
+Zollamtsgasse 4
+Zollamtsgasse 5
+Zollamtsgasse 6
+Zollamtsgasse 7
+Zollamtsgasse 8
+Zollamtsgasse 9
+Zollamtsgasse 10
+Zollamtsgasse 11
+Zollamtsgasse 12
+Zollamtsgasse 13
+Zollamtsgasse 14
+Zollamtsgasse 15
+Zollamtsgasse 16
+Zollamtsgasse 17
+Zollamtsgasse 18
+Zollamtsgasse 19
+Zollamtsgasse 20
+Zollamtsgasse 21
+Zollamtsgasse 22
+Zollamtsgasse 23
+Zollamtsgasse 24
+Zollamtsgasse 25
+Zollamtsgasse 26
+Zollamtsgasse 27
+Fabriksgasse 1
+Fabriksgasse 2
+Fabriksgasse 3
+Bachgasse 2
+Bachgasse 4
+Bachgasse 5
+Bachgasse 6
+Bachgasse 7
+Bachgasse 8
+Bachgasse 9
+Bachgasse 10
+Bachgasse 11
+Bachgasse 12
+Bachgasse 14
+Bachgasse 16
+Bachgasse 17
+Flurgasse 1
+Flurgasse 2
+Flurgasse 3
+Flurgasse 4
+Flurgasse 5
+Flurgasse 6
+Flurgasse 7
+Flurgasse 8
+Flurgasse 9
+Flurgasse 10
+Flurgasse 11
+Flurgasse 12
+Flurgasse 13
+Flurgasse 15
+Rosengasse 1
+Rosengasse 2
+Rosengasse 3
+Rosengasse 4
+Rosengasse 5
+Rosengasse 6
+Rosengasse 7
+Rosengasse 8
+Rosengasse 9
+Rosengasse 10
+Rosengasse 11
+Rosengasse 12
+Rosengasse 13
+Rosengasse 14
+Rosengasse 15
+Rosengasse 16
+Rosengasse 17
+Rosengasse 18
+Rosengasse 19
+Rosengasse 20
+Rosengasse 21
+Rosengasse 22
+Rosengasse 23
+Rosengasse 24
+Kelsterbacher Gasse 2
+Kelsterbacher Gasse 3
+Kelsterbacher Gasse 6
+Kelsterbacher Gasse 7
+Kelsterbacher Gasse 8
+Kelsterbacher Gasse 9
+Kelsterbacher Gasse 10
+Kelsterbacher Gasse 11
+Kelsterbacher Gasse 12
+Kelsterbacher Gasse 13
+Kelsterbacher Gasse 14
+Kelsterbacher Gasse 15
+Kelsterbacher Gasse 16
+Augasse 19
+Augasse 21
+Am Graben 1
+Weidengasse 6
+Weidengasse 9
+Weidengasse 11
+Weidengasse 12
+Weidengasse 13
+Weidengasse 14
+Badeanlage 2
+Badeanlage 3
+Badeanlage 4
+Badeanlage 5
+Badeanlage 6
+Badeanlage 10
+Badeanlage 12
+Badeanlage 16
+Badeanlage 26
+Badeanlage 27
+Berggasse 1
+Berggasse 2
+Berggasse 3
+Berggasse 4
+Berggasse 5
+Berggasse 6
+Berggasse 7
+Berggasse 8
+Berggasse 9
+Berggasse 10
+Berggasse 11
+Berggasse 12a
+Berggasse 12
+Berggasse 13
+Berggasse 14
+Berggasse 15
+Berggasse 16
+Berggasse 17
+Berggasse 18
+Berggasse 19
+Berggasse 20
+Berggasse 21
+Berggasse 22
+Berggasse 23
+Berggasse 24
+Berggasse 25
+Berggasse 26
+Berggasse 27
+Berggasse 29
+Berggasse 30
+Berggasse 31
+Berggasse 34
+Berggasse 36
+Berggasse 44
+Berggasse 46
+Blumentalgasse 1
+Blumentalgasse 2
+Blumentalgasse 3
+Blumentalgasse 4
+Blumentalgasse 5
+Blumentalgasse 6
+Blumentalgasse 7
+Blumentalgasse 8
+Blumentalgasse 9
+Blumentalgasse 10
+Blumentalgasse 11
+Blumentalgasse 12
+Blumentalgasse 13
+Blumentalgasse 14
+Blumentalgasse 15
+Blumentalgasse 16
+Blumentalgasse 17
+Blumentalgasse 18
+Blumentalgasse 19
+Blumentalgasse 20
+Blumentalgasse 21
+Blumentalgasse 22
+Blumentalgasse 23
+Blumentalgasse 24
+Blumentalgasse 25
+Blumentalgasse 26
+Blumentalgasse 27
+Blumentalgasse 28
+Blumentalgasse 29
+Blumentalgasse 30
+Blumentalgasse 31
+Blumentalgasse 32
+Blumentalgasse 33
+Blumentalgasse 34
+Blumentalgasse 35
+Blumentalgasse 36
+Blumentalgasse 37
+Blumentalgasse 38
+Blumentalgasse 39
+Blumentalgasse 40
+Blumentalgasse 41
+Blumentalgasse 42
+Blumentalgasse 43
+Blumentalgasse 44a
+Blumentalgasse 44b
+Blumentalgasse 44
+Blumentalgasse 45
+Blumentalgasse 46
+Blumentalgasse 47
+Blumentalgasse 48
+Blumentalgasse 50
+Blumentalgasse 51
+Blumentalgasse 52
+Blumentalgasse 53
+Blumentalgasse 55
+Blumentalgasse 65
+Brunnengasse 1
+Brunnengasse 2
+Brunnengasse 3
+Brunnengasse 4
+Brunnengasse 5
+Brunnengasse 6
+Brunnengasse 7
+Brunnengasse 8
+Eschengasse 1
+Eschengasse 2
+Eschengasse 3
+Eschengasse 4
+Eschengasse 5
+Eschengasse 6a
+Eschengasse 6
+Eschengasse 7
+Eschengasse 8
+Eschengasse 9
+Eschengasse 10
+Eschengasse 11
+Eschengasse 12
+Eschengasse 13
+Eschengasse 14
+Eschengasse 15
+Eschengasse 16
+Eschengasse 17
+Eschengasse 18
+Eschengasse 19
+Eschengasse 20
+Eschengasse 21
+Eschengasse 23a
+Eschengasse 23
+Eschengasse 25
+Eschengasse 27
+Feldgasse 1
+Feldgasse 2
+Feldgasse 4
+Feldgasse 6
+Feldgasse 7
+Feldgasse 8
+Feldgasse 9
+Feldgasse 10
+Feldgasse 11
+Feldgasse 12
+Feldgasse 13
+Feldgasse 14
+Feldgasse 15
+Feldgasse 16
+Feldgasse 17
+Feldgasse 18
+Feldgasse 19
+Feldgasse 20
+Feldgasse 21
+Feldgasse 22
+Feldgasse 23
+Feldgasse 24
+Feldgasse 26
+Feldgasse 28
+Feldgasse 29
+Feldgasse 33
+Feldgasse 34
+Feldgasse 37
+Feldgasse 38
+Feldgasse 39
+Feldgasse 41
+Feldgasse 43
+Feldgasse 45
+Feldgasse 47
+Feldgasse 49
+Friedhofgasse 1
+Friedhofgasse 2
+Friedhofgasse 3
+Friedhofgasse 4
+Friedhofgasse 5
+Friedhofgasse 6
+Friedhofgasse 7
+Friedhofgasse 8
+Friedhofgasse 9
+Friedhofgasse 10
+Friedhofgasse 11
+Friedhofgasse 12
+Friedhofgasse 13
+Friedhofgasse 14
+Friedhofgasse 15
+Friedhofgasse 16
+Friedhofgasse 17
+Friedhofgasse 19
+Friedhofgasse 21
+Friedhofgasse 23
+Gartengasse 1
+Gartengasse 2
+Gartengasse 3
+Gartengasse 4
+Gartengasse 5
+Gartengasse 6
+Gartengasse 7
+Gartengasse 8
+Gartengasse 9
+Gartengasse 10
+Gartengasse 11
+Gartengasse 12
+Gartengasse 13
+Gartengasse 14
+Gartengasse 15
+Gartengasse 16
+Gartengasse 17
+Gartengasse 18
+Gartengasse 19
+Gartengasse 20
+Gartengasse 21
+Gartengasse 22
+Gartengasse 25
+Gartengasse 26
+Gartengasse 27
+Gartengasse 35
+Gartengasse 37
+Gartengasse 41
+Gartengasse 45
+Gartengasse 47
+Gartengasse 50
+Gartengasse 52
+Herrengasse 1
+Herrengasse 2
+Herrengasse 3
+Herrengasse 4
+Herrengasse 5
+Herrengasse 6
+Herrengasse 7
+Herrengasse 8
+Herrengasse 9
+Herrengasse 10
+Herrengasse 11
+Herrengasse 12
+Herrengasse 13a
+Herrengasse 13
+Herrengasse 14
+Herrengasse 15
+Herrengasse 16
+Kinogasse 2
+Kinogasse 4
+Kinogasse 5
+Kinogasse 6
+Kinogasse 7
+Kinogasse 8
+Kinogasse 9
+Kinogasse 10
+Kinogasse 11
+Kinogasse 12
+Kinogasse 13
+Kinogasse 14
+Kinogasse 15
+Kinogasse 16
+Kinogasse 17
+Kinogasse 19
+Kinogasse 21
+Kirchengasse 1
+Kirchengasse 2
+Kirchengasse 3
+Kirchengasse 4
+Kirchengasse 7
+Lindengasse 1
+Lindengasse 2
+Lindengasse 3
+Lindengasse 4
+Lindengasse 5
+Lindengasse 6
+Lindengasse 7
+Lindengasse 8
+Lindengasse 9
+Lindengasse 10
+Lindengasse 11
+Lindengasse 12
+Lindengasse 13
+Lindengasse 14
+Lindengasse 15
+Lindengasse 16
+Lindengasse 17
+Lindengasse 18
+Lindengasse 19
+Lindengasse 20
+Lindengasse 21
+Lindengasse 22
+Lindengasse 23
+Lindengasse 24
+Lindengasse 25
+Lindengasse 26
+Lindengasse 27
+Lindengasse 29
+Lindengasse 30
+Lindengasse 31
+Lindengasse 34
+Lindengasse 35
+Lindengasse 37
+Lindengasse 40
+Lindengasse 44
+Lindengasse 46
+Neubaugasse 1
+Neubaugasse 2
+Neubaugasse 3
+Neubaugasse 4
+Neubaugasse 5
+Neubaugasse 6
+Neubaugasse 7
+Neubaugasse 8
+Neubaugasse 9
+Neubaugasse 10
+Neubaugasse 11
+Neubaugasse 12
+Neubaugasse 13
+Neubaugasse 14
+Neubaugasse 15
+Neubaugasse 16
+Neubaugasse 17
+Neubaugasse 18
+Neubaugasse 19
+Neubaugasse 20
+Neubaugasse 21
+Neubaugasse 22
+Neubaugasse 23a
+Neubaugasse 23
+Neubaugasse 24
+Neubaugasse 25
+Neubaugasse 26a
+Neubaugasse 26
+Neubaugasse 27
+Neubaugasse 28
+Neubaugasse 29
+Neubaugasse 30
+Neubaugasse 31
+Neubaugasse 32
+Neubaugasse 33
+Neubaugasse 34
+Neubaugasse 35
+Neubaugasse 36
+Neubaugasse 37
+Neubaugasse 39
+Neubaugasse 41
+Neubaugasse 43
+Neubaugasse 45
+Neubaugasse 47
+Neubaugasse 49
+Neubaugasse 51
+Neubaugasse 53
+Neustiftgasse 1
+Neustiftgasse 2
+Neustiftgasse 3
+Neustiftgasse 4
+Neustiftgasse 5
+Neustiftgasse 6
+Neustiftgasse 7
+Neustiftgasse 9
+Neustiftgasse 10
+Neustiftgasse 11
+Neustiftgasse 12
+Neustiftgasse 13
+Neustiftgasse 14
+Neustiftgasse 15
+Neustiftgasse 16
+Neustiftgasse 17
+Neustiftgasse 18
+Neustiftgasse 19
+Neustiftgasse 20
+Neustiftgasse 21
+Neustiftgasse 22
+Neustiftgasse 23
+Neustiftgasse 24
+Neustiftgasse 25
+Neustiftgasse 26
+Neustiftgasse 27
+Neustiftgasse 28
+Neustiftgasse 29
+Neustiftgasse 30
+Neustiftgasse 31
+Neustiftgasse 32
+Neustiftgasse 33
+Neustiftgasse 34
+Neustiftgasse 35
+Neustiftgasse 36
+Neustiftgasse 37
+Neustiftgasse 38
+Neustiftgasse 39
+Neustiftgasse 41
+Nussau 1
+Nussau 2
+Nussau 3
+Nussau 4
+Nussau 5
+Nussau 6
+Nussau 7
+Nussau 8
+Nussau 9
+Nussau 10
+Nussau 11
+Nussau 12
+Nussau 13
+Nussau 14
+Nussau 15
+Nussau 16
+Nussau 17
+Nussau 18
+Nussau 19
+Nussau 20
+Nussau 21
+Nussau 23
+Nussau 24b
+Nussau 25
+Nussau 26
+Nussau 27
+Nussau 28
+Nussau 29
+Nussau 30
+Nussau 31
+Nussau 32
+Nussau 33
+Nussau 35
+Nussau 37
+Nussau 39
+Nussau 41
+Nussau 43
+Pfarrhofsteg 1
+Pfarrhofsteg 2
+Rosengasse 1
+Rosengasse 2
+Rosengasse 3
+Rosengasse 4
+Rosengasse 5
+Rosengasse 6
+Rosengasse 7
+Rosengasse 8
+Rosengasse 9
+Rosengasse 10
+Rosengasse 11
+Rosengasse 12
+Rosengasse 13
+Rosengasse 14
+Rosengasse 15
+Rosengasse 16
+Rosengasse 17
+Rosengasse 18
+Rosengasse 19
+Rosengasse 20
+Rosengasse 21
+Rosengasse 22
+Rosengasse 23
+Rosengasse 24
+Rosengasse 25
+Rosengasse 26
+Rosengasse 27
+Rosengasse 28
+Rosengasse 29
+Rosengasse 30
+Rosengasse 31
+Rosengasse 32
+Rosengasse 33
+Rosengasse 34
+Rosengasse 35
+Rosengasse 36
+Rosengasse 37
+Rosengasse 38
+Rosengasse 39
+Rosengasse 40
+Rosengasse 41
+Rosengasse 42
+Rosengasse 43
+Rosengasse 44
+Rosengasse 45
+Rosengasse 46
+Rosengasse 47
+Rosengasse 48
+Rosengasse 49
+Rosengasse 51
+Rosengasse 53
+Rosengasse 55
+Am Hohlweg 1
+Am Hohlweg 2a
+Am Hohlweg 2b
+Am Hohlweg 2
+Am Hohlweg 3c
+Am Hohlweg 3
+Am Hohlweg 5
+Am Hohlweg 7
+Am Hohlweg 9
+Am Hohlweg 11
+Am Hohlweg 13
+Am Hohlweg 15a
+Am Hohlweg 15b
+Am Hohlweg 17
+Am Hohlweg 19
+Am Anger 1
+Am Anger 2
+Am Anger 3
+Am Anger 4
+Am Anger 5
+Am Anger 8
+Badgasse 1
+Badgasse 2
+Badgasse 3
+Berggasse 1
+Berggasse 2
+Berggasse 3
+Berggasse 5
+Feldgasse 1
+Feldgasse 4
+Feldgasse 7
+Feldgasse 9
+Feldgasse 13
+Feldgasse 15
+Feldgasse 17
+Hauptplatz 1
+Hauptplatz 2
+Hauptplatz 3
+Hauptplatz 4
+Hauptplatz 5
+Kirchengasse 2
+Kirchengasse 4
+Kirchengasse 5
+Kirchengasse 6
+Kirchengasse 8
+Kirchengasse 10
+Kirchengasse 12
+Kirchengasse 14
+Kirchengasse 15a
+Kirchengasse 15
+Kirchengasse 17a
+Kirchengasse 17b
+Kirchengasse 17
+Kirchengasse 19
+Kellergasse 1
+Kellergasse 2
+Kellergasse 3
+Kellergasse 4
+Kellergasse 5
+Kellergasse 6
+Kellergasse 7
+Kellergasse 8
+Kellergasse 9
+Kellergasse 10
+Kellergasse 12
+Ringgasse 1
+Ringgasse 2
+Ringgasse 3
+Ringgasse 4
+Ringgasse 5
+Ringgasse 7
+Ringgasse 8
+Ringgasse 9
+Ringgasse 11
+Ringgasse 13
+Ringgasse 15
+Ringgasse 17
+Ringgasse 19
+Ringgasse 21
+Siedlungsgasse 1
+Siedlungsgasse 2
+Siedlungsgasse 3
+Siedlungsgasse 4
+Siedlungsgasse 5
+Siedlungsgasse 6
+Siedlungsgasse 7
+Siedlungsgasse 8
+Siedlungsgasse 9
+Siedlungsgasse 10
+Siedlungsgasse 11
+Siedlungsgasse 12
+Siedlungsgasse 13
+Siedlungsgasse 14
+Siedlungsgasse 17
+Siedlungsgasse 18
+Siedlungsgasse 19
+Siedlungsgasse 21
+Siedlungsgasse 23
+Siedlungsgasse 25
+Siedlungsgasse 27
+Weinberggasse 1
+Weinberggasse 2
+Weinberggasse 4
+Weinberggasse 6
+Weinberggasse 7
+Weinberggasse 28
+Weinberggasse 30
+Weinberggasse 38
+Weinberggasse 40
+Wiener Weg 1
+Wiener Weg 2
+Wiener Weg 3
+Wiener Weg 4
+Wiener Weg 5
+Wiener Weg 6
+Wiener Weg 8
+Wiener Weg 9
+Wiener Weg 10
+Wiener Weg 12
+Wiener Weg 17
+Wiener Weg 19
+Wiener Weg 21
+Am Sportplatz 1
+Am Sportplatz 2
+Am Sportplatz 3
+Am Sportplatz 5
+Am Sportplatz 7
+Am Sportplatz 9
+Am Sportplatz 11
+Bahnhofplatz 1a
+Bahnhofplatz 1
+Bahnhofplatz 2a
+Bahnhofplatz 2
+Bahnhofplatz 3
+Bahnhofplatz 4
+Bahnhofplatz 5
+Bahnhofplatz 6
+Bahnhofplatz 7
+Feldgasse 1
+Feldgasse 2a
+Feldgasse 2
+Feldgasse 3a
+Feldgasse 3
+Feldgasse 4
+Feldgasse 5a
+Feldgasse 5
+Feldgasse 6
+Feldgasse 7
+Feldgasse 8
+Feldgasse 9
+Feldgasse 10
+Feldgasse 11
+Feldgasse 12
+Feldgasse 13
+Feldgasse 14
+Florianiplatz 1
+Florianiplatz 2a
+Florianiplatz 2
+Florianiplatz 3
+Fronauweg 3
+Fronauweg 6
+Fronauweg 8
+Fronauweg 9
+Gasslwiese 4
+Gasslwiese 7
+Gasslwiese 9
+Hagenweg 2
+Hagenweg 8
+Halterweg 1
+Halterweg 2
+Halterweg 6
+Halterweg 7
+Halterweg 9
+Herbersteingasse 1a
+Herbersteingasse 1
+Herbersteingasse 3
+Herbersteingasse 5
+Hintern Hof 2
+Hintern Hof 4
+Hintern Hof 5
+Hintern Hof 6
+Hintern Hof 7
+Hintern Hof 8
+Hintern Hof 9
+Hintern Hof 12
+Hintern Hof 14
+Hintern Hof 15
+Hintern Hof 16
+Hintern Hof 17
+Hintern Hof 18
+Hintern Hof 20
+Hintern Hof 22
+Hintern Hof 24
+Hintern Hof 25
+Hintern Hof 26
+Hintern Hof 27
+Hintern Hof 29
+Hintern Hof 31
+Hintern Hof 33
+Hintern Hof 34
+Hintern Hof 35
+Hoftenngasse 4
+Hoftenngasse 8
+Hoftenngasse 9
+Hoftenngasse 10
+Hoftenngasse 13
+Hoftenngasse 14
+Hoftenngasse 15
+Hoftenngasse 17
+Hoftenngasse 18
+Hoftenngasse 19
+Hoftenngasse 20
+Hoftenngasse 21
+Hoftenngasse 22
+Hoftenngasse 26
+Hoftenngasse 27
+Hoftenngasse 28
+Hoftenngasse 29
+Hoftenngasse 30
+Hoftenngasse 31
+Hoftenngasse 36
+Hoftenngasse 40
+Hohlgasse 2a
+Hohlgasse 2b
+Hohlgasse 2
+Hohlgasse 6a
+Hohlgasse 6
+Kellergasse 1
+Kellergasse 2a
+Kellergasse 2
+Kellergasse 3
+Kellergasse 4
+Kellergasse 5a
+Kellergasse 6
+Kellergasse 7
+Kellergasse 8a
+Kellergasse 8
+Kellergasse 9
+Kellergasse 10a
+Kellergasse 10
+Kellergasse 12
+Kellergasse 16
+Kirchengasse 1a
+Kirchengasse 1
+Kirchengasse 2a
+Kirchengasse 2
+Kirchengasse 3a
+Kirchengasse 3
+Kirchengasse 4
+Kirchengasse 5
+Kirchengasse 6
+Kirchengasse 7
+Kirchengasse 8
+Kirchengasse 9
+Kirchengasse 10
+Kirchengasse 11a
+Kirchengasse 11
+Kirchengasse 12a
+Kirchengasse 12
+Kirchengasse 13a
+Kirchengasse 13
+Kirchengasse 15a
+Kirchengasse 15
+Kirchengasse 16
+Kirchengasse 17
+Kirchengasse 18
+Kirchengasse 19
+Kirchenplatz 1a
+Kirchenplatz 1
+Kirchenplatz 2
+Kirchenplatz 3
+Kirchenplatz 4
+Kirchenplatz 5
+Kirchenplatz 6
+Kirchenplatz 7
+Kirchenplatz 8
+Kirchenplatz 9
+Kirchenplatz 10
+Kirchenplatz 11
+Kislingring 3
+Kislingring 6
+Kislingring 7
+Kislingring 8
+Kislingring 9
+Kislingring 10
+Kislingring 12
+Kislingring 13
+Kislingring 14
+Kislingring 16
+Koglgasse 1
+Koglgasse 2a
+Koglgasse 3a
+Koglgasse 3
+Koglgasse 4
+Koglgasse 5
+Koglgasse 6
+Koglgasse 7
+Koglgasse 8
+Koglgasse 9
+Koglgasse 10
+Koglgasse 20
+Maierhof 1
+Maierhof 2
+Maierhof 3
+Maierhof 4
+Maierhof 5
+Maierhof 6
+Maierhof 7
+Maierhof 8
+Maierhof 9
+Maierhof 10
+Maierhof 11
+Maierhof 12
+Am Neubau 2
+Am Neubau 3
+Am Neubau 4
+Am Neubau 5
+Am Neubau 6
+Pinskerweg 1
+Pinskerweg 2
+Pinskerweg 3
+Plattenweg 1
+Plattenweg 8
+Plattenweg 10
+Plattenweg 12
+Plattenweg 15
+Plattenweg 16
+Plattenweg 17
+Plattenweg 21
+Plattenweg 23
+Plattenweg 25
+Plattenweg 29
+Ratschenplatz 1
+Ratschenplatz 2
+Ratschenplatz 3
+Ratschenplatz 4
+Ratschenplatz 6
+Ratschenplatz 8
+Ratschenplatz 10
+Ratschenplatz 11
+Ringgasse 1
+Ringgasse 2
+Ringgasse 3
+Ringgasse 4
+Ringgasse 5
+Ringgasse 6
+Ringgasse 7
+Ringgasse 8
+Ringgasse 9
+Ringgasse 10
+Ringgasse 11
+Ringgasse 12
+Ringgasse 13a
+Ringgasse 13
+Ringgasse 14a
+Ringgasse 14
+Ringgasse 15
+Ringgasse 16
+Ringgasse 17
+Ringgasse 18
+Ringgasse 19
+Ringgasse 20
+Ringgasse 21
+Ringgasse 22
+Ringgasse 23a
+Ringgasse 23
+Ringgasse 24a
+Ringgasse 24
+Ringgasse 25
+Ringgasse 26
+Ringgasse 27a
+Ringgasse 27
+Ringgasse 28
+Ringgasse 29
+Ringgasse 30
+Ringgasse 31a
+Ringgasse 31
+Ringgasse 32
+Salzgarten 1
+Salzgarten 5
+Salzgarten 7
+Salzgarten 8
+Salzgarten 9
+Salzgarten 11
+Salzgarten 13
+Salzgarten 14
+Salzgarten 15
+Salzgarten 17
+Salzgarten 18
+Salzgarten 19
+Salzgarten 20
+Salzgarten 21
+Salzgarten 22a
+Salzgarten 22
+Salzgarten 23
+Salzgarten 24
+Salzgarten 29
+Salzgarten 30
+Salzgarten 31
+Schubertplatz 1
+Schubertplatz 2
+Schubertplatz 3
+Schubertplatz 4
+Schubertplatz 5
+Schwemmgasse 1
+Schwemmgasse 2
+Schwemmgasse 3
+Schwemmgasse 5
+Schwemmgasse 7
+Schwemmgasse 9
+Sonnwendweg 6
+Sonnwendweg 10
+Sonnwendweg 12
+Sonnwendweg 16
+Sonnwendweg 18
+Sonnwendweg 24
+Steilhang 2
+Steilhang 4
+Unterer Maierhof 7
+Unterer Maierhof 8
+Unterer Maierhof 9
+Unterer Maierhof 13
+Unterer Maierhof 14
+Unterer Maierhof 15
+Unterer Maierhof 16
+Unterer Maierhof 18
+Unterer Maierhof 20
+Wiener Weg 1
+Wiener Weg 2
+Wiener Weg 3
+Wiener Weg 4
+Wiener Weg 5
+Wiener Weg 6
+Wiener Weg 7
+Ziegeleigasse 1a
+Ziegeleigasse 1
+Ziegeleigasse 2a
+Ziegeleigasse 3
+Ziegeleigasse 5
+Ziegeleigasse 7
+Ziegeleigasse 10
+Kirchengasse 2
+Kirchengasse 3
+Kirchengasse 4
+Kirchengasse 5
+Kirchengasse 6
+Kirchengasse 8
+Kirchengasse 9
+Kirchengasse 11
+Kirchengasse 12
+Kirchengasse 13
+Kellergasse 1
+Kellergasse 2
+Kellergasse 3
+Kellergasse 4
+Kellergasse 5
+Kellergasse 7
+Am Neubau 1a
+Am Neubau 2a
+Am Neubau 7
+Am Neubau 8
+Am Neubau 9
+Am Neubau 10
+Tullnergarten 1a
+Tullnergarten 1
+Tullnergarten 3
+Tullnergarten 5
+Tullnergarten 6
+Tullnergarten 8
+Tullnergarten 10
+Tullnergarten 11
+Tullnergarten 12
+Weichselgasse 1
+Weichselgasse 4
+Weichselgasse 6
+Weichselgasse 7
+Weichselgasse 9
+Weichselgasse 10
+Weichselgasse 11
+Weichselgasse 13
+Weichselgasse 14
+Weichselgasse 15
+Weichselgasse 16
+Weichselgasse 18
+Weichselgasse 30
+Weichselgasse 32
+Weichselgasse 34
+Weichselgasse 36
+Weichselgasse 38
+Weichselgasse 39
+Weichselgasse 40
+Weichselgasse 41
+Weichselgasse 42
+Weichselgasse 43
+Weichselgasse 44
+Am Koglberg 2
+Am Koglberg 4
+Am Koglberg 5
+Am Koglberg 7
+Am Koglberg 8
+Am Koglberg 10
+Am Koglberg 13
+Am Koglberg 15
+Am Koglberg 16
+Am Koglberg 18
+Am Koglberg 19
+Am Koglberg 24
+Erdstallweg 2
+Erdstallweg 5
+Erdstallweg 6
+Dechant Weis-Gasse 5
+Dechant Weis-Gasse 7
+Dechant Weis-Gasse 9
+Baumgasse 3
+Baumgasse 5
+Baumgasse 6
+Baumgasse 9
+Baumgasse 11
+Baumgasse 13
+Fasangasse 3
+Fasangarten 4
+Fasangarten 6
+Fasangarten 13
+Kreuzwiesengasse 5
+Kreuzwiesengasse 9
+Kreuzwiesengasse 11
+Kreuzwiesengasse 12
+Kreuzwiesengasse 13
+Kreuzwiesengasse 14
+Kreuzwiesengasse 16
+Kreuzwiesengasse 17
+Kreuzwiesengasse 23
+Im Zeiselberg 1
+Im Zeiselberg 2
+Johannesgasse 1
+Johannesgasse 2
+Johannesgasse 3
+Johannesgasse 4
+Johannesgasse 5
+Johannesgasse 6
+Johannesgasse 7
+Johannesgasse 8
+Johannesgasse 9
+Johannesgasse 10
+Johannesgasse 11a
+Johannesgasse 11b
+Johannesgasse 11
+Johannesgasse 12
+Kellerweg 1
+Kirchenplatz 1
+Kirchenplatz 2
+Kirchenplatz 3
+Kirchenplatz 4
+Kirchenplatz 5
+Kirchenplatz 6
+Kirchenplatz 7
+Kirchenplatz 8
+Kirchenplatz 9
+Kirchenplatz 10
+Kirchsee 1
+Kapellenfeld 1
+Kapellenfeld 3
+Kapellenfeld 4
+Kapellenfeld 6
+Kapellenfeld 7
+Kapellenfeld 8
+Kapellenfeld 9
+Kapellenfeld 12
+Kapellenfeld 13
+Kapellenfeld 14
+Kapellenfeld 15
+Kapellenfeld 16
+Kapellenfeld 17
+Kapellenfeld 18
+Kapellenfeld 19
+Kapellenfeld 21
+Kapellenfeld 26
+Hollergasse 4
+Hollergasse 6
+Hollergasse 8
+Neubauweg 4
+Neubauweg 7
+Dr. Zbiralgasse 3
+Dr. Zbiralgasse 9
+Dr. Zbiralgasse 10
+Dr. Zbiralgasse 11
+Prof. Weinand-Weg 2
+August-Hof-Gasse 1
+August-Hof-Gasse 2
+August-Hof-Gasse 5
+Kirchenplatz 1
+Kirchenplatz 2
+Kirchenplatz 3
+Kirchenplatz 4
+Kirchenplatz 5
+Kirchenplatz 6
+Kirchenplatz 7
+Kirchenplatz 8
+Kirchenplatz 9
+Kirchenplatz 10
+Kirchenplatz 11
+Feldgasse 1
+Feldgasse 3
+Feldgasse 5
+Feldgasse 7
+Feldgasse 13
+Feldgasse 14
+Feldgasse 19
+Feldgasse 23
+Feldgasse 32
+Feldgasse 33
+Florianigasse 2
+Florianigasse 4
+Florianigasse 6
+Florianigasse 7
+Florianigasse 8
+Florianigasse 12
+Florianigasse 14
+Florianigasse 15
+Florianigasse 16
+Florianigasse 18
+Florianigasse 19
+Florianigasse 20
+Florianigasse 22
+Florianigasse 28
+Hippolyth-Gasse 1
+Hippolyth-Gasse 3
+Hippolyth-Gasse 7
+Hippolyth-Gasse 8
+Hippolyth-Gasse 13
+Im Kreuzfeld 2
+Am Donaugraben 2
+Am Donaugraben 3
+Am Donaugraben 4
+Am Donaugraben 5
+Am Donaugraben 15
+Millenniumsgasse 1
+Millenniumsgasse 4
+Furthgasse 1
+Furthgasse 2
+Furthgasse 3
+Furthgasse 4
+Furthgasse 5
+Furthgasse 6
+Furthgasse 7
+Kirschenweg 7
+Finkenweg 6
+Finkenweg 11
+Finkenweg 12
+Am Platzgraben 4
+Am Platzgraben 14
+Urbanigasse 1
+Urbanigasse 3
+Urbanigasse 6
+Urbanigasse 7
+Urbanigasse 9
+Urbanigasse 10
+Madergasse 3
+Johannesweg 1
+Bachweg 2
+Bachweg 3
+Flurgasse 2
+Flurgasse 9
+Flurgasse 10
+Flurgasse 11
+Flurgasse 14a
+Flurgasse 15a
+Flurgasse 15
+Flurgasse 16
+Flurgasse 17
+Flurgasse 32
+Flurgasse 34
+Flurgasse 36
+Flurgasse 40
+Flurgasse 42
+Hofsteig 1
+Hofsteig 2
+Hofsteig 3
+Hofsteig 4
+Hofsteig 5
+Hofsteig 6
+Hofsteig 10
+Kellergasse 1
+Kellergasse 3
+Kellergasse 5
+Kellergasse 7
+Kellergasse 9
+Kellergasse 11
+Kellergasse 13
+Kellergasse 14
+Kellergasse 15
+Kirchfeldgasse 1
+Kirchfeldgasse 13
+Kirchfeldgasse 15
+Kirchfeldgasse 16
+Kirchfeldgasse 20
+Kornfeldgasse 1
+Kornfeldgasse 2
+Kornfeldgasse 3
+Kornfeldgasse 4
+Kornfeldgasse 5
+Kornfeldgasse 6
+Kornfeldgasse 7
+Kornfeldgasse 8
+Kornfeldgasse 9
+Kornfeldgasse 10
+Kornfeldgasse 11
+Kornfeldgasse 13
+Kornfeldgasse 15
+Kornfeldgasse 17
+Kornfeldgasse 18
+Kornfeldgasse 19
+Kornfeldgasse 20
+Kornfeldgasse 22
+Kornfeldgasse 24
+Kornfeldgasse 25
+Kornfeldgasse 26
+Kornfeldgasse 27
+Kornfeldgasse 29
+Kornfeldgasse 30
+Kornfeldgasse 33
+Kornfeldgasse 34
+Kornfeldgasse 42
+Kornfeldgasse 43
+Kornfeldgasse 46
+Kornfeldgasse 48
+Kornfeldgasse 54
+Leithengasse 2
+Leithengasse 3
+Leithengasse 4
+Leithengasse 6
+Leithengasse 7
+Leithengasse 8
+Leithengasse 9
+Leithengasse 10
+Leithengasse 11
+Leithengasse 12
+Leithengasse 14
+Leithengasse 18
+Triftgasse 2
+Triftgasse 4
+Triftgasse 7
+Triftgasse 11
+Triftgasse 13
+Triftgasse 14
+Triftgasse 15
+Triftgasse 16
+Triftgasse 18
+Triftgasse 20
+Triftgasse 22
+Triftgasse 24
+Triftgasse 28
+Triftgasse 29
+Triftgasse 30
+Triftgasse 31
+Triftgasse 33
+Triftgasse 34
+Triftgasse 36
+Triftgasse 40
+Weyergasse 2
+Weyergasse 3
+Weyergasse 4
+Weyergasse 5
+Weyergasse 7
+Zur Linde 2
+Zur Linde 4
+Zur Linde 6
+Zur Linde 8
+Zur Linde 12
+In Pappeln 2
+Schulweg 3
+Schulweg 5
+Gewerbepark I 2
+Gewerbepark I 3
+Gewerbering 3
+Gewerbering 5
+Gewerbering 6
+Gewerbering 7
+Gewerbering 10
+Gewerbepark II 1
+Gewerbepark II 4
+Gewerbepark II 5
+Gewerbepark II 6
+Geha-Platz 1
+Geha-Platz 5
+Weidengasse 2
+Weidengasse 3
+Weidengasse 6
+Weidengasse 8
+Weidengasse 9
+Weidengasse 10
+Weidengasse 12
+Weidengasse 13
+Weidengasse 14
+Weidengasse 16
+Weidengasse 17
+Weidengasse 18
+Weidengasse 22
+Am Hohlweg 3
+Berggasse 3
+Berggasse 7
+Berggasse 9
+Berggasse 13
+Berggasse 16
+Berggasse 20
+Berggasse 23
+Berggasse 24
+Berggasse 25
+Feldgasse 1
+Feldgasse 2
+Feldgasse 3
+Feldgasse 4
+Feldgasse 5
+Feldgasse 7
+Feldgasse 8
+Feldgasse 9
+Feldgasse 10
+Heidweg 1
+Heidweg 2
+Heidweg 3
+Heidweg 4
+Heidweg 5
+Hubertussiedlung 1
+Hubertussiedlung 2
+Hubertussiedlung 3
+Hubertussiedlung 4
+Hubertussiedlung 5
+Hubertussiedlung 6
+Hubertussiedlung 7
+Hubertussiedlung 8
+Hubertussiedlung 9
+Hubertussiedlung 10
+Hubertussiedlung 11
+Hubertussiedlung 12
+Hubertussiedlung 13
+Hubertussiedlung 15
+Hubertussiedlung 16
+Hubertussiedlung 17
+Hubertussiedlung 18
+Hubertussiedlung 19
+Hubertussiedlung 21
+Hubertussiedlung 22
+Hubertussiedlung 23
+Hubertussiedlung 24
+Hubertussiedlung 25
+Hubertussiedlung 26
+Hubertussiedlung 27
+Hubertussiedlung 28
+Krauttalgasse 1
+Krauttalgasse 2
+Krauttalgasse 5
+Krauttalgasse 6
+Krauttalgasse 7
+Krauttalgasse 8
+Sulzweg 1
+Sulzweg 2
+Sulzweg 9
+Sulzweg 11
+Sulzweg 12
+Sulzweg 13
+Sulzweg 14
+Sulzweg 26
+Sulzweg 29
+Sulzweg 30
+Waldweg 1
+Waldweg 2
+Waldweg 3
+Weichselbergweg 1
+Weichselbergweg 2
+Weichselbergweg 3a
+Weichselbergweg 3
+Hutbergsiedlung 1
+Hutbergsiedlung 2a
+Hutbergsiedlung 2
+Hutbergsiedlung 3
+Hutbergsiedlung 4
+Hutbergsiedlung 5
+Hutbergsiedlung 6
+Hutbergsiedlung 7
+Hutbergsiedlung 8
+Hutbergsiedlung 9
+Hutbergsiedlung 11
+Hutbergsiedlung 13
+Hutbergsiedlung 14
+Hutbergsiedlung 15
+Hutbergsiedlung 16
+Hutbergsiedlung 17
+Kellergasse 1
+Kellergasse 2
+Kellergasse 3
+Kellergasse 5
+Kellergasse 6
+Kellergasse 7
+Kellergasse 8
+Kellergasse 9
+Kellergasse 10
+Kellergasse 12
+Kellergasse 13
+Kellergasse 28
+Kellergasse 30
+Weinberggasse 1
+Weinberggasse 5
+Weinberggasse 9
+Weinberggasse 10a
+Weinberggasse 10
+Weinberggasse 11
+Weinberggasse 12
+Weinberggasse 13
+Weinberggasse 14
+Weinberggasse 17
+Weinberggasse 18
+Weinberggasse 20
+Weinberggasse 28
+Augraben 1
+Augraben 3
+Am Hausberg 1
+Am Hausberg 2
+Am Hausberg 4
+Am Hausberg 6
+Am Hausberg 7
+Am Hausberg 8
+Am Hausberg 9
+Am Hausberg 14
+Bachgasse 4
+Bachgasse 8
+Bachgasse 10
+Bachgasse 12
+Bachgasse 16
+Bachgasse 18
+Bachgasse 20
+Kapellenweg 1
+Kapellenweg 3
+Kapellenweg 4
+Kapellenweg 5
+Kapellenweg 6
+Kapellenweg 7
+Weinsteig 1
+Weinsteig 2
+Weinsteig 3
+Weinsteig 4
+Weinsteig 5
+Weinsteig 6
+Weinsteig 7
+Weinsteig 8
+Weinsteig 9
+Weinsteig 10
+Weinsteig 11
+Weinsteig 12
+Weinsteig 13
+Weinsteig 14
+Weinsteig 15
+Weinsteig 16
+Weinsteig 17
+Weinsteig 18
+Weinsteig 19
+Weinsteig 20
+Weinsteig 21
+Weinsteig 22
+Weinsteig 23
+Weinsteig 24
+Weinsteig 25
+Weinsteig 26
+Weinsteig 27
+Weinsteig 28
+Weinsteig 29
+Weinsteig 30
+Weinsteig 32
+Weinsteig 33
+Weinsteig 34
+Weinsteig 35
+Weinsteig 36
+Weinsteig 37
+Weinsteig 38
+Weinsteig 39
+Weinsteig 40a
+Weinsteig 40
+Weinsteig 41
+Weinsteig 42
+Weinsteig 43
+Weinsteig 44
+Weinsteig 45
+Weinsteig 46
+Weinsteig 47
+Weinsteig 48
+Weinsteig 49
+Weinsteig 50
+Weinsteig 51
+Weinsteig 52
+Weinsteig 53
+Weinsteig 54
+Weinsteig 55a
+Weinsteig 55
+Weinsteig 56
+Weinsteig 57
+Weinsteig 58A
+Weinsteig 58
+Weinsteig 59
+Weinsteig 60
+Weinsteig 61
+Weinsteig 62
+Weinsteig 63
+Weinsteig 64
+Weinsteig 65
+Weinsteig 66
+Weinsteig 67
+Weinsteig 68
+Weinsteig 70
+Weinsteig 71
+Weinsteig 72
+Weinsteig 73
+Weinsteig 74
+Weinsteig 75
+Weinsteig 76
+Weinsteig 77
+Weinsteig 78
+Weinsteig 79
+Weinsteig 81
+Weinsteig 82
+Weinsteig 83
+Weinsteig 86
+Weinsteig 87
+Weinsteig 88
+Weinsteig 89
+Weinsteig 90
+Weinsteig 91
+Weinsteig 95
+Weinsteig 96
+Weinsteig 98
+Weinsteig 99
+Weinsteig 100
+Weinsteig 101
+Weinsteig 110
+Am Sulzweg 1
+Am Sulzweg 2
+Am Sulzweg 3
+Kapellensiedlung 1
+Kapellensiedlung 3
+Dr. Matthias Rochgasse 3
+Dr. Matthias Rochgasse 5
+Dr. Matthias Rochgasse 7
+Dr. Matthias Rochgasse 9
+Dr. Matthias Rochgasse 10
+Am Graben 8
+Am Graben 25
+Am Graben 27
+Am Graben 31
+Wiesenweg 2
+Wiesenweg 4
+Wiesenweg 10
+Wiesenweg 11
+Wiesenweg 12
+Wiesenweg 13
+Wiesenweg 14
+Wiesenweg 15
+Wiesenweg 16
+Wiesenweg 17
+Wiesenweg 19
+Teichweg 8
+Teichweg 10
+Teichweg 12
+Sonnenweg 4
+Gerberweg 4
+Gerberweg 5
+Gerberweg 9
+Kapellenweg 3
+Kapellenweg 7
+Kapellenweg 13
+Kapellenweg 30
+Kapellenweg 33
+Kapellenweg 35
+Am Kellerberg 14
+Am Kellerberg 16
+Sonnenweg 4
+Sonnenweg 6
+Rebenweg 7
+Rebenweg 12
+Marterlweg 1
+Marterlweg 3
+Marterlweg 4
+Marterlweg 5
+Marterlweg 14
+Bachzeile 3
+Bachzeile 5
+Bachzeile 7
+Bachzeile 9
+Bachzeile 10
+Bachzeile 11
+Bachzeile 13
+Bachzeile 15
+Bachzeile 17
+Bachzeile 19
+Bachzeile 21
+Bachzeile 23
+Bachzeile 25
+Bachzeile 27
+Bachzeile 29
+Bachzeile 31
+Englesweg 2
+Englesweg 4
+Englesweg 8
+Lindenplatz 3
+Lindenplatz 4
+Hintausweg 10
+Hintausweg 54
+Antoniusgasse 5
+Koloman-Kaiser-Weg 17
+Berggasse 1
+Berggasse 2
+Berggasse 5
+Berggasse 7
+Koloman Kaiser-Platz 1
+Koloman Kaiser-Platz 2
+Koloman Kaiser-Platz 3
+Koloman Kaiser-Platz 4
+Koloman Kaiser-Platz 5
+Koloman Kaiser-Platz 6
+Koloman Kaiser-Platz 7
+Mondl-Siedlung 1
+Mondl-Siedlung 2
+Mondl-Siedlung 3
+Mondl-Siedlung 4
+Mondl-Siedlung 5
+Mondl-Siedlung 6
+Mondl-Siedlung 7
+Mondl-Siedlung 8
+Mondl-Siedlung 9
+Mondl-Siedlung 10
+Mondl-Siedlung 11
+Mondl-Siedlung 12
+Schlossberggasse 1
+Schlossberggasse 3
+Schlossberggasse 4
+Schlossberggasse 5
+Schlossberggasse 7
+Schlossberggasse 8
+Schlossberggasse 9
+Schlossberggasse 10
+Schlossberggasse 11
+Schlossberggasse 12
+Schlossberggasse 13
+Schlossberggasse 14
+Schulgasse 1
+Schulgasse 2
+Schulgasse 3
+Schulgasse 4
+Schulgasse 5
+Schulgasse 6
+Schulgasse 8
+Schulgasse 10
+Schulgasse 11
+Schulgasse 13
+Parkgasse 1
+Parkgasse 2
+Parkgasse 3
+Parkgasse 4
+Parkgasse 5
+Kellergasse 1
+Kellergasse 2
+Kellergasse 3
+Kellergasse 4
+Kellergasse 5
+Handelskai 151
+Handelskai 428
+Stiegengasse 10
+Stiegengasse 12
+Heschweg 196
+Handelskai 54
+Braunspergengasse 38
+Braunspergengasse 38
+Pater-Schwartz-Gasse 9
+Pater-Schwartz-Gasse 11
+Premgasse 9
+Rechte Wienzeile 81
+August-Greiml-Weg 31
+Bambergergasse 76
+Nothartgasse 11
+Melchartgasse 41
+Achengasse 5
+Joseph-Lister-Gasse 46
+Robertsonweg 22
+Schukowitzgasse 99
+Demuthgasse 10
+Ernst-Bergmann-Gasse 19
+Ernst-Bergmann-Gasse 19
+Ernst-Bergmann-Gasse 19
+Ernst-Bergmann-Gasse 19
+Ernst-Bergmann-Gasse 19
+Ernst-Bergmann-Gasse 19
+Ernst-Bergmann-Gasse 19
+Ernst-Bergmann-Gasse 19
+Zschokkegasse 11
+Zschokkegasse 11
+Biberhaufenweg 91
+Brigittagasse 22
+Braillegasse 5
+Brammergasse 21
+Bauernmarkt 3
+Bussardgasse 5
+Bussardgasse 8
+Bussardgasse 8
+Bussongasse 9
+Carabelligasse 80
+Carlbergergasse 16
+Dr.-Bohr-Gasse 7
+Schottengasse 11
+Ignazgasse 29
+Christian-von-Arup-Gasse 22
+Clementinengasse 9
+Dr.-Schreber-Gasse 30
+Graumanngasse 36
+Stiegergasse 11
+Reiherweg 39
+Reiherweg 54
+Reiherweg 56
+Zamaragasse 21
+Redengasse 8
+Rautenweg 176
+Rautenweg 186
+Lafitegasse 26A
+Kolowratgasse 17
+Kaserngasse 10
+Schillingergasse 42795
+Haffnergasse 46
+Raphael-Donner-Allee 69
+Kravoglgasse 45
+Rehlackenweg 13
+Lobkowitzplatz 2
+Steinergasse 13
+Zwicklgasse 2
+Franzosengraben 5
+Robertsonweg 20
+Rennbahnweg 80
+August-Greiml-Weg 38
+Trappelgasse 10
+Alois-Behr-Straße  4
+Alfons-Petzold-Gasse 13
+Alfons-Petzold-Gasse 27-29
+Brigittaplatz 19
+Fallmerayerweg 30
+Farngasse 23
+Brosamergasse 9
+Dumreichergasse 143
+Eckertgasse 18A
+Bickellgasse 15
+August-Greiml-Weg 10
+Bienenweg 5
+Weintraubengasse 11
+Weintraubengasse 11
+Breite Gasse 9
+Breiteneckergasse 37A
+Makartgasse 3
+Malvengasse 1
+Papagenogasse 6
+Maulbeergasse 35
+Tschudigasse 6
+Zohmanngasse 37
+Liesneckgasse 12
+Steineichengasse 10
+Neilreichgasse 232
+Nejesgasse 10
+Tewelegasse 1
+Hallergasse 32
+Am Hundsturm 5
+Spindlerweg 11
+Augasse 15
+Johann-Teufel-Gasse 49
+Johann-Teufel-Gasse 79
+Johann-Teufel-Gasse 81
+Rosasgasse 8
+Auhirschenweg 2
+Auhirschenweg 31
+Linke Wasserzeile 20
+Rudolf-Waisenhorn-Gasse 70
+Abraham-a-Sancta-Clara-Straße 10
+Achardgasse 8
+Achardgasse 18
+Anisgasse 46
+Anisgasse 46
+Anisgasse 46
+Anreitergasse 7
+Maurer Lange Gasse 7
+Maurer Lange Gasse 8
+Maurer Lange Gasse 22
+Meggaugasse 3
+Meggaugasse 4
+Alszeile 53
+Wiener Gasse 2
+Anton-Freunschlag-Gasse 24
+Anton-Freunschlag-Gasse 49
+Atzlergasse 9
+Baumberggasse 6
+Baumergasse 4
+Baumergasse 29
+Antonigasse 26
+Binagasse 49
+Bindingweg 2
+Birneckergasse 51A
+Brunnengasse 40
+Brunnenstubengasse 41974
+Brunnenstubengasse 15
+Hovenweg 28
+Dahliengasse 38
+Dahliengasse 22
+Dahliengasse 22
+Dahliengasse 22
+Eibischweg 49
+Mariannengasse 16-20
+Pelikangasse 5
+Ungargasse 60
+Ungargasse 60
+Mitisgasse 11
+Rallenweg 28
+Postgasse 10
+Lehrbachgasse 18
+Lehrbachgasse 18
+Roggegasse 8
+Frankgasse 9
+Unter-Laa 32
+Schlimekgasse 8B
+Binagasse 8
+Binagasse 12
+Adam-Betz-Gasse 6
+Aegidigasse 8
+Anatourgasse 27
+Anatourgasse 51B
+Andergasse 47
+Csokorgasse 2
+Trollblumengasse 41
+Kaspargasse 9
+Zehetnergasse 11
+Dirmhirngasse 10
+Schottenring 12
+Hohe Warte 9
+Holetschekgasse 27
+Holetschekgasse 48
+Kardinal-Piffl-Gasse 31
+Ketzergasse 109
+Kuffnergasse 4
+Blumengasse 55
+Podhagskygasse 35
+Hubergasse 3
+Hubermanngasse 7
+Hofburg 9
+Mitterfeldgasse 10
+Marienweg 42858
+Mitterwurzergasse 60
+Mohnblumenweg 9
+Hochsatzengasse 17
+Mollardgasse 22
+Mollardgasse 22
+Lobenhauerngasse 24
+Clessgasse 3
+Lauchgasse 24
+Kerpengasse 82
+Dorfmeistergasse 45
+Josef-Baumann-Gasse 78
+Gregor-Ulbrich-Gasse 21
+Ferdinand-Wolf-Park 10B
+Schrammelgasse 101
+Laubengasse 22
+Laubengasse 23
+Laubengasse 21
+Alpengasse 10
+Prater 16
+Thymianweg 25
+Prater 18C
+Prater 19
+Prater 36
+Prater 55A
+Angoraweg 43
+Jakob-Puggl-Weg 12
+Abraham-a-Sancta-Clara-Straße 20
+Kaniakgasse 30
+Johannesgasse 24
+Kapellenweg 10
+Orchisgasse 53
+Konstanziagasse 62
+Konstanziagasse 61-65
+Hausgrundweg 15
+Kopalgasse 9
+Jaschkagasse 4
+Stachlgasse 1
+Touristenweg 40
+Kaposigasse 60
+Kardinal-Piffl-Gasse 4
+Bodmergasse 2
+Khekgasse 73
+Kugelfanggasse 51
+Kunkegasse 3
+Kupetzkygasse 10
+Hufgasse 20
+Milanweg 16
+Kirchberggasse 24
+Heringgasse 14
+Kupetzkygasse 45
+Lormweg 22
+Matthias-Ernst-Pista-Gasse 46
+Mautner-Markhof-Gasse 36
+Waldrandweg 30-32
+Waldrandweg 44
+Waldviertlerweg 29
+Prater 57
+Leichtweg 62
+Prater 69
+Prater 85
+Siolygasse 22A
+Fred-Raymond-Gasse 24
+Laverangasse 56
+Prater 131B
+Danilovatzgasse 26-30
+Florian-Berndl-Gasse 10
+Utendorfgasse 1A
+Johann-Teufel-Gasse 46
+Algenweg 8
+Wettsteingasse 43
+Podlahagasse 88A
+Fred-Raymond-Gasse 34
+Koschakergasse 8
+Kraelitzgasse 16
+Schmalzhofgasse 3
+Hirseweg 10
+Karl-Benz-Weg 81
+Krafft-Ebing-Gasse 16D
+Schartlgasse 4
+Schumanngasse 31
+Leitermayergasse 16
+Smaragdgasse 11
+Buchenweg 2
+Zinckgasse 25
+Junkgasse 31
+Jupiterweg 18
+Jupiterweg 29
+Jupiterweg 29
+Jupiterweg 42
+Dittelgasse 10
+Otto-Weininger-Gasse 1
+Viktoriagasse 19
+Viktor-Leon-Gasse 14
+Wettengelgasse 4
+Adalbert-Stifter-Straße 65-67
+Zyklamengasse 43
+Zyklamengasse 44
+Theobaldgasse 6
+Batkagasse 9
+Waldweg 15
+Waldweg 19
+Mollardgasse 91
+Wimpffengasse 15
+Triestinggasse 46
+Wartenslebengasse 4
+Wasnergasse 33
+Wastlgasse 15
+Wastlgasse 25
+Friedrich-Kaiser-Gasse 87
+Wattgasse 19
+Sankt-Johann-Gasse 10
+Sankt-Johann-Gasse 10
+Veitingergasse 147
+Rautenweg 180
+Am Bisamberg 23
+Anisgasse 2
+Anisgasse 11
+Andorngasse 19
+Anisgasse 24
+Anisgasse 58
+Peter-Altenberg-Gasse 28
+Akaziengasse 16
+Akaziengasse 22
+Franz-Asenbauer-Gasse 42
+Ameisbachzeile 54
+Underreingasse 11
+Underreingasse 25
+Schamborgasse 10
+Weichseltalweg 6
+Thimiggasse 31
+Thimiggasse 36
+Vivenotgasse 39
+Vivenotgasse 55
+Vogentalgasse 10
+Wettsteingasse 3
+Wichtelgasse 25
+Wickengasse 13
+Enge Lucken 10
+Tiefweg 17
+Leschetitzkygasse 63
+Wacholderweg 34
+Olmagasse 1
+Witthauergasse 7
+Wittmayergasse 6
+Hofherr-Schrantz-Gasse 4
+Holzgasse 2
+Obkirchergasse 29
+Engilgasse 14
+Demuthgasse 8
+Lhotskygasse 10A
+Schoeppelgasse 38
+Anton-Dengler-Gasse 20
+Am Freihof 15
+Brachtlgasse 8
+Brachtlgasse 21
+Braillegasse 12
+Biedermanngasse 26
+Cobenzlgasse 45
+Cobenzlgasse 76
+Cobenzlgasse 101
+Entensteig 5
+Enzianweg 59
+Braungasse 40
+Wolfsmilchgasse 30
+Wolsteingasse 1
+Stuweckengasse 1
+Uhlirzgasse 27
+Pionierweg 33
+Ulanenweg 32
+Palmaygasse 5
+Zaunscherbgasse 4
+Unterer Schreiberweg 55
+Dumreichergasse 44
+Johann-Teufel-Gasse 5
+Nikolsdorfer Gasse 42888
+Drdlagasse 10
+Krallgasse 6
+Niederauergasse 1
+Lindauergasse 28
+Palisagasse 1A
+Doerenkampgasse 3
+Gagerngasse 12
+Erdbrustgasse 72-74
+Laskywiesengasse 19
+Horeischygasse 18
+Scherfweg 5
+Riedelgasse 8
+Anton-Freunschlag-Gasse 27
+Obere Jungenberggasse 9
+Feldgasse 10
+Am Bruckhaufen 39
+Basler Gasse 12
+Vivenotgasse 52
+Blumentalgasse 24
+Algenweg 66
+Pawlikgasse 4
+Alois-Behr-Straße  14
+Braunschweiggasse 28
+Breite Gasse 5
+Comeniusgasse 1A
+Concordiaplatz 1
+Cottagegasse 94
+Don-Bosco-Gasse 35
+Charausgasse 1
+Cuviergasse 26
+Dontgasse 6
+Dontgasse 8
+Dontgasse 8
+Am Badfeld 24
+Paulinensteig 35
+Andergasse 66B
+Fuchsenlochweg 1
+Oskar-Jascha-Gasse 1
+Dahliengasse 1
+Schwarzwaldgasse 21
+Promenadeweg 7
+Ungargasse 43
+U-Bahn-Bogen 354
+Wastlgasse 1
+Wacholderweg 11
+Zetschegasse 9
+Zetschegasse 9
+Anton-Haidl-Gasse 20-24
+Spengergasse 39
+Am langen Felde 59
+Wolsteingasse 25
+Tamariskengasse 2
+Ampferergasse 21
+Eduardgasse 3
+Buchengasse 77
+Tiefendorfergasse 7
+Danzergasse 106
+Fugbachgasse 18
+Jara-Benes-Gasse 16
+Anton-Strutzenberger-Weg 5
+Csokorgasse 18
+Blumentalgasse 5
+Altmannsdorfer Anger 55
+Buchengasse 121
+Paul-Konrath-Gasse 2
+Erdenweg 31
+Erhardgasse 15
+Palmaygasse 6
+Pouthongasse 15
+Rohrweihenweg 2
+Romichgasse 20
+Rosannagasse 3A
+Rosannagasse 11
+Raimund-Zoder-Gasse 15
+Am Kanal 25
+Josef-Kainzmayer-Gasse 30
+Siolygasse 21
+Huflattichweg 2
+Nothartgasse 17
+Ennemosergasse 5
+Auerhahngasse 8
+Pillergasse 16
+Lodrongasse 2
+Theophil-Hansen-Gasse 24
+Tribulzgasse 42
+Brammergasse 31
+Pichelwangergasse 9
+Kapellenweg 3
+Antonigasse 58
+Zukunftsweg 62
+Anton-Krieger-Gasse 154
+Baumgasse 42
+Lorbeergasse 11
+Raimund-Zoder-Gasse 7
+Jakob-Stainer-Gasse 3
+Anton-Langer-Gasse 56
+Anzbachgasse 146
+Beckmanngasse 50
+Drdlagasse 11
+Linzackergasse 6
+Buchleitengasse 55
+Buchleitengasse 55
+Demuthgasse 16
+Dennweg 44
+Brabbeegasse 10
+Brachelligasse 14
+Kagraner Platz 54
+Matrosengasse 4
+Praterstern 3
+Praterstern 3
+Paltaufgasse 41974
+Premlechnergasse 13
+Pretschgasse 15
+Prixgasse 4
+Welingergasse 9
+Parttartgasse 20
+Promenadegasse 2
+Promenadeweg 20
+Dehnegasse 11
+Rosenzeile 13
+Passinigasse 36A
+Heimschollegasse 17
+Kleiner Ring 7
+Palmaygasse 13
+Steckhovengasse 4
+Josefsplatz 4
+Schauflergasse 5
+An der oberen Alten Donau 129
+Lugeck 4
+Bahndammweg 10A
+Kainachgasse 41
+An der oberen Alten Donau 186
+Andreasgasse 7
+Bambergergasse 36
+Bambergergasse 55
+Bambergergasse 137
+Johann-Teufel-Gasse 7
+Severin-Schreiber-Gasse 8
+Dreihausgasse 6
+Jupiterweg 63
+Marburggasse 16
+Kirschenallee 107
+Altomontegasse 12
+Bujattigasse 13
+Bujattigasse 22
+Haffnergasse 44
+Leopoldauer Platz 49
+Leopoldauer Platz 65
+Kiningergasse 24
+Stadlergasse 11
+Rauchgasse 46
+Zukunftsweg 70
+Sickingengasse 8
+Abelegasse 9
+Hasengasse 56
+Steinfeldgasse 3
+Freudenau 68
+Upsalagasse 7
+Dermotagasse 25
+Fernkorngasse 23
+Fernkorngasse 25
+Siccardsburggasse 32
+Schulzgasse 20
+Johann-Teufel-Gasse 13
+Johann-Teufel-Gasse 15
+Johann-Teufel-Gasse 25
+Johann-Teufel-Gasse 35
+Maargasse 22
+Maargasse 23
+Albrechtskreithgasse 15
+Alfred-Wegener-Gasse 7
+Algenweg 58
+Almgasse 15
+Krausegasse 9
+Krausegasse 11
+Hochweg 2
+Buchenweg 5
+Hochweg 10
+Huttengasse 21
+Hutweidengasse 12
+Hyrtlgasse 16
+Iglaseegasse 21
+Kapellenweg 30
+Kanitzgasse 50
+Klenaugasse 12
+Lacknergasse 19
+Lainergasse 1
+Hilschergasse 6
+Murbangasse 6
+In der goldenen Erden 3
+Leopold-Steiner-Gasse 10
+Meischlgasse 38
+Melchartgasse 6
+Warhanekgasse 10
+Muthgasse 64
+Muthgasse 68
+Anton-Dengler-Gasse 22
+Leschetitzkygasse 42
+Leschetitzkygasse 42
+Franz-Heider-Gasse 8
+Zeleborgasse 20
+Mickertsweg 114
+Schuppengasse 9
+Mariensteig 5
+Leichtweg 63B
+Marinelligasse 14
+Springergasse 5
+Zwerngasse 41579
+Rallenweg 47
+Zukunftsweg 66
+Telephonweg 294
+Glangasse 7
+Gerstlgasse 16
+Schimekgasse 1
+Fallmerayerweg 13-15
+Brammergasse 10
+Aschergasse 85
+Pater-Schwartz-Gasse 10
+Balsaminengasse 24
+Jeneweingasse 11
+Brantinggasse 3
+Joachim-Schettl-Gasse 21
+Karl-Schwed-Gasse 15-17
+Karlsgasse 13
+Kravoglgasse 35
+Kravoglgasse 54
+Hofzeile 3
+Hohenstaufengasse 3
+Jochbergengasse 6
+Wolfersberggasse 4A
+Kaunitzgasse 8
+Kaunitzgasse 10
+Rauhensteingasse 8
+Kagraner Platz 11
+Kliviengasse 14
+Klopstockgasse 43
+Klopstockgasse 54
+Klostermanngasse 14
+Neulinggasse 29
+Kreuzgasse 26
+Kasparekgasse 3
+Hauptweg 39
+Tiefauweg 19
+Eibesbrunnergasse 18
+Kardinal-Piffl-Gasse 1
+Warhanekgasse 17
+Napoleonwaldgasse 12
+Nauheimergasse 52
+Hainbachgasse 15
+Hainbachgasse 23
+Hainbachgasse 23
+Hainbachgasse 23
+Hainbachgasse 23
+Czartoryskigasse 193
+Udelweg 49
+Eichbachgasse 16
+Brechergasse 20
+Bambergergasse 44
+Bambergergasse 130
+Brammergasse 19
+Overbeckgasse 14
+Brammergasse 33
+Holetschekgasse 1
+Aschbachgasse 14
+Walkergasse 45
+Barthgasse 4
+Biberhaufenweg 178
+Am Schierlinggrund 12
+Schmardagasse 16
+Trenkwaldgasse 29
+Plachygasse 45
+Plachygasse 24
+Stiftgasse 42983
+Kronawettergasse 1
+Kronesgasse 3
+Kronesgasse 3
+Kenyongasse 2
+Unterer Schreiberweg 109
+Unterer Schreiberweg 108
+Weinrothergasse 21
+Cobdengasse 1
+Zehenthofgasse 42
+Zeifgasse 5
+Pretschgogasse 6
+Neutorgasse 16
+Lehrbachgasse 2
+Wiener Gasse 10
+Weidenweg 1
+Touristenweg 4
+Trauttmansdorffgasse 29
+Wigandgasse 29
+Wigandgasse 34
+Wilckensweg 18
+Wildgrubgasse 166-168
+Krokusweg 17
+Flandorferweg 11
+Treumanngasse 1
+Waldbachsteig 20
+Wildweg 5
+Wildweg 13
+Erbsenbachgasse 7
+Webgasse 26
+Wegerichgasse 29
+Sonnergasse 33
+Wolfenweg 9
+Wolfenweg 10
+Albern 98
+Oriongasse 27
+Kefedergrundgasse 10
+Kefedergrundgasse 10
+Kefedergrundgasse 20
+Lerchengasse 8
+Am Hubertusdamm 2
+Pasteurgasse 1
+Schlickplatz 10
+Malfattigasse 43
+Fockygasse 12
+Fockygasse 14
+Steinbauergasse 34
+Tichtelgasse 23
+Tichtelgasse 25
+Murlingengasse 55
+Aichhorngasse 6
+Fockygasse 11
+An den alten Schanzen 37
+Krokusweg 8
+Mackgasse 43046
+Seumegasse 5
+Eidechsengasse 10
+Eidechsengasse 21
+Trappweg 7
+Hockegasse 103
+Maurichgasse 35
+Segengrundgasse 16
+Segengrundgasse 6
+Burggasse 106
+Lange Gasse 76
+Florianigasse 14
+Lammgasse 12
+Skodagasse 17
+Skodagasse 8
+Neubaugasse 28
+Neubaugasse 28
+Mondscheingasse 19
+Neubaugasse 5
+Schottenfeldgasse 85
+Halbgasse 19
+Halbgasse 23
+Piaristengasse 24
+Neudeggergasse 23
+Kirchengasse 42
+Sigmundsgasse 3
+Burggasse 2
+Burggasse 18
+Rotenhofgasse 34
+Seidengasse 10
+Seidengasse 18
+Wimbergergasse 31
+Wimbergergasse 32
+Burggasse 122A
+Piaristengasse 40
+Lange Gasse 11
+Neustiftgasse 4
+Neustiftgasse 2
+Haschkagasse 1
+Tivoligasse 16
+Krastelgasse 9
+Krastelgasse 11
+Dorfmeistergasse 8
+Dorfmeistergasse 18
+Pohlgasse 28
+Ratschkygasse 24
+Singrienergasse 9
+Stranitzkygasse 10
+Helfertgasse 14
+Helfertgasse 19
+Helfertgasse 29
+Ratschkygasse 45
+Segengrundgasse 2
+Segengrundgasse 19
+Ing.-Sarek-Weg 6
+An der unteren Alten Donau 81
+Eidechsengasse 37
+Ostbahnweg 1
+Ostbahnweg 1
+Hannes-Lintl-Gasse 53
+Hannes-Lintl-Gasse 44
+Passauer Platz 1
+Salvatorgasse 9
+Schottenfeldgasse 91
+Bernardgasse 13
+Florianigasse 18
+Lange Gasse 58
+Buchfeldgasse 14
+Karmarschgasse 17
+Landgutgasse 57
+Wielandgasse 18
+Herndlgasse 2
+Humboldtgasse 16
+Fernkorngasse 1
+Hasengasse 58
+Hasengasse 60
+Schottenfeldgasse 25-27
+Schottenfeldgasse 29
+Burggasse 111
+Pernerstorfergasse 62
+Lazarettgasse 37
+Zimmermannplatz 8
+Mariannengasse 33
+Hebragasse 11
+Zimmermanngasse 2
+Hebragasse 2
+Kinderspitalgasse 11
+Raaber-Bahn-Gasse 17
+Landgutgasse 23
+Kinderspitalgasse 7
+Zimmermanngasse 1A
+Kinderspitalgasse 14
+Helfertgasse 54
+Helfertgasse 58
+Schurzgasse 4
+Schurzgasse 7
+Schurzgasse 10
+Schurzgasse 29
+Burggasse 117
+Wimbergergasse 18
+Kandlgasse 36
+Wimbergergasse 12
+Schauflergasse 4
+Herrengasse 15
+Metastasiogasse 4
+Minoritenplatz 3
+Minoritenplatz 8
+Kumpfgasse 3
+Kumpfgasse 5
+Herrengasse 42795
+Michaelerplatz 2
+Sonnenfelsgasse 8
+Essiggasse 4
+Landgutgasse 61
+Herndlgasse 5
+Pernerstorfergasse 12
+Pernerstorfergasse 17
+Tendlergasse 8
+Wilhelm-Exner-Gasse 2
+Nadlergasse 6
+Sonnwendgasse 18
+Landgutgasse 3
+Scheugasse 9
+Ordengasse 3
+Uhlandgasse 4
+Sonnwendgasse 32
+Sonnleithnergasse 25
+Waldgasse 30
+Wielandplatz 11
+Lazarettgasse 45
+Kinderspitalgasse 16
+Columbusgasse 20
+Keplerplatz 7
+Landgutgasse 27
+Keplergasse 13
+Hofherrgasse 21
+Uetzgasse 9
+Waldgasse 42
+Buchengasse 54
+Buchengasse 62
+Gellertplatz 7
+Waldgasse 32
+Piaristengasse 44
+Maria-Treu-Gasse 3
+Maria-Treu-Gasse 7
+Piaristengasse 50
+Florianigasse 23
+Maria-Treu-Gasse 4
+Piaristengasse 60
+Kellermanngasse 4
+Kellermanngasse 8
+Neustiftgasse 22
+Neustiftgasse 24
+Neustiftgasse 26
+Stollgasse 8
+Bandgasse 16
+Wimbergergasse 9
+Ruprechtsplatz 1
+Rockhgasse 2
+Hohenstaufengasse 2
+Wollzeile 16
+Wollzeile 20
+Katzensteig 2
+Gestettengasse 21A
+Gestettengasse 36
+Pernerstorfergasse 2
+Waldgasse 5
+Waldgasse 9
+Sindinggasse 1
+Sindinggasse 25
+Tegnergasse 67
+Tegnergasse 70
+Neilreichgasse 139A
+Sanzingasse 3
+Sanzingasse 4
+Sanzingasse 9
+Tegnergasse 83
+Tegnergasse 89
+Tegnergasse 94
+Leibnizgasse 49
+Eisenmengergasse 9
+Eisenmengergasse 11
+Kiurinagasse 1
+Tessingasse 52
+Tessingasse 56
+Herogasse 17
+Franz-Schreker-Gasse 22
+Laudongasse 25
+Lederergasse 16
+Neustiftgasse 17
+Burggasse 22
+Kirchengasse 48
+Neustiftgasse 27
+Bandgasse 21
+Hermanngasse 19
+Senefeldergasse 49
+Senefeldergasse 55
+Senefeldergasse 61-63
+Herndlgasse 24
+Herndlgasse 26
+Wielandgasse 23
+Brandmayergasse 16
+Arbeitergasse 39
+Castelligasse 2
+Storkgasse 6
+Kohlgasse 5
+Obere Amtshausgasse 4
+Christophgasse 2
+Arbeitergasse 47
+Mittersteig 10
+Fendigasse 15
+Kohlgasse 8
+Bernadottegasse 1
+Bernadottegasse 1
+Bernadottegasse 15
+Bernadottegasse 21
+Starkegasse 2
+Starkegasse 5
+Starkegasse 10
+Wienerfeldgasse 30
+Ellen-Key-Gasse 36
+Ellen-Key-Gasse 49
+Bernadottegasse 39
+Bernadottegasse 55
+Bernadottegasse 61
+Bernadottegasse 75
+Bernadottegasse 89
+Ellen-Key-Gasse 56
+Ellen-Key-Gasse 57
+Jenny-Lind-Gasse 8
+Brantinggasse 2
+Eisenmengergasse 31
+Brantinggasse 21
+Brantinggasse 51
+Brantinggasse 59
+Brantinggasse 63
+Herogasse 14
+Medeagasse 5
+Herogasse 10
+Sapphogasse 2
+Sapphogasse 4
+Sapphogasse 6
+Sapphogasse 9
+Sapphogasse 11
+Wielandgasse 25
+Davidgasse 1
+Leibnizgasse 41
+Buchengasse 6
+Columbusgasse 54
+Buchengasse 72
+Ettenreichgasse 5
+Ettenreichgasse 11
+Gellertgasse 67
+Antonsplatz 4
+Kiesewettergasse 1
+Buchengasse 78
+Leibnizgasse 18
+Buchengasse 73
+Reumannplatz 15
+Malborghetgasse 2
+Marxergasse 25
+Rasumofskygasse 8
+Schwalbengasse 14
+Schwalbengasse 15
+Gestettengasse 2A
+Kegelgasse 30
+Kegelgasse 32
+Stammgasse 7
+Stammgasse 9
+Stammgasse 11
+Blattgasse 8
+Seidlgasse 5
+Kolonitzgasse 5
+Hetzgasse 3
+Lundgasse 11
+Vivenotgasse 15
+Rechte Wienzeile 233
+Rechte Wienzeile 237
+Rosasgasse 25
+Bischoffgasse 24
+Premlechnergasse 5
+Premlechnergasse 11
+Premlechnergasse 15
+Pernerstorfergasse 40
+Ramsaygasse 31
+Klasterskygasse 14
+Koliskogasse 5
+Koliskogasse 7
+Koliskogasse 8
+Vogentalgasse 11
+Braheplatz 4
+Buchengasse 167
+Senefeldergasse 37
+Kiurinagasse 22
+Ernst-Ludwig-Gasse 5
+Ellen-Key-Gasse 8
+Ellen-Key-Gasse 27
+Jenny-Lind-Gasse 3
+Teichgasse 2
+Fritz-Pregl-Gasse 6
+August-Forel-Gasse 7
+Obere Viaduktgasse 38
+Blattgasse 2
+Hetzgasse 29
+Einsiedlerplatz 9
+Embelgasse 50
+Zentagasse 26
+Castelligasse 10
+Gartengasse 18
+Gartengasse 21A
+Gartengasse 22
+Gartengasse 26
+Hofgasse 2
+Stauraczgasse 3
+Storkgasse 9
+Siebenbrunnenfeldgasse 4
+Siebenbrunnenfeldgasse 6
+Wundtgasse 26
+Wundtgasse 32
+Wundtgasse 36
+Tivoligasse 72
+Bischoffgasse 3
+Bischoffgasse 13
+Endergasse 9
+Endergasse 19
+Lange Gasse 46
+Hamerlingplatz 9
+Braheplatz 8
+Braheplatz 11
+Koliskogasse 54
+Kronawettergasse 2
+Kronawettergasse 9
+Kronawettergasse 15
+Kronawettergasse 20
+Kronawettergasse 21
+Katharinengasse 5
+Kronawettergasse 61
+Kronawettergasse 69
+Theodor-Sickel-Gasse 2
+Kronawettergasse 75
+Kronawettergasse 77
+Tegnergasse 3
+Tegnergasse 9
+Tegnergasse 24
+Mautner-Markhof-Gasse 55
+Krausegasse 21
+Krausegasse 27
+Mautner-Markhof-Gasse 75
+Mautner-Markhof-Gasse 82
+Kirchengasse 1
+Ober-Laaer Platz 5
+Hauffgasse 4A
+Kobelgasse 2
+Mautner-Markhof-Gasse 77
+Korbergasse 15
+Malfattigasse 20
+Malfattigasse 22
+Sechtergasse 12
+Steinhagegasse 2
+Hofbauergasse 1
+Kaunitzgasse 33
+Kaunitzgasse 35
+Mittelgasse 37
+Wallgasse 13
+Wallgasse 21
+Skodagasse 4
+Lerchengasse 28-30
+Neubaugasse 15
+Richtergasse 12
+Richtergasse 6
+Bernardgasse 18
+Bernardgasse 24
+Schmidgasse 16
+Buchfeldgasse 9
+Lange Gasse 34
+Lange Gasse 36
+Gutenberggasse 43079
+Kirchberggasse 13
+Gutenberggasse 14
+Schrankgasse 8
+Schrankgasse 12
+Oppenheimgasse 24
+Michael-Bernhard-Gasse 16
+Malfattigasse 33
+Fockygasse 22
+Rosaliagasse 3
+Fabriksgasse 14
+Herthergasse 12
+Herthergasse 16
+Koflergasse 15
+Brambillagasse 6
+Brambillagasse 8
+Schurzgasse 32
+Schurzgasse 33
+Schurzgasse 41
+Schurzgasse 42
+Erlgasse 24A
+Pohlgasse 15
+Ratschkygasse 20
+Pohlgasse 7
+Gatterholzgasse 22
+Gatterholzgasse 26
+Ratschkygasse 50
+Millergasse 1
+Millergasse 11
+Millergasse 12
+Gassergasse 18
+Hauslabgasse 19
+Laurenzgasse 6
+Hirschengasse 5
+Corneliusgasse 10
+Kopernikusgasse 10
+Mollardgasse 7
+Millergasse 15
+Liniengasse 23
+Lutherplatz 2
+Sonnenuhrgasse 8
+Siebensterngasse 8
+Zieglergasse 24
+Schottenfeldgasse 97
+Schottenfeldgasse 95
+Lange Gasse 10
+Lange Gasse 14
+Trautsongasse 2
+Nadlergasse 2-2A
+Rummelhardtgasse 2
+Rummelhardtgasse 1
+Spitalgasse 15
+Rummelhardtgasse 3
+Koflergasse 19
+Bendlgasse 28
+Krichbaumgasse 13
+Rosaliagasse 21
+Rauchgasse 10
+Rosaliagasse 29
+Rauchgasse 18
+Pantucekgasse 13
+Herthergasse 20
+Herthergasse 21
+Fockygasse 27
+Wolfganggasse 30
+Siebertgasse 48
+Schallergasse 39
+Siebertgasse 44
+Vierthalergasse 23
+Am Fasangarten 27
+Rollingergasse 21
+Ruckergasse 71
+Aichholzgasse 40
+Ratschkygasse 36
+Elisabethallee 15
+Elisabethallee 16
+Elisabethallee 20
+Am Fasangarten 41
+Fasangartengasse 127
+Graf-Seilern-Gasse 16
+Endergasse 40A
+Dorfmeistergasse 5
+Dorfmeistergasse 7
+Breite Gasse 10
+Florianigasse 44
+Daungasse 1A
+Kirchengasse 3
+Lindengasse 27
+Zollergasse 8
+Zollergasse 21-23
+Burggasse 100A
+Neustiftgasse 107
+Leibnizgasse 3
+Sechsschimmelgasse 13
+Fluchtgasse 4
+Bleichergasse 11
+Humboldtplatz 2
+Humboldtgasse 19
+Scheugasse 10
+Erlachgasse 139
+Eckertgasse 4
+Erlachgasse 130
+Mariannengasse 29
+Uhlandgasse 6
+Raaber-Bahn-Gasse 8
+Humboldtgasse 17
+Eckertgasse 14
+Webgasse 46
+Webgasse 46
+Linke Wienzeile 78
+Eggerthgasse 8
+Meravigliagasse 7
+Millergasse 14-16
+Liniengasse 21
+Kliebergasse 1A
+Loquaiplatz 7
+Otto-Bauer-Gasse 19
+Otto-Bauer-Gasse 25
+Dorfmeistergasse 27
+Bandgasse 23
+Kandlgasse 13A
+Kochgasse 22
+Lange Gasse 67
+Haspingergasse 5
+Kellermanngasse 5
+Neubaugasse 86
+Zieglergasse 42
+Bandgasse 34
+Schottenfeldgasse 18
+Huppgasse 1
+Erlachgasse 81
+Erlachgasse 87
+Viktor-Adler-Platz 11
+Pichlergasse 3
+Schlagergasse 6
+Schlagergasse 10
+Hasengasse 31
+Hasengasse 32
+Dampfgasse 29
+Mariannengasse 11
+Pelikangasse 4
+Lazarettgasse 15
+Keplerplatz 12
+Pernerstorfergasse 69
+Neilreichgasse 13
+Neilreichgasse 21
+Neilreichgasse 23
+Erlachgasse 117
+Olaus-Petri-Gasse 7
+Jenny-Lind-Gasse 13
+Jenny-Lind-Gasse 16
+Olaus-Petri-Gasse 43
+Loquaiplatz 10
+Liniengasse 2B
+Luftbadgasse 1
+Corneliusgasse 2
+Eggerthgasse 11
+Liniengasse 29
+Anzengrubergasse 5
+Anzengrubergasse 7
+Anzengrubergasse 11
+Otto-Bauer-Gasse 3
+Otto-Bauer-Gasse 5
+Hugo-Wolf-Gasse 4
+Webgasse 2
+Kaunitzgasse 7
+Lederergasse 24
+Lederergasse 26
+Lederergasse 28
+Lederergasse 6
+Lederergasse 14A
+Lederergasse 12
+Burggasse 56
+Neustiftgasse 65
+Neustiftgasse 50
+Neustiftgasse 67-69
+Burggasse 89
+Kandlgasse 14
+Zieglergasse 49
+Apollogasse 22
+Apollogasse 10
+Schottenfeldgasse 22
+Stollgasse 1A
+Schimmelgasse 1
+Herzgasse 5
+Pernerstorfergasse 26
+Viktor-Adler-Platz 13
+Pernerstorfergasse 23
+Michelbeuerngasse 3
+Severingasse 1
+Wilhelm-Exner-Gasse 43079
+Michelbeuerngasse 10
+Munthegasse 15
+Tegnergasse 29
+Tegnergasse 30
+Tegnergasse 36
+Tegnergasse 38
+Tessingasse 3
+Berthold-Viertel-Gasse 1
+Jenny-Lind-Gasse 56
+Jenny-Lind-Gasse 62
+Wendstattgasse 5
+Wendstattgasse 5
+Berthold-Viertel-Gasse 20
+Berthold-Viertel-Gasse 23
+Berthold-Viertel-Gasse 24
+Kaunitzgasse 16
+Hasengasse 9
+Lackierergasse 6
+Dampfgasse 7
+Siccardsburggasse 11
+Jagdgasse 2A
+Siccardsburggasse 1
+Lustkandlgasse 8
+Sechsschimmelgasse 23
+Fuchsthallergasse 13
+Garnisongasse 22
+Beethovengasse 10
+Leebgasse 9
+Columbusgasse 40
+Messenhausergasse 12
+Wassergasse 29
+Wassergasse 31
+Adamsgasse 22
+Krieglergasse 4
+Krieglergasse 5
+Custozzagasse 6
+Messenhausergasse 13
+Baumgasse 42921
+Kegelgasse 33
+Apostelgasse 15
+Apostelgasse 20
+Apostelgasse 24
+Tessingasse 7
+Gasparoneweg 9
+Indigoweg 8
+Indigoweg 9
+Vondrakplatz 2
+Stockholmer Platz 1
+Stockholmer Platz 9
+Tessingasse 29
+Tessingasse 31
+Tessingasse 40
+Tessingasse 41
+Tessingasse 44
+Rosasgasse 34
+Tivoligasse 48
+Endergasse 25
+Endergasse 39
+Endergasse 43
+Endergasse 51
+Jungpointgasse 32
+Endergasse 67
+Endergasse 69
+Aichholzgasse 55
+Columbusgasse 43
+Columbusgasse 48
+Columbusgasse 48
+Viktor-Adler-Platz 5
+Lustkandlgasse 5
+Fuchsthallergasse 3
+Fuchsthallergasse 4
+Sechsschimmelgasse 5
+Sechsschimmelgasse 15
+Lackierergasse 2
+Garnisongasse 26
+Sensengasse 4
+Van-Swieten-Gasse 14
+Alxingergasse 21
+Messenhausergasse 6
+Schlachthausgasse 8
+Schlachthausgasse 8
+Radetzkyplatz 5
+Wassergasse 21
+Radnitzkygasse 42
+Radnitzkygasse 45
+Rosiwalgasse 1
+Kollmayergasse 12
+Hofbauergasse 9
+Gierstergasse 6
+Gierstergasse 9
+Vivenotgasse 47
+Sechtergasse 11
+Krichbaumgasse 19
+Rosasgasse 14
+Aichholzgasse 13
+Aichholzgasse 20-22
+Singrienergasse 25
+Ratschkygasse 23
+Ruckergasse 50
+Tivoligasse 28
+Ehrenfelsgasse 8
+Krastelgasse 8
+Ludwig-Martinelli-Gasse 6
+Ludwig-Martinelli-Gasse 8
+Gottslebengasse 1
+Aichholzgasse 1
+Ehrenfelsgasse 17
+Bullgasse 3
+Bullgasse 5
+Bullgasse 7
+Bullgasse 15
+Bullgasse 17
+Bullgasse 19
+Bullgasse 27
+Bullgasse 41
+Angeligasse 25
+Oppenheimgasse 30
+Oppenheimgasse 38
+Oppenheimgasse 56
+Oppenheimgasse 58
+Oppenheimgasse 62
+Schautagasse 2
+Schautagasse 5
+Schautagasse 10
+Schautagasse 11
+Schautagasse 14
+Schautagasse 18
+Graf-Starhemberg-Gasse 23
+Rainergasse 3
+Graf-Starhemberg-Gasse 19
+Belvederegasse 39
+Viktorgasse 2
+Viktorgasse 5A
+Pilgramgasse 8
+Arbeitergasse 33
+Arbeitergasse 38
+Diehlgasse 33
+Castelligasse 17
+Castelligasse 19
+Castelligasse 23
+Zentagasse 43
+Vogelsanggasse 32
+Ignazgasse 22
+Krichbaumgasse 30
+Rauchgasse 30
+Vivenotgasse 32
+Hilschergasse 2
+Hilschergasse 5
+Hilschergasse 7
+Ignazgasse 7
+Hilschergasse 5A
+Krichbaumgasse 15
+Rosaliagasse 20
+Schallergasse 9
+Oppelgasse 1
+Bonygasse 16-18
+Haschkagasse 7
+Ruckergasse 14
+Ruckergasse 10
+Rosasgasse 2
+Wildauergasse 1
+Sigmundsgasse 10
+Schrankgasse 3
+Schrankgasse 11
+Stiftgasse 31
+Neubaugasse 27
+Bandgasse 2
+Bandgasse 6
+Bernardgasse 42
+Neustiftgasse 116-118
+Neudeggergasse 42795
+Neudeggergasse 9
+Schautagasse 21
+Eddagasse 8
+Eddagasse 10
+Eddagasse 11
+Eddagasse 13
+Eddagasse 24
+Eddagasse 37
+Hardtmuthgasse 40-42
+Angeligasse 33-35
+Angeligasse 38
+Columbusgasse 95
+Schautagasse 22
+Schautagasse 48
+Schautagasse 70
+Munchplatz 4
+Munthegasse 9
+Siebertgasse 52
+Vogelsanggasse 36
+Vogelsanggasse 38
+Jahngasse 25
+Jahngasse 27
+Arbeitergasse 50
+Gartengasse 1
+Viktor-Christ-Gasse 3
+Viktor-Christ-Gasse 2
+Siebenbrunnengasse 14
+Vogelsanggasse 23
+Jahngasse 39
+Neurissener Anger 22
+Eidechsengasse 45
+Krokusweg 18
+Saarplatz 6
+Lange Allee 1A
+Obere Ried 23
+Hilschergasse 21
+Hilschergasse 25
+Steinbauergasse 20
+Tichtelgasse 19
+Wolfganggasse 9
+Neustiftgasse 109
+Neustiftgasse 113
+Badhausgasse 22-24
+Daungasse 2
+Zollergasse 34
+Lindengasse 20
+Lindengasse 28
+Neustiftgasse 90
+Badhausgasse 11
+Schottenfeldgasse 75
+Burggasse 106
+Gattergasse 12A
+Gattergasse 13B
+Gattergasse 15
+Mollardgasse 43
+Linke Wienzeile 124
+Stiftgasse 21
+Siebensterngasse 13
+Breite Gasse 15
+Gutenberggasse 27
+Spittelberggasse 19
+Siebensterngasse 14
+Kurzgasse 1
+Kurzgasse 3
+Laimgrubengasse 6
+Morizgasse 9
+Geigergasse 10
+Liniengasse 16
+Stumpergasse 34
+Laimgrubengasse 13
+Stiegengasse 6
+Mollardgasse 64
+Mollardgasse 64
+Hornbostelgasse 2
+Mollardgasse 70A
+Mollardgasse 76
+Liniengasse 3
+Liniengasse 6
+Liniengasse 6
+Puchsbaumplatz 8
+Steudelgasse 29
+Karmarschgasse 48
+Puchsbaumgasse 31
+Kudlichgasse 36
+Kudlichgasse 44
+Puchsbaumgasse 35
+Gellertgasse 33
+Buchengasse 109
+Buchengasse 119
+Rotenhofgasse 64
+Karmarschgasse 72
+Alxingergasse 54
+Davidgasse 31
+Davidgasse 43
+Neilreichgasse 45
+Herzgasse 63
+Kempelengasse 4
+Erlachgasse 8
+Kaniakgasse 6
+Kaniakgasse 8
+Kaniakgasse 24
+Kaniakgasse 26
+Neurissenweg 22
+Lindenbauergasse 20A
+Lindenbauergasse 32
+Haindlgasse 29
+Haindlgasse 29
+Mittelgasse 28
+Spalowskygasse 2
+Spalowskygasse 5
+Wallgasse 26
+Kurzgasse 5
+Spalowskygasse 6
+Mittelgasse 18
+Barnabitengasse 12
+Capistrangasse 3
+Mollardgasse 25
+Mollardgasse 27
+Turmburggasse 13
+Aegidigasse 16
+Stiegengasse 16-18
+Liniengasse 6
+Liniengasse 6
+Haydngasse 10
+Joanelligasse 8
+Joanelligasse 10
+Linke Wienzeile 48-52
+Hauslabgasse 30
+Kliebergasse 11
+Webgasse 19
+Webgasse 28
+Webgasse 35
+Stroheckgasse 9
+Latschkagasse 2
+Canisiusgasse 7
+Canisiusgasse 4
+Biererlgasse 29
+Rautenstrauchgasse 9
+Kujanikgasse 1
+Kujanikgasse 3
+Mailergasse 12
+Lindenbauergasse 40
+Reimmichlgasse 19
+Ganghofergasse 34
+Heidelgasse 2
+Jahngasse 19
+Ramperstorffergasse 16
+Mauthausgasse 9
+Rechte Wienzeile 173
+Rechte Wienzeile 161
+Grabnergasse 8
+Liniengasse 32
+Liniengasse 36
+Liniengasse 36
+Strohmayergasse 1
+Albertgasse 17
+Albertgasse 17
+Albertgasse 19
+Pfeilgasse 26
+Porzellangasse 42
+Porzellangasse 44-46
+Glasergasse 2
+Glasergasse 14
+Reznicekgasse 16
+Boltzmanngasse 17
+Pfeilgasse 32
+Pfeilgasse 34
+Sobieskiplatz 5
+Canisiusgasse 13
+Schubertgasse 16
+Schubertgasse 18
+Borschkegasse 1
+Borschkegasse 7
+Borschkegasse 10
+Borschkegasse 14
+Zimmermannplatz 7
+Meynertgasse 6
+Frankgasse 5
+Garnisongasse 7
+Siccardsburggasse 30
+Siccardsburggasse 31
+Zimmermanngasse 13
+Zimmermanngasse 15
+Zimmermannplatz 4
+Landgutgasse 31
+Krausegasse 1
+Krausegasse 3
+Leitgebgasse 17
+Fendigasse 2
+Fendigasse 2
+Schwarzhorngasse 15
+Ramperstorffergasse 24
+Zentagasse 5
+Ramperstorffergasse 19
+Josef-Schwarz-Gasse 16
+Ramperstorffergasse 47
+Ramperstorffergasse 49
+Spengergasse 41
+Schwarzhorngasse 4
+Ramperstorffergasse 29
+Siebenbrunnengasse 29
+Emil-Kralik-Gasse 7
+Wimmergasse 18
+Siebenbrunnengasse 35
+Siebenbrunnengasse 44
+Stolzenthalergasse 22
+Seegasse 21
+Marktgasse 41-43
+Lichtentaler Gasse 1
+Wiesengasse 17
+Reznicekgasse 1
+Newaldgasse 4
+Ayrenhoffgasse 6
+Blindengasse 31
+Georg-Sigl-Gasse 7
+Am Kanal 19
+Molitorgasse 3
+Rosiwalgasse 7
+Unterlaaer Platz 2
+Unterlaaer Platz 3
+Rustenfeldgasse 22
+Unterlaaer Platz 5
+Spengergasse 57
+Embelgasse 54
+Johannagasse 4B
+Johannagasse 4B
+Ziegelofengasse 28
+Ziegelofengasse 22
+Kohlgasse 12
+Embelgasse 62
+Spengergasse 24
+Spengergasse 26
+Spengergasse 28
+Ramperstorffergasse 38
+Ramperstorffergasse 44
+Zentagasse 33
+Wimmergasse 29
+Pramergasse 4
+Marktgasse 12
+Marktgasse 12
+Thurygasse 5
+Schlickgasse 1
+Porzellangasse 7A
+Wasagasse 18
+Wasagasse 16
+Clusiusgasse 8
+Marktgasse 60
+Burgenlandgasse 17
+Burgenlandgasse 31
+Burgenlandgasse 45
+Domaniggasse 2
+Munthegasse 2
+Munthegasse 24
+Burgenlandgasse 75
+Burgenlandgasse 81
+Ratschkygasse 14
+Tanbruckgasse 3
+Tanbruckgasse 4
+Tanbruckgasse 12
+Erlgasse 29
+Ruckergasse 49
+Ratschkygasse 21
+Koppreitergasse 2
+Singrienergasse 28
+Bonygasse 56
+Singrienergasse 2
+Tivoligasse 31
+Siebenbrunnengasse 84
+Johannagasse 12
+Diehlgasse 6
+Kleine Neugasse 5
+Kleine Neugasse 7
+Kleine Neugasse 21
+Krongasse 8
+Krongasse 10
+Krongasse 15
+Siebenbrunnengasse 59
+Einsiedlergasse 36
+Hartmanngasse 12
+Fendigasse 20
+Florianigasse 38
+Schubertgasse 17
+Blindengasse 12
+Pramergasse 14
+Servitengasse 15
+Pramergasse 24
+Marktgasse 43048
+Thurygasse 42985
+Berggasse 5
+Thurngasse 3
+Thurngasse 1
+Dietrichsteingasse 3
+Dietrichsteingasse 5
+Dietrichsteingasse 7
+Laudongasse 43
+Skodagasse 7
+Feldgasse 2
+Skodagasse 1
+Albertgasse 49
+Langsulzgasse 20
+Langsulzgasse 33
+Palisagasse 2
+Palisagasse 7
+Palisagasse 8
+Palisagasse 13
+Economogasse 1
+Economogasse 49
+Palisagasse 21
+Palisagasse 25
+Sindelargasse 12
+Mannschildgasse 21
+Sindelargasse 39
+Bonygasse 68
+Klimtgasse 1
+Klimtgasse 5
+Fasangartengasse 119
+Klimtgasse 9
+Olbrichgasse 16
+Dorfmeistergasse 61
+Gatterholzgasse 5
+Gatterholzgasse 9
+Gatterholzgasse 18
+Schwenkgasse 3
+Olbrichgasse 20
+Klimtgasse 23
+Olbrichgasse 30
+Klimtgasse 39
+Klimtgasse 43
+Klimtgasse 47
+Olbrichgasse 54
+Endergasse 56
+Blindengasse 11
+Strozzigasse 26
+Zeltgasse 6
+Zeltgasse 10
+Clusiusgasse 16
+Grundlgasse 4
+Grundlgasse 1
+Latschkagasse 10
+Augasse 3
+Augasse 42921
+Augasse 13
+Augasse 23
+Lustkandlgasse 29
+Albertplatz 4
+Feldgasse 13
+Leebgasse 72
+Hardtmuthgasse 106
+Weitmosergasse 16
+Weitmosergasse 31
+Weitmosergasse 34
+Weitmosergasse 38
+Weitmosergasse 62
+Weitmosergasse 68
+Hardtmuthgasse 67
+Hardtmuthgasse 64
+Sindelargasse 40
+Sindelargasse 40
+Sindelargasse 50
+Gadnergasse 49
+Sedlitzkygasse 40
+Grillgasse 14
+Gattergasse 27
+Gattergasse 34
+Gattergasse 35
+Gattergasse 36
+Hasenleitengasse 76
+Endergasse 70
+Endergasse 78
+Endergasse 90
+Piaristengasse 1
+Stuckgasse 14
+Neubaugasse 56
+Kandlgasse 17
+Kandlgasse 23
+Schottenfeldgasse 49
+Schottenfeldgasse 55
+Halbgasse 8
+Schottenfeldgasse 5
+Schottenfeldgasse 7
+Schottenfeldgasse 12
+Apollogasse 30
+Uhlplatz 5
+Blindengasse 15
+Spittelauer Platz 7
+Spittelauer Platz 2
+Sobieskigasse 5
+Sobieskiplatz 1
+Sobieskiplatz 4
+Davidgasse 62
+Karmarschgasse 60
+Buchengasse 129
+Rotenhofgasse 69
+Neilreichgasse 52
+Siccardsburggasse 58
+Herzgasse 81
+Hardtmuthgasse 72
+Herzgasse 83
+Weigandhof 4
+Weigandhof 7
+Weitmosergasse 55
+Weitmosergasse 72
+Weitmosergasse 82
+Weitmosergasse 92
+Weitmosergasse 104
+Waldgasse 50
+Zur Spinnerin 41
+Weichseltalweg 877
+Hasenleitengasse 106
+Lesergasse 23
+Lesergasse 35
+Mitterfeldgasse 22
+Mitterfeldgasse 34
+Haschgasse 13
+Pretschgasse 14
+Piangasse 1
+Haschgasse 12
+Petzoldgasse 5
+Petzoldgasse 7
+Petzoldgasse 17
+Reischekgasse 50
+Rasmussengasse 19
+Strozzigasse 5
+Neustiftgasse 55
+Kirchengasse 23
+Schottenfeldgasse 69
+Burggasse 91
+Burggasse 103A
+Halbgasse 1A
+Halbgasse 7
+Halbgasse 9
+Halbgasse 11
+Schmidgasse 7
+An der Ostbahn 50
+Battiggasse 28
+Siccardsburggasse 52
+Arthaberplatz 5
+Battiggasse 47
+Waldgasse 46
+Gellertgasse 34
+Waldgasse 33
+Reumannplatz 2
+Waldgasse 35
+Columbusgasse 72
+Columbusgasse 74
+Herzgasse 80
+Hardtmuthgasse 75
+Kapleigasse 2
+Pfaffenaugasse 6
+Haindlgasse 2
+Nowalskigasse 33
+Heidelgasse 10
+Heidelgasse 11
+Nowalskigasse 38
+Heidelgasse 13
+Schellinggasse 13
+Csokorgasse 30
+Csokorgasse 34
+Kimmerlgasse 4
+Zschokkegasse 35
+Strohmayergasse 5
+Strohmayergasse 11
+Strohmayergasse 13
+Sandwirtgasse 18
+Garbergasse 7
+Liniengasse 24
+Millergasse 21
+Mittelgasse 11
+Theobaldgasse 17
+Theobaldgasse 19
+Mollardgasse 45-47
+Millergasse 29
+Millergasse 35
+Davidgasse 4
+Davidgasse 8
+Reumannplatz 10
+Rotenhofgasse 1
+Rotenhofgasse 1A
+Rotenhofgasse 7
+Leibnizgasse 30
+Rotenhofgasse 11
+Davidgasse 12
+Schrankenberggasse 27
+Muhrengasse 14
+Muhrengasse 11
+Buchengasse 30
+Columbusgasse 78
+Neilreichgasse 68
+Angeligasse 12
+Holbeingasse 3
+Neusetzgasse 5
+Angeligasse 16
+Krausegasse 7
+Krausegasse 7A
+Schmidgunstgasse 45
+Schmidgunstgasse 45
+Schmidgunstgasse 48
+Schmidgunstgasse 50
+Schmidgunstgasse 56
+Kimmerlgasse 6
+Kimmerlgasse 29
+Nowalskigasse 15
+Nowalskigasse 28
+Nowalskigasse 30
+Nowalskigasse 42
+Paul-Heyse-Gasse 24
+Paul-Heyse-Gasse 22
+Paul-Heyse-Gasse 28
+Krautackergasse 11A
+Krautgasse 6
+Schmidgunstgasse 29
+Schmidgunstgasse 35
+SDL Paul-Heyse-Gasse 14
+Fuchsbodengasse 13
+Wimmergasse 31
+Wimmergasse 31
+Garbergasse 6
+Theobaldgasse 11
+Theobaldgasse 13
+Mollardgasse 42
+Mollardgasse 61
+Linke Wienzeile 154
+Dominikanergasse 3
+Dominikanergasse 6
+Millergasse 42-44
+Millergasse 42-44
+Millergasse 42-44
+Millergasse 48
+Mittelgasse 4
+Pfluggasse 3
+Hausergasse 2
+Buchengasse 100
+Buchengasse 108
+Jagdgasse 29-31
+Jagdgasse 26
+Buchengasse 42
+Steudelgasse 25
+Laubeplatz 1
+Jagdgasse 34
+Rotenhofgasse 46
+Rotenhofgasse 26
+Jagdgasse 43
+Rotenhofgasse 29
+Puchsbaumgasse 48
+Kopalgasse 27
+Albern 71
+Karl-Drescher-Gasse 7
+Sendnergasse 135
+Sendnergasse 108
+Sendnergasse 102
+Sendnergasse 88
+Sendnergasse 86
+Sendnergasse 84
+Siebenbrunnengasse 43
+Vogelsanggasse 30
+Hauslabgasse 42985
+Esterhazygasse 5
+Mollardgasse 4
+Kirchengasse 28
+Kriehubergasse 29
+Kriehubergasse 31
+Anzengrubergasse 12
+Anzengrubergasse 14
+Gassergasse 10
+Kriehubergasse 11
+Hauslabgasse 11
+Esterhazygasse 15A
+Lustkandlgasse 44
+Ayrenhoffgasse 14
+Stolzenthalergasse 1
+Stolzenthalergasse 11
+Blindengasse 1A
+Porzellangasse 54
+Himmelpfortstiege 4
+Lustkandlgasse 49
+Pulverturmgasse 9
+Pulverturmgasse 17
+Laudongasse 63
+Oberleitengasse 7
+Eyzinggasse 7
+Passinigasse 4
+Passinigasse 9
+Passinigasse 27
+Passinigasse 37
+Mitterweg 912
+Fendigasse 22
+Obere Amtshausgasse 21
+Siebenbrunnengasse 69
+Einsiedlerplatz 2
+Embelgasse 51
+Embelgasse 63
+Diehlgasse 50
+Einsiedlergasse 33
+Einsiedlergasse 33
+Brandmayergasse 4
+Brandmayergasse 9
+Brauergasse 7
+Chwallagasse 4
+Linke Wienzeile 106
+Linke Wienzeile 108
+Stiftgasse 13
+Lindengasse 4
+Turmburggasse 1
+Salzergasse 6
+Harmoniegasse 8
+Wasagasse 30
+Thurngasse 21
+Uhlplatz 6
+Laudongasse 60
+Laudongasse 67
+Julius-Tandler-Platz 6
+Julius-Tandler-Platz 6
+Rufgasse 1
+Breitenfelder Gasse 24
+Blindengasse 55
+Stroheckgasse 3
+Stroheckgasse 5
+Clusiusgasse 5
+Sindelargasse 52
+Sindelargasse 61
+Eyzinggasse 15
+Hallergasse 12
+Hallergasse 12A
+Hallergasse 886
+Simoningplatz 3
+Biererlgasse 12
+Biererlgasse 7
+Biererlgasse 33
+Haunzahndgasse 10
+Rollingergasse 7
+Schwenkgasse 1
+Kohlgasse 31
+Brandmayergasse 11
+Nikolsdorfer Gasse 35
+Nikolsdorfer Gasse 35
+Nikolsdorfer Gasse 35
+Stolberggasse 20
+Zentagasse 12
+Siebenbrunnengasse 62
+Siebenbrunnengasse 54
+Einsiedlerplatz 6
+Einsiedlerplatz 6A
+Arbeitergasse 30
+Kohlgasse 26-28
+Kohlgasse 32
+Zentagasse 6
+Jahngasse 3
+Embelgasse 29
+Diehlgasse 40
+Laudongasse 53
+Bennogasse 8
+Laudongasse 61
+Bennoplatz 8
+Florianigasse 58
+Florianigasse 73
+Hahngasse 30
+Thurngasse 17
+Pasteurgasse 2
+Strudlhofgasse 8
+Laudongasse 44
+Laudongasse 50
+Breitenfelder Gasse 2
+Florianigasse 56
+Hahngasse 29
+D'Orsaygasse 9
+D'Orsaygasse 11
+Seegasse 14
+Sindelargasse 78
+Sindelargasse 82
+Karl-Diener-Gasse 7
+Karl-Diener-Gasse 10
+Heimkehrergasse 22
+Schleiergasse 18
+Favoritner Gewerbering 1
+Schleiergasse 12
+Heimkehrergasse 38
+Mannschildgasse 7
+Dorfmeistergasse 2
+Zeleborgasse 12
+Vierthalergasse 12
+Rauchgasse 35
+Edmund-Reim-Gasse 28
+Diehlgasse 41
+Kohlgasse 41
+Kohlgasse 22
+Arbeitergasse 13
+Breitenfelder Gasse 16
+Berggasse 30
+Kolingasse 14
+Kolingasse 10
+Hahngasse 12
+Schlickgasse 4
+Wasagasse 6
+Badgasse 14
+Wiesengasse 18
+Strudlhofgasse 21
+Boltzmanngasse 1
+Boltzmanngasse 7
+Strudlhofgasse 4
+Strudlhofgasse 2A
+Herzgasse 84
+Waldgasse 41
+Quaringasse 21
+Schleiergasse 7
+Weldengasse 13
+Hebbelgasse 5
+Lippmanngasse 8
+Lippmanngasse 28
+Lippmanngasse 36
+Lippmanngasse 48
+Ramsaygasse 1
+Schwarzgrubergasse 4
+Ramsaygasse 15
+Ramsaygasse 17
+Zschokkegasse 41
+Zschokkegasse 53
+Zschokkegasse 53
+Zschokkegasse 63
+Camesinaweg 3
+Max-Hegele-Weg 9
+Rosasgasse 16
+Lenaugasse 2
+Strozzigasse 49
+Strozzigasse 41
+Fuhrmannsgasse 6
+Siebensterngasse 54
+Burggasse 67
+Burggasse 65
+Myrthengasse 3
+Myrthengasse 5
+Neustiftgasse 68
+Lerchengasse 1
+Servitengasse 1
+Servitengasse 3
+Servitengasse 3
+Wasagasse 12
+Berggasse 16
+Tigergasse 14
+Tigergasse 16
+Pfeilgasse 21
+Tigergasse 11
+Zur Spinnerin 50
+Hardtmuthgasse 78
+Neilreichgasse 72-74
+Undsetgasse 3
+Undsetgasse 7
+Undsetgasse 15
+Undsetgasse 16
+Undsetgasse 23
+Suchenwirtplatz 2
+Hardtmuthgasse 38
+Columbusgasse 101
+Hardtmuthgasse 39
+Weichselbaumgasse 13
+Oppenheimgasse 45
+Zschokkegasse 79
+Biberhaufenweg 24
+Hugogasse 14
+Bendlgasse 1
+Migazziplatz 1
+Migazziplatz 6
+Albrechtsbergergasse 13
+Schallergasse 19
+Neustiftgasse 85
+Badhausgasse 2
+Badhausgasse 8
+Schmidgasse 5
+Friedrich-Schmidt-Platz 4
+Lederergasse 7
+Fuhrmannsgasse 5
+Fuhrmannsgasse 7
+Mondscheingasse 2
+Mondscheingasse 18
+Neubaugasse 42
+Zollergasse 45
+Burggasse 84
+Pfeilgasse 19
+Porzellangasse 38
+Alpengasse 4
+Alpengasse 6
+Eisenstadtplatz 2
+Alpengasse 3
+Patrubangasse 4
+Lindkogelgasse 2
+Antonsplatz 16
+Angeligasse 47
+Sickingengasse 15
+Sickingengasse 19
+Sickingengasse 22
+Leebgasse 78
+Undsetgasse 36
+Kittelsengasse 13
+Kittelsengasse 14
+Kittelsengasse 20
+Kittelsengasse 22
+Columbusgasse 107
+Hardtmuthgasse 41
+Muhrengasse 60
+Burgenlandgasse 7
+Burgenlandgasse 11
+Burgenlandgasse 15
+Schmidgunstgasse 2
+Siebertgasse 16
+Steinbauergasse 12
+Bendlgasse 15
+Krichbaumgasse 12
+Mandlgasse 35
+Mandlgasse 18
+Reschgasse 1
+Mandlgasse 24
+Mandlgasse 29
+Grieshofgasse 13
+Grieshofgasse 13
+Grieshofgasse 11
+Rahlgasse 6
+Papagenogasse 1
+Lehargasse 1
+Lehargasse 7
+Mollardgasse 56
+Morizgasse 8
+Linke Wienzeile 162
+Hollgasse 8
+Tulpengasse 8
+Wickenburggasse 1
+Florianigasse 5
+Feuchterslebengasse 73
+Schrankenberggasse 28
+Laubeplatz 7
+Buchengasse 142
+Fernkorngasse 42
+Hofherrgasse 2
+Hofherrgasse 10
+Hofherrgasse 14
+Absberggasse 21
+Kudlichgasse 24
+Puchsbaumgasse 21
+Kudlichgasse 18
+Puchsbaumplatz 7
+Malborghetgasse 40
+Sickingengasse 23
+Sickingengasse 26
+Sickingengasse 27
+Sickingengasse 29
+Stefan-Fadinger-Platz 23
+Angeligasse 56
+Angeligasse 116
+Zur Spinnerin 22
+Braunspergengasse 14
+Zur Spinnerin 27
+Schmidgunstgasse 14
+Rzehakgasse 7
+Rzehakgasse 9
+Rzehakgasse 11
+Klebindergasse 5
+Klebindergasse 7A
+Braunhubergasse 10
+Braunhubergasse 10
+Braunhubergasse 13
+Udelweg 23
+Udelweg 27
+Udelweg 34
+Udelweg 51
+Hakelgasse 4
+Hakelgasse 4
+Gattergasse 6
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Franz-Schubert-Weg 19
+Friederike-Klauner-Gasse 14
+Agnesgasse 21
+Karl-Prinz-Weg 8
+Weingartenallee 2E
+Karl-Bednarik-Gasse 13
+Mollardgasse 70D
+Doerenkampgasse 2
+Dafertgasse 6
+Schwaigergasse 41
+Stryeckgasse 4
+Anton-Dengler-Gasse 18
+Deublergasse 30
+Deublergasse 32
+Dafertgasse 31
+Dafertgasse 39
+Grabmayrgasse 18
+Deublergasse 42
+Kerpengasse 63
+Kerpengasse 64
+Rueppgasse 41974
+Springergasse 3
+Springergasse 11
+Liebiggasse 8
+Im Werd 13
+Krummbaumgasse 1
+Afrikanergasse 11
+Novaragasse 44
+Lessinggasse 22
+Volkertplatz 12
+Darwingasse 22
+Fischhof 2
+Bauernmarkt 24
+Fleischmarkt 6
+Hoher Markt 12
+Franz-Schuster-Gasse 45
+Spitzweg 122A
+Simonygasse 1
+Dammhaufengasse 19
+Krottenhofgasse 119
+Rueppgasse 31
+Am Tabor 7
+Hochstettergasse 3
+Marinelligasse 12
+Handelskai 414
+Anton-Geiger-Weg 45
+Stadlbreitener Anger 2
+Schlenthergasse 17
+Stadlbreitener Anger 26
+Abraham-a-Sancta-Clara-Straße 22
+Spitzweg 29
+Nachtnebelweg 1
+Meytensgasse 11
+Neurissener Anger 47
+Sanddorngasse 1
+Spitzweg 28
+Spitzweg 40
+Kerpengasse 72
+Luschingasse 4
+Gschwandnergasse 45
+Veronikagasse 30
+Kalvarienberggasse 72
+Leitermayergasse 20
+Leopold-Ernst-Gasse 20
+Kalvarienberggasse 61
+Schumanngasse 58
+Ortliebgasse 32
+Mariengasse 22
+Klopstockgasse 55
+Lobenhauerngasse 16-18
+Geblergasse 15
+Hormayrgasse 48
+Hormayrgasse 57
+Haidgasse 2
+Weintraubengasse 22
+Kleine Stadtgutgasse 2
+Novaragasse 38A
+Volkertplatz 15
+Volkertplatz 3
+Rueppgasse 24
+Springergasse 13
+Springergasse 19
+Brandgasse 3
+Friedensgasse 6
+Mayergasse 1
+Schweidlgasse 15
+Schweidlgasse 20
+Spitzweg 42
+Spitzweg 50
+Spitzweg 54
+Spitzweg 13
+Spitzweg 114
+Mittelfeldweg 22
+Mittelfeldweg 38
+Mittelfeldweg 40
+Mittelfeldweg 42A
+An der unteren Alten Donau 251
+Stammersdorfer Kellergasse 71
+Wolsteingasse 39
+Seidelbastgasse 19
+Stammersdorfer Kellergasse 112
+Altmannsdorfer Anger 72
+Mariengasse 12
+Wichtelgasse 84
+Geblergasse 18
+Hormayrgasse 59
+Lacknergasse 62
+Leopold-Ernst-Gasse 30
+Diepoldplatz 10
+Taubergasse 64
+Klopstockgasse 51
+Leitermayergasse 42
+Mittersteig 7
+Phorusgasse 14
+Waltergasse 8
+Mayerhofgasse 2
+Mayerhofgasse 12
+Schelleingasse 4
+Schelleingasse 10
+Frankenberggasse 6
+Faulmanngasse 5
+Leibenfrostgasse 5
+Rainergasse 24
+Ennsgasse 29
+Kurzbauergasse 9
+Kurzbauergasse 6
+Czerningasse 21
+Czerningasse 23
+Radeckgasse 1
+Alois-Drasche-Park 9
+Blechturmgasse 6
+Wohllebengasse 18
+Taubstummengasse 13
+Dammhaufengasse 14
+Maulbertschgasse 1
+Maulbertschgasse 3
+An der unteren Alten Donau 289
+Schlapfenweg 7
+Weidlichgasse 10
+Sozialmed.Zentrum Sophienspital 2C
+Davidgasse 48
+Jan-Kiepura-Gasse 53
+Jan-Kiepura-Gasse 61
+Hammerschmiedgraben 6
+Rautenweg 184
+Leo-Bredl-Gasse 6
+Staudgasse 54
+Leitermayergasse 39
+Staudgasse 58
+Teschnergasse 18
+Schumanngasse 48
+Johann-Nepomuk-Vogl-Platz 1
+Kreuzgasse 40
+Abt-Karl-Gasse 16
+Leitermayergasse 48
+Schulgasse 42
+Floragasse 1
+Trappelgasse 5
+Mayerhofgasse 22
+Neumanngasse 2
+Adolf-Czettel-Gasse 9
+Tulzergasse 4
+Dr.-Schreber-Weg 3
+Auhirschenweg 49
+Auhirschenweg 49
+Taubstummengasse 15
+Wehrgasse 12
+Strobachgasse 4
+Wehrgasse 3
+Schikanedergasse 2
+Schikanedergasse 4
+Schikanedergasse 6
+Petzvalgasse 4
+Petzvalgasse 5
+Schelleingasse 21
+Theresianumgasse 6
+Ernst-Kein-Gasse 1
+Riesenradplatz 6
+Czerninplatz 1
+Czerninplatz 4
+Fruchtgasse 3
+Sebastian-Kneipp-Gasse 5
+Rustenschacherallee 12
+Josef-Gall-Gasse 2
+Koschatgasse 98A
+Goltzgasse 6
+Scheimpfluggasse 9A
+Scheimpfluggasse 14
+Scheimpfluggasse 18A
+Scheimpfluggasse 20
+Meyerbeergasse 3
+Meyerbeergasse 8
+Meyerbeergasse 10
+Am Spitz 6
+Pius-Parsch-Platz 11
+Christian-Bucher-Gasse 14
+Christian-Bucher-Gasse 36
+Herzmanovsky-Orlando-Gasse 16
+Kaserngasse 7A
+Kaserngasse 7A
+Kliviengasse 46
+Leo-Mathauser-Gasse 41A
+U-Bahn-Bogen 82
+Czartoryskigasse 181A
+Schwarzenbergplatz 6
+Kaserngasse 7B
+Dr.-Schreber-Weg 21
+Dr.-Schreber-Weg 22
+Hackenbergweg 22
+Wilhelm-Stemmer-Weg 4
+Violaweg 10
+Zeinlhofergasse 14
+Waaggasse 12
+Sinagasse 58
+Anton-Geiger-Weg 9
+Auernheimergasse 78
+Blaschkagasse 4
+In der Bien 6
+Reizenpfenninggasse 22
+Reizenpfenninggasse 24
+Rustenschacherallee 6
+Tempelgasse 8
+Sebastian-Kneipp-Gasse 4
+Sebastian-Kneipp-Gasse 41579
+Colloredogasse 2
+Colloredogasse 6
+Colloredogasse 14
+Colloredogasse 21
+Thimiggasse 13
+Thimiggasse 22
+Schreiberweg 100
+Arlethgasse 4
+Cobenzlgasse 2
+Cobenzlgasse 8
+Schreiberweg 64
+Stammgasse 8
+Cooperweg 1
+Barnabitengasse 10
+Barnabitengasse 10
+Barnabitengasse 10
+Spallartgasse 3
+Laaer Wald 33
+Thujagasse 120
+Wolfsmilchgasse 72
+Barawitzkagasse 19
+Schilfweg 142
+Alois-Grandl-Weg 13
+Baranygasse 19
+Helmut-Qualtinger-Gasse 3
+Karl-Prinz-Weg 26
+Karl-Prinz-Weg 24
+Franz-Barwig-Weg 34
+Speierlinggasse 23
+An der unteren Alten Donau 227
+Franz-Josefs-Kai 45
+Concordiaplatz 3
+Heinrichsgasse 4
+Heinrichsgasse 6
+Schreygasse 11
+Nestroygasse 12
+Leopoldsgasse 42953
+Schelleingasse 33
+Belvederegasse 2
+Belvederegasse 7
+Belvederegasse 9
+Theresianumgasse 1
+Rechte Wienzeile 57
+Rechte Wienzeile 23
+Schikanedergasse 15
+Kaasgrabengasse 62
+Kaasgrabengasse 81
+Kaasgrabengasse 91
+Kaasgrabengasse 100A
+Kaasgrabengasse 114
+Kaasgrabengasse 123B
+Dreimarksteingasse 16
+Maulbertschgasse 6
+Mitterwurzergasse 1
+Mitterwurzergasse 16
+Mitterwurzergasse 20
+Peter-Altenberg-Gasse 18
+Peter-Altenberg-Gasse 19
+Peter-Altenberg-Gasse 21
+Arbesbachgasse 13
+Obkirchergasse 30A
+Obkirchergasse 21
+Obkirchergasse 34
+Obkirchergasse 41
+Possannergasse 15
+Georginenplatz 3
+Wolfersberggasse 45
+Wolfersberggasse 37
+Wolfersberggasse 29
+Krokusweg 14A
+Franz-Asenbauer-Gasse 80
+Schreiberweg 31
+Tauschinskygasse 43
+Nestroygasse 2
+Schmelzgasse 2
+Konradgasse 2
+Vereinsgasse 11
+Josefinengasse 12
+Eschenbachgasse 7
+Eschenbachgasse 8
+Eschenbachgasse 1
+Bartensteingasse 4
+Schreygasse 8
+Franz-Hochedlinger-Gasse 18
+Zirkusgasse 8
+Schmelzgasse 7
+Graf-Starhemberg-Gasse 43
+Graf-Starhemberg-Gasse 45
+Belvederegasse 19
+St.-Elisabeth-Platz 1
+Mommsengasse 4
+Mommsengasse 6
+Belvederegasse 28
+Rechte Wienzeile 65
+Rechte Wienzeile 77
+Spitzweg 11
+Mosenthalweg 4A
+Karl-Bednarik-Gasse 17
+Karl-Bednarik-Gasse 20
+Thomas-Klestil-Platz 9
+Am Kahlenberg 1
+Egon-Haug-Gasse 16
+Salbeigasse 11A
+Steinspornweg 36
+Steinspornweg 6
+Steinspornweg 20
+Steinspornweg 17
+Memlinggasse 2B
+Memlinggasse 2E
+Memlinggasse 2H
+Memlinggasse 2H
+Memlinggasse 2M
+Pflieglergasse 6
+Helen-Keller-Gasse 8
+Helen-Keller-Gasse 8
+Benjowskigasse 54
+Czerningasse 12
+Rueppgasse 5
+Bartensteingasse 9
+Doblhoffgasse 9
+Rathausplatz 6
+Doblhoffgasse 1
+Schiffamtsgasse 10A
+Nickelgasse 2
+Grohgasse 10
+Bandgasse 12
+Viktor-Hagl-Gasse 12B
+Demuthgasse 15D
+Rechte Wienzeile 147
+Spitzweg 88
+An der Bien 25
+Spitzweg 112
+Spitzweg 142
+Spitzweg 121
+Spitzweg 109
+Spitzweg 139
+Spitzweg 151
+Spitzweg 157
+Obere Ried 2
+Kliviengasse 84
+Buchbindergasse 21
+Steinspornweg 9
+Steinspornweg 19
+Kobesgasse 11
+Karl-Bednarik-Gasse 31
+Biljan-Bilger-Gasse 19
+Martin-Gaunersdorfer-Gasse 6
+Nickelgasse 6
+Herminengasse 10
+Nickelgasse 1
+Franz-Hochedlinger-Gasse 28
+Glockengasse 4
+Glockengasse 5
+Willi-Forst-Weg 12
+Stoffellagasse 7
+Prater 55D
+Darwingasse 4
+Vereinsgasse 14
+Pazmanitengasse 11
+Vereinsgasse 15
+Scherzergasse 6
+Scherzergasse 12
+Scherzergasse 14
+St.-Elisabeth-Platz 7
+Viktorgasse 13
+Viktorgasse 10
+St.-Elisabeth-Platz 8
+Pilgramgasse 3
+Freundgasse 5
+Freundgasse 14
+Schaumburgergasse 12
+Schaumburgergasse 14
+Viktorgasse 19
+Weyringergasse 34
+Wallagasse 4B
+Spitzweg 129
+Spitzweg 105
+Obere Ried 11
+Strohblumengasse 5
+Eidechsengasse 56
+Jahngasse 36A
+Am Europlatz 2
+Praterstern 1
+Stadiongasse 4
+Liebiggasse 4
+Rotensterngasse 22
+Zirkusgasse 19
+Springergasse 6
+Darwingasse 31
+Darwingasse 26
+Stadiongasse 5
+Krummbaumgasse 6
+Lampigasse 33
+Max-Winter-Platz 12
+Ennsgasse 2
+Marinelligasse 9
+Schweidlgasse 12
+Mozartgasse 4
+Operngasse 18
+Rechte Wienzeile 1A
+Seisgasse 5
+Paulanergasse 3
+Sonnenhofgasse 6
+Rittergasse 3
+St.-Michael-Gasse 27
+Wiengasse 4B
+Stammersdorfer Kellergasse 123
+Stammersdorfer Kellergasse 101
+Holbeingasse 7
+Hauslabgasse 5
+Gundackergasse 14
+Kreuzwiesengasse 22
+Karl-Bednarik-Gasse 4
+Stammersdorfer Kellergasse 15
+Stammersdorfer Kellergasse 35
+Stammersdorfer Kellergasse 41
+Stammersdorfer Kellergasse 43
+Stammersdorfer Kellergasse 47
+Stammersdorfer Kellergasse 14
+Dampfschiffhaufen 37
+Dampfschiffhaufen 33
+Dampfschiffhaufen 29
+Stammersdorfer Kellergasse 3
+Stammersdorfer Kellergasse 68
+Springsiedelgasse 24A
+Nepomukgasse 1
+Nepomukgasse 4
+Weintraubengasse 14
+Weintraubengasse 15
+Rainergasse 2
+Goldeggasse 23
+Rechte Wienzeile 117
+Mostgasse 3
+Goldeggasse 14
+Goldeggasse 18
+Goldeggasse 22
+Karolinengasse 5
+Mommsengasse 13
+Paulanergasse 3
+Paulanergasse 5
+Operngasse 26
+Kolschitzkygasse 30
+Seisgasse 1
+Schwarzenbergplatz 10
+Schwarzenbergplatz 10
+Schwindgasse 6
+Schwindgasse 13
+Wohllebengasse 42858
+Eidechsengasse 22
+Bergzeile 3
+Am Modenapark 4
+Tigergasse 23-27
+Rudolf-Hausner-Gasse 11
+Warhanekgasse 24
+Spitzergasse 4
+Ameisbachzeile 114
+Rohrweihenweg 22
+Ateliergasse 4
+Ameisbachzeile 184
+Dampfschiffhaufen 44
+Schlettergasse 36
+Strohbogasse 6
+Hannes-Lintl-Gasse 47
+Hannes-Lintl-Gasse 49
+Mohsgasse 21
+Mohsgasse 35
+Mostgasse 4
+Lambrechtgasse 8A
+Goldeggasse 42795
+Goldeggasse 9
+Mommsengasse 17
+Rubensgasse 15
+Mostgasse 6
+Klagbaumgasse 10
+Rubensgasse 11
+Rubensgasse 13
+Weyringergasse 5
+Weyringergasse 9
+Frankenberggasse 3
+Wehrgasse 26
+Franzensgasse 4
+Wallagasse 2
+Fehlingergasse 43016
+Dumreichergasse 40
+Inwaldweg 43
+Inwaldweg 47
+Ludwig-Eckardt-Gasse 31
+Stanislausgasse 1
+Fischingergasse 5
+Fischingergasse 7
+Liesneckgasse 14
+Spitzweg 49
+Rautenweg 22
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Paffrathgasse 3
+Paulusgasse 2
+Paulusgasse 4
+Adamsgasse 15
+Frankenberggasse 8
+Frankenberggasse 11
+Greutberggasse 34
+Greutberggasse 36
+Reinholdgasse 39
+An der Grenze 16
+Sterngasse 5
+Sterngasse 5
+Sterngasse 5
+Sterngasse 5
+Aurikelweg 24A
+Nikolsburger Gasse 6
+Linke Wienzeile 208
+Eichenweg 23
+Greutberggasse 46
+Greutberggasse 54
+Trefferweg 2
+Kornblumenweg 13
+Dr.-Schreber-Weg 45A
+Dr.-Schreber-Weg 49
+Adolf-Czettel-Gasse 3
+Ailecgasse 51
+Mautner-Markhof-Gasse 39-41
+Hansl-Schmid-Weg 1
+Josef-Baumann-Gasse 123
+Schnitterweg 6
+Adam-Betz-Gasse 15
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Adamsgasse 17
+Custozzagasse 5
+Custozzagasse 7
+Krieglergasse 14
+Krieglergasse 7
+Geusaugasse 52
+Petrusgasse 1
+Kupfergasse 2
+Villenweg 45
+Krapfenwaldgasse 5
+Krapfenwaldgasse 7
+Krapfenwaldgasse 15
+Krapfenwaldgasse 29
+Krapfenwaldgasse 47
+Engelhorngasse 4
+Wallenberggasse 2
+Wanthalerweg 2
+Wanthalerweg 1
+Pilotengasse 72
+Rohrweihenweg 8
+Dr.-Schreber-Weg 41
+Kefedergrundgasse 28A
+Schilfweg 29
+Fillenbaumgasse 24
+Krokusweg 6
+Mollardgasse 5
+Neurissener Anger 25
+Hofbauergasse 6
+Wolfsmilchgasse 5A
+Antaeusgasse 60
+Steinlegasse 9
+Schlachthausgasse 35
+Marathonweg 7
+Lobelienweg 8
+Toscaninigasse 15A
+Doerenkampgasse 6
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Thujagasse 82
+Dammhaufengasse 6
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Krapfenwaldgasse 52
+Kaasgrabengasse 15
+Hackhofergasse 12
+Hackhofergasse 18
+Krapfenwaldgasse 65-73
+Mukenthalerweg 1
+Schreiberweg 79
+Schreiberweg 80
+Kaasgrabengasse 27
+Kaasgrabengasse 33
+Kaasgrabengasse 41
+Kaasgrabengasse 47
+Greinergasse 55
+Luitpold-Stern-Gasse 44
+Luitpold-Stern-Gasse 6
+Egon-Haug-Gasse 25
+Biljan-Bilger-Gasse 16
+Franz-Glaser-Gasse 13
+Franz-Glaser-Gasse 23
+Minzengasse 8
+Biljan-Bilger-Gasse 7
+Margit-Doppler-Gasse 18
+Margit-Doppler-Gasse 17
+Franz-Glaser-Gasse 25
+Jenschikweg 12
+Jenschikweg 12
+Jenschikweg 12
+Amarantgasse 12
+Franz-Boos-Gasse 4
+Hufgasse 7
+Mittelfeldweg 6A
+Rothneusiedler Gasse 41
+Rennbahnweg 74
+Oriongasse 30
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Stadlbreiten 35
+Greinergasse 29
+Probusgasse 5
+Probusgasse 18
+Aussichtsweg 4
+Aussichtsweg 9
+Schreiberweg 90
+Wildnergasse 47
+Wildnergasse 49
+Wildnergasse 50
+Roggegasse 10
+Roggegasse 11
+Roggegasse 18
+Roggegasse 40
+Roggegasse 41-43
+Rappgasse 1
+Karl-Nieschlag-Gasse 5
+Pfingstrosenweg 30A
+Karl-Bednarik-Gasse 45
+Donhofergasse 8
+Korngasse 8
+Saturnweg 20
+Wolfersberggasse 40
+Wolfersberggasse 36
+Saturnweg 10
+Donauwartesteig 11A
+Castellezgasse 37
+Seiseneggergasse 28A
+Heustadelgasse 49
+Benjowskigasse 60A
+Rueppgasse 41974
+Rueppgasse 41974
+Wolfgang-Pauli-Gasse 5
+Am Hubertusdamm 2B
+Karmarschgasse 52
+Starchantgasse 3A
+Fliegerweg 8
+Unterfeldweg 39A
+Czartoryskigasse 183A
+Hauswurzweg 1A
+Christophgasse 1B
+Paulasgasse 3E
+Silenegasse 43
+Doningasse 19
+Sellingergasse 4A
+Wolsteingasse 1A
+Rudolf-Kassner-Gasse 25
+Peitlgasse 2
+Agnesgasse 13B
+U-Bahn-Bogen 166
+U-Bahn-Bogen 168
+Pawlikgasse 21
+Drorygasse 6
+Drorygasse 15
+Dietrichgasse 36
+Keinergasse 29
+Keinergasse 37
+Seidlgasse 2
+Dianagasse 6
+Udelweg 40
+Hosnedlgasse 20
+Baumgasse 83
+Schumanngasse 105
+Staackmanngasse 23
+Hederichgasse 4
+Zwerchbreitelngasse 86
+Drnekgasse 31
+Hufgasse 41579
+Krichbaumgasse 3
+Am Modenapark 3
+Pfarrgasse 56
+Reibergasse 20
+Rossakgasse 64
+Buchsgasse 23
+Lecherweg 7
+Libellenweg 11
+Auernheimergasse 57
+Drapal-Pintar-Weg 15
+Drapal-Pintar-Weg 3
+Drapal-Pintar-Weg 19
+Schlachthausgasse 28
+Segengrundgasse 26
+Favoritner Gewerbering 10
+Hadrawagasse 75A
+Franz-Fellner-Gasse 5
+Lisseeweg 13
+Sonnheimweg 30
+Sonnheimweg 22
+Rysergasse 2
+An der Schanze 10
+Cobenzlgasse 105
+Kerbelgasse 30
+Augrundweg 30
+Augrundweg 7
+Franz-Eduard-Matras-Gasse 21
+Marksteinergasse 2
+Rennbahnweg 65
+Franz-Pletersky-Weg 13
+Thomagasse 2A
+Angeligasse 21
+Lavendelweg 68A
+An der Schanze 21
+An der Schanze 17
+Karl-Farkas-Gasse 6
+Anton-Kuh-Weg 3
+Auernheimergasse 64
+Kahlergasse 26
+Kirschenallee 1
+Gertrude-Wondrack-Platz 4
+Agnesgasse 15C
+Nottendorfer Gasse 32
+Angergasse 4
+Belghofergasse 15
+Belghofergasse 15
+Dr.-Boehringer-Gasse 23
+Versbachgasse 5
+Zehenthofgasse 43
+Dahliengasse 5
+Pachtweg 24
+Wenhartgasse 6A
+Orchisgasse 48A
+Haffnergasse 39
+Rudolf-Waisenhorn-Gasse 166
+Doningasse 17
+Marinonigasse 40
+Tullnertalgasse 80B
+Weinzingergasse 2
+Brabbeegasse 73
+Fellnergasse 50
+Seefeldergasse 32
+Zukunftsweg 18
+Hermann-Broch-Gasse 3
+Richard-Neutra-Gasse 12
+Rennbahnweg 2
+Hartriegelgasse 19A
+Kupetzkygasse 9
+Egon-Friedell-Gasse 40
+Segengrundgasse 32
+Augrundweg 20
+Preleuthnersteig 8
+Sonnheimweg 37
+Trillergasse 2A
+Augrundweg 3
+Augrundweg 5
+Volkertplatz 1
+Darwingasse 5
+Tandelmarktgasse 5A
+Rotenkreuzgasse 6
+Sonnenbadweg 17
+Gerhard-Fritsch-Gasse 41
+Scherbangasse 14
+D'Orsaygasse 10
+Maroltingergasse 81
+Sulzengasse 15
+Buchleitengasse 13
+Halteraugasse 8
+Halteraugasse 8
+Halteraugasse 8
+Hannes-Lintl-Gasse 1
+Karl-Prinz-Weg 23
+Walter-Berry-Weg 6
+Im Gereute 32
+Aurikelweg 61
+Reglergasse 6
+Buchleitengasse 65
+Kamelienweg 17
+Halblehenweg 44A
+Kopallikgasse 6
+Odeongasse 2A
+Eidechsengasse 31
+Strunzgasse 3
+Strunzgasse 3
+Gablenzgasse 120
+Wolfgang-Riese-Gasse 6
+Obere Ried 34
+Obere Ried 38
+Obere Ried 46
+Obere Ried 28
+Ferdinand-Piatnik-Weg 2
+Fuchsenzeile 21
+Steinheilgasse 56
+Strandgasse 13
+Adolf-Loos-Weg 2
+Serravagasse 14A
+Klenkweg 5
+Haidgasse 14
+Blumauergasse 23
+Schottenring 5
+Neutorgasse 13
+Schottenbastei 11
+Haasgasse 9
+Zwerggasse 3
+Karmelitergasse 8
+Novaragasse 12
+Glockengasse 20
+Novaragasse 12A
+Novaragasse 34
+Schottenring 42985
+Deutschmeisterplatz 4
+Leitgebgasse 11
+Horrplatz 1
+Horrplatz 1
+Horrplatz 1
+Frimmelgasse 16
+Soldanellenweg 15
+Fuchsgasse 1
+Stadlbreitener Anger 6
+Montessorigasse 1A
+Segengrundgasse 7
+Segengrundgasse 3
+Wolfgang-Riese-Gasse 8
+Wallagasse 6B
+Vorarlberger Allee 42
+Neurissener Anger 17
+Geblergasse 98-100
+Jandagasse 3
+Strauchgasse 2
+Michaelerplatz 3
+Johannesgasse 31
+Liebenberggasse 2
+Coburgbastei 4
+Coburgbastei 4
+Coburgbastei 4
+Steinheilgasse 54
+Telephonweg 370A
+Glangasse 8A
+Neurissener Anger 39
+Neurissener Anger 10
+Tartergasse 1
+Spitzergasse 11A
+Rohrweg 19
+Aurikelweg 83
+Schultergasse 6
+Leopoldsgasse 51
+Tandelmarktgasse 2
+Tandelmarktgasse 14
+Hammer-Purgstall-Gasse 9
+Glockengasse 24
+Novaragasse 5
+Jacquingasse 11
+Gerlgasse 7
+Zaunergasse 2
+Segengrundgasse 1
+Anton-Geiger-Weg 12
+Anton-Geiger-Weg 18
+Tivoligasse 12
+Favoritner Gewerbering 5
+Eidechsengasse 17
+Johannesgasse 35
+Birkenweg 4A
+Wienerwaldgasse 7
+Dammhaufengasse 25
+Pfalzgasse 1
+Coburgbastei 4
+Coburgbastei 4
+Himmelpfortgasse 18
+Jakobergasse 8
+Stallburggasse 2
+Stephansplatz 8
+Goldschmiedgasse 4
+Graben 19
+Haarhof 4-4A
+Schubertring 5
+Fichtegasse 6
+Hegelgasse 9
+Wildpretmarkt 1
+Bauernmarkt 42921
+Lichtensteg 5
+Hofburg 3
+Hofburg 33
+Opernring 11
+Springergasse 24
+Lessinggasse 27
+Rueppgasse 21
+Rueppgasse 28
+Rueppgasse 29
+Scholzgasse 2
+Scholzgasse 4
+Scholzgasse 8
+Leopoldsgasse 39-41
+Kleine Pfarrgasse 14
+Schwarzingergasse 4
+Weintraubengasse 31
+Ungargasse 9
+Ungargasse 27
+Rochusgasse 4
+Rennweg 67
+Rennweg 65
+Barmherzigengasse 18
+Obere Bahngasse 10
+Hegergasse 11
+Fasangasse 31
+Jacquingasse 31
+Jacquingasse 35
+Pfarrhofgasse 4
+Pfarrhofgasse 2
+Ungargasse 33
+Beatrixgasse 14
+Eslarngasse 13
+Lehnertgasse 1
+Judengasse 9
+Franz-Josefs-Kai 11
+Griechengasse 10
+Griechengasse 3
+Rockhgasse 3
+Tiefer Graben 34
+Tiefer Graben 25
+Himmelpfortgasse 19
+Weihburggasse 16
+Annagasse 14
+Himmelpfortgasse 42953
+Himmelpfortgasse 12
+Laurenzerberg 1
+Bauernmarkt 15
+Hoher Markt 3
+Strauchgasse 3
+Beethovenplatz 4
+Schubertring 6
+Schubertring 8
+Fichtegasse 1
+Jungferngasse 2
+Judenplatz 10
+Judenplatz 8
+Untere Viaduktgasse 17
+Parkgasse 1
+Parkgasse 5
+Geusaugasse 51
+Zirkusgasse 26
+Rotensterngasse 28
+Rotensterngasse 29
+Castellezgasse 32
+Castellezgasse 35
+Klanggasse 5
+Pazmanitengasse 31
+Judengasse 7
+Rotgasse 8
+Rotgasse 2
+Neulinggasse 21
+Linke Bahngasse 15A
+Linke Bahngasse 19
+Rechte Bahngasse 22
+Klimschgasse 11
+Klimschgasse 17
+Gerlgasse 18
+Krummgasse 2
+Inwaldweg 16
+Hugo-Meisl-Weg 13
+Angergasse 5
+Angergasse 7
+Angergasse 15
+Kremsergasse 2B
+Auerhahngasse 6
+Joachimsthalerplatz 1
+Masurenweg 2
+Reinholdgasse 61
+Dominikanerbastei 41518
+Johannesgasse 2
+Barbaragasse 2
+Predigergasse 5
+Blutgasse 1
+Nikolaigasse 4
+Domgasse 3
+Dorotheergasse 19
+Dietrichgasse 48
+Wedlgasse 5
+Petrusgasse 8
+Petrusgasse 8
+Hyegasse 5
+Hyegasse 5
+Adamsgasse 9
+Untere Viaduktgasse 1
+Krieglergasse 16
+Wassergasse 8
+Geusaugasse 46
+Schrottgasse 14
+Hyegasse 6
+Weinlechnergasse 5
+Schlachthausgasse 31
+Strohgasse 5
+Streichergasse 1
+Arenberggasse 2
+Barichgasse 17
+Neulinggasse 52
+Salesianergasse 5
+Barichgasse 29
+Ottogasse 3
+Juchgasse 36
+Barichgasse 37
+Juchgasse 27
+Stanislausgasse 6
+Stanislausgasse 2
+Hauptallee 8
+Wolfersberggasse 10B
+Franz-Schalk-Platz 1A
+Voglgasse 22
+Voglgasse 42
+Gernotgasse 16A
+Carl-Reichert-Gasse 22A
+Wilhelm-Stemmer-Weg 9
+Arsenal 22
+Zukunftsweg 22A
+Pilotengasse 64
+Mittersteig 24
+Roesnergasse 4
+Kegelgasse 18
+Marxergasse 1A
+Kolonitzgasse 3
+Hetzgasse 5
+Lorbeergasse 4
+Marxergasse 1
+Untere Viaduktgasse 12
+Ditscheinergasse 4
+Haidingergasse 30
+Untere Viaduktgasse 6
+Schrottgasse 11
+Barichgasse 7
+Barmherzigengasse 9
+Boerhaavegasse 7
+Salesianergasse 18
+Zaunergasse 18
+Marokkanergasse 10
+Mohsgasse 24
+Mohsgasse 26
+Mohsgasse 28
+Trubelgasse 17
+Franz-Asenbauer-Gasse 29
+Karl-Leeder-Gasse 5
+Grimmelshausengasse 12
+Jauresgasse 11
+Boerhaavegasse 8
+Klimschgasse 2
+Klimschgasse 12
+Klimschgasse 14
+Meytensgasse 46
+Helmergasse 33
+Haffnergasse 48
+Clessgasse 75
+Lafnitzgasse 30
+Gablenzgasse 41395
+Seidlgasse 33
+Seidlgasse 37
+Uchatiusgasse 2
+Haidingergasse 31
+Seidlgasse 22
+Czapkagasse 3
+St.-Nikolaus-Platz 4
+Czapkagasse 4
+Kegelgasse 4
+Arsenal 216
+Nowalskigasse 2
+Paradeweg 1
+Franz-Schubert-Weg 4
+Deutschweg 18
+Biberhaufenweg 204
+August-Greiml-Weg 35
+Paradeweg 20
+Bauernweg 25
+Bauernweg 18
+Bauernweg 17
+Lohnergasse 4
+Futterknechtgasse 79B
+Herziggasse 6
+Wilhelm-Karczag-Weg 5
+Kliviengasse 52A
+U-Bahn-Bogen 274
+Kaposigasse 112
+Pfefferminzenweg 4
+Angergasse 11A
+Violaweg 45
+Naufahrtweg 111
+Dernjacgasse 12
+Schnitterweg 15
+Baumgasse 60B
+Laskywiesengasse 45
+Rosiwalgasse 2C
+Rosiwalgasse 2C
+Felixgasse 20
+Paulinensteig 78
+Gundackergasse 10
+An der Ostbahn 16
+An der Ostbahn 22
+Trimmelgasse 3
+Pfingstrosenweg 58A
+Lecherweg 9
+Danzergasse 109
+Thonetgasse 28
+Bachzeile 4
+Bachzeile 10
+Stockwiesenweg 23
+Khekgasse 15
+Schmidlergasse 7D
+Wilhelm-Karczag-Weg 15
+Jennerplatz 25
+Arnikaweg 99
+Wagner-Jauregg-Weg 4
+Lettenweg 10
+Lettenweg 10
+Rudolf-Kassner-Gasse 21
+Franz-Asenbauer-Gasse 76A
+Neurissener Anger 7
+Heimgasse 18
+Aurikelweg 87
+Aurikelweg 91
+Aurikelweg 95
+Aurikelweg 111
+Buchleitengasse 49A
+Kolbegasse 41
+Zypressenweg 53
+Redlweg 3
+Biberhaufenweg 165
+Anton-Schall-Gasse 6B
+Ing.-Sarek-Weg 27
+Leopold-Ferstl-Gasse 9
+Gablenzgasse 1
+Egon-Haug-Gasse 19
+Podlahagasse 79A
+Egon-Haug-Gasse 21
+Rothneusiedler Gasse 40
+Walter-Jurmann-Gasse 3
+Heuschreckengasse 5
+Sandrockgasse 79
+Bernhard-Bolzano-Gasse 15
+Albatrosgasse 8
+Promenadegasse 53A
+Staackmanngasse 27
+Gemeindeaugasse 26
+Piccaverweg 27
+Pia-Maria-Plechl-Weg 15
+Obachgasse 21
+Drapal-Pintar-Weg 30
+Drapal-Pintar-Weg 12
+Azaleengasse 62
+Neilreichgasse 224A
+Schenkendorfgasse 19
+Schenkendorfgasse 17
+Josef-Melichar-Gasse 2B
+Vollbadgasse 1A
+Traisengasse 2
+Neurissener Anger 35
+Zyklamengasse 34
+Lisseeweg 42
+Lisseeweg 54
+Oldenburggasse 62F
+Hadrawagasse 62A
+Samtblumenweg 1
+Harrachgasse 1
+Ragwurzgasse 8A
+Rubingasse 21
+Marinonigasse 36
+Nachreihengasse 1
+Favoritner Gewerbering 3
+Untere Viaduktgasse 3
+Birkenweg 21
+Liesinger Platz 2A
+Prixgasse 6
+Strohblumengasse 9
+Sensengasse 1
+Kirschenalleeweg 55
+Zimmermannplatz 10
+Zimmermannplatz 10
+Resedaweg 55A
+Oriongasse 11
+Franz-Schuster-Gasse 37
+Franz-Schuster-Gasse 39
+U-Bahn-Bogen 281
+Franz-Josefs-Kai 65
+Franz-Hochedlinger-Gasse 2
+Karmeliterplatz 1
+Schilfweg 53
+Stella-Kadmon-Weg 3
+Drapal-Pintar-Weg 5
+Erika-Mitterer-Weg 9
+Pia-Maria-Plechl-Weg 12
+Liesneckgasse 1C
+Feldmausgasse 3
+Neurissener Anger 41
+Kaingasse 16
+Tartergasse 3
+Sagedergasse 14
+Sagedergasse 14
+Sagedergasse 14
+Sagedergasse 14
+Sagedergasse 14
+Sagedergasse 14
+Gschweidlgasse 3
+U-Bahn-Bogen 113
+Godlewskigasse 1
+Heinrich-Kneissl-Gasse 17
+St.-Peter-Gasse 28-30
+Heuschreckengasse 1
+U-Bahn-Bogen 280
+Antaeusgasse 62
+Kleine Pfarrgasse 21
+Leopoldsgasse 17
+Kleine Pfarrgasse 3
+Malzgasse 16
+Aloisgasse 2
+Aloisgasse 2
+Aloisgasse 2
+Novaragasse 35
+Novaragasse 35
+Novaragasse 35
+Blumauergasse 24
+Rotensterngasse 17
+Lassingleithnerplatz 4
+Negerlegasse 9
+Lilienbrunngasse 43075
+Lilienbrunngasse 14
+Schottenring 31
+Werdertorgasse 19
+Gonzagagasse 9
+Castellezgasse 9
+Castellezgasse 11
+Castellezgasse 13
+Castellezgasse 15
+Castellezgasse 19
+Castellezgasse 26
+Salzgries 16
+Gonzagagasse 6
+Johann-Treixler-Gasse 11
+Schlettergasse 14
+Kaasgrabengasse 99
+Aurikelweg 13
+An der oberen Alten Donau 177
+Rosiwalgasse 86
+Aurikelweg 45
+Aurikelweg 51
+Dominikanerbastei 6
+Dominikanerbastei 8
+Gloriettegasse 1B
+Lichtensteg 3
+Ertlgasse 1
+Tiefer Graben 9
+Tiefer Graben 12
+Tuchlauben 13
+Stephansplatz 7
+Esterhazygasse 13
+Blumauergasse 14
+Odeongasse 1
+Gabelsbergergasse 2
+Gabelsbergergasse 3
+Vereinsgasse 30
+Vereinsgasse 36
+Am Tabor 8
+Lessinggasse 13
+Kleine Pfarrgasse 31
+Glockengasse 16
+Museumsplatz 2
+Miesbachgasse 10
+Schreygasse 13
+Adambergergasse 4
+Schreygasse 15
+Miesbachgasse 9
+Leopoldsgasse 12
+Josefinengasse 3
+Konradgasse 1
+Neulinggasse 32
+Tongasse 7
+Tongasse 5
+Tongasse 11
+Oberzellergasse 8
+Hohlweggasse 13
+Stubenring 14
+Stephansplatz 3
+Churhausgasse 2
+Rauhensteingasse 12
+Rauhensteingasse 3
+Neuer Markt 12
+Zedlitzgasse 2A
+Weihburggasse 1
+Weihburggasse 1
+Dorotheergasse 42827
+Maysedergasse 4
+Wollzeile 9
+Kurrentgasse 4
+Kurrentgasse 10
+Landskrongasse 5
+Tuchlauben 20
+Wildpretmarkt 9
+Schultergasse 3
+Kurrentgasse 2
+Tuchlauben 17
+Tuchlauben 21
+Walfischgasse 5
+Alte Walfischgasse 7
+Walfischgasse 11
+Fleischmarkt 20-22
+Ziehrerplatz 4
+Glockengasse 14
+Rotensterngasse 15A
+Rotensterngasse 15B
+Vereinsgasse 31
+Lessinggasse 12
+Boerhaavegasse 10
+Rennweg 12A
+Jauresgasse 17-19
+Strohgasse 19
+Gottfried-Keller-Gasse 13
+Rechte Bahngasse 46
+Baumgasse 43
+Beatrixgasse 4B
+Ungargasse 5
+Beatrixgasse 3
+Rennweg 57
+Rennweg 47
+Gerlgasse 20
+Grasbergergasse 1
+Arsenal 16
+Hafengasse 24
+Steingasse 33
+Hafengasse 13
+Hohlweggasse 19
+Siegelgasse 3
+Krummgasse 4
+Neulinggasse 14
+Michaelerplatz 4
+Zedlitzgasse 7
+Himmelpfortgasse 26
+Liebenberggasse 6
+Gartenbaupromenade 42795
+Graben 12
+Neuer Markt 13
+Dorotheergasse 13
+Seilergasse 6
+Spiegelgasse 5
+Seilergasse 14
+Hansalgasse 1
+Geologengasse 11
+Rasumofskygasse 19
+Geologengasse 12
+Untere Viaduktgasse 35
+Hetzgasse 25
+Seidlgasse 4
+Ziehrerplatz 7
+Barichgasse 6A
+Marokkanergasse 13
+Strohgasse 22
+Trubelgasse 19
+Fasangasse 36
+Jacquingasse 51
+Steingasse 6
+Gerlgasse 3
+Juchgasse 4
+Barmherzigengasse 14
+Barmherzigengasse 4
+Dannebergplatz 7
+Am Heumarkt 7
+Am Heumarkt 7
+Am Heumarkt 7
+Am Heumarkt 7
+Am Heumarkt 7
+Am Heumarkt 7
+Rennweg 33
+Rechte Bahngasse 40
+Gerlgasse 1A
+Jacquingasse 1
+Rennweg 98
+Rennweg 40
+Stanislausgasse 14
+Jacquingasse 2
+Neulinggasse 26
+Rochusgasse 25
+Kohlgasse 44
+Salmgasse 11
+Rennweg 93
+Rennweg 93
+Am Heumarkt 23
+Marokkanergasse 2
+Marokkanergasse 4
+Fasangasse 45
+Gerichtsgasse 3
+Anton-von-Webern-Platz 1
+Anton-von-Webern-Platz 1
+Diderotgasse 2
+Kolonitzplatz 7
+Geologengasse 6
+Kundmanngasse 10
+Kundmanngasse 6
+Dietrichgasse 43
+Dietrichgasse 51
+Baumgasse 25-27
+Kollergasse 22
+Seidlgasse 16
+Bechardgasse 18
+Kegelgasse 3
+Kundmanngasse 9
+Kundmanngasse 11
+Marxergasse 52
+Parkgasse 10
+Am Heumarkt 7
+Am Heumarkt 7
+Jacquingasse 49
+Fasangasse 53
+Fasangasse 55
+Hohlweggasse 44
+Trubelgasse 14
+Trubelgasse 4
+Mohsgasse 11
+Boerhaavegasse 1
+Dapontegasse 4
+Dapontegasse 8
+Neulinggasse 11
+Max-Mauermann-Gasse 28
+Beatrixgasse 21
+Voitgasse 2A
+Fehlingergasse 11B
+Geranienweg 6
+Fuchsienweg 9A
+Gernotgasse 2
+Gernotgasse 6
+Gerichtsgasse 20
+Cottagegasse 64A
+Ludwig-Eckardt-Gasse 29
+Ludwig-Eckardt-Gasse 26
+Ludwig-Eckardt-Gasse 32
+Tulzergasse 2
+Rebhanngasse 5
+Raffaelgasse 27
+Ospelgasse 35
+Allerheiligengasse 8
+Allerheiligenplatz 2
+Allerheiligengasse 6
+Rumplerweg 19
+Ranzenhofergasse 17
+Ranzenhofergasse 27
+Ranzenhofergasse 29
+Ranzenhofergasse 38
+Versorgungsheimplatz 2
+Kleiner Ring 53
+Egon-Schiele-Gasse 17
+Egon-Schiele-Gasse 21
+Egon-Schiele-Gasse 57
+Anatourgasse 33
+Odoakergasse 5
+Scariaweg 51
+Scariaweg 63
+Scariaweg 65
+Schmedesweg 11
+Schmedesweg 17
+Schmedesweg 21
+Schmedesweg 23
+Schmedesweg 27
+Zennergasse 10
+Baumeistergasse 27
+Gabillongasse 6
+Edelhofgasse 6
+Gentzgasse 6
+Theresiengasse 31
+Schumanngasse 13
+Haslingergasse 74
+Mayssengasse 29
+Horneckgasse 10
+Mayssengasse 26
+Gilmgasse 1
+Lienfeldergasse 96
+Pezzlgasse 5
+Bergsteiggasse 41
+Hormayrgasse 15
+Mayssengasse 21
+Gschwandnergasse 7
+Clemens-Hofbauer-Platz 4
+Schulgasse 75
+Anna-Frauer-Gasse 2
+O'Brien-Gasse 24
+Anton-Bosch-Gasse 17
+Anton-Bosch-Gasse 23
+Kammelweg 20
+Karl-Gramm-Gasse 4
+Karl-Gramm-Gasse 8
+Karl-Gramm-Gasse 12
+Wettsteingasse 9
+Wettsteingasse 11
+Eichfeldergasse 2
+Josef-Wakovsky-Gasse 2
+Michtnergasse 8
+Michtnergasse 12
+Wiener Gasse 3
+Hopfengasse 4
+Hopfengasse 4
+Hopfengasse 4
+Anatourgasse 37
+Cuviergasse 24
+Nisselgasse 2
+Nisselgasse 17
+Ameisgasse 10
+Fenzlgasse 17
+Elisabethallee 21
+Elisabethallee 29
+Schumanngasse 17
+Paulinengasse 28
+Staudgasse 88
+Theresiengasse 56
+Staudgasse 20
+Kutschkergasse 1
+Kutschkergasse 3
+Kutschkergasse 5
+Kutschkergasse 7
+Staudgasse 29
+Riglergasse 4
+Gentzgasse 9
+Gentzgasse 15
+Theresiengasse 32
+Dempschergasse 8
+Schulgasse 85
+Anna-Frauer-Gasse 1
+Anna-Frauer-Gasse 8
+Gertrudplatz 4
+Hans-Sachs-Gasse 22
+Schulgasse 18
+Schulgasse 24
+Eduardgasse 6
+Eduardgasse 6
+Kreuzgasse 9
+Kreuzgasse 11
+Mitterberggasse 24
+Teschnergasse 17
+Leitermayergasse 43
+Hans-Sachs-Gasse 13
+Wildnergasse 16
+Wildnergasse 23
+Wildnergasse 26
+Matthias-Ernst-Pista-Gasse 29
+Matthias-Ernst-Pista-Gasse 40
+Bellgasse 24
+Seitenberggasse 79
+Pezzlgasse 34
+Pezzlgasse 40
+Leopold-Ernst-Gasse 13
+Dornerplatz 11
+Kalvarienberggasse 56
+Dornerplatz 8
+Kalvarienberggasse 62
+Hormayrgasse 7
+Einwanggasse 10
+Einwanggasse 16
+Einwanggasse 22
+Einwanggasse 26
+Nobilegasse 6
+Fenzlgasse 19
+Elisabethallee 35
+Fasangartengasse 96
+Fasangartengasse 98
+Einwanggasse 30
+Ameisgasse 21
+Gurkgasse 16
+Reinlgasse 2
+Lacknergasse 106
+Schulgasse 88
+Schulgasse 88
+Canongasse 1
+Canongasse 5
+Dempschergasse 5
+Hildebrandgasse 10
+Antonigasse 11
+Rudolfinergasse 6
+Rudolfinergasse 8
+Rudolfinergasse 12
+Paul-Ehrlich-Gasse 2
+Leopold-Steiner-Gasse 43
+Paul-Ehrlich-Gasse 7
+Mollgasse 5
+Weitlofgasse 17
+Weitlofgasse 20
+Weitlofgasse 14
+Weitlofgasse 8
+Staudgasse 47
+Antonigasse 38
+Antonigasse 39
+Antonigasse 41
+Schumanngasse 41
+Schulgasse 57
+Schulgasse 59
+Staudgasse 52
+Sandgasse 14
+Sandgasse 29
+Gschwandnergasse 29
+Kapitelgasse 2
+Gschwandnergasse 23
+Kapitelgasse 6
+Kapitelgasse 8
+Lobenhauerngasse 20
+Dr.-Josef-Resch-Platz 12
+Dr.-Josef-Resch-Platz 14
+Leitermayergasse 5
+Leopold-Ernst-Gasse 9
+Leitermayergasse 13
+Leopold-Ernst-Gasse 42921
+Kalvarienberggasse 64
+Lacknergasse 2
+Lacknergasse 14
+Beckmanngasse 33
+Reinlgasse 13
+Wiesengasse 7
+Wurzbachtalgasse 23
+Alois-Czedik-Gasse 5
+Zolagasse 27
+Schuhbrechergasse 16D
+Schuhbrechergasse 50
+Geweygasse 5
+Geweygasse 43014
+Geweygasse 13
+Cobenzlgasse 22
+Cobenzlgasse 30
+Suttingergasse 2
+Alfred-Wegener-Gasse 6
+Alfred-Wegener-Gasse 8A
+Bloschgasse 2
+Bloschgasse 5
+Hohe Warte 23A
+Hohe Warte 52-54
+Alfred-Wegener-Gasse 17
+Alfred-Wegener-Gasse 19
+Eroicagasse 8
+Huschkagasse 10
+Waldaugasse 5
+Paradisgasse 16-18
+Bachofengasse 4
+Bachofengasse 5
+Amalgergasse 12
+Zehenthofgasse 38
+Kronesgasse 2A
+Kalvarienberggasse 27
+Mariengasse 17
+Mariengasse 19
+Gschwandnergasse 36
+Erdenweg 3
+Eibesbrunnergasse 26
+Eibesbrunnergasse 31
+Kreutzingergasse 41974
+Kreutzingergasse 36
+Kreutzingergasse 38
+Hallensteingasse 1
+Marschallplatz 3
+Elsniggasse 8
+Hoffingergasse 3
+Belghofergasse 39
+Belghofergasse 41
+Belghofergasse 46
+Cuviergasse 34
+Gobergasse 81
+Faistauergasse 6
+Faistauergasse 12
+Faistauergasse 20
+Perntergasse 9
+Perntergasse 11
+Silbergasse 61
+Hohe Warte 21A
+Floridusgasse 13
+Floridusgasse 13
+Kahlgasse 1
+Werndlgasse 10A
+Satzingerweg 63
+Rudolf-Kassner-Gasse 43
+Cobenzlgasse 25
+Cobenzlgasse 41
+Hackhofergasse 8
+Springsiedelgasse 28
+Cobenzlgasse 104
+Cobenzlgasse 107A
+Villenweg 31
+Villenweg 33
+Wolsteingasse 10
+Wolsteingasse 12
+Sumpfgasse 7
+Wolsteingasse 24A
+Beer-Hofmann-Gasse 2
+Berlagasse 36
+Kunersdorfgasse 2
+Erdenweg 13
+Erdenweg 15
+Wachtelweg 4
+Wachtelweg 6
+Waldmeistergasse 3
+Balsaminengasse 7
+Wegerichgasse 3
+Apfelrosenweg 6
+Greutberggasse 4
+Hasensteig 9
+Altmannsdorfer Anger 61
+Siegfriedgasse 41
+Siegfriedgasse 48
+Wilhelm-Raab-Gasse 4
+Wilhelm-Raab-Gasse 5
+Wilhelm-Raab-Gasse 6
+Schenkendorfgasse 37
+Schenkendorfgasse 37
+An der oberen Alten Donau 51A
+Hinaysgasse 1
+Hinaysgasse 1
+Kahlgasse 8
+Bahnsteggasse 3
+Bahnsteggasse 4
+Schegargasse 9
+Gatterburggasse 2
+Silbergasse 32
+Silbergasse 38
+Biedergasse 9
+Vegagasse 1
+Gatterburggasse 16
+Pyrkergasse 2C
+Glatzgasse 7
+Langwiesgasse 14
+Grundsteingasse 5
+Geibelgasse 29
+Meinhartsdorfer Gasse 3
+Arnsteingasse 21
+Brunnengasse 50
+Brunnengasse 50A
+Grundsteingasse 10
+Altmannsdorfer Anger 65
+Nauheimergasse 66
+Aichholzgasse 12
+Rosasgasse 24
+Tivoligasse 42
+Sagedergasse 42
+Altomontegasse 20
+Altomontegasse 49
+Bonygasse 69
+Schwenkgasse 22
+Schwenkgasse 8
+Schwenkgasse 18
+Altomontegasse 61
+Bahnsteggasse 13
+Demmergasse 10
+Demmergasse 11
+Pregartengasse 10
+Pregartengasse 7
+Schenkendorfgasse 43
+Friedrich-Engels-Platz 8
+Pregartengasse 2
+Arnethgasse 92
+Weiskerngasse 6
+Weiskerngasse 41
+Schmedesweg 33
+Schmedesweg 37
+Schmedesweg 48
+Liechtenwerder Platz 3
+Vegagasse 13
+Pyrkergasse 5
+Pyrkergasse 6
+Pyrkergasse 7
+Pyrkergasse 16
+Vegagasse 6
+Streffleurgasse 1
+Streffleurgasse 3
+Wasnergasse 19
+Wasnergasse 45
+Lambertgasse 9
+Lambertgasse 11
+Lambertgasse 1
+Wattgasse 4
+Grundsteingasse 53
+Kirchstetterngasse 45
+Liebhartsgasse 54
+Deinhardsteingasse 18
+Deinhardsteingasse 21
+Klausgasse 27
+Klausgasse 35
+Thalhaimergasse 42
+Starkenburggasse 48
+Rankgasse 15
+Ameisbachzeile 204
+Roseggergasse 36
+Rankgasse 16
+Rankgasse 22
+Roseggergasse 41
+Lorenz-Mandl-Gasse 45
+Lorenz-Mandl-Gasse 47
+Eduard-Hanslick-Gasse 10
+Eduard-Hanslick-Gasse 16
+Eduard-Hanslick-Gasse 20
+Eduard-Hanslick-Gasse 2
+Eduard-Hanslick-Gasse 1
+Schmedesweg 50
+Schmedesweg 78
+Schmedesweg 82
+Baumeistergasse 91
+Musilplatz 2
+Arnethgasse 106
+Musilplatz 9
+Odoakergasse 13
+Streffleurgasse 4
+Kunzgasse 5
+Allerheiligenplatz 17
+Helgolandgasse 11
+Heistergasse 1
+Heistergasse 13
+Modl-Toman-Gasse 4
+Modl-Toman-Gasse 8
+Veitingergasse 31
+Wambachergasse 2
+Wambachergasse 5
+Franz-Petter-Gasse 10
+Franz-Petter-Gasse 15
+Franz-Petter-Gasse 17
+Franz-Petter-Gasse 35
+Friedensstadtgasse 1A
+Jenbachgasse 18
+Jenbachgasse 22
+Jenbachgasse 24
+Reichmanngasse 7
+Reichmanngasse 9
+Dustmannweg 3
+Dustmannweg 7
+Dustmannweg 11
+Dustmannweg 21
+Dustmannweg 23
+Maternaweg 8
+Alszeile 36
+Handlirschgasse 12
+Korngasse 44
+Gentzgasse 146
+Severin-Schreiber-Gasse 3
+Baumeistergasse 33
+Nauseagasse 26
+Konstantingasse 5
+Konstantingasse 7
+Musilplatz 17
+Konstantingasse 9
+Dempschergasse 16
+Dempschergasse 18
+Schulgasse 82
+Plenergasse 8
+Plenergasse 14
+Staudgasse 3
+Hans-Sachs-Gasse 8
+Hans-Sachs-Gasse 2
+Karajangasse 27
+Streffleurgasse 12
+Rohrergasse 2
+Sandleitengasse 20
+Agricolagasse 8
+Agricolagasse 17
+Maroltingergasse 45
+Laborweg 4
+Oskar-Jascha-Gasse 95
+Oskar-Jascha-Gasse 33
+Olmagasse 7
+Olmagasse 10
+Oskar-Jascha-Gasse 6
+Sebastian-Brunner-Gasse 13
+Josef-Schuster-Gasse 10
+Franz-Petter-Gasse 1
+Josef-Schuster-Gasse 12
+Jenbachgasse 56
+Jenbachgasse 72
+Kleiner Ring 16
+Phillipsgasse 7
+Teybergasse 3
+Gentzgasse 122
+Hofstattgasse 7
+Hofstattgasse 8
+Haizingergasse 21
+Gentzgasse 112
+Abt-Karl-Gasse 8
+Gentzgasse 38
+Gentzgasse 46
+Twarochgasse 7
+Theresiengasse 4
+Theresiengasse 6
+Canongasse 22
+Schumanngasse 10
+Theresiengasse 38
+Schulgasse 60
+Schulgasse 66
+Plenergasse 19
+Canongasse 24
+Weitlofgasse 4
+Laborweg 6
+Laborweg 8
+Laborweg 14
+Laborweg 2
+Auf der Schottenwiese 20
+Auf der Schottenwiese 34
+Veronikagasse 10
+Ribarzgasse 1
+Ribarzgasse 18
+Erdbrustgasse 22
+Erdbrustgasse 30
+Erdbrustgasse 52
+Teybergasse 9
+Matznergasse 3
+Konrad-Duden-Gasse 27
+Konrad-Duden-Gasse 27
+Diesterweggasse 26
+Hadikgasse 180
+Beckmanngasse 24
+Elisabethallee 28
+Serravagasse 4
+Serravagasse 6
+Diesterweggasse 1
+Theresiengasse 9
+Theresiengasse 10
+Staudgasse 32
+Hans-Sachs-Gasse 11
+Staudgasse 2
+Staudgasse 8
+Haizingergasse 6
+Osterleitengasse 2B
+Osterleitengasse 6
+Osterleitengasse 10
+Pokornygasse 8
+Weilgasse 5
+Steinfeldgasse 1
+Steinfeldgasse 4
+Hornigweg 5
+Kosselgasse 22
+Schreiberweg 12
+Schreiberweg 27
+Schreiberweg 32
+Grinzinger Allee 11
+Kaasgrabengasse 3
+Kaasgrabengasse 6
+Kaasgrabengasse 12
+Kaasgrabengasse 20
+Kaasgrabengasse 22A
+Rumplerweg 9
+Rumplerweg 14
+Rumplerweg 17
+Anton-Frank-Gasse 22
+Haizingergasse 36
+Antonigasse 74
+Klostergasse 11
+Klostergasse 15
+Argauergasse 1
+Aumannplatz 1
+Gentzgasse 90
+Anton-Frank-Gasse 9
+Kreuzgasse 70
+Antonigasse 86
+Hadikgasse 58A
+Hadikgasse 74
+Hadikgasse 76
+Gurkgasse 7
+Ameisgasse 45
+Robert-Fuchs-Gasse 16
+Pokornygasse 17
+Pantzergasse 8
+Sommergasse 6
+Hans-Richter-Gasse 1
+Bauernfeldgasse 8
+Wigandgasse 27
+Schreiberweg 47
+Grinzinger Steig 10
+Schreiberweg 56
+Grinzinger Steig 11
+Unterer Schreiberweg 51
+Unterer Schreiberweg 59
+Langackergasse 5A
+Langackergasse 10A
+Langackergasse 29
+Muthgasse 56
+Greinergasse 35
+Grinzinger Allee 30
+Grinzinger Allee 40
+Langackergasse 34
+Kreuzgasse 73
+Severin-Schreiber-Gasse 21
+Haizingergasse 41
+Hofstattgasse 14
+Hofstattgasse 18
+Cottagegasse 5
+Gentzgasse 82-84
+Lacknergasse 61
+Lacknergasse 65
+Sommarugagasse 5
+Sommarugagasse 6
+Dittesgasse 6
+Cottagegasse 1
+Gentzgasse 62
+Sonnenweg 121
+Sonnenweg 154
+Zolagasse 15
+Wegerichgasse 20
+Wegerichgasse 22
+Waldmeistergasse 40
+Wegerichgasse 34
+Ziestgasse 24
+Postgasse 11
+Mondweg 95
+Mondweg 97
+Zyklamengasse 7
+Gebhardtgasse 8
+Pantzergasse 19
+Pantzergasse 21
+Pantzergasse 24
+Gustav-Tschermak-Gasse 21
+Gebhardtgasse 15
+Hohenauergasse 12
+Rudolfinergasse 1
+Rudolfinergasse 4
+Pilzgasse 39
+Pilzgasse 11
+Steinheilgasse 26
+Drnekgasse 19A
+Rudolf-Kassner-Gasse 7B
+Schenkendorfgasse 86
+Hopsagasse 2
+Hopsagasse 4
+Weisselgasse 12
+Probusgasse 1A
+Alfred-Nobel-Straße 41
+Alfred-Nobel-Straße  45
+Alfred-Nobel-Straße  61
+Patrizigasse 19
+Schenkendorfgasse 18
+Schenkendorfgasse 30
+Alfred-Nobel-Straße  63
+Haizingergasse 29
+Hofzeile 2
+Hofzeile 12A
+Hofzeile 16
+Hofzeile 18-20
+Elmargasse 1
+Barawitzkagasse 1
+Glatzgasse 5
+Zyklamengasse 25-27
+Zyklamengasse 28
+Moschingergasse 34
+Neuwiesgasse 9
+Postgasse 13
+Thalhaimergasse 46
+Thalhaimergasse 48
+Wichtelgasse 21
+Schuhmeierplatz 8
+Liebhartsgasse 52
+Liebhartsgasse 40
+Kinzerplatz 2
+Gretlgasse 7
+Gretlgasse 12
+Hanslgasse 12
+Leopold-Ferstl-Gasse 10
+Hufgasse 18
+Hufgasse 25A
+Kalsergasse 1
+Kalsergasse 4
+Kalsergasse 5
+Kalsergasse 8
+Kalsergasse 27
+Kalsergasse 41
+Floridusgasse 37
+Floridusgasse 41
+Orelgasse 8
+An der oberen Alten Donau 61
+An der oberen Alten Donau 121
+Bertlgasse 10
+Mengergasse 10
+Mengergasse 30
+Drygalskiweg 51
+Drygalskiweg 11
+Drygalskiweg 11
+Floridusgasse 50
+Mengergasse 5
+Mengergasse 9
+Nordmanngasse 77
+Nordmanngasse 77A
+Nordmanngasse 86
+Sommergasse 8
+Cottagegasse 53
+Cottagegasse 54
+Cottagegasse 64
+Guneschgasse 1
+Osterleitengasse 1
+Cottagegasse 66
+Cottagegasse 55
+Cottagegasse 68
+Hofferplatz 5
+Johann-Nepomuk-Berger-Platz 1
+Johann-Nepomuk-Berger-Platz 2
+Gaullachergasse 47
+Haberlgasse 70
+Haberlgasse 72
+Hellgasse 9
+Blumberggasse 13
+Arltgasse 35
+Gaullachergasse 43
+Friedrich-Kaiser-Gasse 36
+Payergasse 13
+Yppenplatz 10
+Friedmanngasse 30
+An der oberen Alten Donau 67
+Werndlgasse 3
+Werndlgasse 4
+Werndlgasse 7
+Siemensweg 15
+Cooperweg 9
+Floridusgasse 23
+Floridusgasse 26
+Rautenkranzgasse 26
+Rautenkranzgasse 26
+Rautenkranzgasse 26
+Rautenkranzgasse 26
+Rautenkranzgasse 26
+Rautenkranzgasse 26
+Rautenkranzgasse 26
+Fahrbachgasse 8
+Kestnerweg 3
+Schadinagasse 12
+Ferchergasse 16
+Ferchergasse 14
+Bergsteiggasse 49
+Beheimgasse 33
+Beheimgasse 40
+Beheimgasse 45
+Beheimgasse 46
+Pezzlgasse 63
+Beheimgasse 71
+Pezzlgasse 64
+Lacknergasse 26
+Beheimgasse 53
+Beheimgasse 61
+Haslingergasse 62
+Helgolandgasse 19
+Sachsenplatz 2
+Sachsenplatz 8
+Hartlgasse 64A
+Pappenheimgasse 51
+Schellhammergasse 23
+Haberlgasse 93
+Haberlgasse 88
+Brestelgasse 14
+Wendgasse 3
+Wendgasse 4
+Ganglbauergasse 20
+Oskar-Jascha-Gasse 13
+Oskar-Jascha-Gasse 13
+Oskar-Jascha-Gasse 20
+Oskar-Jascha-Gasse 34
+Oskar-Jascha-Gasse 70
+Titlgasse 15
+Veitingergasse 4
+Sebastian-Brunner-Gasse 2
+Ranzenhofergasse 10
+Ranzenhofergasse 11
+Ranzenhofergasse 12
+Ranzenhofergasse 16
+Starchantgasse 5
+Maroltingergasse 57
+Matschgasse 10
+Schrekergasse 44
+Dustmannweg 53
+Dustmannweg 59
+Starchantgasse 11A
+Maternaweg 15
+Maternaweg 21
+Maternaweg 23
+Reichmanngasse 30
+Reichmanngasse 50
+Baumeistergasse 20
+Scariaweg 2
+Scariaweg 9
+Scariaweg 18
+Scariaweg 30
+Odoakergasse 8
+Lienfeldergasse 28
+Lienfeldergasse 18
+Lienfeldergasse 22
+Lienfeldergasse 23
+Effingergasse 3
+Wattgasse 47
+Wattgasse 53
+Albrechtskreithgasse 1
+Effingergasse 5
+Speckbachergasse 52
+Redtenbachergasse 17
+Lienfeldergasse 30
+Lienfeldergasse 33
+Wurlitzergasse 78
+Effingergasse 8
+Sulmgasse 23
+Sonnenthalgasse 21
+Kempfengerngasse 11
+Paulinensteig 8
+Paulinensteig 10
+Paulinensteig 25
+Kestnerweg 2
+Vilicusweg 3
+An der Scheibenwiese 3
+Funkengerngasse 3
+Rolandweg 13
+Paulinensteig 65
+Staudgasse 61A
+Kreuzgasse 48
+Kreuzgasse 53
+Schulsteig 5
+Schulsteig 18
+Schulsteig 18
+Schulsteig 18
+Strehlgasse 32
+Strehlgasse 36
+Strehlgasse 38
+Strehlgasse 22
+Scherpegasse 1
+Windhabergasse 10
+Windhabergasse 11
+Windhabergasse 26
+Agnesgasse 5
+Agnesgasse 11A
+Agnesgasse 15A
+Neustift am Walde 86
+Neustift am Walde 95
+An der Zwerchwiese 7
+Rodlergasse 22
+Sollingergasse 25
+Sollingergasse 27
+Kammerergasse 11
+Kammerergasse 23
+Kammerergasse 27
+Dreimarksteingasse 5
+Webergasse 28
+Kluckygasse 20
+Webergasse 25
+Hannovergasse 9
+Burghardtgasse 25
+Adalbert-Stifter-Straße 30
+Redtenbachergasse 58
+Redtenbachergasse 60
+Degengasse 28
+Lienfeldergasse 41
+Paletzgasse 8
+Wurlitzergasse 86
+Paletzgasse 13
+Lienfeldergasse 81
+Paletzgasse 32
+Lienfeldergasse 85
+Promenadegasse 3
+Vinzenzgasse 1
+Gentzgasse 99
+Gentzgasse 111
+Kutschkergasse 41
+Gentzgasse 57
+Kutschkergasse 37
+Gentzgasse 49
+Anton-Frank-Gasse 6
+Anton-Frank-Gasse 7
+Anton-Frank-Gasse 10
+Johann-Nepomuk-Vogl-Platz 3
+Leitermayergasse 37
+Mitterberggasse 4
+Teschnergasse 3
+Neustift am Walde 6
+Medlergasse 2
+Medlergasse 5
+Traklgasse 7
+Budinskygasse 2
+Brechergasse 2
+Grundsteingasse 69
+Liebhartsgasse 55-57
+Floristenweg 10
+Ganglbauergasse 35
+Ganglbauergasse 27
+Kirchstetterngasse 11
+Kreitnergasse 28
+Arnethgasse 6
+Gansterergasse 18
+Kirchstetterngasse 8
+Neumayrgasse 1
+Haberlgasse 39
+Habichergasse 38
+Richard-Wagner-Platz 6
+Kreitnergasse 30
+Panikengasse 29
+Geroldgasse 7
+Julius-Meinl-Gasse 15
+Kainzgasse 14
+Umlauftgasse 2
+Umlauftgasse 5
+Umlauftgasse 15
+Andergasse 26
+Riglergasse 2
+Gentzgasse 65
+Gentzgasse 69
+Anton-Frank-Gasse 19
+Cottagegasse 18
+Hohe Warte 11
+Ruthgasse 25
+Ruthgasse 29
+Schegargasse 11
+Philippovichgasse 11
+Schegargasse 6
+Kirchstetterngasse 36
+Kirchstetterngasse 30
+Haberlgasse 36
+Liebhartsgasse 39
+Haberlgasse 4
+Panikengasse 20
+Panikengasse 37
+Thalhaimergasse 37
+Thalhaimergasse 49
+Thalhaimergasse 51
+Brunnengasse 27
+Menzelgasse 15
+Menzelgasse 19
+Wattgasse 25
+Wattgasse 34
+Wattgasse 40
+Haymerlegasse 39
+Hyrtlgasse 38
+Deinhardsteingasse 5
+Thujenweg 1
+Laubengasse 8
+Laubengasse 7
+De-Quer-Gasse 5
+Kainzgasse 20
+Zeillergasse 6
+Lascygasse 10
+Andergasse 32
+Kretschekgasse 20
+Kretschekgasse 32
+Kretschekgasse 36
+Kretschekgasse 38
+Stockwiesenweg 21
+Plachygasse 9
+Plachygasse 15
+Batkagasse 1
+Hockegasse 59
+Schillgasse 1
+Schillgasse 5
+Schillgasse 11
+Christian-Bucher-Gasse 9
+Christian-Bucher-Gasse 9
+Christian-Bucher-Gasse 11
+Christian-Bucher-Gasse 15
+Meyerbeergasse 16
+Meyerbeergasse 33
+Wettsteingasse 35
+Zaunscherbgasse 6
+Am Spitz 1
+Jeneweingasse 1
+Wenhartgasse 18
+Menzelgasse 22
+Haberlgasse 16
+Liebhartsgasse 13
+Liebhartsgasse 3
+Gablenzgasse 52
+Habichergasse 2
+Lambertgasse 4
+Wichtelgasse 7
+Friedrich-Kaiser-Gasse 77
+Weidmanngasse 19
+Haslingergasse 13
+Kalvarienberggasse 3
+Wattgasse 94A
+Blumengasse 64
+Blumengasse 70
+Taubergasse 22
+Nattergasse 2
+Czartoryskigasse 171
+Plachygasse 36
+Czartoryskigasse 209
+Czartoryskigasse 219A
+Alsgasse 6
+Heuberggasse 7
+Halirschgasse 18
+Leopold-Kunschak-Platz 3
+Braungasse 12
+Braungasse 26
+Alszeile 103
+Andergasse 42827
+Brunnenstubengasse 43016
+Buchenweg 3
+Buchenweg 10
+Hockegasse 60
+Hockegasse 61
+Silbergasse 1
+Zehenthofgasse 4
+Pfarrwiesengasse 30
+Gersunygasse 14
+Cottagegasse 67
+Iglaseegasse 44
+Zehenthofgasse 17
+Pfarrwiesengasse 23
+Pfarrwiesengasse 23
+Pfarrwiesengasse 23
+Galvanigasse 19
+Wenhartgasse 25
+Anton-Dengler-Gasse 1
+Gerstlgasse 8
+Jeneweingasse 10
+Jeneweingasse 18
+Sautergasse 5
+Wattgasse 76
+Wattgasse 82
+Wichtelgasse 73
+Clemens-Hofbauer-Platz 13
+Mariengasse 35
+Geblergasse 28
+Pezzlgasse 10
+Syringgasse 13
+Syringgasse 16
+Beheimgasse 12
+Beheimgasse 18
+Beheimgasse 24
+Bergsteiggasse 56
+Blumengasse 7
+Blumengasse 19
+Diepoldplatz 13
+Blumengasse 72
+Nattergasse 16
+Gschwandnergasse 52
+Bergsteiggasse 27
+Bergsteiggasse 50
+Alszeile 12
+Czartoryskigasse 53
+Hochweg 21
+Kainzgasse 28
+Naaffgasse 17
+Czartoryskigasse 48
+Krenngasse 9
+Pfarrwiesengasse 23
+Pfarrwiesengasse 23
+Pfarrwiesengasse 23
+Gersunygasse 1
+Nedergasse 17
+Zehenthofgasse 11
+Zehenthofgasse 31
+Iglaseegasse 39
+Telekygasse 10
+Cottagegasse 80
+Eichendorffgasse 1
+Lacknergasse 41
+Lacknergasse 45
+Diepoldplatz 8
+Mariengasse 5
+Mariengasse 7
+Rosensteingasse 24
+Rosensteingasse 26
+Rosensteingasse 28
+Mariengasse 39
+Wattgasse 54
+Sautergasse 9
+Geblergasse 116
+Klopstockgasse 21
+Geblergasse 120
+Geblergasse 25
+Palffygasse 17
+Helblinggasse 5
+Rosensteingasse 80
+Rosensteingasse 88
+Leopold-Ernst-Gasse 45
+Pezzlgasse 74
+Lorenz-Bayer-Platz 5
+Nattergasse 17
+Nattergasse 21
+Naaffgasse 24
+Gustav-Tschermak-Gasse 15
+Witthauergasse 17
+Witthauergasse 18
+Witthauergasse 20
+Bastiengasse 51
+Bastiengasse 57
+Krenngasse 6
+Schindlergasse 47
+Schindlergasse 52
+Thimiggasse 43
+Bastiengasse 71
+Bastiengasse 75
+Karl-Czerny-Gasse 15
+Spaungasse 14
+Mestrozigasse 7
+Hackenberggasse 51
+Taminoweg 2
+Traunfelsgasse 3
+Traunfelsgasse 5
+Rosensteingasse 96
+Rosensteingasse 96
+Rosensteingasse 96
+Schumanngasse 87
+Antonigasse 97
+Antonigasse 99
+Rosensteingasse 104
+Lacknergasse 51
+Buchleitengasse 2
+Hockegasse 78
+Hockegasse 80
+Hockegasse 82
+Hockegasse 95
+Salierigasse 20
+Bischof-Faber-Platz 13
+Bischof-Faber-Platz 9A
+Geyergasse 7
+Geyergasse 8
+Hawelgasse 12
+Schindlergasse 29
+Hockegasse 20
+Witthauergasse 33
+Witthauergasse 36
+Witthauergasse 42
+Ferrogasse 80
+Thimiggasse 61
+Friedrich-Wagner-Gasse 3
+Kluckygasse 1
+Webergasse 18
+Adalbert-Stifter-Straße 14
+Heinzelmanngasse 6
+Heinzelmanngasse 12
+Staudingergasse 3
+Taminoweg 3
+Hardtgasse 17
+Kreindlgasse 5A
+Wallensteinplatz 7
+Heinzelmanngasse 2
+Gatterburggasse 2E
+Gatterburggasse 9
+Hannovergasse 6
+Sautergasse 35-37
+Sautergasse 39
+Redtenbachergasse 39
+Speckbachergasse 41
+Schindlergasse 6
+Schindlergasse 20
+Waldeckgasse 1
+Waldeckgasse 4
+Salierigasse 37
+Hockegasse 36
+Starkfriedgasse 9
+Hawelgasse 15
+Hawelgasse 16
+Hawelgasse 20A
+Kalbeckgasse 5
+Flotowgasse 25
+Scherpegasse 1A
+Scherpegasse 3
+Budinskygasse 22
+Budinskygasse 7
+Hutweidengasse 33
+Budinskygasse 1
+Wilckensweg 8
+Gustav-Pick-Gasse 1
+Beethovengang 14
+Beethovengang 18
+Beethovengang 24
+Dommesgasse 6A
+Cebotariweg 3
+Webergasse 18A
+Denisgasse 12
+Othmargasse 14
+Webergasse 17
+Dennweg 15
+Seitenberggasse 71
+Sautergasse 49
+Redtenbachergasse 14
+Degengasse 37
+Hettenkofergasse 34
+Lienfeldergasse 47-51
+Lienfeldergasse 53
+Wurlitzergasse 9
+Seitenberggasse 33
+Seitenberggasse 39
+Lienfeldergasse 43
+Degengasse 52
+Seitenberggasse 17
+Scheimpfluggasse 21
+Sommerhaidenweg 124
+Sulzweg 3
+Zierleitengasse 42A
+Friedlgasse 30
+Kroneggergasse 4
+Kroneggergasse 4
+Kroneggergasse 14
+Siolygasse 19
+Glanzinggasse 7
+Glanzinggasse 10
+Glanzinggasse 21
+Zimmerlweg 11
+Kuhngasse 7
+Koschatgasse 56
+Leidesdorfgasse 23
+Obersteinergasse 3
+Obersteinergasse 9
+Ohmanngasse 1
+Dennweg 43
+Webergasse 13
+Hirschvogelgasse 5
+Denisgasse 24
+Othmargasse 9
+Gerhardusgasse 28
+Gerhardusgasse 30
+Bachgasse 16
+Kreitnergasse 39
+Kulmgasse 11
+Arnethgasse 32
+Wichtelgasse 33
+Arnethgasse 44
+Degengasse 13
+Arnethgasse 22
+Familienplatz 10
+Kirchstetterngasse 23
+Mildeplatz 8
+Seitenberggasse 16
+Seitenberggasse 18
+Arnethgasse 85
+Arnethgasse 83
+Arnethgasse 86
+Pointengasse 56A
+Pointengasse 58
+Eigenheimweg 47
+Quellenweg 6
+Schwalbenweg 4
+Waldrandweg 47
+Anton-Haidl-Gasse 3
+Andergasse 52
+Andergasse 56
+Andergasse 17
+Friedlgasse 52
+Friedlgasse 54
+Friedlgasse 56
+Friedlgasse 60
+Friedlgasse 61
+Koschatgasse 112
+Glanzinggasse 50
+Glanzinggasse 50A
+Glanzinggasse 55
+Glanzinggasse 74
+Raffelspergergasse 6
+Leopold-Steiner-Gasse 12
+Sulzweg 2
+Friedrich-Kaiser-Gasse 75A
+Neumayrgasse 17
+Neumayrgasse 17
+Neumayrgasse 17
+Neumayrgasse 17
+Neumayrgasse 17
+Neumayrgasse 17
+Neumayrgasse 17
+Brunnengasse 3
+Brunnengasse 4
+Haymerlegasse 10
+Haberlgasse 19
+Kirchstetterngasse 33
+Lindauergasse 5
+Bachgasse 10
+Klausgasse 48
+Lorenz-Mandl-Gasse 28
+Landsteinergasse 5
+Speckbachergasse 34
+Pschorngasse 11
+Hettenkofergasse 17
+Franz-Glaser-Gasse 10
+Carl-Reichert-Gasse 14
+Carl-Reichert-Gasse 22
+Carl-Reichert-Gasse 25
+Zeillergasse 13
+Lascygasse 12
+Urbangasse 14
+Pointengasse 17
+Zeillergasse 36
+Andergasse 6
+Schrammelgasse 59
+Ganglbauergasse 22
+Ganglbauergasse 24
+Ganglbauergasse 38
+Yppenplatz 7
+Gaullachergasse 25
+Gaullachergasse 31
+Gaullachergasse 37
+Lindauergasse 28
+Lindauergasse 35
+Abelegasse 8
+Lindauergasse 14
+Hyrtlgasse 17
+Ganglbauergasse 16
+Richard-Wagner-Platz 10
+Eisnergasse 8
+Friedrich-Kaiser-Gasse 67
+Gablenzgasse 22
+Schinnaglgasse 2
+Gablenzgasse 26
+Habichergasse 21
+Haymerlegasse 16
+Haymerlegasse 22
+Haberlgasse 33
+Haberlgasse 37
+Habichergasse 27
+Habichergasse 28
+Friedrich-Kaiser-Gasse 62
+Gutraterplatz 1
+Roseggergasse 2
+Lorenz-Mandl-Gasse 11
+Maroltingergasse 42
+Speckbachergasse 20
+Scherlandgasse 1
+Scherlandgasse 16
+Braungasse 1
+Knollgasse 1A
+Promenadegasse 12
+Haslingergasse 22
+Wielemansgasse 28
+Dr.-Josef-Resch-Platz 1
+Dr.-Josef-Resch-Platz 3
+Braungasse 13
+Schrammelgasse 9
+Schrammelgasse 11
+Pfarrwiesengasse 4
+Pfarrwiesengasse 43016
+Pfarrwiesengasse 14
+Pfarrwiesengasse 20
+Iglaseegasse 2
+Iglaseegasse 13
+Wilbrandtgasse 43
+Leo-Slezak-Gasse 16
+Ranftlgasse 2
+Schegargasse 18
+Eichendorffgasse 5
+Zehenthofgasse 12
+Brunnengasse 51
+Grundsteingasse 40
+Friedrich-Kaiser-Gasse 7
+Bachgasse 1
+Grundsteingasse 63
+Grundsteingasse 66
+Haymerlegasse 23
+Ganglbauergasse 2
+Panikengasse 4
+Grundsteingasse 29-31
+Hofferplatz 9
+Kirchstetterngasse 44
+Lacknergasse 53
+Wichtelgasse 22
+Eisnergasse 2
+Wichtelgasse 20
+Schinnaglgasse 9
+Gablenzgasse 36
+Elterleinplatz 15
+Lacknergasse 3
+Teichgasse 8
+Geblergasse 91
+Rosensteingasse 35
+Geblergasse 102
+Gschwandnergasse 26-28
+Mayssengasse 6
+Kalvarienberggasse 36
+Lacknergasse 15
+Braungasse 43
+Braungasse 47
+Curlandgasse 3
+Promenadegasse 39
+Promenadegasse 45A
+Promenadegasse 55
+Heuberggasse 14
+Heuberggasse 25
+Wildweg 10
+Petrus-Klotz-Gasse 8
+St.-Peter-Gasse 6
+St.-Peter-Gasse 13
+St.-Peter-Gasse 22
+Balderichgasse 20
+St.-Peter-Gasse 32
+Waldegghofgasse 6
+Zehenthofgasse 24
+Iglaseegasse 9
+Iglaseegasse 11
+Formanekgasse 1C
+Silbergasse 19
+Iglaseegasse 1
+Formanekgasse 27
+Formanekgasse 28
+Hohe Warte 5A
+Antonigasse 93
+Taubergasse 25
+Taubergasse 27
+Geblergasse 63
+Geblergasse 65
+Kulmgasse 27
+Wichtelgasse 64
+Clerfaytgasse 1
+Palffygasse 16
+Veronikagasse 43
+Veronikagasse 48
+Rokitanskygasse 49
+Schumanngasse 102
+Blumengasse 54
+Hormayrgasse 27
+Hormayrgasse 30
+Hormayrgasse 31
+Lacknergasse 15
+Hormayrgasse 9
+Pezzlgasse 51
+Rosensteingasse 29
+Rosensteingasse 29
+Rosensteingasse 29
+Schadinagasse 3
+Halirschgasse 13
+Max-Brod-Gasse 12
+Stefan-Zweig-Platz 1
+Lascygasse 21
+Schrammelgasse 19
+Schrammelgasse 45
+Schrammelgasse 47
+Schrammelgasse 51
+Trenkwaldgasse 10
+Trenkwaldgasse 14
+Waldegghofgasse 18
+Wildweg 3
+Erndtgasse 23
+Bastiengasse 49
+Ferrogasse 45
+Schalkgasse 2
+Thimiggasse 82
+Schindlergasse 28
+Biedergasse 1
+Hannovergasse 16
+Hannovergasse 5
+Greiseneckergasse 10
+Wallensteinplatz 2A
+Kaschlgasse 3
+Kaschlgasse 5
+Raffaelgasse 1B
+Raffaelgasse 2
+Brigittagasse 2
+Hartlgasse 9
+Greiseneckergasse 2
+Hormayrgasse 32
+Hormayrgasse 37
+Hormayrgasse 39
+Kalvarienberggasse 9
+Ortliebgasse 14
+Ortliebgasse 20
+Spitzackergasse 3
+Haslingergasse 32
+Frauengasse 6
+Wattgasse 86
+Helblinggasse 9
+Helblinggasse 15
+Kalvarienberggasse 6
+Blumengasse 60
+Leopold-Ernst-Gasse 29
+Bastiengasse 50
+Alszeile 30
+Alszeile 56
+Alszeile 56
+Alszeile 56A
+Alszeile 60
+Sandleitengasse 58
+Lascygasse 15
+Leschetitzkygasse 14
+Leschetitzkygasse 16
+Blaselgasse 24
+Salierigasse 5
+Bischof-Faber-Platz 7
+Leschetitzkygasse 95
+Erndtgasse 18
+Erndtgasse 16
+Littrowgasse 7
+Schindlergasse 34
+Thimiggasse 29
+Thimiggasse 37
+Thimiggasse 40
+Pielachgasse 5
+Traisengasse 14
+Heinzelmanngasse 17
+Heinzelmanngasse 20
+Mortaraplatz 9
+Staudingergasse 17-19
+Karajangasse 6
+Traisengasse 8
+Friedrich-Kaiser-Gasse 94
+Bastiengasse 52
+Eckpergasse 28
+Eckpergasse 36
+Eckpergasse 54
+Colloredogasse 33
+Colloredogasse 38
+Colloredogasse 26
+Ferrogasse 10
+Ferrogasse 18
+Bastiengasse 109
+Bastiengasse 109
+Blaselgasse 18
+Naaffgasse 37
+Naaffgasse 43
+Kalbeckgasse 7
+Messerschmidtgasse 23
+Witthauergasse 22
+Bischof-Faber-Platz 5
+Hockegasse 25
+Messerschmidtgasse 42
+Bastiengasse 101
+Eckpergasse 3
+Schindlergasse 3
+Schindlergasse 42
+Frimmelgasse 28
+Frimmelgasse 29
+Hansi-Niese-Gasse 3
+Othmargasse 23
+Aslangasse 12
+Dr.-Eduard-Heinl-Gasse 4
+Dr.-Eduard-Heinl-Gasse 8
+Jessengasse 15
+Gerhardusgasse 21A
+Wildgrubgasse 44
+Stillfriedplatz 1
+Huttengasse 55
+Wattgasse 1
+Wurlitzergasse 10
+Degengasse 29
+Speckbachergasse 18
+Landsteinergasse 8
+Familienplatz 6
+Wurlitzergasse 22
+Wurlitzergasse 32
+Sulmgasse 15
+Sulmgasse 19
+Bastiengasse 113
+Batkagasse 6
+Blaselgasse 6
+Blaselgasse 13
+Gustav-Tschermak-Gasse 11
+Hockegasse 37
+Erndtgasse 25
+Erndtgasse 27
+Buchleitengasse 39
+Raffelspergergasse 31
+Raffelspergergasse 45
+Starkfriedgasse 6
+Obkirchergasse 7
+Weinberggasse 2
+Sonnbergplatz 5
+Koschatgasse 48
+Koschatgasse 50
+Peter-Altenberg-Gasse 23
+Michaelerwaldweg 7
+Michaelerwaldweg 11
+Rodlergasse 5
+Weinberggasse 49
+Escherichgasse 9
+Kammerergasse 1
+Denisgasse 35
+Weinberggasse 32
+Weinberggasse 39
+Koschatgasse 12
+Koschatgasse 13
+Flemminggasse 6
+Flemminggasse 7
+Wurlitzergasse 34
+Wurlitzergasse 40
+Stadlergasse 21
+Hummelgasse 34-36
+Premreinergasse 31A
+Hackinger Kai 11
+Lilienberggasse 16
+Dobrowskygasse 11
+Zellwekergasse 4
+Zellwekergasse 8
+Zellwekergasse 9
+Wettengelgasse 16
+Wettengelgasse 38
+Wettengelgasse 61
+Wettengelgasse 64
+Wettengelgasse 12
+In der Wiesen 1
+Ranningergasse 3
+Zetschegasse 36
+Brunnenstubengasse 16
+Lynkeusgasse 80
+Klitschgasse 16
+Stuweckengasse 6
+Stuweckengasse 10
+Stuweckengasse 15
+Stuweckengasse 18
+Stuweckengasse 22
+Wattmanngasse 73
+Aschergasse 101
+Winkelbreiten 40
+Felbigergasse 97
+Felbigergasse 97
+Hanakgasse 17
+Pfadenhauergasse 22
+Fasangartengasse 63
+Phillipsgasse 1
+Geneegasse 15
+Heinrich-Kneissl-Gasse 10
+Heinrich-Kneissl-Gasse 18
+Jakob-Puggl-Weg 14
+Venusweg 27
+Anzbachgasse 132
+Anzbachgasse 138
+Zierleitengasse 40
+Aurikelweg 16
+Lobenhauerngasse 40-42
+Karl-Wilhelm-Diefenbach-Gasse 5
+Reiherweg 21
+Reiherweg 27
+Schottenring 15
+Celtesgasse 19
+Gamandergasse 1
+Warchalowskigasse 1
+Reiherweg 34
+Kressenweg 6
+Tegelweg 23
+Biberhaufenweg 6A
+Dahliengasse 8
+August-Greiml-Weg 9
+August-Greiml-Weg 21
+Danningerweg 14
+Daringergasse 7
+Daringergasse 7
+Herzgasse 52
+Eigenheimweg 4
+Anton-Strutzenberger-Weg 2
+Blumengasse 6
+Muffatgasse 2
+Jochbergengasse 48
+Buchenweg 18
+Buchleitengasse 83
+Anzbachgasse 8
+Anzbachgasse 16
+Rettichgasse 2B
+Anzbachgasse 36
+Anzbachgasse 46
+Anzbachgasse 140
+Nachtigallenweg 4
+Joachim-Schettl-Gasse 20
+Zeidlergasse 8
+Alsgasse 12
+Battiggasse 55
+Landskrongasse 3
+Schumanngasse 51
+Leitermayergasse 17
+Meggaugasse 5
+Alszeile 28
+Anton-Freunschlag-Gasse 86
+Buchsgasse 33
+Budaugasse 60
+Dennweg 47
+Einsiedeleigasse 26
+Kagraner Platz 42
+Anton-Strutzenberger-Weg 21
+Brabbeegasse 58
+Brachtlgasse 1
+Klugargasse 15
+Himmelhofgasse 40A
+Anzbachgasse 54
+Anzbachgasse 58
+Anzbachgasse 74
+Anzbachgasse 76
+Anzbachgasse 84
+Anzbachgasse 96
+Guldengasse 43016
+Guldengasse 2
+Hochsatzengasse 39F
+Hochsatzengasse 45
+Jupiterweg 25
+Rauchfangkehrergasse 29
+Wurmsergasse 20
+Weiglgasse 15
+Nachtigallenweg 27
+Pirolweg 14
+Robert-Fuchs-Gasse 20
+Leitgebgasse 1
+Gamandergasse 3
+Underreingasse 46
+Anton-Freunschlag-Gasse 86
+Anton-Haidl-Gasse 5
+Baumergasse 58
+Dirmhirngasse 14
+Kruisgasse 18
+Voitgasse 15
+Anton-Krieger-Gasse 30
+Anton-Krieger-Gasse 45
+Anton-Krieger-Gasse 72
+Burgenlandgasse 107
+Bechardgasse 6
+Beckgasse 41
+Dirmhirngasse 80
+Frimmelgasse 5
+Begonienweg 5
+Beheimgasse 74
+Kerpengasse 43
+Tichtelgasse 13
+Schallergasse 15
+Jheringgasse 2
+Mitterberggasse 11
+Pfadenhauergasse 24
+Mariannengasse 27
+Greinzgasse 4A
+Marienweg 6
+Marienweg 7
+Modl-Toman-Gasse 22
+Neustiftgasse 119
+Neutorgasse 7
+Lobaugasse 19
+Jheringgasse 1
+Rauchfangkehrergasse 33
+Hollergasse 3
+Rauchfangkehrergasse 44
+Hollergasse 9
+Lehnergasse 2
+Rustengasse 1
+Rustengasse 7
+Wurmsergasse 23
+Hippgasse 14
+Hippgasse 13-15
+Hippgasse 6
+Hippgasse 22
+Hippgasse 32
+Rauchfangkehrergasse 8
+Wolfsmilchgasse 55
+Glockenblumengasse 23
+Akaziengasse 27
+Ulanenweg 12
+Coburgbastei 42921
+Coburgbastei 42921
+Hegelgasse 1
+Weilandgasse 6
+Zamaragasse 2
+Ketzergasse 29
+Ketzergasse 35
+Ketzergasse 39
+Ketzergasse 111
+Wildagasse 1
+Graumanngasse 40
+Kuffnergasse 3
+Hormayrgasse 25
+Schukowitzgasse 31
+Josefsplatz 2
+Haberlandtgasse 57A
+Ketzergasse 208
+Paul-Katzberger-Gasse 23
+Pappelweg 28
+Angoraweg 18
+Korsenweg 32
+Pschorngasse 14
+Treffzgasse 34
+Zetschegasse 46
+Zwerggrabengasse 28
+Basler Gasse 77
+Basler Gasse 79
+Akaziengasse 6
+Akaziengasse 8
+Akaziengasse 9
+Akaziengasse 11
+Akaziengasse 20
+Anton-Freunschlag-Gasse 12
+Stipcakgasse 1
+Arnsteingasse 7
+Arnsteingasse 8
+Arnsteingasse 11
+Arnsteingasse 14
+Herklotzgasse 39
+Geibelgasse 42827
+Denglergasse 5
+Rustengasse 4
+Premreinergasse 7
+Preindlgasse 13
+Geylinggasse 9
+Matrasgasse 18
+Prehausergasse 21
+Prehausergasse 48
+Montigasse 13
+Weisselgasse 3
+Stumpergasse 10
+Dennweg 11
+Bernhard-Bolzano-Gasse 4
+Lindauergasse 20-22
+Schoeppelgasse 5
+Auhirschenweg 47
+Leopold-Steiner-Gasse 1A
+Kinkplatz 19
+Konrad-Duden-Gasse 9
+Gernotgasse 1
+Dostgasse 31
+Khleslplatz 12
+Kienmayergasse 23
+Kienmayergasse 26
+Kienmayergasse 49
+Hebragasse 6
+Kugelfanggasse 43
+Sportweg 2
+Kumpfgasse 6
+Hufgasse 10
+Josef-Zapf-Gasse 25
+Hofburg 18
+Julius-Meinl-Gasse 7A
+Zeifgasse 6
+Balderichgasse 31
+Zeleborgasse 11
+Zeleborgasse 21
+Lobaugasse 23
+Linke Wienzeile 130A
+Niederauergasse 6
+Marktgemeindegasse 7
+Mondscheingasse 16
+Mondweg 73-83
+Gernotgasse 98
+Resselgasse 4
+Rainergasse 18
+Karlweisgasse 39
+Zimbagasse 3
+Leon-Kellner-Weg 3
+Prehausergasse 4B
+Mantlergasse 16A
+Mantlergasse 20
+Mantlergasse 20A
+Testarellogasse 2
+Veitingergasse 64G
+Preysinggasse 10
+Sturzgasse 10A
+Yppengasse 6
+Weyprechtgasse 8
+Weyprechtgasse 12
+Hubergasse 10
+Grimmgasse 2
+Kardinal-Rauscher-Platz 2
+Preysinggasse 13
+Huglgasse 14
+Preysinggasse 23
+Nobilegasse 13
+Flachgasse 13
+Schuppengasse 33A
+Kammelweg 12A
+Zemlinskygasse 26
+Ziedlergasse 9
+Ziestgasse 6
+Woinovichgasse 31
+Veitlissengasse 44
+Venusweg 7
+Vergaragasse 11
+Strohblumengasse 188
+Lustkandlgasse 1
+Wiesengasse 24
+Balgavyweg 9
+Doeltergasse 25A
+Franz-Pletersky-Weg 3
+Franz-Pletersky-Weg 35A
+Lehrbachgasse 15
+Fischerstrand 42795
+Jungherrnsteig 2
+Wildgrubgasse 16
+Veitingergasse 102
+Franz-Boos-Gasse 1
+Hietzinger Kai 187
+Testarellogasse 35
+Tuersgasse 10
+Wattmanngasse 105-107
+Fasangartengasse 78
+Eyslergasse 5
+Eyslergasse 14
+Eyslergasse 16
+Eyslergasse 17
+Eyslergasse 21
+Eyslergasse 23
+Eyslergasse 26
+Eyslergasse 30
+Eyslergasse 42
+Fehlingergasse 22
+Kauerhof 4
+Kauerhof 5
+Kauerhof 7
+Stiegergasse 8
+Grimmgasse 42985
+Grimmgasse 1
+Preysinggasse 33
+Huglgasse 9
+Kardinal-Rauscher-Platz 4
+Kardinal-Rauscher-Platz 5
+Holochergasse 39
+Flachgasse 33
+Innocentiagasse 4
+Innocentiagasse 6
+Schulhof 1
+Tauschinskygasse 5
+Tauschinskygasse 5
+Tegelweg 36
+Viktor-Hagl-Gasse 5
+Sandgasse 44
+Algenweg 12
+Kaingasse 45
+Nejesgasse 11
+Lilienberggasse 16
+Seuttergasse 38
+St.-Veit-Gasse 49
+Wittegasse 4
+Geylinggasse 10
+Streitmanngasse 22
+Streitmanngasse 22
+Dr.-Schreber-Gasse 43
+Streitmanngasse 29
+Streitmanngasse 53
+Hochmaisgasse 45
+Hochmaisgasse 49
+Lynkeusgasse 8
+Lynkeusgasse 10
+Lynkeusgasse 15
+Lynkeusgasse 19
+Kaschauerplatz 7
+Stranzenberggasse 6
+Eyslergasse 49-51
+Eyslergasse 67
+Aschergasse 91
+Weinbergerplatz 1
+Gallgasse 3
+Gallgasse 21
+Gallgasse 29
+Hickelgasse 14
+Gurkgasse 43
+Gurkgasse 53
+Hickelgasse 21
+Max-Reinhardt-Gasse 3
+Stadlergasse 5
+Stadlergasse 6
+Einsiedeleigasse 9
+Einsiedeleigasse 13
+Veitlissengasse 5
+Lilienberggasse 9
+Suppegasse 9
+Titlgasse 4
+Beckgasse 35
+St.-Veit-Gasse 13
+Kupelwiesergasse 50
+Hummelgasse 24
+Einsiedeleigasse 27
+Einsiedeleigasse 33
+Einsiedeleigasse 41
+Arnikaweg 103
+Molnargasse 8
+Chromygasse 32
+Anton-Sattler-Gasse 102A
+Im Gereute 7
+Leo-Lehner-Gasse 3
+Glockenblumengasse 49
+Jauresgasse 2
+Faschinggasse 7
+An der Zwerchwiese 2
+Unterer Schreiberweg 91
+Jenbachgasse 48
+Bojanusgasse 12A
+Gotenweg 5
+Klitschgasse 34
+Maygasse 31
+Riedelgasse 12
+Riedelgasse 22
+Riedelgasse 36
+Riedelgasse 42
+Fasangartengasse 77
+Hochheimgasse 6
+Hochheimgasse 20
+Melchartgasse 10
+Treffzgasse 16
+Treffzgasse 26
+Viktor-Leon-Gasse 6
+Keplingergasse 3
+Keplingergasse 13
+Lynkeusgasse 28
+Lynkeusgasse 32
+Jupiterweg 34
+Jupiterweg 36
+Dostgasse 28
+Dostgasse 33
+Elsbeergasse 15
+Gamandergasse 26
+Waldweg 12
+Antonie-Platzer-Gasse 10
+Flurgasse 5
+Girzenberggasse 5
+Angermayergasse 9
+Glasauergasse 11
+Firmiangasse 10
+Glasauergasse 12
+Glasauergasse 28
+Lilienberggasse 4A
+Hansi-Niese-Weg 17
+Sillerplatz 25
+Eisenbachgasse 30
+Merktweg 10
+Tullnertalgasse 49
+Trollblumengasse 15
+Kreutzingergasse 34
+Schneebeerengasse 3
+Beingasse 10
+Am Kanal 9
+Hippgasse 31
+Lynkeusgasse 34
+Lynkeusgasse 36
+Lynkeusgasse 37
+Lynkeusgasse 39
+Lynkeusgasse 40
+Nikischgasse 4
+Nikischgasse 6
+Dehnegasse 9
+Rosentalgasse 24
+Rosentalgasse 45
+Anzbachgasse 53
+Anzbachgasse 75
+Mondweg 33
+Mondweg 38
+Pierrongasse 25
+Sauergasse 2
+Mondweg 43
+Mondweg 60
+Mondweg 65
+Stinglgasse 1
+Stinglgasse 1C
+Stinglgasse 16
+Hochenaistgasse 20
+Forstmeistergasse 17
+Haidersberggasse 14
+Haspelmeistergasse 5
+Viktor-Hagl-Gasse 39
+Badgasse 3
+Heinrich-Kneissl-Gasse 9
+Eisenbachgasse 18
+Eisenbachgasse 8
+Trabertgasse 40
+Trabertgasse 44
+Trabertgasse 48
+Dvorakgasse 18
+Gallgasse 46
+Konrad-Duden-Gasse 45
+Konrad-Duden-Gasse 49
+Konrad-Duden-Gasse 59
+Palmaygasse 17
+Palmaygasse 17
+Sillergasse 2
+Sillergasse 20
+Sillergasse 40
+Dvorakgasse 28
+Griepenkerlgasse 23
+Griepenkerlgasse 27
+Getreidemarkt 12
+Esterhazygasse 9
+Ettenreichgasse 38
+Anton-Krieger-Gasse 156
+Leidlweg 3
+Biblgasse 1
+Sagedergasse 44
+Mondweg 89
+Hanakgasse 7
+Molischgasse 25
+Molischgasse 35
+Neptunweg 8
+Wolfersberggasse 5B
+Pachmanngasse 1
+Pachmanngasse 10
+Felbigergasse 77
+Cossmanngasse 24
+Hanakgasse 13
+Jurekgasse 4
+Jurekgasse 16
+Jadengasse 2
+Wurmsergasse 13
+Blumentalgasse 1
+Hippgasse 20
+Hippgasse 36
+Menzelgasse 7
+Hippgasse 40
+Rauchfangkehrergasse 38
+Abelegasse 32
+Grenzgasse 15
+Elisabethallee 61
+Elisabethallee 63
+Wattmanngasse 103
+Eisenbachgasse 5
+Streitmanngasse 9
+Treffzgasse 31
+Streitmanngasse 19
+Dehnegasse 15
+Freyenthurmgasse 16
+Henckellgasse 18
+Zehetnergasse 20
+Zehetnergasse 40
+Dehnegasse 54
+Dehnegasse 54
+Freumbichlerweg 6
+Heschweg 167
+Edelhofgasse 16
+Edmund-Reim-Gasse 19
+Max-Mauermann-Gasse 1
+Junkgasse 16
+Zimmermanngasse 3
+Schenkweg 2
+Kirchfeldgasse 5
+Hallergasse 8A
+Preysinggasse 36
+Jupiterweg 23
+Hofburg 42
+Felbigergasse 79
+Flachgasse 60
+Sturzgasse 43
+Ortnergasse 4
+Ortnergasse 6
+Dreihausgasse 3
+Siebeneichengasse 12
+Jheringgasse 27
+Hollergasse 42
+Jheringgasse 25
+Benedikt-Schellinger-Gasse 10
+Brunnengasse 30
+Brunnengasse 26
+Menzelgasse 14
+Geibelgasse 13
+Geibelgasse 14-16
+Geibelgasse 15
+Henriettenplatz 5
+Benedikt-Schellinger-Gasse 2
+Adolfstorgasse 4
+Stock im Weg 14
+Andayweg 14
+Henckellgasse 1
+Henckellgasse 1
+Bujattigasse 5
+Leifhelmgasse 10
+Leifhelmgasse 11C
+Pausingergasse 28
+Pausingergasse 41
+Preradovicgasse 5
+Preradovicgasse 6
+Preradovicgasse 12
+Bujattigasse 19
+Jurekgasse 30
+Kaasgrabengasse 7
+Kagraner Platz 9A
+Theodor-Sickel-Gasse 8
+Huschkagasse 1A
+Kleiner Ring 17
+Kleiner Ring 26
+Kleiner Ring 52
+Lacknergasse 11
+Im Gestockert 67
+Indigoweg 12
+Neuer Markt 3
+Ortnergasse 3
+Schwendergasse 51
+Schwendergasse 53-55
+Illekgasse 13
+Illekgasse 5
+Wurmsergasse 8
+Weiglgasse 2
+Jheringgasse 8
+Pillergasse 10
+Rauchfangkehrergasse 17
+Rauchfangkehrergasse 23
+Goldmarkplatz 12
+Mantlergasse 35
+Bossigasse 21A
+Bossigasse 25
+Bergenstammgasse 7
+Gemeindeberggasse 28
+Gemeindeberggasse 79
+Gemeindeberggasse 113
+Mantlergasse 2A
+Bossigasse 47
+Gogolgasse 42
+Turgenjewgasse 43048
+Dostojewskijgasse 31
+Otto-Weininger-Gasse 3
+Tuersgasse 2
+Bergenstammgasse 2
+Felixgasse 67
+Westermayergasse 7
+Pierrongasse 14
+Hellmesbergergasse 15
+Anzbachgasse 41
+Anzbachgasse 47
+Lautensackgasse 43
+Stiegergasse 10
+Stiegergasse 12
+Graumanngasse 38
+Braunhirschengasse 46-48
+Grimmgasse 31
+Schwendergasse 31
+Hofburg 54
+Klosterbergweg 4
+Schulgasse 81
+Weitmosergasse 74
+Weldengasse 39
+Schafgarbenweg 1
+Testarellogasse 13
+Tetmajergasse 5A
+Viktoriagasse 12
+Eisenbachgasse 19
+Wenzgasse 17A
+Pinkagasse 26
+U-Bahn-Bogen 7
+Zwicklgasse 1
+Preindlgasse 9
+Trazerberggasse 5
+Trazerberggasse 63B
+Seuttergasse 31
+Hietzinger Kai 117
+Neblingergasse 43016
+Meytensgasse 17
+Meytensgasse 28
+Preindlgasse 7
+Schrutkagasse 50
+Hentschelgasse 1
+Ghelengasse 12
+Felixgasse 79
+Felixgasse 11
+Wambachergasse 12
+Hummelgasse 2
+Hummelgasse 14
+Titlgasse 1
+Faistauergasse 63
+Faistauergasse 69
+Franz-Petter-Gasse 32
+Faistauergasse 93
+Faistauergasse 101
+Jenullgasse 21
+Matznergasse 16
+Beckmanngasse 8
+Holochergasse 15
+Nobilegasse 41
+Sturzgasse 30
+Sturzgasse 34
+Graumanngasse 41
+Braunhirschengasse 7
+Dreihausgasse 26
+Selzergasse 18
+Selzergasse 25
+Holochergasse 13
+Lichtgasse 1
+Zyklamengasse 57
+Albert-Schweitzer-Gasse 7
+Theresiengasse 75-77
+Thimiggasse 46
+Wettengelgasse 22
+Hugo-Meisl-Weg 18
+Wichnergasse 13-15
+Witthauergasse 39-41
+Tigergasse 7
+Tigergasse 13-15
+Tivoligasse 11
+Waaggasse 15
+Ghelengasse 32
+Einsiedeleigasse 49
+Preindlgasse 25
+Karl-Schallhas-Gasse 4
+Linzackergasse 11
+Linzackergasse 11
+Girzenberggasse 20
+Josef-Gangl-Gasse 2E
+Girzenberggasse 32
+Leon-Kellner-Weg 28
+Josef-Gangl-Gasse 42
+Lynkeusgasse 42
+Lynkeusgasse 56
+Winkelbreiten 35
+Leegasse 7
+Max-Reinhardt-Gasse 1
+Zichygasse 7
+Zichygasse 11
+Matznergasse 2
+Matznergasse 43079
+Neubeckgasse 6
+Hickelgasse 11
+Neubeckgasse 1
+Weinzierlgasse 12
+Holochergasse 1
+Holochergasse 3
+Hackinger Kai 5
+Hummelgasse 30
+Hummelgasse 58
+Hummelgasse 62
+Hummelgasse 66
+Kupelwiesergasse 47
+Horeischygasse 17

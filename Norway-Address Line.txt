@@ -1,0 +1,6057 @@
+﻿Granstangen 10
+Granstangen 10
+Granstangen 16
+Granstangen 12
+Granstangen 12
+Granstangen 16
+Granstangen 16
+Granstangen 14
+Granstangen 14
+Granstangen 18
+Granstangen 14
+Granstangen 18
+Granstangen 22
+Granstangen 22
+Granstangen 20
+Granstangen 22
+Granstangen 20
+Granstangen 20
+Granstangen 20
+Granstangen 24
+Granstangen 28
+Granstangen 26
+Granstangen 28
+Granstangen 28
+Granstangen 26
+Granstangen 26
+Granstangen 30
+Granstangen 30
+Granstangen 30
+Granstangen 32
+Granstangen 32
+Granstangen 52
+Granstangen 34
+Granstangen 34
+Granstangen 36
+Granstangen 36
+Granstangen 36
+Granstangen 38
+Granstangen 40
+Søren Bulls vei 2
+Granstangen 38
+Granstangen 50
+Granstangen 40
+Trygve Lies plass 4
+Søren Bulls vei 25
+Søren Bulls vei 1
+Søren Bulls vei 29
+Søren Bulls vei 27
+Søren Bulls vei 4
+Søren Bulls vei 35
+Trygve Lies plass 3
+Trygve Lies plass 1
+Jerikoveien 97
+Jerikoveien 97
+Jerikoveien 89
+Jerikoveien 99
+Jerikoveien 99
+Jerikoveien 87
+Jerikoveien 93
+Jerikoveien 93
+Jerikoveien 99
+Jerikoveien 89
+Jerikoveien 91
+Jerikoveien 91
+Jerikoveien 95
+Kurlandstien 50
+Kurlandstien 48
+Kurlandstien 44
+Kurlandstien 46
+Kurlandstien 42
+Kurlandstien 40
+Kurlandstien 40
+Kurlandstien 40
+Kurlandstien 52
+Kurlandstien 58
+Kurlandstien 54
+Kurlandstien 56
+Kurlandstien 34
+Kurlandstien 34
+Kurlandstien 34
+Kurlandstien 34
+Kurlandstien 34
+Kurlandstien 34
+Kurlandstien 30
+Kurlandstien 32
+Kurlandstien 32
+Kurlandstien 32
+Kurlandstien 32
+Kurlandstien 32
+Kurlandstien 32
+Kurlandstien 32
+Kurlandstien 28
+Kurlandstien 32
+Kurlandstien 26
+Kurlandstien 24
+Kurlandstien 26
+Kurlandstien 26
+Kurlandstien 26
+Kurlandstien 26
+Kurlandstien 26
+Kurlandstien 26
+Kurlandstien 26
+Kurlandstien 24
+Kurlandstien 26
+Kurlandstien 26
+Kurlandstien 22
+Kurlandstien 18
+Kurlandstien 18
+Kurlandstien 18
+Kurlandstien 18
+Kurlandstien 18
+Kurlandstien 18
+Kurlandstien 18
+Kurlandstien 18
+Kurlandstien 20
+Kurlandstien 36
+Kurlandstien 38
+Kurlandstien 10
+Kurlandstien 10
+Kurlandstien 16
+Kurlandstien 10
+Kurlandstien 10
+Kurlandstien 14
+Kurlandstien 10
+Kurlandstien 10
+Kurlandstien 12
+Kurlandstien 12
+Kurlandstien 10
+Kurlandstien 10
+Kurlandstien 6
+Kurlandstien 10
+Kurlandstien 10
+Kurlandstien 12
+Kurlandstien 12
+Kurlandstien 10
+Kurlandstien 4
+Kurlandstien 10
+Kurlandstien 8
+Kurlandstien 8
+Kurlandstien 8
+Kurlandstien 8
+Kurlandstien 8
+Kurlandstien 8
+Kurlandstien 8
+Kurlandstien 8
+Kurlandstien 8
+Kurlandstien 8
+Kurlandstien 2
+Furuset allé 1
+Furuset allé 2
+Furuset allé 1
+Furuset allé 2
+Furuset allé 4
+Furuset allé 4
+Furuset allé 3
+Furuset allé 6
+Furuset allé 6
+Furuset allé 6
+Furuset allé 5
+Furuset allé 8
+Furuset allé 5
+Furuset allé 7
+Furuset allé 8
+Furuset allé 9
+Furuset allé 9
+Furuset allé 9
+Furuset allé 10
+Furuset allé 10
+Furuset allé 11
+Furuset allé 11
+Furuset allé 12
+Furuset allé 13
+Furuset allé 13
+Furuset allé 13
+Furuset allé 12
+Furuset allé 13
+Furuset allé 14
+Furuset allé 14
+Furuset allé 15
+Furuset allé 15
+Furuset allé 15
+Furuset allé 15
+Furuset allé 17
+Furuset allé 17
+Furuset allé 17
+Furuset allé 17
+Furuset allé 17
+Furuset allé 17
+Furuset allé 16
+Furuset allé 16
+Furuset allé 19
+Furuset allé 19
+Furuset allé 19
+Furuset allé 18
+Furuset allé 21
+Furuset allé 18
+Furuset allé 21
+Furuset allé 21
+Furuset allé 20
+Furuset allé 20
+Furuset allé 20
+Furuset allé 23
+Furuset allé 22
+Furuset allé 22
+Furuset allé 22
+Furuset allé 25
+Furuset allé 27
+Furuset allé 24
+Furuset allé 27
+Furuset allé 27
+Furuset allé 29
+Furuset allé 31
+Furuset allé 37
+Furuset allé 39
+Furuset allé 35
+Furuset allé 33
+Furusetveien 1
+Furusetveien 3
+Furusetveien 6
+Furusetveien 5
+Furusetveien 5
+Furusetveien 5
+Furusetveien 5
+Furusetveien 5
+Furusetveien 6
+Furusetveien 8
+Furusetveien 7
+Furusetveien 8
+Furusetveien 7
+Furusetveien 10
+Furusetveien 9
+Furusetveien 12
+Furusetveien 9
+Furusetveien 11
+Furusetveien 15
+Furusetveien 13
+Furusetveien 17
+Furusetveien 19
+Grorudveien 75
+Grorudveien 89
+Grorudveien 91
+Grorudveien 92
+Grorudveien 93
+Grorudveien 92
+Grorudveien 94
+Grorudveien 94
+Grorudveien 94
+Grorudveien 95
+Grorudveien 95
+Grorudveien 95
+Grorudveien 95
+Grorudveien 96
+Grorudveien 97
+Grorudveien 99
+Grorudveien 96
+Grorudveien 99
+Grorudveien 101
+Grorudveien 96
+Grorudveien 98
+Grorudveien 98
+Grorudveien 98
+Grorudveien 98
+Grorudveien 98
+Grorudveien 98
+Grorudveien 98
+Grorudveien 98
+Grorudveien 100
+Grorudveien 100
+Grorudveien 102
+Grorudveien 102
+Grorudveien 107
+Grorudveien 104
+Grorudveien 107
+Grorudveien 106
+Grorudveien 108
+Grorudveien 108
+Grorudveien 110
+Grorudveien 109
+Grorudveien 109
+Grorudveien 111
+Grorudveien 111
+Grorudveien 112
+Grorudveien 113
+Grorudveien 111
+Grorudveien 113
+Grorudveien 114
+Grorudveien 116
+Grorudveien 113
+Grorudveien 115
+Grorudveien 118
+Grorudveien 118
+Grorudveien 120
+Lerkeveien 1
+Lerkeveien 2
+Lerkeveien 2
+Lerkeveien 1
+Lerkeveien 2
+Lerkeveien 2
+Lerkeveien 1
+Lerkeveien 3
+Lerkeveien 3
+Lerkeveien 2
+Lerkeveien 4
+Lerkeveien 3
+Lerkeveien 4
+Lerkeveien 4
+Lerkeveien 5
+Lerkeveien 5
+Lerkeveien 6
+Lerkeveien 5
+Lerkeveien 6
+Lerkeveien 6
+Lerkeveien 6
+Lerkeveien 7
+Lerkeveien 7
+Lerkeveien 9
+Lerkeveien 9
+Lerkeveien 8
+Lerkeveien 8
+Lerkeveien 9
+Lerkeveien 10
+Lerkeveien 11
+Lerkeveien 11
+Lerkeveien 10
+Lerkeveien 13
+Lerkeveien 12
+Lerkeveien 12
+Lerkeveien 13
+Lerkeveien 13
+Lerkeveien 15
+Lerkeveien 14
+Lerkeveien 13
+Lerkeveien 15
+Lerkeveien 14
+Lerkeveien 16
+Lerkeveien 17
+Lerkeveien 16
+Lerkeveien 16
+Lerkeveien 16
+Lerkeveien 18
+Lerkeveien 18
+Lerkeveien 18
+Lønneveien 9
+Lønneveien 8
+Lønneveien 9
+Lønneveien 9
+Lønneveien 10
+Lønneveien 9
+Lønneveien 7
+Lønneveien 10
+Lønneveien 10
+Lønneveien 10
+Lønneveien 10
+Lønneveien 10
+Lønneveien 12
+Micheletveien 6
+Micheletveien 8
+Micheletveien 10
+Micheletveien 10
+Micheletveien 12
+Micheletveien 14
+Micheletveien 13
+Micheletveien 14
+Micheletveien 14
+Micheletveien 15
+Micheletveien 16
+Micheletveien 16
+Micheletveien 18
+Micheletveien 18
+Micheletveien 20
+Micheletveien 21
+Micheletveien 23
+Micheletveien 28
+Micheletveien 23
+Micheletveien 28
+Micheletveien 28
+Micheletveien 28
+Micheletveien 28
+Micheletveien 25
+Micheletveien 28
+Micheletveien 30
+Micheletveien 30
+Micheletveien 32
+Micheletveien 34
+Micheletveien 36
+Micheletveien 36
+Micheletveien 38
+Micheletveien 38
+Micheletveien 38
+Micheletveien 38
+Micheletveien 38
+Micheletveien 38
+Micheletveien 38
+Micheletveien 38
+Micheletveien 40
+Micheletveien 38
+Micheletveien 38
+Micheletveien 38
+Micheletveien 37
+Micheletveien 38
+Micheletveien 38
+Micheletveien 42
+Micheletveien 50
+Micheletveien 61
+Micheletveien 54
+Ulsholtveien 2
+Ulsholtveien 1
+Ulsholtveien 3
+Ulsholtveien 5
+Ulsholtveien 4
+Ulsholtveien 4
+Ulsholtveien 18
+Ulsholtveien 4
+Ulsholtveien 4
+Ulsholtveien 14
+Ulsholtveien 20
+Ulsholtveien 4
+Ulsholtveien 4
+Ulsholtveien 7
+Ulsholtveien 4
+Ulsholtveien 4
+Ulsholtveien 16
+Ulsholtveien 4
+Ulsholtveien 7
+Ulsholtveien 22
+Ulsholtveien 4
+Ulsholtveien 9
+Ulsholtveien 6
+Ulsholtveien 6
+Ulsholtveien 6
+Ulsholtveien 24
+Ulsholtveien 6
+Ulsholtveien 9
+Ulsholtveien 30
+Ulsholtveien 26
+Ulsholtveien 8
+Ulsholtveien 8
+Ulsholtveien 11
+Ulsholtveien 8
+Ulsholtveien 32
+Ulsholtveien 8
+Ulsholtveien 28
+Ulsholtveien 10
+Ulsholtveien 10
+Ulsholtveien 10
+Ulsholtveien 10
+Ulsholtveien 34
+Ulsholtveien 12
+Ulsholtveien 13
+Ulsholtveien 12
+Ulsholtveien 13
+Ulsholtveien 15
+Ulsholtveien 15
+Ulsholtveien 17
+Ulsholtveien 44
+Ulsholtveien 17
+Ulsholtveien 17
+Ulsholtveien 46
+Ulsholtveien 46
+Ulsholtveien 46
+Ulsholtveien 46
+Ulsholtveien 46
+Ulsholtveien 48
+Ulsholtveien 46
+Ulsholtveien 54
+Ulsholtveien 54
+Ulsholtveien 56
+Ulsholtveien 29
+Ulsholtveien 21
+Ulsholtveien 25
+Ulsholtveien 56
+Ulsholtveien 52
+Ulsholtveien 27
+Ulsholtveien 52
+Ulsholtveien 54
+Ulsholtveien 50
+Ulsholtveien 50
+Ulsholtveien 19
+Ulsholtveien 21
+Ulsholtveien 54
+Ulsholtveien 52
+Ulsholtveien 56
+Ulsholtveien 27
+Ulsholtveien 31
+Ulsholtveien 25
+Ulsholtveien 56
+Ulsholtveien 23
+Ulsholtveien 56
+Ulsholtveien 52
+Ulsholtveien 66
+Ulsholtveien 64
+Ulsholtveien 12
+Ulsholtveien 12
+Ulsholtveien 12
+Ulsholtveien 12
+Ulsholtveien 38
+Ulsholtveien 40
+Ulsholtveien 36
+Ulsholtveien 42
+Gamleveien 9
+Gamleveien 8
+Gamleveien 6
+Gamleveien 4
+Gamleveien 5
+Lønneveien 2
+Lønneveien 2
+Lønneveien 1
+Lønneveien 1
+Lønneveien 4
+Lønneveien 3
+Lønneveien 4
+Lønneveien 6
+Lønneveien 3
+Lønneveien 6
+Lønneveien 6
+Lønneveien 5
+Lønneveien 8
+Lønneveien 5
+Lønneveien 11
+Lønneveien 11
+Lønneveien 8
+Lønneveien 9
+Lønneveien 11
+Lønneveien 9
+Lønneveien 11
+Micheletveien 38
+Micheletveien 44
+Micheletveien 46
+Micheletveien 48
+Ulsholtveien 37
+Ulsholtveien 72
+Ulsholtveien 72
+Ulsholtveien 70
+Ulsholtveien 70
+Ulsholtveien 74
+Ulsholtveien 76
+Ulsholtveien 74
+Ulsholtveien 76
+Ulsholtveien 78
+Ulsholtveien 78
+Vesleveien 4
+Vesleveien 6
+Furusetveien 21
+Furusetveien 23
+Soleglad 1
+Soleglad 2
+Soleglad 4
+Soleglad 8
+Soleglad 8
+Soleglad 6
+Soleglad 22
+Soleglad 12
+Soleglad 10
+Soleglad 14
+Soleglad 20
+Soleglad 18
+Soleglad 18
+Soleglad 16
+Soleglad 11
+Soleglad 9
+Soleglad 7
+Soleglad 5
+Soleglad 3
+Micheletveien 9
+Micheletveien 11
+Micheletveien 10
+Micheletveien 12
+Gransdalen 1
+Gransdalen 1
+Gransdalen 1
+Gransdalen 1
+Gransdalen 1
+Gransdalen 1
+Gransdalen 3
+Gransdalen 1
+Gransdalen 3
+Gransdalen 3
+Gransdalen 3
+Gransdalen 5
+Gransdalen 7
+Gransdalen 7
+Gransdalen 9
+Gransdalen 9
+Gransdalen 11
+Gransdalen 13
+Gransdalen 13
+Gransdalen 13
+Gransdalen 13
+Gransdalen 13
+Gransdalen 13
+Gransdalen 15
+Gransdalen 15
+Gransdalen 15
+Gransdalen 15
+Gransdalen 17
+Gransdalen 33
+Gransdalen 33
+Gransdalen 33
+Gransdalen 23
+Gransdalen 33
+Gransdalen 33
+Gransdalen 25
+Gransdalen 33
+Gransdalen 33
+Gransdalen 23
+Gransdalen 33
+Gransdalen 22
+Gransdalen 29
+Gransdalen 35
+Gransdalen 23
+Gransdalen 27
+Gransdalen 27
+Gransdalen 31
+Gransdalen 27
+Gransdalen 25
+Gransdalen 23
+Gransdalen 33
+Vestre Haugen 1
+Vestre Haugen 78
+Vestre Haugen 3
+Vestre Haugen 5
+Vestre Haugen 72
+Vestre Haugen 76
+Vestre Haugen 7
+Vestre Haugen 70
+Vestre Haugen 74
+Vestre Haugen 62
+Vestre Haugen 60
+Vestre Haugen 68
+Vestre Haugen 58
+Vestre Haugen 66
+Vestre Haugen 9
+Vestre Haugen 64
+Vestre Haugen 56
+Vestre Haugen 11
+Vestre Haugen 38
+Vestre Haugen 54
+Vestre Haugen 13
+Vestre Haugen 36
+Vestre Haugen 40
+Vestre Haugen 34
+Vestre Haugen 52
+Vestre Haugen 32
+Vestre Haugen 42
+Vestre Haugen 50
+Vestre Haugen 30
+Vestre Haugen 26
+Vestre Haugen 15
+Vestre Haugen 28
+Vestre Haugen 44
+Vestre Haugen 24
+Vestre Haugen 22
+Vestre Haugen 20
+Vestre Haugen 46
+Vestre Haugen 16
+Vestre Haugen 17
+Vestre Haugen 14
+Vestre Haugen 48
+Vestre Haugen 17
+Vestre Haugen 17
+Vestre Haugen 17
+Vestre Haugen 19
+Vestre Haugen 19
+Vestre Haugen 21
+Vestre Haugen 10
+Vestre Haugen 12
+Vestre Haugen 8
+Vestre Haugen 2
+Vestre Haugen 4
+Vestre Haugen 6
+Vestre Haugen 18
+Høybråtenveien 14
+Høybråtenveien 4
+Høybråtenveien 12
+Høybråtenveien 3
+Høybråtenveien 1
+Høybråtenveien 1
+Høybråtenveien 11
+Høybråtenveien 9
+Høybråtenveien 1
+Høybråtenveien 1
+Høybråtenveien 3
+Høybråtenveien 3
+Høybråtenveien 11
+Høybråtenveien 1
+Høybråtenveien 1
+Høybråtenveien 11
+Høybråtenveien 9
+Høybråtenveien 1
+Høybråtenveien 7
+Høybråtenveien 3
+Høybråtenveien 3
+Høybråtenveien 3
+Høybråtenveien 9
+Høybråtenveien 9
+Høybråtenveien 1
+Høybråtenveien 7
+Høybråtenveien 7
+Høybråtenveien 3
+Høybråtenveien 7
+Høybråtenveien 5
+Høybråtenveien 3
+Høybråtenveien 5
+Høybråtenveien 14
+Høybråtenveien 5
+Høybråtenveien 16
+Høybråtenveien 16
+Høybråtenveien 16
+Høybråtenveien 13
+Høybråtenveien 35
+Høybråtenveien 35
+Høybråtenveien 18
+Høybråtenveien 35
+Høybråtenveien 13
+Høybråtenveien 20
+Høybråtenveien 22
+Høybråtenveien 35
+Høybråtenveien 24
+Høybråtenveien 23
+Høybråtenveien 21
+Høybråtenveien 24
+Høybråtenveien 23
+Høybråtenveien 25
+Høybråtenveien 33
+Høybråtenveien 33
+Høybråtenveien 24
+Høybråtenveien 21
+Høybråtenveien 33
+Høybråtenveien 25
+Høybråtenveien 23
+Høybråtenveien 25
+Høybråtenveien 31
+Høybråtenveien 23
+Høybråtenveien 31
+Høybråtenveien 21
+Høybråtenveien 25
+Høybråtenveien 31
+Høybråtenveien 31
+Høybråtenveien 23
+Høybråtenveien 19
+Høybråtenveien 26
+Høybråtenveien 25
+Høybråtenveien 31
+Høybråtenveien 23
+Høybråtenveien 29
+Høybråtenveien 19
+Høybråtenveien 25
+Høybråtenveien 25
+Høybråtenveien 29
+Høybråtenveien 29
+Høybråtenveien 23
+Høybråtenveien 26
+Høybråtenveien 15
+Høybråtenveien 17
+Høybråtenveien 25
+Høybråtenveien 23
+Høybråtenveien 25
+Høybråtenveien 17
+Høybråtenveien 23
+Høybråtenveien 27
+Høybråtenveien 25
+Høybråtenveien 28
+Høybråtenveien 17
+Høybråtenveien 23
+Høybråtenveien 23
+Høybråtenveien 28
+Høybråtenveien 30
+Høybråtenveien 37
+Høybråtenveien 38
+Gamle Strømsvei 2
+Gamle Strømsvei 29
+Gamle Strømsvei 29
+Gamle Strømsvei 29
+Gamle Strømsvei 29
+Gamle Strømsvei 31
+Gamle Strømsvei 31
+Gamle Strømsvei 37
+Gamle Strømsvei 37
+Gamle Strømsvei 44
+Gamle Strømsvei 44
+Kaiekroken 14
+Kaiekroken 12
+Kaiekroken 8
+Kaiekroken 6
+Kaiekroken 4
+Kaiekroken 10
+Kaiekroken 16
+Kaiekroken 18
+Grønliveien 2
+Grønliveien 2
+Grønliveien 1
+Grønliveien 2
+Grønliveien 1
+Grønliveien 1
+Grønliveien 2
+Grønliveien 1
+Grønliveien 5
+Grønliveien 3
+Grønliveien 2
+Grønliveien 3
+Grønliveien 4
+Grønliveien 7
+Grønliveien 4
+Grønliveien 6
+Grønliveien 9
+Grønliveien 6
+Grønliveien 11
+Grønliveien 8
+Grønliveien 8
+Grønliveien 8
+Grønliveien 10
+Grønliveien 13
+Grønliveien 10
+Grønliveien 13
+Grønliveien 10
+Grønliveien 25
+Grønliveien 27
+Grønliveien 12
+Grønliveien 23
+Grønliveien 14
+Grønliveien 21
+Grønliveien 19
+Grønliveien 16
+Grønliveien 17
+Grønliveien 15
+Grønliveien 18
+Grønliveien 35
+Grønliveien 18
+Grønliveien 39
+Grønliveien 37
+Grønliveien 20
+Grønliveien 39
+Grønliveien 39
+Grønliveien 39
+Grønliveien 41
+Grønliveien 43
+Grønliveien 20
+Grønliveien 45
+Grønliveien 22
+Grønliveien 49
+Grønliveien 22
+Grønliveien 45
+Grønliveien 45
+Fjeldhøikroken 12
+Fjeldhøikroken 8
+Fjeldhøikroken 14
+Fjeldhøikroken 16
+Fjeldhøikroken 18
+Fjeldhøikroken 25
+Fjeldhøikroken 25
+Fjeldhøikroken 27
+Fjeldhøikroken 20
+Fjeldhøikroken 27
+Fjeldhøikroken 10
+Fjeldhøikroken 23
+Fjeldhøikroken 21
+Fjeldhøikroken 19
+Fjeldhøikroken 17
+Fjeldhøikroken 17
+Fjeldhøikroken 17
+Fjeldhøikroken 17
+Fjeldhøikroken 17
+Fjeldhøikroken 15
+Fjeldhøikroken 15
+Fjeldhøikroken 13
+Fjeldhøikroken 6
+Fjeldhøikroken 11
+Gamle Strømsvei 11
+Gamle Strømsvei 13
+Erling Michelsens vei 7
+Erling Michelsens vei 7
+Erling Michelsens vei 7
+Erling Michelsens vei 7
+Erling Michelsens vei 11
+Erling Michelsens vei 11
+Erling Michelsens vei 9
+Erling Michelsens vei 11
+Erling Michelsens vei 9
+Erling Michelsens vei 11
+Erling Michelsens vei 6
+Erling Michelsens vei 13
+Erling Michelsens vei 9
+Erling Michelsens vei 4
+Erling Michelsens vei 4
+Erling Michelsens vei 11
+Erling Michelsens vei 6
+Erling Michelsens vei 9
+Erling Michelsens vei 11
+Erling Michelsens vei 4
+Erling Michelsens vei 13
+Erling Michelsens vei 6
+Erling Michelsens vei 4
+Erling Michelsens vei 17
+Erling Michelsens vei 17
+Erling Michelsens vei 15
+Erling Michelsens vei 8
+Erling Michelsens vei 17
+Erling Michelsens vei 17
+Erling Michelsens vei 15
+Erling Michelsens vei 8
+Erling Michelsens vei 2
+Erling Michelsens vei 2
+Erling Michelsens vei 17
+Erling Michelsens vei 2
+Erling Michelsens vei 8
+Erling Michelsens vei 2
+Erling Michelsens vei 17
+Erling Michelsens vei 15
+Erling Michelsens vei 10
+Erling Michelsens vei 2
+Gamle Strømsvei 90
+Gamle Strømsvei 100
+Gamle Strømsvei 102
+Gamle Strømsvei 102
+Gamle Strømsvei 102
+Gamle Strømsvei 102
+Gamle Strømsvei 104
+Gamle Strømsvei 104
+Gamle Strømsvei 106
+Gamle Strømsvei 106
+Gamle Strømsvei 110
+Munkebekken 118
+Munkebekken 120
+Munkebekken 128
+Munkebekken 130
+Munkebekken 122
+Munkebekken 10
+Munkebekken 20
+Munkebekken 124
+Munkebekken 132
+Munkebekken 12
+Munkebekken 22
+Munkebekken 126
+Munkebekken 37
+Munkebekken 14
+Munkebekken 11
+Munkebekken 17
+Munkebekken 13
+Munkebekken 21
+Munkebekken 19
+Munkebekken 134
+Munkebekken 15
+Munkebekken 136
+Munkebekken 24
+Munkebekken 39
+Munkebekken 16
+Munkebekken 26
+Munkebekken 28
+Munkebekken 138
+Munkebekken 18
+Munkebekken 140
+Munkebekken 41
+Munkebekken 44
+Munkebekken 43
+Munkebekken 45
+Munkebekken 35
+Munkebekken 31
+Munkebekken 23
+Munkebekken 33
+Munkebekken 25
+Munkebekken 27
+Munkebekken 46
+Munkebekken 29
+Munkebekken 30
+Munkebekken 48
+Munkebekken 47
+Munkebekken 32
+Munkebekken 49
+Munkebekken 50
+Munkebekken 34
+Munkebekken 51
+Munkebekken 69
+Munkebekken 71
+Munkebekken 53
+Munkebekken 77
+Munkebekken 57
+Munkebekken 75
+Munkebekken 73
+Munkebekken 59
+Munkebekken 55
+Munkebekken 36
+Munkebekken 38
+Munkebekken 52
+Munkebekken 61
+Munkebekken 79
+Munkebekken 63
+Munkebekken 81
+Munkebekken 83
+Munkebekken 65
+Munkebekken 67
+Munkebekken 85
+Munkebekken 87
+Munkebekken 89
+Munkebekken 40
+Munkebekken 42
+Munkebekken 91
+Munkebekken 93
+Munkebekken 54
+Munkebekken 101
+Munkebekken 95
+Munkebekken 103
+Munkebekken 152
+Munkebekken 97
+Munkebekken 56
+Munkebekken 58
+Munkebekken 105
+Munkebekken 154
+Munkebekken 142
+Munkebekken 107
+Munkebekken 109
+Munkebekken 60
+Munkebekken 144
+Munkebekken 64
+Munkebekken 66
+Munkebekken 62
+Munkebekken 68
+Munkebekken 156
+Munkebekken 70
+Munkebekken 146
+Munkebekken 158
+Munkebekken 111
+Munkebekken 113
+Munkebekken 148
+Munkebekken 160
+Munkebekken 150
+Munkebekken 80
+Munkebekken 78
+Munkebekken 74
+Munkebekken 76
+Munkebekken 72
+Munkebekken 82
+Munkebekken 84
+Munkebekken 162
+Munkebekken 172
+Munkebekken 115
+Munkebekken 164
+Munkebekken 117
+Munkebekken 174
+Munkebekken 166
+Munkebekken 119
+Munkebekken 86
+Munkebekken 176
+Munkebekken 88
+Munkebekken 135
+Munkebekken 168
+Munkebekken 121
+Munkebekken 170
+Munkebekken 123
+Munkebekken 178
+Munkebekken 137
+Munkebekken 100
+Munkebekken 180
+Munkebekken 139
+Munkebekken 90
+Munkebekken 102
+Munkebekken 92
+Munkebekken 186
+Munkebekken 94
+Munkebekken 190
+Munkebekken 188
+Munkebekken 184
+Munkebekken 104
+Munkebekken 182
+Munkebekken 141
+Munkebekken 96
+Munkebekken 125
+Munkebekken 106
+Munkebekken 192
+Munkebekken 143
+Munkebekken 98
+Munkebekken 108
+Munkebekken 194
+Munkebekken 112
+Munkebekken 110
+Munkebekken 114
+Munkebekken 116
+Munkebekken 256
+Munkebekken 254
+Munkebekken 264
+Munkebekken 266
+Munkebekken 196
+Munkebekken 260
+Munkebekken 262
+Munkebekken 272
+Munkebekken 268
+Munkebekken 258
+Munkebekken 274
+Munkebekken 270
+Munkebekken 276
+Munkebekken 198
+Munkebekken 200
+Munkebekken 278
+Munkebekken 290
+Munkebekken 216
+Munkebekken 284
+Munkebekken 204
+Munkebekken 288
+Munkebekken 282
+Munkebekken 202
+Munkebekken 280
+Munkebekken 286
+Munkebekken 218
+Munkebekken 220
+Munkebekken 206
+Munkebekken 127
+Munkebekken 129
+Munkebekken 131
+Munkebekken 133
+Munkebekken 208
+Munkebekken 210
+Munkebekken 222
+Munkebekken 224
+Munkebekken 214
+Munkebekken 212
+Munkebekken 236
+Munkebekken 238
+Munkebekken 240
+Munkebekken 242
+Munkebekken 244
+Munkebekken 226
+Munkebekken 228
+Munkebekken 230
+Munkebekken 232
+Munkebekken 234
+Munkebekken 145
+Munkebekken 252
+Munkebekken 145
+Munkebekken 246
+Munkebekken 250
+Munkebekken 248
+Munkebekken 292
+Munkebekken 145
+Munkebekken 145
+Munkebekken 145
+Munkebekken 145
+Munkebekken 306
+Munkebekken 304
+Munkebekken 308
+Munkebekken 302
+Munkebekken 310
+Munkebekken 300
+Munkebekken 460
+Munkebekken 452
+Munkebekken 316
+Munkebekken 456
+Munkebekken 322
+Munkebekken 318
+Munkebekken 298
+Munkebekken 312
+Munkebekken 458
+Munkebekken 458
+Munkebekken 454
+Munkebekken 454
+Munkebekken 456
+Munkebekken 296
+Munkebekken 320
+Munkebekken 460
+Munkebekken 314
+Munkebekken 452
+Munkebekken 450
+Munkebekken 450
+Munkebekken 448
+Munkebekken 428
+Munkebekken 422
+Munkebekken 414
+Munkebekken 444
+Munkebekken 444
+Munkebekken 412
+Munkebekken 424
+Munkebekken 418
+Munkebekken 442
+Munkebekken 408
+Munkebekken 394
+Munkebekken 416
+Munkebekken 442
+Munkebekken 434
+Munkebekken 430
+Munkebekken 430
+Munkebekken 402
+Munkebekken 404
+Munkebekken 324
+Munkebekken 392
+Munkebekken 422
+Munkebekken 420
+Munkebekken 418
+Munkebekken 432
+Munkebekken 428
+Munkebekken 426
+Munkebekken 416
+Munkebekken 446
+Munkebekken 400
+Munkebekken 326
+Munkebekken 424
+Munkebekken 440
+Munkebekken 434
+Munkebekken 410
+Munkebekken 412
+Munkebekken 420
+Munkebekken 414
+Munkebekken 436
+Munkebekken 436
+Munkebekken 446
+Munkebekken 448
+Munkebekken 406
+Munkebekken 426
+Munkebekken 432
+Munkebekken 396
+Munkebekken 350
+Munkebekken 348
+Munkebekken 398
+Munkebekken 344
+Munkebekken 346
+Munkebekken 388
+Munkebekken 342
+Munkebekken 384
+Munkebekken 386
+Munkebekken 390
+Munkebekken 340
+Munkebekken 328
+Munkebekken 330
+Munkebekken 332
+Munkebekken 382
+Munkebekken 334
+Munkebekken 380
+Munkebekken 336
+Munkebekken 338
+Munkebekken 378
+Munkebekken 376
+Munkebekken 352
+Munkebekken 354
+Munkebekken 374
+Munkebekken 372
+Munkebekken 370
+Munkebekken 368
+Munkebekken 356
+Munkebekken 358
+Munkebekken 165
+Munkebekken 366
+Munkebekken 364
+Munkebekken 362
+Munkebekken 360
+Munkebekken 167
+Munkebekken 163
+Munkebekken 161
+Munkebekken 195
+Munkebekken 171
+Munkebekken 249
+Munkebekken 197
+Munkebekken 205
+Munkebekken 209
+Munkebekken 99
+Munkebekken 191
+Munkebekken 157
+Munkebekken 223
+Munkebekken 243
+Munkebekken 189
+Munkebekken 153
+Munkebekken 149
+Munkebekken 233
+Munkebekken 227
+Munkebekken 253
+Munkebekken 259
+Munkebekken 267
+Munkebekken 201
+Munkebekken 203
+Munkebekken 207
+Munkebekken 185
+Munkebekken 183
+Munkebekken 175
+Munkebekken 151
+Munkebekken 225
+Munkebekken 239
+Munkebekken 241
+Munkebekken 247
+Munkebekken 255
+Munkebekken 257
+Munkebekken 199
+Munkebekken 193
+Munkebekken 179
+Munkebekken 177
+Munkebekken 217
+Munkebekken 215
+Munkebekken 221
+Munkebekken 229
+Munkebekken 235
+Munkebekken 237
+Munkebekken 251
+Munkebekken 265
+Munkebekken 211
+Munkebekken 173
+Munkebekken 155
+Munkebekken 231
+Munkebekken 245
+Munkebekken 263
+Munkebekken 213
+Munkebekken 187
+Munkebekken 181
+Munkebekken 219
+Munkebekken 261
+Munkebekken 169
+Munkebekken 159
+Skansen terrasse 7
+Skansen terrasse 7
+Trygve Nilsens vei 8
+Trygve Nilsens vei 10
+Trygve Nilsens vei 10
+Trygve Nilsens vei 10
+Trygve Nilsens vei 10
+Trygve Nilsens vei 10
+Trygve Nilsens vei 10
+Trygve Nilsens vei 9
+Trygve Nilsens vei 16
+Trygve Nilsens vei 11
+Trygve Nilsens vei 13
+Trygve Nilsens vei 16
+Trygve Nilsens vei 16
+Trygve Nilsens vei 15
+Trygve Nilsens vei 17
+Trygve Nilsens vei 16
+Trygve Nilsens vei 19
+Trygve Nilsens vei 16
+Trygve Nilsens vei 12
+Trygve Nilsens vei 12
+Trygve Nilsens vei 18
+Trygve Nilsens vei 23
+Trygve Nilsens vei 18
+Trygve Nilsens vei 18
+Trygve Nilsens vei 18
+Trygve Nilsens vei 25
+Trygve Nilsens vei 14
+Trygve Nilsens vei 12
+Trygve Nilsens vei 14
+Trygve Nilsens vei 21
+Trygve Nilsens vei 12
+Trygve Nilsens vei 14
+Trygve Nilsens vei 27
+Trygve Nilsens vei 14
+Trygve Nilsens vei 29
+Trygve Nilsens vei 31
+Trygve Nilsens vei 41
+Trygve Nilsens vei 20
+Trygve Nilsens vei 39
+Trygve Nilsens vei 33
+Trygve Nilsens vei 20
+Trygve Nilsens vei 37
+Trygve Nilsens vei 35
+Trygve Nilsens vei 20
+Trygve Nilsens vei 20
+Trygve Nilsens vei 51
+Trygve Nilsens vei 20
+Trygve Nilsens vei 20
+Trygve Nilsens vei 49
+Trygve Nilsens vei 47
+Trygve Nilsens vei 45
+Trygve Nilsens vei 22
+Trygve Nilsens vei 22
+Trygve Nilsens vei 50
+Trygve Nilsens vei 48
+Trygve Nilsens vei 38
+Trygve Nilsens vei 46
+Trygve Nilsens vei 30
+Trygve Nilsens vei 30
+Trygve Nilsens vei 30
+Trygve Nilsens vei 32
+Trygve Nilsens vei 32
+Trygve Nilsens vei 32
+Trygve Nilsens vei 34
+Trygve Nilsens vei 34
+Trygve Nilsens vei 36
+Trygve Nilsens vei 28
+Trygve Nilsens vei 26
+Trygve Nilsens vei 24
+Trygve Nilsens vei 48
+Trygve Nilsens vei 52
+Trygve Nilsens vei 40
+Trygve Nilsens vei 38
+Trygve Nilsens vei 38
+Trygve Nilsens vei 48
+Trygve Nilsens vei 34
+Trygve Nilsens vei 34
+Trygve Nilsens vei 24
+Trygve Nilsens vei 43
+Trygve Nilsens vei 50
+Trygve Nilsens vei 48
+Trygve Nilsens vei 48
+Trygve Nilsens vei 36
+Trygve Nilsens vei 46
+Trygve Nilsens vei 34
+Trygve Nilsens vei 34
+Trygve Nilsens vei 34
+Trygve Nilsens vei 28
+Trygve Nilsens vei 28
+Trygve Nilsens vei 22
+Trygve Nilsens vei 22
+Trygve Nilsens vei 50
+Trygve Nilsens vei 48
+Trygve Nilsens vei 48
+Trygve Nilsens vei 48
+Trygve Nilsens vei 38
+Trygve Nilsens vei 48
+Trygve Nilsens vei 48
+Trygve Nilsens vei 44
+Trygve Nilsens vei 28
+Trygve Nilsens vei 30
+Trygve Nilsens vei 34
+Trygve Nilsens vei 46
+Trygve Nilsens vei 48
+Trygve Nilsens vei 40
+Trygve Nilsens vei 36
+Trygve Nilsens vei 48
+Trygve Nilsens vei 44
+Trygve Nilsens vei 30
+Trygve Nilsens vei 26
+Trygve Nilsens vei 24
+Trygve Nilsens vei 28
+Trygve Nilsens vei 48
+Trygve Nilsens vei 52
+Trygve Nilsens vei 52
+Trygve Nilsens vei 40
+Trygve Nilsens vei 30
+Trygve Nilsens vei 30
+Trygve Nilsens vei 32
+Trygve Nilsens vei 34
+Trygve Nilsens vei 28
+Trygve Nilsens vei 26
+Trygve Nilsens vei 24
+Trygve Nilsens vei 52
+Trygve Nilsens vei 38
+Trygve Nilsens vei 46
+Trygve Nilsens vei 34
+Trygve Nilsens vei 34
+Trygve Nilsens vei 28
+Trygve Nilsens vei 26
+Trygve Nilsens vei 22
+Trygve Nilsens vei 24
+Trygve Nilsens vei 24
+Trygve Nilsens vei 22
+Trygve Nilsens vei 50
+Trygve Nilsens vei 48
+Trygve Nilsens vei 48
+Trygve Nilsens vei 28
+Trygve Nilsens vei 30
+Trygve Nilsens vei 32
+Trygve Nilsens vei 32
+Trygve Nilsens vei 28
+Trygve Nilsens vei 28
+Karolinerveien 5
+Erling Michelsens vei 15
+Erling Michelsens vei 10
+Erling Michelsens vei 2
+Erling Michelsens vei 2
+Erling Michelsens vei 19
+Erling Michelsens vei 2
+Erling Michelsens vei 15
+Erling Michelsens vei 19
+Erling Michelsens vei 12
+Erling Michelsens vei 10
+Erling Michelsens vei 2
+Erling Michelsens vei 20
+Erling Michelsens vei 24
+Erling Michelsens vei 30
+Erling Michelsens vei 26
+Erling Michelsens vei 10
+Erling Michelsens vei 16
+Erling Michelsens vei 16
+Erling Michelsens vei 16
+Erling Michelsens vei 18
+Erling Michelsens vei 32
+Erling Michelsens vei 32
+Erling Michelsens vei 28
+Erling Michelsens vei 34
+Erling Michelsens vei 12
+Erling Michelsens vei 18
+Erling Michelsens vei 18
+Erling Michelsens vei 21
+Erling Michelsens vei 21
+Erling Michelsens vei 19
+Erling Michelsens vei 21
+Erling Michelsens vei 24
+Erling Michelsens vei 22
+Erling Michelsens vei 28
+Erling Michelsens vei 28
+Erling Michelsens vei 34
+Erling Michelsens vei 34
+Erling Michelsens vei 12
+Erling Michelsens vei 12
+Erling Michelsens vei 2
+Erling Michelsens vei 2
+Erling Michelsens vei 21
+Erling Michelsens vei 21
+Erling Michelsens vei 19
+Erling Michelsens vei 22
+Erling Michelsens vei 30
+Erling Michelsens vei 32
+Erling Michelsens vei 34
+Erling Michelsens vei 14
+Erling Michelsens vei 14
+Erling Michelsens vei 16
+Erling Michelsens vei 19
+Erling Michelsens vei 18
+Erling Michelsens vei 20
+Erling Michelsens vei 22
+Erling Michelsens vei 26
+Erling Michelsens vei 21
+Erling Michelsens vei 22
+Erling Michelsens vei 22
+Erling Michelsens vei 22
+Erling Michelsens vei 34
+Erling Michelsens vei 12
+Erling Michelsens vei 14
+Erling Michelsens vei 14
+Erling Michelsens vei 14
+Erling Michelsens vei 19
+Erling Michelsens vei 21
+Erling Michelsens vei 21
+Erling Michelsens vei 21
+Erling Michelsens vei 21
+Erling Michelsens vei 24
+Erling Michelsens vei 26
+Erling Michelsens vei 24
+Erling Michelsens vei 32
+Erling Michelsens vei 32
+Erling Michelsens vei 18
+Erling Michelsens vei 18
+Erling Michelsens vei 19
+Erling Michelsens vei 20
+Erling Michelsens vei 22
+Erling Michelsens vei 28
+Erling Michelsens vei 28
+Erling Michelsens vei 34
+Erling Michelsens vei 12
+Erling Michelsens vei 16
+Erling Michelsens vei 19
+Erling Michelsens vei 2
+Erling Michelsens vei 2
+Erling Michelsens vei 21
+Erling Michelsens vei 21
+Erling Michelsens vei 32
+Erling Michelsens vei 28
+Erling Michelsens vei 28
+Erling Michelsens vei 32
+Erling Michelsens vei 15
+Fjeldhøikroken 2
+Fjeldhøikroken 4
+Trygve Nilsens vei 54
+Trygve Nilsens vei 44
+Trygve Nilsens vei 42
+Trygve Nilsens vei 48
+Trygve Nilsens vei 54
+Trygve Nilsens vei 42
+Trygve Nilsens vei 52
+Trygve Nilsens vei 40
+Trygve Nilsens vei 40
+Mariholtveien 91
+Munkebekken 438
+Mariholtveien 200
+Trygve Nilsens vei 48
+Trygve Nilsens vei 48
+Trygve Nilsens vei 42
+Trygve Nilsens vei 42
+Munkebekken 440
+Trygve Nilsens vei 54
+Trygve Nilsens vei 54
+Trygve Nilsens vei 40
+Mariholtveien 131
+Munkebekken 438
+Skansen terrasse 17
+Skansen terrasse 27
+Skansen terrasse 13
+Skansen terrasse 19
+Skansen terrasse 11
+Skansen terrasse 15
+Skansen terrasse 21
+Skansen terrasse 23
+Skansen terrasse 29
+Skansen terrasse 25
+Skansen terrasse 24
+Skansen terrasse 26
+Skansen terrasse 18
+Skansen terrasse 22
+Skansen terrasse 18
+Skansen terrasse 20
+Skansen terrasse 16
+Dragonstien 12
+Dragonstien 14
+Dragonstien 31
+Dragonstien 33
+Dragonstien 33
+Dragonstien 33
+Dragonstien 51
+Dragonstien 51
+Dragonstien 51
+Dragonstien 35
+Dragonstien 51
+Dragonstien 29
+Dragonstien 35
+Dragonstien 27
+Dragonstien 53
+Dragonstien 49
+Dragonstien 53
+Dragonstien 27
+Dragonstien 47
+Dragonstien 37
+Dragonstien 67
+Dragonstien 67
+Dragonstien 67
+Dragonstien 39
+Dragonstien 43
+Dragonstien 41
+Dragonstien 41
+Dragonstien 41
+Dragonstien 43
+Dragonstien 45
+Dragonstien 12
+Dragonstien 55
+Dragonstien 95
+Dragonstien 55
+Dragonstien 55
+Dragonstien 67
+Dragonstien 65
+Dragonstien 69
+Dragonstien 55
+Dragonstien 65
+Dragonstien 57
+Dragonstien 79
+Dragonstien 71
+Dragonstien 57
+Dragonstien 71
+Dragonstien 59
+Dragonstien 61
+Dragonstien 61
+Dragonstien 63
+Dragonstien 73
+Dragonstien 97
+Dragonstien 97
+Dragonstien 97
+Dragonstien 14
+Dragonstien 14
+Dragonstien 97
+Dragonstien 16
+Dragonstien 99
+Dragonstien 16
+Dragonstien 101
+Dragonstien 18
+Dragonstien 75
+Dragonstien 77
+Dragonstien 81
+Dragonstien 103
+Dragonstien 85
+Dragonstien 87
+Dragonstien 81
+Dragonstien 89
+Dragonstien 103
+Dragonstien 83
+Dragonstien 83
+Dragonstien 91
+Dragonstien 93
+Dragonstien 103
+Dragonstien 81
+Dragonstien 83
+Dragonstien 87
+Pionerstien 1
+Pionerstien 12
+Pionerstien 10
+Pionerstien 8
+Skansen terrasse 28
+Skansen terrasse 31
+Edvard Munchs vei 17
+Edvard Munchs vei 17
+Edvard Munchs vei 17
+Edvard Munchs vei 19
+Edvard Munchs vei 17
+Edvard Munchs vei 19
+Edvard Munchs vei 19
+Edvard Munchs vei 19
+Edvard Munchs vei 21
+Edvard Munchs vei 21
+Edvard Munchs vei 21
+Edvard Munchs vei 15
+Edvard Munchs vei 21
+Edvard Munchs vei 15
+Edvard Munchs vei 21
+Edvard Munchs vei 21
+Edvard Munchs vei 15
+Edvard Munchs vei 15
+Edvard Munchs vei 15
+Edvard Munchs vei 15
+Edvard Munchs vei 23
+Edvard Munchs vei 23
+Edvard Munchs vei 23
+Edvard Munchs vei 13
+Edvard Munchs vei 23
+Edvard Munchs vei 13
+Edvard Munchs vei 13
+Edvard Munchs vei 13
+Edvard Munchs vei 25
+Edvard Munchs vei 25
+Edvard Munchs vei 13
+Edvard Munchs vei 25
+Edvard Munchs vei 13
+Edvard Munchs vei 25
+Edvard Munchs vei 27
+Edvard Munchs vei 27
+Edvard Munchs vei 27
+Edvard Munchs vei 27
+Edvard Munchs vei 11
+Edvard Munchs vei 29
+Edvard Munchs vei 29
+Edvard Munchs vei 11
+Edvard Munchs vei 29
+Edvard Munchs vei 11
+Edvard Munchs vei 29
+Edvard Munchs vei 11
+Edvard Munchs vei 29
+Edvard Munchs vei 29
+Edvard Munchs vei 11
+Edvard Munchs vei 11
+Edvard Munchs vei 3
+Edvard Munchs vei 3
+Edvard Munchs vei 9
+Edvard Munchs vei 9
+Edvard Munchs vei 3
+Edvard Munchs vei 3
+Edvard Munchs vei 9
+Edvard Munchs vei 3
+Edvard Munchs vei 3
+Edvard Munchs vei 9
+Edvard Munchs vei 7
+Edvard Munchs vei 7
+Edvard Munchs vei 7
+Edvard Munchs vei 5
+Edvard Munchs vei 7
+Edvard Munchs vei 5
+Edvard Munchs vei 7
+Edvard Munchs vei 5
+Edvard Munchs vei 7
+Edvard Munchs vei 5
+Edvard Munchs vei 5
+Edvard Munchs vei 5
+Edvard Munchs vei 47
+Edvard Munchs vei 45
+Edvard Munchs vei 51
+Edvard Munchs vei 49
+Edvard Munchs vei 91
+Edvard Munchs vei 93
+Edvard Munchs vei 89
+Edvard Munchs vei 95
+Edvard Munchs vei 87
+Edvard Munchs vei 97
+Edvard Munchs vei 85
+Edvard Munchs vei 55
+Edvard Munchs vei 99
+Edvard Munchs vei 59
+Edvard Munchs vei 65
+Edvard Munchs vei 57
+Edvard Munchs vei 71
+Edvard Munchs vei 67
+Edvard Munchs vei 61
+Edvard Munchs vei 73
+Edvard Munchs vei 81
+Edvard Munchs vei 63
+Edvard Munchs vei 69
+Edvard Munchs vei 77
+Edvard Munchs vei 79
+Edvard Munchs vei 75
+Edvard Munchs vei 83
+Skansen terrasse 2
+Harald Sohlbergs vei 2
+Harald Sohlbergs vei 4
+Harald Sohlbergs vei 1
+Harald Sohlbergs vei 5
+Harald Sohlbergs vei 5
+Harald Sohlbergs vei 5
+Harald Sohlbergs vei 5
+Harald Sohlbergs vei 5
+Harald Sohlbergs vei 6
+Harald Sohlbergs vei 5
+Harald Sohlbergs vei 12
+Harald Sohlbergs vei 9
+Harald Sohlbergs vei 8
+Harald Sohlbergs vei 7
+Harald Sohlbergs vei 10
+Harald Sohlbergs vei 14
+Harald Sohlbergs vei 11
+Harald Sohlbergs vei 16
+Harald Sohlbergs vei 18
+Harald Sohlbergs vei 19
+Harald Sohlbergs vei 21
+Harald Sohlbergs vei 17
+Harald Sohlbergs vei 32
+Harald Sohlbergs vei 20
+Harald Sohlbergs vei 28
+Harald Sohlbergs vei 30
+Harald Sohlbergs vei 26
+Ludvig Karstens vei 1
+Ludvig Karstens vei 4
+Ludvig Karstens vei 3
+Ludvig Karstens vei 5
+Ludvig Karstens vei 6
+Ludvig Karstens vei 7
+Ludvig Karstens vei 9
+Ludvig Karstens vei 11
+Ludvig Karstens vei 8
+Ludvig Karstens vei 13
+Ludvig Karstens vei 15
+Ludvig Karstens vei 10
+Ludvig Karstens vei 17
+Ludvig Karstens vei 12
+Ludvig Karstens vei 14
+Henrik Sørensens vei 1
+Henrik Sørensens vei 3
+Henrik Sørensens vei 26
+Henrik Sørensens vei 5
+Henrik Sørensens vei 24
+Henrik Sørensens vei 22
+Henrik Sørensens vei 20
+Henrik Sørensens vei 18
+Henrik Sørensens vei 7
+Henrik Sørensens vei 16
+Henrik Sørensens vei 14
+Henrik Sørensens vei 9
+Henrik Sørensens vei 12
+Henrik Sørensens vei 10
+Henrik Sørensens vei 8
+Henrik Sørensens vei 11
+Henrik Sørensens vei 6
+Henrik Sørensens vei 4
+Henrik Sørensens vei 13
+Henrik Sørensens vei 2
+Henrik Sørensens vei 19
+Henrik Sørensens vei 21
+Henrik Sørensens vei 23
+Henrik Sørensens vei 25
+Henrik Sørensens vei 27
+Henrik Sørensens vei 29
+Henrik Sørensens vei 31
+Henrik Sørensens vei 33
+Henrik Sørensens vei 28
+Henrik Sørensens vei 35
+Henrik Sørensens vei 30
+Henrik Sørensens vei 32
+Henrik Sørensens vei 34
+Per Krohgs vei 1
+Per Krohgs vei 3
+Per Krohgs vei 4
+Per Krohgs vei 5
+Per Krohgs vei 2
+Henrik Sørensens vei 42
+Henrik Sørensens vei 38
+Henrik Sørensens vei 36
+Henrik Sørensens vei 40
+Henrik Sørensens vei 37
+Henrik Sørensens vei 39
+Henrik Sørensens vei 43
+Henrik Sørensens vei 41
+Henrik Sørensens vei 15
+Henrik Sørensens vei 17
+Jerikoveien 13
+Jerikoveien 7
+Jerikoveien 3
+Jerikoveien 13
+Jerikoveien 9
+Jerikoveien 1
+Jerikoveien 5
+Jerikoveien 13
+Jerikoveien 15
+Jerikoveien 15
+Jerikoveien 15
+Jerikoveien 15
+Jerikoveien 21
+Jerikoveien 15
+Jerikoveien 21
+Jerikoveien 21
+Jerikoveien 15
+Jerikoveien 17
+Jerikoveien 17
+Jerikoveien 17
+Jerikoveien 17
+Jerikoveien 10
+Jerikoveien 12
+Jerikoveien 14
+Jerikoveien 19
+Jerikoveien 19
+Jerikoveien 19
+Jerikoveien 16
+Jerikoveien 19
+Jerikoveien 19
+Jerikoveien 19
+Jerikoveien 21
+Jerikoveien 23
+Jerikoveien 23
+Jerikoveien 18
+Jerikoveien 23
+Jerikoveien 25
+Jerikoveien 25
+Jerikoveien 20
+Jerikoveien 25
+Jerikoveien 35
+Jerikoveien 35
+Jerikoveien 35
+Jerikoveien 35
+Jerikoveien 33
+Jerikoveien 33
+Jerikoveien 33
+Jerikoveien 33
+Jerikoveien 33
+Jerikoveien 33
+Jerikoveien 33
+Jerikoveien 33
+Jerikoveien 39
+Jerikoveien 33
+Jerikoveien 33
+Jerikoveien 39
+Jerikoveien 27
+Jerikoveien 27
+Jerikoveien 39
+Jerikoveien 37
+Jerikoveien 39
+Jerikoveien 37
+Jerikoveien 29
+Jerikoveien 37
+Jerikoveien 37
+Jerikoveien 27
+Jerikoveien 31
+Jerikoveien 31
+Jerikoveien 29
+Jerikoveien 31
+Jerikoveien 31
+Jerikoveien 31
+Jerikoveien 29
+Jerikoveien 31
+Jerikoveien 22
+Jerikoveien 29
+Jerikoveien 29
+Jerikoveien 29
+Jerikoveien 41
+Jerikoveien 26
+Jerikoveien 43
+Jerikoveien 43
+Jerikoveien 43
+Jerikoveien 43
+Jerikoveien 43
+Jerikoveien 43
+Jerikoveien 43
+Jerikoveien 43
+Jerikoveien 47
+Jerikoveien 47
+Jerikoveien 47
+Jerikoveien 47
+Jerikoveien 47
+Jerikoveien 47
+Jerikoveien 45
+Jerikoveien 45
+Jerikoveien 45
+Jerikoveien 45
+Jerikoveien 51
+Jerikoveien 55
+Jerikoveien 45
+Jerikoveien 45
+Jerikoveien 51
+Jerikoveien 51
+Jerikoveien 51
+Jerikoveien 53
+Jerikoveien 53
+Jerikoveien 57
+Jerikoveien 28
+Jerikoveien 49
+Jerikoveien 49
+Jerikoveien 49
+Jerikoveien 49
+Jerikoveien 49
+Jerikoveien 49
+Jerikoveien 59
+Jerikoveien 61
+Jerikoveien 59
+Jerikoveien 63
+Jerikoveien 65
+Jerikoveien 30
+Jerikoveien 32
+Kløfterhagen 9
+Kløfterhagen 9
+Kløfterhagen 9
+Kløfterhagen 1
+Kløfterhagen 1
+Kløfterhagen 1
+Kløfterhagen 1
+Kløfterhagen 6
+Kløfterhagen 1
+Kløfterhagen 1
+Kløfterhagen 8
+Kløfterhagen 3
+Kløfterhagen 4
+Kløfterhagen 3
+Kløfterhagen 3
+Kløfterhagen 3
+Kløfterhagen 3
+Kløfterhagen 32
+Kløfterhagen 48
+Kløfterhagen 5
+Kløfterhagen 3
+Kløfterhagen 30
+Kløfterhagen 5
+Kløfterhagen 28
+Kløfterhagen 34
+Kløfterhagen 14
+Kløfterhagen 26
+Kløfterhagen 46
+Kløfterhagen 16
+Kløfterhagen 36
+Kløfterhagen 24
+Kløfterhagen 22
+Kløfterhagen 44
+Kløfterhagen 18
+Kløfterhagen 38
+Kløfterhagen 42
+Kløfterhagen 20
+Kløfterhagen 40
+Kløfterhagen 5
+Kløfterhagen 7
+Kløfterhagen 50
+Kløfterhagen 7
+Kløfterhagen 52
+Kløfterhagen 54
+Kløfterhagen 7
+Kløfterhagen 5
+Kløfterhagen 7
+Kløfterhagen 7
+Kløfterhagen 5
+Kløfterhagen 7
+Kløfterhagen 5
+Kløfterhagen 56
+Kløfterhagen 7
+Kløfterhagen 5
+Kløfterhagen 5
+Kløfterhagen 58
+Kløfterhagen 7
+Kløfterhagen 60
+Kløfterhagen 7
+Kløfterhagen 7
+Kløfterhagen 13
+Kløfterhagen 15
+Kløfterhagen 13
+Kløfterhagen 15
+Kløfterhagen 13
+Kløfterhagen 11
+Kløfterhagen 15
+Kløfterhagen 13
+Kløfterhagen 11
+Kløfterhagen 15
+Kløfterhagen 13
+Kløfterhagen 11
+Kløfterhagen 13
+Kløfterhagen 11
+Kløfterhagen 13
+Kløfterhagen 17
+Kløfterhagen 17
+Kløfterhagen 13
+Kløfterhagen 17
+Kløfterhagen 21
+Kløfterhagen 17
+Kløfterhagen 23
+Kløfterhagen 21
+Kløfterhagen 17
+Kløfterhagen 21
+Kløfterhagen 21
+Kløfterhagen 17
+Kløfterhagen 19
+Kløfterhagen 19
+Kløfterhagen 19
+Kløfterhagen 19
+Kløfterhagen 19
+Kløfterhagen 21
+Kløfterhagen 19
+Kløfterhagen 21
+Kløfterhagen 33
+Kløfterhagen 31
+Kløfterhagen 31
+Kløfterhagen 35
+Kløfterhagen 37
+Kløfterhagen 29
+Kløfterhagen 31
+Kløfterhagen 35
+Kløfterhagen 31
+Kløfterhagen 37
+Kløfterhagen 27
+Kløfterhagen 27
+Kløfterhagen 31
+Kløfterhagen 31
+Kløfterhagen 35
+Kløfterhagen 35
+Kløfterhagen 37
+Kløfterhagen 35
+Kløfterhagen 37
+Kløfterhagen 35
+Kløfterhagen 37
+Kløfterhagen 25
+Kløfterhagen 37
+Kløfterhagen 23
+Kløfterhagen 25
+Kløfterhagen 39
+Kløfterhagen 39
+Kløfterhagen 39
+Kløfterhagen 39
+Kløfterhagen 33
+Kløfterhagen 39
+Kløfterhagen 39
+Kløfterhagen 33
+Kløfterhagen 65
+Kløfterhagen 79
+Kløfterhagen 81
+Kløfterhagen 33
+Kløfterhagen 61
+Kløfterhagen 83
+Kløfterhagen 105
+Kløfterhagen 77
+Kløfterhagen 33
+Kløfterhagen 75
+Kløfterhagen 33
+Kløfterhagen 69
+Kløfterhagen 63
+Kløfterhagen 51
+Kløfterhagen 47
+Kløfterhagen 49
+Kløfterhagen 55
+Kløfterhagen 71
+Kløfterhagen 103
+Kløfterhagen 59
+Kløfterhagen 73
+Kløfterhagen 67
+Kløfterhagen 53
+Kløfterhagen 117
+Kløfterhagen 101
+Kløfterhagen 57
+Kløfterhagen 85
+Kløfterhagen 119
+Kløfterhagen 99
+Kløfterhagen 87
+Kløfterhagen 89
+Kløfterhagen 87
+Kløfterhagen 99
+Kløfterhagen 99
+Kløfterhagen 121
+Kløfterhagen 93
+Kløfterhagen 91
+Kløfterhagen 99
+Kløfterhagen 99
+Kløfterhagen 99
+Kløfterhagen 107
+Kløfterhagen 95
+Kløfterhagen 97
+Kløfterhagen 113
+Kløfterhagen 113
+Kløfterhagen 111
+Kløfterhagen 109
+Kløfterhagen 115
+Jerikoveien 67
+Lindebergåsen 39
+Lindebergåsen 45
+Lindebergåsen 12
+Lindebergåsen 47
+Lindebergåsen 47
+Lindebergåsen 10
+Lindebergåsen 12
+Lindebergåsen 49
+Lindebergåsen 14
+Lindebergåsen 16
+Lindebergåsen 16
+Lindebergåsen 16
+Lindebergåsen 16
+Lindebergåsen 16
+Lindebergåsen 16
+Lindebergåsen 53
+Lindebergåsen 53
+Lindebergåsen 14
+Lindebergåsen 55
+Lindebergåsen 18
+Lindebergåsen 18
+Lindebergåsen 51
+Lindebergåsen 14
+Lindebergåsen 55
+Lindebergåsen 51
+Lindebergåsen 14
+Lindebergåsen 55
+Lindebergåsen 51
+Lindebergåsen 20
+Lindebergåsen 20
+Lindebergåsen 20
+Lindebergåsen 20
+Lindebergåsen 20
+Lindebergåsen 20
+Lindebergåsen 20
+Lindebergåsen 51
+Lindebergåsen 20
+Lindebergåsen 20
+Lindebergåsen 20
+Lindebergåsen 20
+Lindebergåsen 20
+Lindebergåsen 20
+Lindebergåsen 20
+Lindebergåsen 20
+Lindebergåsen 20
+Lindebergåsen 55
+Lindebergåsen 24
+Lindebergåsen 24
+Lindebergåsen 24
+Lindebergåsen 26
+Lindebergåsen 24
+Lindebergåsen 24
+Lindebergåsen 24
+Lindebergåsen 24
+Lindebergåsen 24
+Lindebergåsen 24
+Lindebergåsen 24
+Lindebergåsen 24
+Lindebergåsen 24
+Lindebergåsen 24
+Lindebergåsen 24
+Lindebergåsen 26
+Lindebergåsen 28
+Lindebergåsen 28
+Lindebergåsen 28
+Lindebergåsen 28
+Lindebergåsen 28
+Lindebergåsen 28
+Lindebergåsen 28
+Lindebergåsen 28
+Lindebergåsen 28
+Lindebergåsen 28
+Lindebergåsen 28
+Lindebergåsen 28
+Lindebergåsen 30
+Lindebergåsen 30
+Lindebergåsen 26
+Lindebergåsen 34
+Lindebergåsen 32
+Lindebergåsen 34
+Lindebergåsen 34
+Lindebergåsen 34
+Lindebergåsen 34
+Lindebergåsen 34
+Lindebergåsen 34
+Lindebergåsen 32
+Lindebergåsen 34
+Lindebergåsen 36
+Lindebergåsen 36
+Lindebergåsen 38
+Lindebergåsen 42
+Lindebergåsen 42
+Lindebergåsen 42
+Lindebergåsen 50
+Lindebergåsen 40
+Lindebergåsen 50
+Lindebergåsen 46
+Lindebergåsen 46
+Lindebergåsen 46
+Lindebergåsen 46
+Lindebergåsen 46
+Lindebergåsen 46
+Lindebergåsen 46
+Lindebergåsen 50
+Lindebergåsen 48
+Lindebergåsen 48
+Lindebergåsen 50
+Lindebergåsen 48
+Lindebergåsen 48
+Lindebergåsen 50
+Lindebergåsen 52
+Lindebergåsen 54
+Lindebergåsen 52
+Lindebergåsen 52
+Lindebergåsen 46
+Lindebergåsen 44
+Lindebergåsen 44
+Lindebergåsen 44
+Lindebergåsen 52
+Lindebergåsen 44
+Lindebergåsen 44
+Lindebergåsen 44
+Lindebergåsen 44
+Lindebergåsen 58
+Lindebergåsen 60
+Lindebergåsen 58
+Lindebergåsen 58
+Lindebergåsen 68
+Lindebergåsen 68
+Lindebergåsen 58
+Lindebergåsen 60
+Lindebergåsen 68
+Lindebergåsen 64
+Lindebergåsen 60
+Lindebergåsen 66
+Lindebergåsen 68
+Lindebergåsen 66
+Lindebergåsen 66
+Lindebergåsen 64
+Lindebergåsen 62
+Lindebergåsen 64
+Lindebergåsen 62
+Ole Reistads vei 5
+Ole Reistads vei 5
+Ole Reistads vei 5
+Ole Reistads vei 9
+Ole Reistads vei 9
+Ole Reistads vei 9
+Ole Reistads vei 11
+Ole Reistads vei 7
+Ole Reistads vei 3
+Ole Reistads vei 29
+Ole Reistads vei 27
+Ole Reistads vei 23
+Ole Reistads vei 25
+Ole Reistads vei 41
+Ole Reistads vei 43
+Ole Reistads vei 33
+Ole Reistads vei 33
+Ole Reistads vei 33
+Ole Reistads vei 37
+Ole Reistads vei 45
+Ole Reistads vei 45
+Ole Reistads vei 13
+Ole Reistads vei 29
+Ole Reistads vei 21
+Ole Reistads vei 23
+Ole Reistads vei 39
+Ole Reistads vei 41
+Ole Reistads vei 43
+Ole Reistads vei 33
+Ole Reistads vei 45
+Ole Reistads vei 45
+Ole Reistads vei 20
+Ole Reistads vei 27
+Ole Reistads vei 27
+Ole Reistads vei 23
+Ole Reistads vei 21
+Ole Reistads vei 39
+Ole Reistads vei 33
+Ole Reistads vei 33
+Ole Reistads vei 33
+Ole Reistads vei 33
+Ole Reistads vei 1
+Ole Reistads vei 31
+Ole Reistads vei 39
+Ole Reistads vei 39
+Ole Reistads vei 39
+Ole Reistads vei 41
+Ole Reistads vei 43
+Ole Reistads vei 17
+Ole Reistads vei 17
+Ole Reistads vei 15
+Ole Reistads vei 33
+Ole Reistads vei 31
+Ole Reistads vei 27
+Ole Reistads vei 41
+Ole Reistads vei 43
+Ole Reistads vei 21
+Ole Reistads vei 31
+Ole Reistads vei 25
+Ole Reistads vei 41
+Ole Reistads vei 33
+Ole Reistads vei 33
+Ole Reistads vei 37
+Ole Reistads vei 45
+Ole Reistads vei 43
+Ole Reistads vei 45
+Ole Reistads vei 21
+Ole Reistads vei 29
+Ole Reistads vei 27
+Ole Reistads vei 33
+Ole Reistads vei 31
+Ole Reistads vei 31
+Ole Reistads vei 23
+Ole Reistads vei 23
+Ole Reistads vei 22
+Ole Reistads vei 23
+Ole Reistads vei 25
+Ole Reistads vei 23
+Ole Reistads vei 37
+Ole Reistads vei 43
+Ole Reistads vei 37
+Ole Reistads vei 45
+Ole Reistads vei 1
+Ole Reistads vei 15
+Ole Reistads vei 29
+Ole Reistads vei 31
+Ole Reistads vei 25
+Ole Reistads vei 23
+Ole Reistads vei 33
+Ole Reistads vei 33
+Ole Reistads vei 37
+Ole Reistads vei 45
+Ole Reistads vei 45
+Hockeyveien 2
+Hockeyveien 4
+Hockeyveien 6
+Hockeyveien 8
+Hockeyveien 10
+Hockeyveien 12
+Hockeyveien 14
+Hockeyveien 11
+Hockeyveien 13
+Hockeyveien 15
+Hockeyveien 17
+Lindeberglia 3
+Lindeberglia 5
+Lindeberglia 7
+Lindeberglia 9
+Lindeberglia 11
+Lindeberglia 13
+Lindeberglia 6
+Lindeberglia 8
+Lindeberglia 10
+Lindeberglia 12
+Lindeberglia 15
+Lindeberglia 14
+Lindeberglia 18
+Lindeberglia 16
+Lindeberglia 17
+Lindeberglia 18
+Lindeberglia 18
+Lindeberglia 19
+Lindeberglia 18
+Lindeberglia 20
+Lindeberglia 21
+Lindeberglia 23
+Lindeberglia 22
+Lindeberglia 25
+Lindeberglia 24
+Lindeberglia 26
+Lindeberglia 28
+Lindeberglia 30
+Lindeberglia 32
+Lindeberglia 34
+Lindeberglia 36
+Lindebergveien 9
+Lindebergveien 9
+Lindebergveien 9
+Lindebergveien 7
+Lindebergveien 9
+Lindebergveien 7
+Lindebergveien 5
+Lindebergveien 5
+Lindebergveien 5
+Lindebergveien 3
+Lindebergveien 27
+Lindebergveien 27
+Lindebergveien 27
+Lindebergveien 27
+Lindebergveien 27
+Lindebergveien 27
+Lindebergveien 27
+Lindebergveien 27
+Lindebergveien 27
+Lindebergveien 19
+Lindebergveien 19
+Lindebergveien 23
+Lindebergveien 27
+Lindebergveien 27
+Lindebergveien 27
+Lindebergveien 3
+Lindebergveien 19
+Lindebergveien 19
+Lindebergveien 19
+Lindebergveien 19
+Lindebergveien 25
+Lindebergveien 19
+Lindebergveien 23
+Lindebergveien 19
+Lindebergveien 25
+Lindebergveien 25
+Lindebergveien 19
+Lindebergveien 23
+Lindebergveien 19
+Lindebergveien 31
+Lindebergveien 1
+Lindebergveien 15
+Lindebergveien 21
+Lindebergveien 15
+Lindebergveien 17
+Lindebergveien 15
+Lindebergveien 15
+Lindebergveien 17
+Lindebergveien 11
+Lindebergveien 11
+Lindebergveien 13
+Lindebergveien 11
+Lindebergveien 11
+Lindebergveien 77
+Lindebergveien 77
+Lindebergveien 77
+Lindebergveien 77
+Lindebergveien 77
+Lindebergveien 79
+Lindebergveien 77
+Lindebergveien 79
+Lindebergveien 77
+Lindebergveien 77
+Lindebergveien 13
+Lindebergveien 73
+Lindebergveien 79
+Lindebergveien 73
+Lindebergveien 10
+Lindebergveien 75
+Lindebergveien 73
+Lindebergveien 79
+Lindebergveien 73
+Lindebergveien 75
+Lindebergveien 79
+Lindebergveien 73
+Lindebergveien 75
+Lindebergveien 79
+Lindebergveien 73
+Lindebergveien 75
+Lindebergveien 81
+Lindebergveien 81
+Lindebergveien 81
+Lindebergveien 71
+Lindebergveien 73
+Lindebergveien 83
+Lindebergveien 83
+Lindebergveien 83
+Lindebergveien 81
+Lindebergveien 71
+Lindebergveien 83
+Lindebergveien 81
+Lindebergveien 81
+Lindebergveien 71
+Lindebergveien 73
+Lindebergveien 71
+Lindebergveien 71
+Lindebergveien 71
+Lindebergveien 41
+Lindebergveien 43
+Lindebergveien 43
+Lindebergveien 65
+Lindebergveien 65
+Lindebergveien 45
+Lindebergveien 67
+Lindebergveien 67
+Lindebergveien 65
+Lindebergveien 67
+Lindebergveien 65
+Lindebergveien 45
+Lindebergveien 67
+Lindebergveien 69
+Lindebergveien 65
+Lindebergveien 67
+Lindebergveien 67
+Lindebergveien 65
+Lindebergveien 69
+Lindebergveien 69
+Lindebergveien 69
+Lindebergveien 63
+Lindebergveien 63
+Lindebergveien 47
+Lindebergveien 63
+Lindebergveien 63
+Lindebergveien 63
+Lindebergveien 47
+Lindebergveien 63
+Lindebergveien 69
+Lindebergveien 61
+Lindebergveien 61
+Lindebergveien 69
+Lindebergveien 61
+Lindebergveien 61
+Lindebergveien 61
+Lindebergveien 61
+Lindebergveien 49
+Lindebergveien 51
+Lindebergveien 51
+Lindebergveien 51
+Lindebergveien 53
+Lindebergveien 53
+Lindebergveien 53
+Lindebergveien 55
+Lindebergveien 21
+Lindebergveien 59
+Lindebergveien 57
+Lindebergveien 57
+Lindebergveien 55
+Lindebergveien 57
+Lindebergveien 33
+Lindebergveien 29
+Fayegata 21
+Fayegata 23
+Fayegata 16
+Fagerlia 30
+Fagerlia 27
+Fagerlia 31
+Fagerlia 33
+Fagerlia 38
+Fagerlia 37
+Fagerlia 39
+Fagerlia 41
+Fagerlia 43
+Fagerlia 45
+Fayegata 11
+Fayegata 13
+Fayegata 15
+Fayegata 17
+Fayegata 19
+Fjellheimgata 4
+Fjellheimgata 1
+Fjellheimgata 6
+Fjellheimgata 3
+Fjellheimgata 8
+Fjellheimgata 5
+Fjellheimgata 7
+Fjellheimgata 9
+Fjellheimgata 11
+Hans Dahms vei 1
+Hans Dahms vei 3
+Hans Dahms vei 5
+Hans Dahms vei 2
+Hans Dahms vei 6
+Hans Dahms vei 7
+Hans Dahms vei 8
+Hans Dahms vei 10
+Hans Dahms vei 10
+Hofgaards gate 27
+Hofgaards gate 22
+Hofgaards gate 20
+Hofgaards gate 22
+Ilebergveien 2
+Ilebergveien 4
+Ilebergveien 3
+Ilebergveien 6
+Ilebergveien 7
+Ilebergveien 22
+Ilebergveien 21
+Johan Halvorsens vei 22
+Johan Halvorsens vei 20
+Johan Halvorsens vei 18
+Micheletbakken 1
+Micheletbakken 3
+Micheletbakken 5
+Micheletbakken 11
+Micheletbakken 9
+Prins Oscars gate 10
+Prins Oscars gate 9
+Prins Oscars gate 11
+Prins Oscars gate 12
+Prins Oscars gate 13
+Prins Oscars gate 17
+Prins Oscars gate 17
+Prins Oscars gate 17
+Prins Oscars gate 17
+Prins Oscars gate 19
+Prins Oscars gate 16
+Prins Oscars gate 21
+Prins Oscars gate 21
+Prins Oscars gate 23
+Prins Oscars gate 25
+Prins Oscars gate 28
+Prins Oscars gate 30
+Prins Oscars gate 33
+Prins Oscars gate 34
+Prins Oscars gate 36
+Prins Oscars gate 37
+Prins Oscars gate 35
+Prins Oscars gate 39
+Prins Oscars gate 45
+Prins Oscars gate 41
+Prins Oscars gate 43
+Skipsbygger Jørgensens vei 7
+Skipsbygger Jørgensens vei 9
+Skipsbygger Jørgensens vei 8
+Skipsbygger Jørgensens vei 8
+Solbakken 4
+Solbakken 9
+Solbakken 9
+Solbakken 6
+Solbakken 8
+Solbakken 8
+Solbakken 8
+Solbakken 8
+Solbakken 8
+Solbakken 11
+Solbakken 10
+Solbakken 14
+Solbakken 13
+Solbakken 16
+Solbakken 18
+Solbakken 7
+Solbakken 15
+Solbakken 7
+Solbakken 7
+Solbakken 20
+Solbakken 7
+Solbakken 17
+Solbakken 22
+Solbakken 23
+Solbakken 25
+Solbakken 27
+Solbakken 24
+Solbakken 29
+Solbakken 26
+Solbakken 31
+Solbakken 28
+Solbakken 33
+Solbakken 35
+Solbakken 30
+Solbakken 32
+Solbakken 34
+Solbakken 37
+Solbakken 38
+Solbakken 39
+Solbakken 40
+Solbakken 42
+Solbakken 43
+Solbakken 44
+Solbakken 45
+Solbakken 46
+Solbakken 48
+Solbakken 47
+Solbakken 52
+Solbakken 50
+Solbakken 49
+Solbakken 54
+Solbakken 58
+Solbakken 51
+Solbakken 53
+Solbakken 53
+Tomineborgveien 15
+Tomineborgveien 15
+Tomineborgveien 17
+Tomineborgveien 28
+Tomineborgveien 19
+Tomineborgveien 32
+Tomineborgveien 30
+Tomineborgveien 34
+Tomineborgveien 36
+Tomineborgveien 23
+Tomineborgveien 36
+Tomineborgveien 25
+Tomineborgveien 36
+Tomineborgveien 27
+Tomineborgveien 27
+Tomineborgveien 38
+Tomineborgveien 29
+Tomineborgveien 40
+Tomineborgveien 31
+Tomineborgveien 42
+Tomineborgveien 42
+Tomineborgveien 44
+Tomineborgveien 46
+Tomineborgveien 33
+Tomineborgveien 35
+Tomineborgveien 48
+Tomineborgveien 37
+Tomineborgveien 50
+Tomineborgveien 39
+Tomineborgveien 52
+Tomineborgveien 54
+Tomineborgveien 56
+Tomineborgveien 47
+Tomineborgveien 60
+Tomineborgveien 49
+Tomineborgveien 51
+Tomineborgveien 62
+Tomineborgveien 53
+Tomineborgveien 64
+Tomineborgveien 55
+Tomineborgveien 73
+Tomineborgveien 70
+Tomineborgveien 75
+Tomineborgveien 77
+Tomineborgveien 79
+Tomineborgveien 81
+Tomineborgveien 84
+Toppenhaugveien 3
+Toppenhaugveien 4
+Toppenhaugveien 6
+Toppenhaugveien 9
+Toppenhaugveien 8
+Toppenhaugveien 10
+Toppenhaugveien 13
+Toppenhaugveien 14
+Toppenhaugveien 5
+Micheletbakken 15
+Micheletbakken 27
+Micheletbakken 19
+Micheletbakken 21
+Micheletbakken 7
+Prins Oscars gate 32
+Prins Oscars gate 32
+Prins Oscars gate 32
+Prins Oscars gate 32
+Prins Oscars gate 32
+Prins Oscars gate 32
+Prins Oscars gate 16
+Prins Oscars gate 32
+Prins Oscars gate 32
+Prins Oscars gate 32
+Prins Oscars gate 32
+Prins Oscars gate 14
+Prins Oscars gate 32
+Prins Oscars gate 32
+Prins Oscars gate 32
+Prins Oscars gate 32
+Prins Oscars gate 32
+Prins Oscars gate 32
+Solbakken 9
+Solbakken 1
+Solbakken 5
+Solbakken 3
+Solbakken 5
+Solbakken 3
+Solbakken 3
+Tomineborgveien 69
+Tomineborgveien 71
+Tomineborgveien 72
+Tomineborgveien 80
+Tomineborgveien 74
+Tomineborgveien 76
+Tomineborgveien 76
+Tomineborgveien 82
+Tomineborgveien 78
+Engene 71
+Engene 73
+Engene 75
+Engene 77
+Engene 79
+Engene 81
+Engene 83
+Engene 83
+Engene 85
+Engene 87
+Engene 87
+Engene 87
+Engene 100
+Engene 101
+Engene 105
+Engene 107
+Engene 109
+Engene 112
+Engene 113
+Engene 115
+Engene 112
+Engene 115
+Engene 115
+Engene 115
+Engene 115
+Engene 115
+Engene 115
+Engene 115
+Engene 115
+Engene 114
+Engene 117
+Engene 117
+Engene 121
+Engene 119
+Tomineborgveien 1
+Tomineborgveien 3
+Tomineborgveien 5
+Tomineborgveien 4
+Tomineborgveien 5
+Tomineborgveien 6
+Tomineborgveien 6
+Tomineborgveien 7
+Tomineborgveien 8
+Tomineborgveien 10
+Løkkebergveien 33
+Løkkebergveien 35
+Løkkebergveien 40
+Løkkebergveien 37
+Løkkebergveien 42
+Løkkebergveien 39
+Løkkebergveien 44
+Løkkebergveien 41
+Løkkebergveien 46
+Løkkebergveien 48
+Løkkebergveien 43
+Løkkebergveien 47
+Løkkebergveien 49
+Løkkebergveien 50
+Løkkebergveien 52
+Løkkebergveien 56
+Løkkebergveien 60
+Løkkebergveien 101
+Prins Oscars gate 8
+Skipsbygger Jørgensens vei 6
+Skipsbygger Jørgensens vei 2
+Tomineborgveien 14
+Tomineborgveien 12
+Tomineborgveien 14
+Tomineborgveien 26
+Bragerhagen 6
+Bragerhagen 10
+Bragerhagen 16
+Bragerhagen 16
+Bragerhagen 16
+Bragerhagen 16
+Bragerhagen 17
+Bragerhagen 19
+Bragerhagen 20
+Bragerhagen 22
+Bragerhagen 24
+Bragerhagen 23
+Bragerhagen 28
+Bragerhagen 25
+Bragerhagen 30
+Bragerhagen 27
+Bragerhagen 32
+Bragerhagen 29
+Bragerhagen 31
+Brandtenborggata 1
+Brandtenborggata 7
+Brandtenborggata 6
+Brandtenborggata 6
+Brandtenborggata 8
+Brandtenborggata 9
+Brandtenborggata 10
+Brandtenborggata 12
+Brandtenborggata 15
+Brandtenborggata 15
+Hofgaards gate 11
+Hofgaards gate 8
+Hofgaards gate 13
+Hofgaards gate 10
+Hofgaards gate 12
+Hofgaards gate 15
+Hofgaards gate 14
+Hofgaards gate 16
+Hofgaards gate 16
+Hofgaards gate 19
+Hofgaards gate 16
+Hofgaards gate 16
+Hofgaards gate 21
+Hofgaards gate 23
+Hofgaards gate 18
+Hofgaards gate 18
+Hofgaards gate 18
+Holmens gate 8
+Holmens gate 10
+Holmens gate 7
+Nedre Storgate 50
+Nedre Storgate 52
+Nedre Storgate 67
+Nedre Storgate 54
+Nedre Storgate 56
+Nedre Storgate 58
+Nedre Storgate 60
+Omstedgata 2
+Omstedgata 1
+Omstedgata 3
+Omstedgata 8
+Sagveien 9
+Sagveien 5
+Sagveien 9
+Sagveien 6
+Sagveien 7
+Sagveien 9
+Sagveien 8
+Sagveien 9
+Sagveien 10
+Sagveien 9
+Sagveien 12
+Sagveien 9
+Sagveien 12
+Tomtegata 22
+Tomtegata 29
+Tomtegata 28
+Tomtegata 30
+Tomtegata 31
+Tomtegata 32
+Tomtegata 37
+Tomtegata 36
+Tomtegata 39
+Tomtegata 41
+Tomtegata 43
+Tomtegata 45
+Tomtegata 47
+Tomtegata 42
+Tomtegata 51
+Tomtegata 53
+Tomtegata 55
+Tomtegata 57
+Jacob Borchs gate 5
+Engene 78
+Engene 78
+Engene 82
+Engene 84
+Engene 84
+Engene 86
+Engene 86
+Engene 88
+Engene 92
+Engene 92
+Engene 96
+Engene 96
+Engene 96
+Engene 98
+Prins Oscars gate 6
+Prins Oscars gate 6
+Tomtegata 64
+Tomtegata 80
+Tomtegata 80
+Jacob Borchs gate 6
+Engene 116
+Terminalen 31
+Terminalen 33
+Kjerraten 9
+Kjerraten 5
+Kjerraten 15
+Kjerraten 15
+Kjerraten 17
+Kjerraten 19
+Kjerraten 19
+Kjerraten 16
+Kjerraten 21
+Svend Haugs gate 2
+Svend Haugs gate 4
+Svend Haugs gate 1
+Svend Haugs gate 8
+Svend Haugs gate 5
+Svend Haugs gate 8
+Svend Haugs gate 9
+Svend Haugs gate 9
+Svend Haugs gate 11
+Svend Haugs gate 12
+Svend Haugs gate 11
+Svend Haugs gate 12
+Svend Haugs gate 13
+Svend Haugs gate 21
+Kjerraten 23
+Kjerraten 21
+Kjerraten 27
+Kjerraten 25
+Kjerraten 25
+Kjerraten 16
+Svend Haugs gate 23
+Svend Haugs gate 31
+Svend Haugs gate 31
+Svend Haugs gate 33
+Svend Haugs gate 33
+Svend Haugs gate 32
+Svend Haugs gate 32
+Svend Haugs gate 35
+Svend Haugs gate 45
+Kjerraten 1
+Kjerraten 1
+Kjerraten 33
+Arthur Hansens gate 2
+Arthur Hansens gate 4
+Arthur Hansens gate 3
+Arthur Hansens gate 6
+Bakkeveien 1
+Bakkeveien 3
+Bakkeveien 4
+Bakkeveien 5
+Bakkeveien 6
+Bakkeveien 11
+Bakkeveien 10
+Brannposten 2
+Brannposten 4
+Brannposten 6
+Brannposten 8
+Brannposten 10
+Brannpostveien 2
+Brannpostveien 5
+Brannpostveien 7
+Brannpostveien 9
+Brannpostveien 10
+Byfogd Lyches gate 1
+Byfogd Lyches gate 3
+Byfogd Lyches gate 5
+Claus Trondsens gate 1
+Claus Trondsens gate 5
+Claus Trondsens gate 8
+Dalejordet 1
+Dalejordet 3
+Dalejordet 6
+Edvard Stangs gate 3
+Edvard Stangs gate 7
+Edvard Stangs gate 4
+Edvard Stangs gate 6
+Edvard Stangs gate 8
+Edvard Stangs gate 19
+Edvard Stangs gate 12
+Edvard Stangs gate 14
+Edvard Stangs gate 16
+Edvard Stangs gate 39
+Edvard Stangs gate 18
+Edvard Stangs gate 41
+Edvard Stangs gate 20
+Edvard Stangs gate 23
+Edvard Stangs gate 37
+Edvard Stangs gate 25
+Edvard Stangs gate 27
+Edvard Stangs gate 29
+Edvard Stangs gate 31
+Edvard Stangs gate 33
+Edvard Stangs gate 35
+Flors gate 1
+Flors gate 2
+Frydenberggata 2
+Frydenberggata 1
+Frydenberggata 4
+Frydenberggata 3
+Frydenberggata 6
+Frydenberggata 5
+Frydenberggata 8
+Frydenberggata 7
+Dalejordet 7
+Dalejordet 5
+Dalejordet 10
+Dalejordet 5
+Furusvingen 1
+Furusvingen 3
+Furusvingen 5
+Furusvingen 7
+Furusvingen 9
+Furusvingen 11
+Furusvingen 13
+Gotskalk Johnsons vei 1
+Gotskalk Johnsons vei 3
+Gotskalk Johnsons vei 5
+Gotskalk Johnsons vei 2
+Gotskalk Johnsons vei 7
+Gotskalk Johnsons vei 4
+Gotskalk Johnsons vei 11
+Gotskalk Johnsons vei 9
+Gotskalk Johnsons vei 6
+Gotskalk Johnsons vei 13
+Gotskalk Johnsons vei 8
+Gotskalk Johnsons vei 15
+Gotskalk Johnsons vei 10
+Hanna Winsnes gate 1
+Hanna Winsnes gate 3
+Hanna Winsnes gate 4
+Hanna Winsnes gate 6
+Hanna Winsnes gate 8
+Hanna Winsnes gate 9
+Hanna Winsnes gate 10
+Hanna Winsnes gate 11
+Hanna Winsnes gate 12
+Hanna Winsnes gate 15
+Hanna Winsnes gate 13
+Hanna Winsnes gate 14
+Hanna Winsnes gate 17
+Hanna Winsnes gate 19
+Hanna Winsnes gate 20
+Hanna Winsnes gate 25
+Hanna Winsnes gate 22
+Kloptjernveien 3
+Kloptjernveien 7
+Kloptjernveien 4
+Kloptjernveien 2
+Kloptjernveien 9
+Lammers gate 4
+Lammers gate 6
+Lammers gate 1
+Lammers gate 8
+Lammers gate 3
+Lammers gate 5
+Lammers gate 10
+Lammers gate 7
+Lammers gate 12
+Lammers gate 9
+Lammers gate 11
+Lammers gate 13
+Lammers gate 15
+Lammers gate 17
+Lammers gate 19
+Lammers gate 21
+Lammers gate 22
+Lammers gate 25
+Lammers gate 27
+Lammers gate 29
+Lammers gate 31
+Lammers gate 33
+Lammers gate 46
+Lammers gate 49
+Lammers gate 48
+Lammers gate 51
+Lammers gate 50
+Lammers gate 53
+Lammers gate 53
+Lammers gate 52
+Lammers gate 55
+Lammers gate 54
+Lammers gate 57
+Lammers gate 56
+Lammers gate 58
+Lammers gate 59
+Lammers gate 60
+Peder Buchs gate 1
+Peder Buchs gate 5
+Peder Buchs gate 2
+Peder Buchs gate 7
+Peder Buchs gate 4
+Peder Buchs gate 6
+Peder Buchs gate 9
+Peder Buchs gate 11
+Peder Buchs gate 8
+Peder Buchs gate 15
+Peder Buchs gate 10
+Peder Buchs gate 17
+Peder Buchs gate 12
+Peder Buchs gate 19
+Peder Buchs gate 14
+Peder Buchs gate 21
+Peder Buchs gate 23
+Peder Buchs gate 25
+Peder Buchs gate 27
+Peder Buchs gate 29
+Peder Buchs gate 31
+Peder Buchs gate 33
+Peder Buchs gate 37
+Peder Buchs gate 39
+Peter Østbyes gate 3
+Peter Østbyes gate 3
+Peter Østbyes gate 5
+Peter Østbyes gate 16
+Peter Østbyes gate 18
+Peter Østbyes gate 21
+Peter Østbyes gate 20
+Peter Østbyes gate 23
+Peter Østbyes gate 22
+Peter Østbyes gate 25
+Peter Østbyes gate 27
+Peter Østbyes gate 29
+Peter Østbyes gate 24
+Peter Østbyes gate 31
+Peter Østbyes gate 26
+Peter Østbyes gate 33
+Peter Østbyes gate 28
+Peter Østbyes gate 35
+Sommerfrydveien 2
+Sommerfrydveien 6
+Sommerfrydveien 1
+Sommerfrydveien 5
+Sommerfrydveien 7
+Sommerfrydveien 8
+Sommerfrydveien 9
+Sommerfrydveien 11
+Sommerfrydveien 10
+Sommerfrydveien 13
+Sommerfrydveien 14
+Sommerfrydveien 15
+Sommerfrydveien 16
+Sommerfrydveien 17
+Sommerfrydveien 18
+Sommerfrydveien 22
+Sommerfrydveien 22
+Sommerfrydveien 19
+Sommerfrydveien 24
+Sommerfrydveien 28
+Sommerfrydveien 26
+Sommerfrydveien 25
+Sommerfrydveien 30
+Sommerfrydveien 32
+Sommerfrydveien 33
+Sommerfrydveien 35
+Strøtvetveien 1
+Strøtvetveien 2
+Strøtvetveien 2
+Strøtvetveien 4
+Strøtvetveien 6
+Strøtvetveien 6
+Strøtvetveien 3
+Strøtvetveien 8
+Strøtvetveien 7
+Strøtvetveien 5
+Strøtvetveien 10
+Strøtvetveien 12
+Strøtvetveien 15
+Strøtvetveien 16
+Strøtvetveien 17
+Strøtvetveien 18
+Strøtvetveien 18
+Strøtvetveien 17
+Sven Svensens vei 1
+Sven Svensens vei 2
+Sven Svensens vei 3
+Sven Svensens vei 3
+Sven Svensens vei 5
+Sven Svensens vei 4
+Sven Svensens vei 6
+Sven Svensens vei 5
+Sven Svensens vei 7
+Sven Svensens vei 8
+Sven Svensens vei 9
+Sven Svensens vei 10
+Sven Svensens vei 11
+Sven Svensens vei 19
+Sven Svensens vei 13
+Sven Svensens vei 17
+Sven Svensens vei 14
+Sven Svensens vei 16
+Sven Svensens vei 15
+Sven Svensens vei 20
+Sven Svensens vei 22
+Sven Svensens vei 24
+Sven Svensens vei 26
+Sven Svensens vei 30
+Tord Pedersens gate 3
+Tord Pedersens gate 15
+Tord Pedersens gate 19
+Tord Pedersens gate 21
+Tord Pedersens gate 23
+Tord Pedersens gate 25
+Tord Pedersens gate 8
+Tord Pedersens gate 27
+Tord Pedersens gate 10
+Tord Pedersens gate 12
+Tord Pedersens gate 29
+Tord Pedersens gate 14
+Tord Pedersens gate 31
+Tord Pedersens gate 16
+Tord Pedersens gate 18
+Tord Pedersens gate 37
+Tord Pedersens gate 20
+Tord Pedersens gate 39
+Tord Pedersens gate 22
+Tord Pedersens gate 41
+Tord Pedersens gate 24
+Tord Pedersens gate 26
+Tord Pedersens gate 43
+Tord Pedersens gate 28
+Tord Pedersens gate 30
+Tord Pedersens gate 32
+Tord Pedersens gate 34
+Tord Pedersens gate 36
+Tord Pedersens gate 38
+Tord Pedersens gate 53
+Tord Pedersens gate 40
+Tord Pedersens gate 55
+Tord Pedersens gate 42
+Tord Pedersens gate 44
+Tord Pedersens gate 57
+Tord Pedersens gate 46
+Tord Pedersens gate 46
+Tord Pedersens gate 46
+Tord Pedersens gate 48
+Tord Pedersens gate 50
+Tord Pedersens gate 59
+Tord Pedersens gate 61
+Tord Pedersens gate 56
+Tord Pedersens gate 58
+Tord Pedersens gate 60
+Tord Pedersens gate 65
+Tord Pedersens gate 67
+Tord Pedersens gate 62
+Tord Pedersens gate 69
+Tord Pedersens gate 73
+Tord Pedersens gate 75
+Tord Pedersens gate 66
+Tord Pedersens gate 77
+Tord Pedersens gate 79
+Tord Pedersens gate 81
+Tord Pedersens gate 83
+Tord Pedersens gate 68
+Tord Pedersens gate 83
+Tord Pedersens gate 70
+Tord Pedersens gate 89
+Tord Pedersens gate 89
+Tord Pedersens gate 72
+Tord Pedersens gate 74
+Tord Pedersens gate 95
+Tord Pedersens gate 76
+Tord Pedersens gate 95
+Tord Pedersens gate 78
+Tord Pedersens gate 99
+Tord Pedersens gate 84
+Tord Pedersens gate 82
+Tord Pedersens gate 80
+Tord Pedersens gate 5
+Tord Pedersens gate 13
+Tord Pedersens gate 7
+Tord Pedersens gate 7
+Tord Pedersens gate 9
+Tord Pedersens gate 13
+Tord Pedersens gate 11
+Tord Pedersens gate 11
+Underhaugsveien 1
+Underhaugsveien 2
+Underhaugsveien 4
+Underhaugsveien 6
+Kloptjernveien 83
+Kloptjernveien 100
+Kloptjernveien 98
+Slettåsen 21
+Slettåsen 16
+Slettåsen 12
+Slettåsen 10
+Slettåsen 20
+Slettåsen 24
+Slettåsen 25
+Slettåsen 30
+Slettåsen 31
+Slettåsen 35
+Slettåsen 39
+Slettåsen 34
+Slettåsen 43
+Slettåsen 56
+Slettåsen 40
+Slettåsen 44
+Slettåsen 48
+Slettåsen 52
+Slettåsen 64
+Slettåsen 60
+Slettåsen 70
+Slettåsen 76
+Slettåsen 75
+Slettåsen 81
+Slettåsen 80
+Slettåsen 84
+Slettåsen 88
+Claus Trondsens gate 11
+Claus Trondsens gate 10
+Claus Trondsens gate 19
+Claus Trondsens gate 19
+Claus Trondsens gate 19
+Claus Trondsens gate 19
+Claus Trondsens gate 15
+Claus Trondsens gate 17
+Peter Østbyes gate 4
+Peter Østbyes gate 4
+Peter Østbyes gate 4
+Peter Østbyes gate 14
+Peter Østbyes gate 6
+Peter Østbyes gate 8
+Peter Østbyes gate 12
+Peter Østbyes gate 10
+Strøtvetveien 19
+Strøtvetveien 22
+Strøtvetveien 21
+Strøtvetveien 23
+Strøtvetveien 24
+Strøtvetveien 20
+Strøtvetveien 20
+Løkkebergveien 1
+Løkkebergveien 2
+Løkkebergveien 4
+Løkkebergveien 3
+Løkkebergveien 7
+Løkkebergveien 6
+Løkkebergveien 8
+Løkkebergveien 9
+Løkkebergveien 10
+Løkkebergveien 12
+Løkkebergveien 14
+Løkkebergveien 16
+Løkkebergveien 15
+Løkkebergveien 17
+Løkkebergveien 18
+Løkkebergveien 19
+Løkkebergveien 19
+Løkkebergveien 21
+Løkkebergveien 32
+Løkkebergveien 23
+Løkkebergveien 32
+Løkkebergveien 32
+Løkkebergveien 27
+Løkkebergveien 32
+Løkkebergveien 32
+Løkkebergveien 32
+Løkkebergveien 29
+Løkkebergveien 32
+Løkkebergveien 32
+Løkkebergveien 32
+Løkkebergveien 32
+Løkkebergveien 31
+Syrinveien 1
+Syrinveien 3
+Syrinveien 4
+Syrinveien 7
+Syrinveien 5
+Syrinveien 6
+Syrinveien 8
+Lammers gate 40
+Peder Buchs gate 18
+Peder Buchs gate 20
+Peder Buchs gate 22
+Bakkeveien 9
+Strøtvetåsen 1
+Spiraltoppen 3
+Spiraltoppen 5
+Spiraltoppen 2
+Amtmand Bloms gate 1
+Amtmand Bloms gate 2
+Amtmand Bloms gate 1
+Amtmand Bloms gate 4
+Amtmand Bloms gate 6
+Amtmand Bloms gate 5
+Amtmand Bloms gate 7
+Amtmand Bloms gate 12
+Amtmand Bloms gate 9
+Amtmand Bloms gate 14
+Amtmand Bloms gate 16
+Amtmand Bloms gate 20
+Amtmand Bloms gate 22
+Arups gate 1
+Arups gate 4
+Arups gate 6
+Arups gate 8
+Arups gate 10
+Arups gate 5
+Arups gate 12
+Arups gate 7
+Arups gate 14
+Arups gate 9
+Arups gate 16
+Arups gate 11
+Arups gate 18
+Arups gate 20
+Arups gate 22
+Arups gate 15
+Arups gate 24
+Arups gate 19
+Arups gate 21
+Cappelens gate 24
+Cappelens gate 26
+Cappelens gate 26
+Cappelens gate 28
+Cappelens gate 13
+Cappelens gate 30
+Cappelens gate 32
+Cappelens gate 15
+Cappelens gate 34
+Cappelens gate 17
+Cappelens gate 19
+Cappelens gate 36
+Cappelens gate 19
+Cappelens gate 21
+Cappelens gate 38
+Cappelens gate 40
+Cappelens gate 23
+Cappelens gate 42
+Cappelens gate 27
+Cappelens gate 29
+Cappelens gate 46
+Cappelens gate 31
+Cappelens gate 41
+Cappelens gate 41
+Cappelens gate 62
+Cappelens gate 62
+Cappelens gate 62
+Cappelens gate 51
+Cappelens gate 62
+Cappelens gate 62
+Cappelens gate 53
+Cappelens gate 55
+Cappelens gate 66
+Cappelens gate 68
+Cappelens gate 70
+Cappelens gate 59
+Cappelens gate 72
+Cappelens gate 61
+Cappelens gate 74
+Cappelens gate 76
+Cappelens gate 63
+Cappelens gate 78
+Cappelens gate 65
+Cappelens gate 80
+Cappelens gate 65
+Cappelens gate 69
+Cappelens gate 82
+Cappelens gate 71
+Cappelens gate 71
+Cappelens gate 84
+Cappelens gate 77
+Cappelens gate 86
+Cappelens gate 77
+Cappelens gate 86
+Cappelens gate 73
+Cappelens gate 79
+Cappelens gate 86
+Cappelens gate 86
+Engene 4
+Engene 3
+Engene 6
+Engene 7
+Engene 8
+Engene 11
+Engene 10
+Engene 9
+Engene 12
+Engene 13
+Engene 14
+Engene 15
+Engene 16
+Engene 18
+Engene 17
+Engene 20
+Engene 19
+Engene 22
+Engene 24
+Engene 23
+Engene 25
+Engene 26
+Engene 35
+Engene 32
+Engene 36
+Engene 38
+Engene 42
+Engene 41
+Engene 44
+Engene 43
+Engene 46
+Engene 48
+Engene 45
+Engene 50
+Engene 56
+Engene 64
+Engene 64
+Engene 64
+Engene 51
+Engene 53
+Engene 64
+Engene 57
+Engene 59
+Engene 70
+Engene 61
+Engene 63
+Engene 74
+Engene 65
+Engene 67
+Erik Børresens alle 23
+Erik Børresens alle 23
+Erik Børresens alle 23
+Erik Børresens alle 25
+Erik Børresens alle 27
+Erik Børresens alle 29
+Erik Børresens alle 27
+Erik Børresens alle 33
+Erik Børresens alle 29
+Erik Børresens alle 31
+Erik Børresens alle 29
+Erik Børresens alle 29
+Erik Børresens alle 31
+Erik Børresens alle 29
+Erik Børresens alle 33
+Erik Børresens alle 31
+Erik Børresens alle 29
+Erik Børresens alle 29
+Erik Børresens alle 31
+Erik Børresens alle 31
+Erik Børresens alle 33
+Erik Børresens alle 33
+Erik Børresens alle 31
+Gjetergata 8
+Gjetergata 10
+Gjetergata 12
+Gjetergata 14
+Gjetergata 16
+Gjetergata 20
+Gjetergata 22
+Gjetergata 24
+Gjetergata 26
+Gjetergata 34
+Gjetergata 36
+Gjetergata 38
+Gjetergata 35
+Gjetergata 40
+Gjetergata 42
+Gjetergata 37
+Gjetergata 44
+Gjetergata 39
+Gjetergata 46
+Gjetergata 48
+Nedre Storgate 1
+Nedre Storgate 2
+Nedre Storgate 3
+Nedre Storgate 5
+Nedre Storgate 4
+Nedre Storgate 7
+Nedre Storgate 7
+Nedre Storgate 9
+Nedre Storgate 6
+Nedre Storgate 9
+Nedre Storgate 9
+Nedre Storgate 8
+Nedre Storgate 11
+Nedre Storgate 10
+Nedre Storgate 13
+Nedre Storgate 12
+Nedre Storgate 12
+Nedre Storgate 12
+Nedre Storgate 15
+Nedre Storgate 12
+Nedre Storgate 14
+Nedre Storgate 17
+Nedre Storgate 16
+Nedre Storgate 19
+Nedre Storgate 21
+Nedre Storgate 23
+Nedre Storgate 27
+Nedre Storgate 18
+Nedre Storgate 29
+Nedre Storgate 20
+Nedre Storgate 31
+Nedre Storgate 33
+Nedre Storgate 33
+Nedre Storgate 33
+Nedre Storgate 22
+Nedre Storgate 35
+Nedre Storgate 24
+Nedre Storgate 37
+Nedre Storgate 26
+Nedre Storgate 26
+Nedre Storgate 26
+Nedre Storgate 26
+Nedre Storgate 26
+Nedre Storgate 26
+Nedre Storgate 26
+Nedre Storgate 26
+Nedre Storgate 28
+Nedre Storgate 28
+Nedre Storgate 28
+Nedre Storgate 28
+Nedre Storgate 28
+Nedre Storgate 32
+Nedre Storgate 43
+Nedre Storgate 45
+Nedre Storgate 49
+Nedre Storgate 36
+Nedre Storgate 51
+Nedre Storgate 38
+Nedre Storgate 53
+Nedre Storgate 42
+Nedre Storgate 44
+Nedre Storgate 59
+Nedre Storgate 59
+Nedre Storgate 59
+Nedre Storgate 46
+Nedre Storgate 61
+Nedre Storgate 61
+Nedre Storgate 65
+Nedre Strandgate 2
+Nedre Strandgate 3
+Nedre Strandgate 5
+Nedre Strandgate 4
+Nedre Strandgate 7
+Nedre Strandgate 9
+Nedre Torggate 4
+Nedre Torggate 6
+Nedre Torggate 3
+Nedre Torggate 8
+Nedre Torggate 10
+Nedre Torggate 5
+Nedre Torggate 7
+Nedre Torggate 10
+Nedre Torggate 12
+Nedre Torggate 9
+Nedre Torggate 11
+Nedre Torggate 13
+Nedre Torggate 15
+Nedre Torggate 17
+Nedre Torggate 18
+Nedre Torggate 19
+Nedre Torggate 20
+Ole Steens gate 3
+Ole Steens gate 10
+Ole Steens gate 12
+Ole Steens gate 16
+Ole Steens gate 18
+Peder Buchs gate 3
+Peder Buchs gate 3
+Peder Buchs gate 3
+Rådhusgata 18
+Rådhusgata 17
+Rådhusgata 19
+Rådhusgata 20
+Rådhusgata 21
+Rådhusgata 21
+Rådhusgata 22
+Rådhusgata 21
+Rådhusgata 24
+Rådhusgata 25
+Rådhusgata 28
+Rådhusgata 32
+Rådhusgata 27
+Rådhusgata 34
+Rådhusgata 33
+Rådhusgata 36
+Rådhusgata 36
+Rådhusgata 38
+Rådhusgata 35
+Rådhusgata 40
+Sankt Halvards gate 1
+Sankt Halvards gate 1
+Sankt Halvards gate 1
+Sankt Halvards gate 1
+Sankt Halvards gate 1
+Sankt Halvards gate 1
+Sankt Halvards gate 1
+Sankt Halvards gate 1
+Sankt Halvards gate 1
+Sankt Halvards gate 1
+Sankt Halvards gate 1
+Sankt Halvards gate 1
+Sankt Halvards gate 2
+Sankt Halvards gate 5
+Sankt Halvards gate 4
+Sankt Halvards gate 4
+Sankt Halvards gate 4
+Sankt Halvards gate 4
+Sankt Halvards gate 4
+Sankt Halvards gate 4
+Sankt Halvards gate 4
+Sankt Halvards gate 4
+Sankt Halvards gate 7
+Sankt Halvards gate 7
+Sankt Halvards gate 4
+Sankt Halvards gate 4
+Sankt Halvards gate 4
+Sankt Halvards gate 4
+Sankt Halvards gate 4
+Sankt Halvards gate 4
+Sankt Halvards gate 4
+Sankt Halvards gate 4
+Sankt Halvards gate 6
+Sankt Halvards gate 9
+Sankt Halvards gate 11
+Sankt Halvards gate 8
+Sankt Halvards gate 13
+Sankt Halvards gate 15
+Sankt Halvards gate 10
+Schwenckegata 35
+Schwenckegata 33
+Schwenckegata 31
+Schwenckegata 31
+Schwenckegata 29
+Schwenckegata 28
+Schwenckegata 17
+Schwenckegata 22
+Schwenckegata 11
+Schwenckegata 9
+Schwenckegata 12
+Schwenckegata 7
+Schwenckegata 8
+Schwenckegata 6
+Schwenckegata 4
+Schwenckegata 5
+Schwenckegata 2
+Schwenckegata 1
+Sundgata 6
+Sundgata 5
+Sundgata 7
+Sundgata 8
+Sundgata 10
+Sundgata 12
+Sundgata 11
+Sundgata 13
+Sundgata 14
+Sundgata 14
+Sundgata 15
+Sundgata 16
+Sundgata 17
+Sundgata 20
+Sundgata 19
+Sundgata 20
+Sundgata 21
+Sundgata 21
+Sundgata 21
+Sundgata 21
+Sundgata 21
+Sundgata 21
+Sundgata 21
+Sundgata 21
+Sundgata 24
+Sundgata 23
+Sundgata 23
+Sundgata 23
+Sundgata 26
+Sundgata 23
+Sundgata 23
+Sundgata 23
+Sundgata 28
+Sundgata 23
+Sundgata 23
+Sundgata 30
+Sundgata 27
+Sundgata 29
+Sundgata 32
+Sundgata 34
+Sundgata 31
+Sundgata 36
+Sundgata 33
+Sundgata 38
+Sundgata 35
+Sundgata 40
+Sundgata 37
+Sundgata 42
+Sundgata 39
+Sundgata 44
+Sundgata 43
+Sundgata 41
+Sundgata 46
+Søren Lemmichs gate 2
+Søren Lemmichs gate 1
+Søren Lemmichs gate 4
+Søren Lemmichs gate 6
+Søren Lemmichs gate 7
+Thornegata 2
+Thornegata 1
+Thornegata 4
+Thornegata 3
+Thornegata 6
+Thornegata 5
+Thornegata 8
+Thornegata 7
+Thornegata 10
+Thornegata 9
+Thornegata 11
+Thornegata 14
+Thornegata 16
+Thornegata 13
+Thornegata 18
+Thornegata 13
+Thornegata 20
+Thornegata 15
+Thornegata 17
+Thornegata 22
+Thornegata 19
+Thornegata 19
+Thornegata 21
+Thornegata 26
+Thornegata 23
+Thornegata 29
+Thornegata 32
+Thornegata 34
+Thornegata 36
+Thornegata 38
+Thornegata 38
+Thornegata 38
+Thornegata 38
+Thornegata 35
+Thornegata 37
+Thornegata 39
+Thornegata 41
+Thornegata 43
+Thornegata 47
+Thornegata 49
+Thornegata 49
+Thornegata 42
+Thornegata 44
+Thornegata 51
+Thornegata 46
+Thornegata 57
+Thornegata 50
+Thornegata 59
+Thornegata 61
+Tomtegata 2
+Tomtegata 3
+Tomtegata 7
+Tomtegata 8
+Tomtegata 12
+Tomtegata 11
+Tomtegata 12
+Tomtegata 14
+Tomtegata 17
+Tomtegata 17
+Tomtegata 17
+Tomtegata 19
+Erik Børresens alle 2
+Erik Børresens alle 4
+Erik Børresens alle 6
+Erik Børresens alle 8
+Erik Børresens alle 14
+Erik Børresens alle 12
+Erik Børresens alle 16
+Erik Børresens alle 16
+Erik Børresens alle 16
+Erik Børresens alle 18
+Erik Børresens alle 18
+Erik Børresens alle 20
+Losjeplassen 2
+Losjeplassen 4
+Losjeplassen 6
+Losjeplassen 8
+Prins Oscars gate 1
+Prins Oscars gate 1
+Erik Børresens alle 1
+Erik Børresens alle 5
+Erik Børresens alle 5
+Erik Børresens alle 7
+Erik Børresens alle 9
+Erik Børresens alle 17
+Losjeplassen 1
+Losjeplassen 3
+Losjeplassen 7
+Losjeplassen 7
+Losjeplassen 15
+Losjeplassen 9
+Arups gate 13
+Cappelens gate 54
+Cappelens gate 39
+Cappelens gate 52
+Cappelens gate 39
+Cappelens gate 39
+Cappelens gate 50
+Cappelens gate 37
+Cappelens gate 35
+Cappelens gate 35
+Cappelens gate 48
+Cappelens gate 33
+Erik Børresens alle 21
+Erik Børresens alle 21
+Grev Wedels plass 3
+Grev Wedels plass 2
+Grev Wedels plass 1
+Albums gate 6
+Albums gate 7
+Albums gate 8
+Albums gate 9
+Albums gate 9
+Albums gate 11
+Albums gate 13
+Albums gate 13
+Albums gate 15
+Bergstien 51
+Bergstien 53
+Bergstien 53
+Bonnevies gate 1
+Bonnevies gate 4
+Bonnevies gate 3
+Cappelens gate 1
+Cappelens gate 6
+Cappelens gate 5
+Cappelens gate 14
+Cappelens gate 9
+De eldres vei 3
+De eldres vei 4
+De eldres vei 6
+De eldres vei 8
+Eivind Olsens vei 5
+Frydensalstien 3
+Frydensalstien 1
+Frydensalstien 9
+Frydensalstien 6
+Frydensalstien 10
+Frydensalstien 13
+Frydensalstien 15
+Frydensalstien 17
+Frydensalstien 19
+Jørgen Moes gate 4
+Jørgen Moes gate 6
+Jørgen Moes gate 8
+Rømers vei 1
+Rømers vei 4
+Rømers vei 8
+Rømers vei 10
+Rådhusgata 2
+Rådhusgata 1
+Rådhusgata 6
+Rådhusgata 8
+Rådhusgata 12
+Rådhusgata 9
+Thams gate 4
+Thams gate 5
+Thams gate 6
+Thams gate 10
+Thams gate 10
+Wintherbakken 3
+Wintherbakken 4
+Wintherbakken 5
+Wintherbakken 7
+Wintherbakken 9
+Wintherbakken 18
+Wintherbakken 19
+Wintherbakken 20
+Wintherbakken 21
+Wintherbakken 23
+Wulfsbergs gate 1
+Wulfsbergs gate 2
+Wulfsbergs gate 3
+Wulfsbergs gate 4
+De eldres vei 10
+Wintherbakken 6
+Wintherbakken 8
+Wintherbakken 4
+Bergstien 3
+Bergstien 3
+Bergstien 19
+Bergstien 24
+Bergstien 21
+Bergstien 23
+Bergstien 25
+Bergstien 25
+Bergstien 25
+Bergstien 26
+Bergstien 25
+Bergstien 25
+Bergstien 27
+Bergstien 27
+Bergstien 28
+Bergstien 27
+Bergstien 29
+Bergstien 30
+Bergstien 31
+Bergstien 31
+Bergstien 31
+Bergstien 33
+Bergstien 33
+Bergstien 33
+Bergstien 41
+Bergstien 41
+Bergstien 40
+Bergstien 43
+Bergstien 42
+Bergstien 45
+Bergstien 47
+Bergstien 47
+Bergstien 49
+Bergstien 61
+Bergstien 59
+Bergstien 56
+Bergstien 58
+Bergstien 60
+Bergstien 63
+Bergstien 62
+Bergstien 65
+Bergstien 64
+Bergstien 69
+Bergstien 66
+Bergstien 71
+Bergstien 68
+Bergstien 70
+Bergstien 73
+Bergstien 73
+Bergstien 75
+Bergstien 77
+Kirkegata 2
+Kirkegata 4
+Kirkegata 6
+Kirkegata 8
+Kirkegata 10
+Kirkegata 1
+Kirkegata 5
+Kirkegata 7
+Bergstien 53
+Bergstien 53
+Bergstien 55
+Eivind Olsens vei 10
+Eivind Olsens vei 12
+Spiraltoppen 1
+Spiraltoppen 4
+Spiraltoppen 6
+Bragernes torg 1
+Bragernes torg 1
+Bragernes torg 15
+Bragernes torg 3
+Bragernes torg 2
+Bragernes torg 3
+Bragernes torg 2
+Bragernes torg 4
+Bragernes torg 5
+Bragernes torg 6
+Bragernes torg 6
+Bragernes torg 7
+Bragernes torg 8
+Bragernes torg 10
+Bragernes torg 11
+Bragernes torg 12
+Bragernes torg 12
+Bragernes torg 13
+Sankt Olavs gate 2
+Sankt Olavs gate 3
+Sankt Olavs gate 4
+Sankt Olavs gate 5
+Sankt Olavs gate 7
+Sankt Olavs gate 6
+Sankt Olavs gate 9
+Øvre Torggate 3
+Øvre Torggate 4
+Øvre Torggate 6
+Øvre Torggate 8
+Øvre Torggate 9
+Øvre Torggate 10
+Øvre Torggate 11
+Øvre Torggate 12
+Øvre Torggate 13
+Øvre Torggate 14
+Øvre Torggate 16
+Øvre Torggate 17
+Øvre Torggate 18
+Per Sivles gate 3
+Per Sivles gate 6
+Per Sivles gate 1
+Dietrichs gate 2
+Dietrichs gate 1
+Dietrichs gate 4
+Dietrichs gate 3
+Dietrichs gate 6
+Dietrichs gate 6
+Dietrichs gate 5
+Dietrichs gate 8
+Falsens gate 1
+Falsens gate 2
+Falsens gate 3
+Falsens gate 4
+Hamborggata 3
+Hamborggata 2
+Hamborggata 3
+Hamborggata 4
+Hamborggata 5
+Hamborggata 5
+Hamborggata 6
+Hamborggata 7
+Hamborggata 8
+Hamborggata 9
+Hamborggata 11
+Hamborggata 10
+Hamborggata 13
+Hamborggata 15
+Hamborggata 15
+Hamborggata 14
+Hamborggata 17
+Hamborggata 16
+Hamborggata 18
+Hamborggata 22
+Hamborggata 22
+Hamborggata 21
+Haukeliveien 2
+Haukeliveien 2
+Haukeliveien 6
+Haukeliveien 3
+Haukeliveien 8
+Haukeliveien 5
+Haukeliveien 12
+Haukeliveien 7
+Haukeliveien 7
+Haukeliveien 9
+Haukeliveien 9
+Haukeliveien 11
+Haukeliveien 16
+Haukeliveien 13
+Haukeliveien 18
+Haukeliveien 15
+Haukeliveien 13
+Haukeliveien 17
+Heiaterrassen 2
+Heiaterrassen 2
+Heiaterrassen 2
+Heiaterrassen 3
+Heiaterrassen 6
+Heiaterrassen 5
+Heiaterrassen 12
+Heiaterrassen 12
+Heiaterrassen 7
+Heiaterrassen 7
+Heiaterrassen 12
+Heiaterrassen 12
+Heiaterrassen 9
+Heiaterrassen 11
+Heiaterrassen 14
+Heiaterrassen 13
+Heiaterrassen 15
+Heiaterrassen 16
+Heiaterrassen 17
+Heiaterrassen 18
+Heiaterrassen 19
+Heiaterrassen 21
+Heiaterrassen 20
+Heiaterrassen 20
+Heiaterrassen 24
+Heiaterrassen 23
+Heiaterrassen 26
+Heiaterrassen 25
+Heiaterrassen 28
+Hotvetalleen 2
+Hotvetveien 1
+Hotvetveien 2
+Hotvetveien 3
+Hotvetveien 4
+Hotvetveien 6
+Hotvetveien 5
+Hotvetveien 8
+Hotvetveien 7
+Hotvetveien 12
+Hotvetveien 7
+Hotvetveien 14
+Hotvetveien 16
+Hotvetveien 9
+Hotvetveien 18
+Hotvetveien 20
+Hotvetveien 18
+Hotvetveien 11
+Hotvetveien 22
+Hotvetveien 22
+Hotvetveien 24
+Hotvetveien 24
+Hotvetveien 13
+Hotvetveien 15
+Hotvetveien 17
+Hotvetveien 26
+Hotvetveien 17
+Hotvetveien 17
+Hotvetveien 19
+Hotvetveien 28
+Hotvetveien 30
+Hotvetveien 21
+Hotvetveien 44
+Hotvetveien 46
+Hotvetveien 48
+Hotvetveien 50
+Hotvetveien 33
+Hotvetveien 52
+Hotvetveien 54
+Hotvetveien 56
+Hotvetveien 41
+Hotvetveien 60
+Hotvetveien 45
+Hotvetveien 62
+Hotvetveien 64
+Hotvetveien 47
+Hotvetveien 70
+Hotvetveien 70
+Hotvetveien 49
+Hotvetveien 74
+Hotvetveien 76
+Hotvetveien 51
+Hotvetveien 80
+Hotvetveien 53
+Hotvetveien 82
+Hotvetveien 55
+Hotvetveien 84
+Hotvetveien 86
+Hotvetveien 86
+Hotvetveien 57
+Hotvetveien 88
+Hotvetveien 88
+Hotvetveien 90
+Hotvetveien 92
+Kaptein Finnes gate 3
+Kaptein Finnes gate 4
+Kaptein Finnes gate 6
+Kaptein Finnes gate 7
+Kaptein Finnes gate 7
+Kaptein Finnes gate 8
+Kaptein Finnes gate 9
+Kaptein Finnes gate 10
+Konggata 1
+Nordahl Bruns gate 2
+Nordahl Bruns gate 1
+Nordahl Bruns gate 29
+Nordahl Bruns gate 31
+Nordahl Bruns gate 12
+Nordahl Bruns gate 33
+Nordahl Bruns gate 35
+Nordahl Bruns gate 37
+Nordahl Bruns gate 39
+Nordahl Bruns gate 12
+Nordahl Bruns gate 2
+Nordahl Bruns gate 4
+Nordahl Bruns gate 4
+Nordahl Bruns gate 8
+Nordahl Bruns gate 6
+Nordahl Bruns gate 6
+Ole Bulls gate 2
+Ole Bulls gate 1
+Ole Bulls gate 4
+Ole Bulls gate 7
+Ole Bulls gate 6
+Ole Bulls gate 5
+Ole Bulls gate 8
+Ole Bulls gate 9
+Ole Bulls gate 12
+Ole Bulls gate 11
+Ole Bulls gate 14
+Per Sivles gate 5
+Per Sivles gate 7
+Per Sivles gate 8
+Per Sivles gate 10
+Per Sivles gate 11
+Per Sivles gate 9
+Rebbansbakken 2
+Rebbansbakken 4
+Rebbansbakken 6
+Rebbansbakken 8
+Rebbansbakken 10
+Rebbansbakken 12
+Rebbansbakken 14
+Rebbansbakken 3
+Rebbansbakken 16
+Rebbansbakken 5
+Rebbansbakken 18
+Rebbansbakken 20
+Rebbansbakken 22
+Rebbansbakken 24
+Rebbansbakken 9
+Rebbansbakken 28
+Rebbansbakken 17
+Rebbansbakken 19
+Rebbansbakken 21
+Rebbansbakken 23
+Rebbansbakken 25
+Rebbansbakken 8
+Rosenkrantzgata 7
+Rosenkrantzgata 9
+Rosenkrantzgata 11
+Rosenkrantzgata 15
+Rosenkrantzgata 15
+Rosenkrantzgata 17
+Rosenkrantzgata 21
+Rosenkrantzgata 23
+Rosenkrantzgata 26
+Rosenkrantzgata 28
+Rosenkrantzgata 31
+Rosenkrantzgata 33
+Rosenkrantzgata 35
+Rosenkrantzgata 39
+Sokkaveien 1
+Sokkaveien 3
+Sokkaveien 2
+Sokkaveien 5
+Sokkaveien 4
+Sokkaveien 6
+Sokkaveien 10
+Sokkaveien 7
+Sokkaveien 12
+Strømsgata 1
+Strømsgata 2
+Strømsgata 4
+Strømsgata 5
+Strømsgata 8
+Strømsgata 10
+Strømsgata 9
+Strømsgata 15
+Strømsgata 13
+Strømsgata 17
+Strømsgata 17
+Strømsgata 19
+Strømsgata 21
+Vinjes gate 1
+Vinjes gate 4
+Vinjes gate 9
+Vinjes gate 8
+Vinjes gate 7
+Vinjes gate 10
+Øvre Storgate 1
+Øvre Storgate 1
+Øvre Storgate 2
+Øvre Storgate 3
+Øvre Storgate 4
+Øvre Storgate 6
+Øvre Storgate 5
+Øvre Storgate 7
+Øvre Storgate 8
+Øvre Storgate 9
+Øvre Storgate 10
+Øvre Storgate 10
+Øvre Storgate 11
+Øvre Storgate 11
+Øvre Storgate 12
+Øvre Storgate 15
+Øvre Strandgate 2
+Øvre Strandgate 5
+Øvre Strandgate 9
+Øvre Strandgate 11
+Øvre Strandgate 11
+Øvre Strandgate 12
+Øvre Strandgate 14
+Øvre Sund 8
+Øvre Sund 5
+Øvre Sund 6
+Øvre Sund 2
+Øvre Sund 1
+Hotvetalleen 6
+Hotvetalleen 5
+Hotvetalleen 9
+Hotvetalleen 11
+Hotvetalleen 3
+Hotvetalleen 7
+Hotvetalleen 3
+Hotvetveien 41
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 37
+Hotvetveien 43
+Hotvetveien 37
+Nordahl Bruns gate 3
+Nordahl Bruns gate 17
+Nordahl Bruns gate 5
+Nordahl Bruns gate 7
+Nordahl Bruns gate 19
+Nordahl Bruns gate 21
+Nordahl Bruns gate 23
+Nordahl Bruns gate 25
+Nordahl Bruns gate 9
+Nordahl Bruns gate 27
+Nordahl Bruns gate 11
+Nordahl Bruns gate 13
+Nordahl Bruns gate 10
+Nordahl Bruns gate 10
+Nordahl Bruns gate 8
+Rebbansbakken 10
+Rebbansbakken 8
+Rebbansbakken 8
+Rebbansbakken 8
+Øvre Storgate 35
+Øvre Storgate 42
+Øvre Storgate 33
+Øvre Storgate 37
+Øvre Storgate 43
+Øvre Storgate 43
+Øvre Storgate 43
+Øvre Storgate 46
+Øvre Storgate 46
+Øvre Storgate 43
+Øvre Storgate 43
+Øvre Storgate 43
+Øvre Storgate 43
+Øvre Storgate 46
+Øvre Storgate 48
+Øvre Storgate 48
+Øvre Storgate 45
+Øvre Storgate 48
+Øvre Storgate 45
+Øvre Storgate 45
+Øvre Storgate 45
+Øvre Storgate 47
+Øvre Storgate 50
+Øvre Storgate 47
+Øvre Storgate 47
+Øvre Storgate 54
+Øvre Storgate 54
+Øvre Storgate 56
+Øvre Storgate 53
+Øvre Storgate 53
+Øvre Storgate 53
+Øvre Storgate 55
+Øvre Storgate 55
+Øvre Storgate 55
+Øvre Storgate 57
+Øvre Storgate 57
+Øvre Storgate 59
+Øvre Storgate 61
+Øvre Storgate 63
+Øvre Storgate 65
+Øvre Storgate 67
+Øvre Storgate 70
+Øvre Storgate 72
+Øvre Storgate 74
+Øvre Storgate 76
+Øvre Storgate 76
+Øvre Storgate 75
+Øvre Storgate 76
+Øvre Storgate 78
+Øvre Storgate 76
+Øvre Storgate 78
+Øvre Storgate 78
+Øvre Storgate 78
+Øvre Storgate 82
+Øvre Storgate 84
+Øvre Storgate 86
+Øvre Storgate 87
+Øvre Storgate 89
+Øvre Storgate 89
+Øvre Storgate 91
+Øvre Storgate 92
+Øvre Storgate 96
+Øvre Storgate 105
+Øvre Storgate 101
+Øvre Storgate 107
+Øvre Storgate 104
+Øvre Storgate 109
+Øvre Storgate 108
+Øvre Storgate 103
+Øvre Storgate 111
+Øvre Storgate 106
+Øvre Storgate 118
+Øvre Storgate 113
+Øvre Storgate 115
+Øvre Storgate 122
+Øvre Storgate 119
+Øvre Storgate 117
+Øvre Storgate 124
+Øvre Storgate 121
+Øvre Storgate 117
+Øvre Storgate 136
+Landfalløya 1
+Rosenkrantzgata 22
+Rosenkrantzgata 24
+Rosenkrantzgata 26
+Rosenkrantzgata 27
+Rosenkrantzgata 29
+Rosenkrantzgata 30
+Rosenkrantzgata 32
+Rosenkrantzgata 32
+Rosenkrantzgata 34
+Rosenkrantzgata 36
+Rosenkrantzgata 80
+Rosenkrantzgata 88
+Rosenkrantzgata 61
+Rosenkrantzgata 75
+Rosenkrantzgata 89
+Rosenkrantzgata 85
+Rosenkrantzgata 41
+Øvre Storgate 18
+Vinjes gate 2
+Øvre Storgate 33
+Rebbansbakken 11
+Rebbansbakken 30
+Rebbansbakken 13
+Rebbansbakken 32
+Konggata 53
+Konggata 53
+Konggata 53
+Konggata 53
+Konggata 51
+Konggata 49
+Konggata 47
+Konggata 45
+Konggata 43
+Konggata 32
+Konggata 41
+Konggata 30
+Konggata 39
+Konggata 37
+Konggata 28
+Konggata 35
+Konggata 26
+Konggata 33
+Konggata 22
+Amtmand Bangs gate 2
+Amtmand Bangs gate 1
+Amtmand Bangs gate 4
+Amtmand Bangs gate 1
+Amtmand Bangs gate 6
+Amtmand Bangs gate 6
+Amtmand Bangs gate 3
+Amtmand Bangs gate 5
+Amtmand Bangs gate 8
+Amtmand Bangs gate 7
+Amtmand Bangs gate 9
+Amtmand Bangs gate 10
+Amtmand Bangs gate 11
+Amtmand Bangs gate 20
+Andreas Thunes gate 6
+Andreas Thunes gate 15
+Andreas Thunes gate 20
+Andreas Thunes gate 22
+Andreas Thunes gate 21
+Capjons gate 2
+Capjons gate 4
+Capjons gate 1
+Capjons gate 3
+Capjons gate 6
+Capjons gate 5
+Capjons gate 10
+Capjons gate 7
+Capjons gate 9
+Capjons gate 12
+Capjons gate 11
+Capjons gate 14
+Capjons gate 13
+Capjons gate 16
+Capjons gate 15
+Dronninggata 1
+Dronninggata 2
+Dronninggata 1
+Dronninggata 3
+Dronninggata 5
+Dronninggata 7
+Dronninggata 6
+Dronninggata 7
+Dronninggata 8
+Dronninggata 9
+Dronninggata 10
+Dronninggata 13
+Dronninggata 11
+Dronninggata 15
+Dronninggata 17
+Dronninggata 19
+Dronninggata 18
+Dronninggata 21
+Dronninggata 23
+Dronninggata 23
+Erik Olsens gate 2
+Erik Olsens gate 3
+Erik Olsens gate 4
+Erik Olsens gate 3
+Erik Olsens gate 7
+Erik Olsens gate 7
+Erik Olsens gate 8
+Gamle Kirkeplass 1
+Gamle Kirkeplass 3
+Gamle Kirkeplass 5
+Gamle Kirkeplass 7
+Gamle Kirkeplass 2
+Gamle Kirkeplass 2
+Gamle Kirkeplass 2
+Gamle Kirkeplass 4
+Hauges gate 1
+Hauges gate 2
+Hauges gate 3
+Hauges gate 7
+Hauges gate 10
+Hauges gate 9
+Hauges gate 11
+Hauges gate 17
+Hauges gate 18
+Hauges gate 19
+Hauges gate 24
+Hauges gate 36
+Hauges gate 36
+Hauges gate 36
+Hauges gate 36
+Hauges gate 36
+Hauges gate 36
+Hauges gate 40
+Hauges gate 42
+Hauges gate 46
+Hauges gate 46
+Hauges gate 57
+Hauges gate 75
+Hauges gate 78
+Hauges gate 81
+Hauges gate 80
+Hauges gate 83
+Hauges gate 85
+Hauges gate 84
+Hauges gate 84
+Hauges gate 84
+Hauges gate 87
+Hauges gate 89
+Hauges gate 86
+Hauges gate 86
+Hauges gate 86
+Hauges gate 88
+Hauges gate 88
+Hauges gate 88
+Hauges gate 90
+Hauges gate 100
+Hauges gate 89
+Hauges gate 102
+Hauges gate 99
+Hauges gate 104
+Hauges gate 74
+Hauges gate 72
+Hauges gate 72
+Heyerdahls gate 4
+Heyerdahls gate 6
+Heyerdahls gate 9
+Heyerdahls gate 13
+Konggata 4
+Konggata 6
+Konggata 6
+Konggata 6
+Konggata 6
+Konggata 6
+Konggata 2
+Konggata 2
+Konggata 1
+Konggata 6
+Konggata 6
+Konggata 6
+Konggata 6
+Konggata 6
+Konggata 3
+Konggata 5
+Konggata 7
+Konggata 9
+Konggata 15
+Konggata 17
+Konggata 10
+Konggata 12
+Konggata 21
+Konggata 16
+Konggata 23
+Konggata 18
+Konggata 27
+Konggata 20
+Konggata 20
+Rømers vei 11
+Tybrings gate 6
+Welhavens gate 1
+Wergelands gate 3
+Wergelands gate 5
+Wergelands gate 10
+Wergelands gate 10
+Wergelands gate 11
+Wergelands gate 9
+Wergelands gate 13
+Wergelands gate 12
+Wergelands gate 15
+Wildhagens vei 10
+Wildhagens vei 8
+Wildhagens vei 12
+Wildhagens vei 14
+Wildhagens vei 16
+Wildhagens vei 18
+Wildhagens vei 17
+Wildhagens vei 19
+Hauges gate 50
+Hauges gate 62
+Hauges gate 70
+Hauges gate 68
+Hauges gate 66
+Hauges gate 66
+Hauges gate 64
+Leivann 11
+Leivann 14
+Leivann 12
+Leivann 16
+Leivann 18
+Hødnebøveien 203
+Hødnebøveien 205
+Hødnebøveien 201
+Sjåvåg 39
+Daleveien 460
+Daleveien 545
+SSS-veien 157
+Kjødvikveien 2
+Kjødvikveien 26
+Kjødvikveien 34
+Kjødvikveien 49
+Kjødvikveien 44
+Kjødvikveien 70
+Sørbøveien 80
+Sørbøveien 91
+Sørbøveien 111
+Sørbøveien 170
+Sørbøveien 335
+Øysangneset 1
+Øysangneset 3
+Øysangneset 10
+Øysangneset 30
+Øysangneset 29
+Hansemyrveien 21
+Hansemyrveien 23
+Ormdalsveien 102
+Ormdalsveien 98
+Ormdalsveien 100
+Ormdalsveien 104
+Ormdalsveien 120
+Ormdalsveien 122
+Ormdalsveien 108
+Ormdalsveien 106
+Ormdalsveien 126
+Ormdalsveien 124
+Ormdalsveien 128
+Ormdalsveien 130
+Ormdalsveien 114
+Ormdalsveien 99
+Ormdalsveien 115
+Ormdalsveien 140
+Ormdalsveien 116
+SSS-veien 1501
+SSS-veien 1503
+Jegertunet 41
+Jegertunet 55
+Bakken 2
+Bakken 4
+Bakken 6
+Bakken 8
+Bakken 10
+Sandkleiva 12
+Sandkleiva 25
+Sandkleiva 23
+Sandkleiva 21
+Sandkleiva 16
+Sandkleiva 14
+Bakken 1
+Bakken 3
+Bakken 18
+Bakken 20
+Bakken 7
+Bakken 9
+Bakken 11
+Bakken 24
+Bakken 26
+Bakken 13
+Brattstø 1
+Brattstø 3
+Brattstø 7
+Brattstø 7
+Brattstø 11
+Brattstø 13
+Brattstø 6
+Hasåsveien 2
+Hasåsveien 8
+Hasåsveien 4
+Hasåsveien 24
+Hasåsveien 28
+Hasåsveien 48
+Hasåsveien 39
+Hasåsveien 45
+Hasåsveien 43
+Hasåsveien 45
+Hasåsveien 52
+Hasåsveien 54
+Hasåsveien 56
+Hasåsveien 60
+Hasåsveien 49
+Hasåsveien 49
+Hasåsveien 76
+Hasåsveien 74
+Hasåsveien 70
+Hasåsveien 59
+Hasåsveien 59
+Hasåsveien 59
+Hasåsveien 61
+Hasåsveien 41
+Hasåsveien 41
+Hasåsveien 23
+Hasåsveien 25
+Hasåsveien 27
+Hasåsveien 29
+Sandkleiva 24
+SSS-veien 20
+SSS-veien 8
+SSS-veien 14
+SSS-veien 12
+SSS-veien 24
+SSS-veien 18
+SSS-veien 68
+SSS-veien 66
+SSS-veien 58
+SSS-veien 62
+SSS-veien 72
+Øren 19
+Øren 8
+Øren 17
+Øren 21
+Øren 10
+Øren 24
+Øren 16
+Øren 22
+Øren 56
+Øren 48
+Øren 38
+Øren 29
+Øren 25
+Øren 25
+Øren 27
+Øren 35
+Øren 37
+Øren 57
+Øren 55
+Øren 51
+Øren 49
+Øren 4
+Øren 6
+Øren 11
+Øren 46
+Øren 44
+Øren 42
+Øren 18
+Bommyrveien 106
+Bommyrveien 108
+Bommyrveien 126
+Bommyrveien 100
+Bommyrveien 114
+Bommyrveien 81
+Bommyrveien 88
+Bommyrveien 90
+Bommyrveien 83
+Bommyrveien 92
+Bommyrveien 94
+Bommyrveien 96
+Bommyrveien 98
+Mikkelssti 13
+Mikkelssti 5
+Mikkelssti 3
+Mikkelssti 5
+Kjerstisvei 9
+Kjerstisvei 7
+Kjerstisvei 5
+Kjerstisvei 11
+Kjerstisvei 3
+Kjerstisvei 1
+Mikkelssti 2
+Mikkelssti 1
+Mikkelssti 2
+Mikkelssti 4
+Mikkelssti 3
+Mikkelssti 4
+Mikkelssti 6
+Mikkelssti 6
+Mikkelssti 8
+Mikkelssti 8
+Mikkelssti 10
+Mikkelssti 7
+Mikkelssti 10
+Mikkelssti 7
+Mikkelssti 12
+Mikkelssti 12
+Mikkelssti 14
+Mikkelssti 9
+Mikkelssti 14
+Mikkelssti 16
+Mikkelssti 16
+Mikkelssti 18
+Mikkelssti 18
+Mikkelssti 20
+Mikkelssti 20
+Mikkelssti 22
+Mikkelssti 9
+Mikkelssti 22
+Mikkelssti 24
+Mikkelssti 24
+Mikkelssti 11
+Mikkelssti 11
+Mikkelssti 13
+Mikkelssti 15
+Mikkelssti 15
+Mikkelssti 28
+Mikkelssti 17
+Mikkelssti 30
+Mikkelssti 30
+Mikkelssti 32
+Mikkelssti 17
+Mikkelssti 32
+Nistesvågveien 20
+Jegertunet 112
+Jegertunet 110
+Jegertunet 88
+Jegertunet 90
+Jegertunet 108
+Jegertunet 92
+Jegertunet 106
+Jegertunet 94
+Jegertunet 104
+Jegertunet 98
+Jegertunet 96
+Mølleveien 42
+Mølleveien 88
+Mølleveien 86
+Mølleveien 55
+Mølleveien 90
+Mølleveien 92
+Mølleveien 96
+Mølleveien 98
+Mølleveien 104
+Mølleveien 106
+Mølleveien 102
+Mølleveien 108
+Nistesvågveien 50
+Nistesvågveien 62
+Nistesvågveien 58
+Nistesvågveien 52
+Nistesvågveien 56
+Nistesvågveien 63
+Nistesvågveien 65
+Nistesvågveien 115
+Nistesvågveien 105
+Nistesvågveien 111
+Nistesvågveien 113
+Nistesvågveien 75
+Nistesvågveien 71
+Nistesvågveien 67
+Nistesvågveien 77
+Nistesvågveien 119
+Nistesvågveien 107
+Nistesvågveien 61
+Nistesvågveien 79
+Nistesvågveien 73
+Jegertunet 114
+Jegertunet 74
+Jegertunet 76
+Jegertunet 78
+Jegertunet 80
+Jegertunet 82
+Jegertunet 86
+Jegertunet 84
+Øysanglia 2
+Øysanglia 24
+Øysanglia 26
+Øysanglia 28
+Øysanglia 30
+Øysanglia 32
+Øysanglia 4
+Øysanglia 22
+Øysanglia 36
+Øysanglia 6
+Øysanglia 38
+Øysanglia 18
+Øysanglia 8
+Øysanglia 10
+Øysanglia 12
+Øysanglia 12
+Øysanglia 16
+Øysanglia 16
+Øysanglia 56
+Øysanglia 58
+Øysanglia 60
+Øysanglia 62
+Øysanglia 25
+Øysanglia 27
+Øysanglia 29
+Øysanglia 37
+Øysanglia 33
+Øysanglia 84
+Øysanglia 82
+Øysanglia 64
+Øysanglia 80
+Øysanglia 66
+Øysanglia 78
+Øysanglia 54
+Øysanglia 76
+Øysanglia 52
+Øysanglia 74
+Øysanglia 50
+Øysanglia 72
+Øysanglia 48
+Øysanglia 46
+Øysanglia 44
+Øysanglia 70
+Lunheimveien 36
+Lunheimveien 40
+Lunheimveien 48
+Lunheimveien 30
+Lunheimveien 34
+Lunheimveien 50
+Lunheimveien 44
+Bommyrveien 9
+Bommyrveien 75
+Bommyrveien 76
+Bommyrveien 77
+Bommyrveien 78
+Bommyrveien 79
+Sildnesveien 43
+Sildnesveien 41
+Sildnesveien 77
+Ytre Verdalsheia 1
+Ytre Verdalsheia 30
+Ytre Verdalsheia 2
+Ytre Verdalsheia 34
+Ytre Verdalsheia 36
+Ytre Verdalsheia 38
+Ytre Verdalsheia 40
+Ytre Verdalsheia 42
+Ytre Verdalsheia 25
+Ytre Verdalsheia 27
+Ytre Verdalsheia 44
+Ytre Verdalsheia 16
+Ytre Verdalsheia 29
+Ytre Verdalsheia 4
+Ytre Verdalsheia 3
+Ytre Verdalsheia 6
+Ytre Verdalsheia 5
+Ytre Verdalsheia 7
+Ytre Verdalsheia 19
+Ytre Verdalsheia 8
+Ytre Verdalsheia 17
+Ytre Verdalsheia 15
+Ytre Verdalsheia 9
+Ytre Verdalsheia 11
+Ytre Verdalsheia 10
+Ytre Verdalsheia 12
+Ytre Verdalsheia 14
+Ytre Verdalsheia 18
+Ytre Verdalsheia 20
+Ytre Verdalsheia 22
+Ytre Verdalsheia 24
+Ytre Verdalsheia 13
+Ytre Verdalsheia 26
+Sildnesveien 27
+Sildnesveien 31
+Sildnesveien 49
+Sildnesveien 29
+Sildnesveien 33
+Sildnesveien 47
+Sildnesveien 45
+Sildnesveien 57
+Sildnesveien 59
+SSS-veien 887
+SSS-veien 891
+SSS-veien 893
+SSS-veien 900
+Søndeledveien 663
+Søndeledveien 661
+SSS-veien 167
+Bommyrveien 116
+Bommyrveien 130
+Bommyrveien 118
+Bommyrveien 120
+Bommyrveien 122
+Bommyrveien 124
+Lindbekkveien 101
+Gjernestangen 31
+Gjernestangen 33
+Lindbekkveien 250
+Lindbekkveien 252
+Lunheimveien 90
+Sandviktangen 130
+Sandviktangen 124
+Sandviktangen 126
+Sandviktangen 122
+Sandviktangen 120
+Sandviktangen 128
+Sandviktangen 89
+Sandviktangen 108
+Sandviktangen 106
+Sandviktangen 87
+Sandviktangen 85
+SSS-veien 1990
+Nistesvågveien 4
+Robersvikveien 30
+Robersvikveien 32
+Robersvikveien 34
+Robersvikveien 56
+SSS-veien 1657
+SSS-veien 1655
+SSS-veien 1653
+Jegertunet 68
+Jegertunet 66
+Jegertunet 64
+Jegertunet 62
+Jegertunet 60
+Lindbekkveien 50
+Lindbekkveien 241
+Søndeledveien 800
+Søndeledveien 788
+Søndeledveien 524
+SSS-veien 147
+Øysangneset 83
+Øysangneset 80
+Grudalsveien 116
+Grudalsveien 110
+Grudalsveien 114
+Grudalsveien 112
+Lunheimveien 121
+Lunheimveien 123
+Lunheimveien 118
+Lunheimveien 116
+Lunheimveien 120
+Lunheimveien 114
+Lunheimveien 100
+Lunheimveien 102
+Lunheimveien 108
+Lunheimveien 92
+Lunheimveien 110
+Mølleveien 48
+Mølleveien 44
+Mølleveien 52
+Mølleveien 46
+Mølleveien 50
+Mølleveien 94
+Mølleveien 66
+Mølleveien 64
+Mølleveien 76
+Mølleveien 80
+Mølleveien 56
+Mølleveien 54
+Mølleveien 68
+Mølleveien 78
+Mølleveien 70
+Mølleveien 84
+Mølleveien 60
+Mølleveien 74
+Mølleveien 82
+Mølleveien 72
+Mølleveien 62
+SSS-veien 149
+SSS-veien 151
+SSS-veien 165
+Sandviktangen 93
+Sandviktangen 114
+Sandviktangen 101
+Sandviktangen 132
+Husåsveien 275
+Søndeledveien 270
+Søndeledveien 272
+Gjernestangen 80
+Gjernestangen 82
+Gjernestangen 92
+Gjernestangen 108
+Gjernestangen 96
+Gjernestangen 88
+Gjernestangen 94
+Gjernestangen 106
+Gjernestangen 86
+Gjernestangen 84
+Gjernestangen 104
+SSS-veien 2000
+SSS-veien 2002
+SSS-veien 2004
+Gjernestangen 41
+Gjernestangen 40
+SSS-veien 2006
+Vindvikveien 65
+Vindvikveien 69
+Vindvikveien 73
+Vindvikveien 77
+Vindvikveien 60
+Hansemyrveien 55
+Hansemyrveien 59
+Hansemyrveien 70
+Hansemyrveien 72
+Hansemyrveien 80
+SSS-veien 1110
+Blesvikveien 45
+Blesvikveien 49
+Blesvikveien 43
+Blesvikveien 40
+Sandviktangen 61
+Husåsveien 346
+Husåsveien 336
+Husåsveien 338
+Husåsveien 311
+Husåsveien 313
+Husåsveien 340
+Husåsveien 344
+Søndeledveien 33
+Søndeledveien 729
+Sandviktangen 80
+Sandviktangen 71
+Lindbekkveien 40
+Hansemyrveien 51
+Sandviktangen 75
+Sandviktangen 73
+Nygårdstjenna 64
+Nygårdstjenna 60
+Nygårdstjenna 56
+Nygårdstjenna 58
+SSS-veien 1606
+SSS-veien 1608
+Sandviktangen 77
+Øysanglia 7
+Gjernestangen 60
+Gjernestangen 65
+Grudalsveien 130
+Grudalsveien 118
+Nygårdstjenna 45
+Nygårdstjenna 51
+Øysanglia 3
+Øysanglia 5
+Søndeledveien 791
+Robersvikveien 70
+Robersvikveien 71
+Robersvikveien 73
+Robersvikveien 77
+Hansemyrveien 109
+Hansemyrveien 120
+Sandviktangen 83
+Sandviktangen 104
+Sandviktangen 102
+Sandviktangen 100
+Sandviktangen 98
+Sandviktangen 94
+Sandviktangen 96
+Sandviktangen 92
+Sandviktangen 79
+Sandviktangen 81
+Husåsveien 170
+Husåsveien 152
+Husåsveien 150
+Husåsveien 156
+Husåsveien 158
+Husåsveien 154
+Husåsveien 162
+Husåsveien 164
+Husåsveien 166
+SSS-veien 1962
+Mølleveien 10
+Mølleveien 12
+Grudalsveien 120
+Husåsveien 301
+Husåsveien 299
+Husåsveien 297
+Husåsveien 295
+Husåsveien 291
+Husåsveien 293
+Hødnebøkilen 15
+Hødnebøkilen 20
+Hødnebøkilen 30
+Nygårdstjenna 50
+Nygårdstjenna 52
+Nygårdstjenna 24
+Nygårdstjenna 26
+Husåsveien 180
+Husåsveien 168
+SSS-veien 1644
+SSS-veien 1371
+SSS-veien 632
+Stamsøyveien 5
+Søndeledveien 514
+SSS-veien 1612
+SSS-veien 1600
+Sandviktangen 88
+Sandviktangen 90
+Sandviktangen 84
+Sandviktangen 86
+Mikkelssti 28
+Mikkelssti 26
+Mikkelssti 26
+SSS-veien 1960
+Nistesvågveien 10
+Husåsveien 303
+Husåsveien 305
+Husåsveien 321
+Husåsveien 307
+Husåsveien 309
+Husåsveien 326
+Husåsveien 328
+Husåsveien 330
+Husåsveien 332
+Sildnesveien 100
+Sildnesveien 106
+Sildnesveien 104
+Sildnesveien 102
+Sildnesveien 110
+Nygårdstjenna 34
+Nygårdstjenna 28
+Nygårdstjenna 32
+SSS-veien 729
+SSS-veien 733
+SSS-veien 731
+Søndeledveien 799
+Søndeledveien 797
+Søndeledveien 793
+Søndeledveien 736
+Blesvikveien 41
+Ormdalsveien 69
+Gjernestangen 11
+Gjernestangen 13
+Gjernestangen 15
+SSS-veien 1879
+SSS-veien 1005
+Blesvikveien 50
+Blesvikveien 60
+SSS-veien 630
+SSS-veien 749
+Nygårdstjenna 72
+Nygårdstjenna 70
+Nygårdstjenna 62
+Nygårdstjenna 68
+SSS-veien 1621
+SSS-veien 1623
+Sandviktangen 82
+Sandviktangen 91
+Sandviktangen 112
+Gjernestangen 29
+Mølleveien 30
+Mølleveien 31
+Mølleveien 32
+Nistesvågveien 8
+Søndeledveien 784
+Søndeledveien 555
+Søndeledveien 543
+Daleveien 23
+Daleveien 21
+SSS-veien 1928
+SSS-veien 1920
+Ormdalsveien 66
+Ormdalsveien 92
+Ormdalsveien 64
+Ormdalsveien 90
+Ormdalsveien 68
+Ormdalsveien 70
+Ormdalsveien 88
+Ormdalsveien 72
+Ormdalsveien 78
+Ormdalsveien 76
+Ormdalsveien 82
+Ormdalsveien 80
+Rotvikveien 161
+Rotvikveien 163
+Eikenes 190
+Eikenes 140
+Sandviktangen 2
+Sørbøveien 180
+Søndeledveien 580
+Sørbøveien 240
+Sørbøveien 401
+Lindbekkveien 180
+Lindbekkveien 190
+SSS-veien 145
+Hirsdal 50
+Lindbekkveien 170
+Daleveien 527
+Daleveien 525
+Daleveien 540
+Daleveien 544
+Sørbøveien 407
+Sørbøveien 405
+Sørbøveien 403
+SSS-veien 2112
+SSS-veien 2110
+SSS-veien 1659
+SSS-veien 1625
+SSS-veien 1604
+Sandviktangen 103
+Sandviktangen 107
+Sandviktangen 105
+Gjernestangen 50
+Gjernestangen 72
+Gjernestangen 66
+Gjernestangen 74
+Gjernestangen 62
+Gjernestangen 76
+Gjernestangen 68
+Gjernestangen 70
+Gjernestangen 90
+Mølleveien 40
+Ormdalsveien 6
+SSS-veien 1720
+SSS-veien 1722
+Øysangneset 50
+Øysangneset 86
+Øysangneset 82
+Øysangneset 98
+Øysangneset 102
+Øysangneset 90
+Øysangneset 94
+Husåsveien 324
+Husåsveien 322
+Husåsveien 320
+Husåsveien 222
+Husåsveien 220
+Sildnesveien 90
+SSS-veien 881
+SSS-veien 746
+Lindbekkveien 37
+Daleveien 172
+Daleveien 170
+Søndeledveien 678
+Søndeledveien 730
+Søndeledveien 795
+Søndeledveien 734
+Søndeledveien 804
+Søndeledveien 786
+Narvikveien 3
+Narvikveien 19
+SSS-veien 342
+Blesvikveien 75
+Blesvikveien 85
+Blesvikveien 86
+Blesvikveien 87
+Blesvikveien 90
+Blesvikveien 111
+Øysanglia 1
+Søndeledveien 520
+Søndeledveien 510
+Sandkleiva 20
+Hasåsveien 24
+Hasåsveien 30
+Hasåsveien 34
+Søndeledveien 280
+SSS-veien 1661
+SSS-veien 1663
+SSS-veien 1665
+SSS-veien 1667
+SSS-veien 1673
+SSS-veien 1671
+SSS-veien 1669
+Gjernestangen 27
+Gjernestangen 21
+Gjernestangen 17
+Gjernestangen 19
+Gjernestangen 25
+Gjernestangen 23
+Mølleveien 9
+Grudalsveien 134
+Grudalsveien 150
+Øysanglia 17
+Øysanglia 13
+Øysanglia 15
+Nygårdstjenna 36
+Nygårdstjenna 38
+Nygårdstjenna 40
+Nygårdstjenna 42
+SSS-veien 271
+SSS-veien 273
+Søndeledveien 740
+Søndeledveien 780
+Søndeledveien 782
+Stifossveien 2
+Stifossveien 4
+Stifossveien 76
+Stifossveien 95
+Stifossveien 97
+Heibergveien 61
+Heibergveien 71
+Heibergveien 319
+Hirsdal 60
+Hirsdal 70
+Urfjellveien 30
+Urfjellveien 91
+Urfjellveien 93
+Solheim 15
+Solheim 25
+Solheim 40
+Sjåvåg 41
+Sjåvåg 47
+Sjåvåg 50
+Sjåvåg 60
+Daleveien 580
+SSS-veien 310
+Stamsøyveien 12
+Stamsøyveien 25
+Stamsøyveien 41
+Narvikveien 8
+Narvikveien 1
+Narvikveien 17
+Narvikveien 15
+Narvikveien 89
+Narvikveien 31
+Narvikveien 33
+Lindbekkveien 4
+Lindbekkveien 9
+Lindbekkveien 30
+Lindbekkveien 32
+Lindbekkveien 155
+Lindbekkveien 220
+Lindbekkveien 139
+Sildnesveien 20
+Sildnesveien 15
+Sildnesveien 24
+Sildnesveien 25
+Sildnesveien 30
+Sildnesveien 79
+Sildnesveien 63
+Sildnesveien 65
+Sildnesveien 61
+Sildnesveien 67
+Sildnesveien 69
+Sildnesveien 71
+Sildnesveien 73
+Sildnesveien 75
+Nygårdstjenna 20
+Nygårdstjenna 30
+Nygårdstjenna 41
+Nygårdstjenna 43
+Nygårdstjenna 47
+Nygårdstjenna 71
+Nygårdstjenna 83
+Nygårdstjenna 73
+Nygårdstjenna 75
+Nygårdstjenna 79
+Nygårdstjenna 66
+Nygårdstjenna 77
+Rotvikveien 181
+Rotvikveien 192
+Rotvikveien 194
+Rotvikveien 196
+Rotvikveien 190
+Sørbøveien 176
+Sørbøveien 190
+Sørbøveien 192
+Sørbøveien 200
+Sørbøveien 250
+Sørbøveien 252
+Sørbøveien 254
+Sørbøveien 256
+Sørbøveien 260
+Sørbøveien 400
+Grudalsveien 2
+Grudalsveien 98
+Grudalsveien 90
+Grudalsveien 94
+SSS-veien 1370
+Buslåttveien 20
+Buslåttveien 185
+SSS-veien 1690
+SSS-veien 1692
+Jegertunet 100
+Jegertunet 102
+Jegertunet 93
+Jegertunet 116
+Jegertunet 72
+Jegertunet 91
+Jegertunet 70
+Jegertunet 83
+Jegertunet 85
+SSS-veien 1926
+SSS-veien 1922
+SSS-veien 1910
+SSS-veien 1912
+Eikenes 114
+Eikenes 110
+Eikenes 112
+Søndeledveien 541
+SSS-veien 210
+SSS-veien 285
+SSS-veien 290
+SSS-veien 287
+SSS-veien 326
+SSS-veien 365
+SSS-veien 390
+SSS-veien 470
+SSS-veien 472
+SSS-veien 494
+SSS-veien 496
+SSS-veien 660
+SSS-veien 650
+SSS-veien 720
+SSS-veien 730
+SSS-veien 735
+SSS-veien 745
+SSS-veien 747
+SSS-veien 770
+SSS-veien 780
+SSS-veien 792
+SSS-veien 791
+SSS-veien 793
+SSS-veien 495
+SSS-veien 797
+SSS-veien 868
+SSS-veien 870
+SSS-veien 883
+SSS-veien 930
+SSS-veien 1001
+SSS-veien 1025
+SSS-veien 1090
+SSS-veien 1260
+SSS-veien 1345
+SSS-veien 1347
+SSS-veien 1585
+SSS-veien 1614
+SSS-veien 1696
+SSS-veien 1698
+SSS-veien 1881
+SSS-veien 1942
+SSS-veien 1940
+SSS-veien 2139
+Vormeliveien 2
+Vormeliveien 4
+Vormeliveien 32
+Vormeliveien 27
+Vormeliveien 31
+Vormeliveien 48
+Vormeliveien 62
+Vormeliveien 52
+Vormeliveien 59
+Vormeliveien 68
+Vormeliveien 68
+Vormeliveien 66
+Vormeliveien 75
+Vormeliveien 72
+Vormeliveien 65
+Vormeliveien 79
+Vormeliveien 83
+Vormeliveien 85
+Vormeliveien 89
+Vormeliveien 70
+Vormeliveien 87
+Vormeliveien 103
+Vormeliveien 104
+Vormeliveien 97
+Vormeliveien 101
+Vormeliveien 108
+Vormeliveien 54
+Vormeliveien 105
+Vormeliveien 99
+Hasåsveien 1
+Hasåsveien 12
+Hasåsveien 14
+Hasåsveien 16
+Hasåsveien 3
+Hasåsveien 22
+Hasåsveien 26
+Hasåsveien 5
+Hasåsveien 7
+Hasåsveien 40
+Hasåsveien 11
+Hasåsveien 44
+Hasåsveien 13
+Hasåsveien 46
+Hasåsveien 19
+Hasåsveien 50
+Hasåsveien 35
+Hasåsveien 47
+Hasåsveien 55
+Hasåsveien 55
+Hasåsveien 57
+Brattstø 2
+Brattstø 4
+Daleveien 70
+Daleveien 145
+Daleveien 154
+Daleveien 156
+Daleveien 290
+Daleveien 301
+Daleveien 420
+Daleveien 450
+Hødnebøveien 6
+Hødnebøveien 8
+Hødnebøveien 10
+Hødnebøveien 30
+Hødnebøveien 60
+Hødnebøveien 92
+Hødnebøveien 90
+Hødnebøveien 96
+Hødnebøveien 100
+Hødnebøveien 110
+Hødnebøveien 185
+Hødnebøveien 191
+Hødnebøveien 211
+Hødnebøveien 213
+Hødnebøveien 231
+Hødnebøveien 235
+Hødnebøveien 237
+Hødnebøveien 245
+Hødnebøveien 247
+Hødnebøveien 251
+Hødnebøveien 249
+Hødnebøveien 253
+Hødnebøveien 274
+Hødnebøveien 270
+Hødnebøveien 271
+Hødnebøveien 272
+Hødnebøveien 410
+Hødnebøveien 455
+Hødnebøveien 474
+Hødnebøveien 476
+Hødnebøveien 482
+Hødnebøveien 490
+Søndeledveien 805
+Søndeledveien 689
+Søndeledveien 667
+Søndeledveien 665
+Søndeledveien 652
+Søndeledveien 650
+Søndeledveien 528
+Søndeledveien 271
+SSS-veien 1640
+SSS-veien 1610
+SSS-veien 1642
+Bommyrveien 142
+Bommyrveien 102
+Bommyrveien 144
+Bommyrveien 104
+Bommyrveien 112
+Bommyrveien 148
+Bommyrveien 110
+Kjerstisvei 12
+Kjerstisvei 13
+Kjerstisvei 15
+Kjerstisvei 2
+Kjerstisvei 21
+Kjerstisvei 19
+Kjerstisvei 17
+Kjerstisvei 4
+Kjerstisvei 6
+Sildnesveien 81
+Sildnesveien 93
+Sildnesveien 91
+Sandviktangen 131
+Sandviktangen 142
+Sandviktangen 133
+Sandviktangen 135
+Sandviktangen 144
+Sandviktangen 140
+Sandviktangen 164
+Sandviktangen 166
+Sandviktangen 168
+Sandviktangen 160
+Sandviktangen 148
+Sandviktangen 152
+Sandviktangen 150
+Sandviktangen 146
+Sandviktangen 162
+Sandviktangen 158
+Sandviktangen 154
+Sandviktangen 156
+Øren 20
+Søndeledveien 674
+Hasåsveien 51
+Hasåsveien 51
+Hasåsveien 51
+Hasåsveien 51
+Hasåsveien 51
+Hasåsveien 51
+Hasåsveien 51
+Hasåsveien 51
+Hasåsveien 51
+Hasåsveien 55
+Hasåsveien 53
+Hasåsveien 55
+Søndeledveien 670
+SSS-veien 320
+Hasåsveien 51
+Hasåsveien 51
+SSS-veien 341
+SSS-veien 343
+SSS-veien 3445
+SSS-veien 339
+Narvikveien 95
+Narvikveien 99
+Øysangneset 5
+Øysangneset 7
+Øysangneset 11
+SSS-veien 2130
+Bommyrveien 140
+Bommyrveien 160
+Bommyrveien 125
+Bommyrveien 129
+Bommyrveien 127
+Bommyrveien 123
+Bommyrveien 158
+Bommyrveien 146
+Bommyrveien 115
+Bommyrveien 154
+Bommyrveien 150
+Bommyrveien 152
+Bommyrveien 156
+Bommyrveien 119
+Bommyrveien 117
+Bommyrveien 121
+SSS-veien 1343
+SSS-veien 1339
+SSS-veien 1341
+Gjernestangen 61
+Daleveien 149
+Ormdalsveien 110
+Sildnesveien 51
+Nistesvågveien 123
+Nistesvågveien 85
+Kalstadheia 8
+Øysangneset 106
+Nistesvågveien 91
+Vestre Porthavn 32
+Vestre Porthavn 33
+Daleveien 178
+Øren 3
+Hirsdal 100
+Lunheimveien 54
+Vestre Porthavn 38
+Vestre Porthavn 44
+Vestre Porthavn 48
+Daleveien 874
+Vestre Porthavn 58
+Hødnebøveien 193
+Kalstadheia 20
+Gjernestangen 64
+Sildnesveien 103
+Mølleveien 100
+Nistesvågveien 74
+Nistesvågveien 70
+Kalstadheia 26
+Vestre Porthavn 36
+Hødnebøveien 195
+Hirsdal 110
+Hødnebøveien 94
+Nistesvågveien 66
+Sjåvåg 500
+SSS-veien 1711
+Øysangneset 104
+Kalstadheia 6
+Nistesvågveien 84
+Kalstadheia 13
+Sildnesveien 101
+Sildnesveien 105
+Sildnesveien 97
+Kalstadheia 31
+Vestre Porthavn 52
+Vestre Porthavn 64
+Sildnesveien 53
+Nistesvågveien 117
+SSS-veien 1713
+Nistesvågveien 125
+Kalstadheia 10
+Kalstadheia 18
+Gjernestangen 78
+Vestre Porthavn 50
+Kalstadheia 19
+Kalstadheia 23
+Kalstadheia 3
+Kalstadheia 5
+Kjødvikveien 105
+Vestre Porthavn 37
+Vestre Porthavn 35
+Kalstadheia 35
+Vestre Porthavn 60
+Gjernestangen 100
+Kalstadheia 4
+Nistesvågveien 101
+Vestre Porthavn 34
+Kalstadheia 11
+Kalstadheia 2
+Kalstadheia 9
+Lunheimveien 56
+Gjernestangen 112
+Vestre Porthavn 31
+Nistesvågveien 80
+Kalstadheia 21
+Vormeliveien 67
+Vestre Porthavn 39
+Kalstadheia 37
+Hødnebøveien 98
+Vestre Porthavn 54
+Daleveien 870
+Hødnebøveien 199
+SSS-veien 1918
+Nistesvågveien 127
+SSS-veien 1914
+Nistesvågveien 83
+Kalstadheia 22
+Lunheimveien 52
+Nistesvågveien 68
+Ormdalsveien 112
+Sildnesveien 99
+Vestre Porthavn 40
+Hødnebøveien 189
+Vestre Porthavn 46
+Vestre Porthavn 56
+Gjernestangen 98
+Rotvikveien 111
+Gjernestangen 102
+SSS-veien 600
+Kalstadheia 12
+Kalstadheia 15
+Øysangneset 110
+Nistesvågveien 76
+Gjernestangen 114
+Kalstadheia 25
+Kalstadheia 14
+Kalstadheia 16
+Lindbekkveien 200
+Kalstadheia 7
+Narvikveien 101
+Kalstadheia 24
+Kalstadheia 27
+Ormdalsveien 96
+Kalstadheia 29
+Vestre Porthavn 62
+Sørbøveien 550
+Sildnesveien 95
+Nistesvågveien 95
+Nistesvågveien 97
+Gjernestangen 116
+SSS-veien 1916
+Nistesvågveien 89
+Kjødvikveien 103
+Kjødvikveien 101
+Øysangneset 108
+Nistesvågveien 103
+Rotvikveien 101
+Kalstadheia 17
+Hødnebøveien 197
+Kalstadheia 1
+Vestre Porthavn 42
+Vestre Porthavn 41
+Vestre Porthavn 66
+Kalstadheia 33
+Vestre Porthavn 30
+Eikelandsveien 43
+Stifossveien 97
+Stifossveien 159
+Stifossveien 154
+Stifossveien 200
+Stifossveien 105
